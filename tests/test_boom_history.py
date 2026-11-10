@@ -172,9 +172,12 @@ def check():
 
 
  assert any(x["id"]==215 and x["value"]==2 for x in byid["BOT_246"]["nativeTags"])
- assert read(ROOT/"data/BOT_246.json")["2018-08-08"]["nativeTagsOwned"]["215"]=="2"
- assert read(ROOT/"data/BOT_246.json")["2021-03-26"]["nativeTagsOwned"]["215"]=="2"
- assert read(ROOT/"data/BOT_246.json")["_current"]["nativeTagsOwned"].get("215")=="2"
+ bot246=read(ROOT/"data/BOT_246.json")
+ bot246_state=copy.deepcopy(bot246["2018-08-08"])
+ for day in sorted(d for d in bot246 if DATE.fullmatch(d) and d!="2018-08-08" and d<="2021-03-26"):
+  bot246_state=apply_row(bot246_state,bot246[day])
+ assert bot246_state["nativeTagsOwned"].get("215")=="2"
+ assert bot246["_current"]["nativeTagsOwned"].get("215")=="2"
  # Current line-break repairs are unchanged from the immutable preparation snapshot.
  for cid,old in base.items():
   assert byid[cid].get("text","")==old.get("text",""),(cid,"current text changed")
