@@ -8,6 +8,7 @@ def read(p): return json.loads(p.read_text(encoding="utf-8"))
 def git_file(path):
  return json.loads(subprocess.check_output(["git","show",f"{BASE}:{path}"],cwd=ROOT,text=True))
 def scalar(m): return {str(k):str(v) for k,v in m.items()}
+def display_text(raw): return raw.replace("[x]","").replace("\r\n","\n").replace("\r","\n").replace("\n","<br></br>")
 def apply_row(state,row):
  out=copy.deepcopy(state)
  for k,v in row.items():
@@ -144,8 +145,8 @@ def check():
  assert bot237["_meta"]["launchStrings"]["184"]["locales"]["koKR"]["value"]=="<b>합체</b>, 이 하수인은 주문이나 영웅 능력의 대상으로 지정되지 않습니다."
  assert bot237["2018-08-08"]["nativeRawText"]=="<b>합체</b>, 이 하수인은 주문이나 영웅 능력의 대상으로 지정되지 않습니다."
  assert bot237["2024-03-12"]["nativeRawText"]==bot237["2024-03-12"]["source"]["afterStrings"]["184"]["locales"]["koKR"]["value"]
- assert read(ROOT/"data/BOT_568.json")["2018-08-08"]["nativeRawText"]=="카드를 3장 뽑습니다.\\n내 턴이 끝날 때,\\n그 카드들을 버립니다."
- assert read(ROOT/"data/BOT_511t.json")["2018-08-08"]["nativeRawText"]=="내게 피해를 5 줍니다.\\n카드를 1장 뽑습니다.\\n이 카드를 뽑아도\\n폭발합니다."
+ assert read(ROOT/"data/BOT_568.json")["2018-08-08"]["nativeRawText"]=="카드를 3장 뽑습니다.\n내 턴이 끝날 때,\n그 카드들을 버립니다."
+ assert read(ROOT/"data/BOT_511t.json")["2018-08-08"]["nativeRawText"]=="내게 피해를 5 줍니다.\n카드를 1장 뽑습니다.\n이 카드를 뽑아도\n폭발합니다."
  # 21 corrected launch values.
  initial_fixes={"BOT_021":{"attack":1},"BOT_066":{"races":["MECHANICAL"],"race":"기계"},
  "BOT_066t":{"races":["MECHANICAL"],"race":"기계"},"BOT_251":{"races":["MECHANICAL"],"race":"기계"},
