@@ -157,7 +157,7 @@ def check():
   assert "48" not in src["2018-08-08"]["nativeTagsOwned"],(cid,"choice UI raw COST must be absent at launch")
   assert all("cost" not in src[d] for d in src if DATE.fullmatch(d)),(cid,"modern choice UI cost must not be backdated")
   assert byid[cid]["cost"]==6 and src["_current"]["cost"]==6
-  assert src.get("observations",{}).get("undated",{}).get("cost",{}).get("date") is None
+  assert central.get("observations",{}).get("undated",{}).get(cid,{}).get("cost",{}).get("date") is None
 
 
  assert any(x["id"]==215 and x["value"]==2 for x in byid["BOT_246"]["nativeTags"])
