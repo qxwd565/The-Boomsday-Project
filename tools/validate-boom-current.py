@@ -131,7 +131,9 @@ def main():
  assert read(ROOT/"data/BOT_246.json")["_current"]["nativeTagsOwned"]["215"]=="2"
  for cid in ("BOT_422a","BOT_422b"):
   src=read(ROOT/"data"/(cid+".json"))
-  assert "48" not in src["2018-08-08"]["nativeTagsOwned"],(cid,"choice UI launch COST absent")
+  assert "48" not in src["2018-08-08"]["nativeTagsOwned"],(cid,"choice UI launch raw COST absent")
+  assert all("cost" not in src[d] for d in src if DATE.fullmatch(d)),(cid,"choice UI cost must remain undated")
+  assert byid[cid]["cost"]==6 and src["_current"]["cost"]==6
  assert len(legacy["cards"])==sum(1 for c in cards if rbyid[c["id"]].get("history"))
  # All 85 repaired current text strings remain untouched.
  for cid,oldcard in old.items():
