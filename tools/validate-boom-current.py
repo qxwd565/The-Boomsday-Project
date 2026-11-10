@@ -41,7 +41,7 @@ def main():
  bybuild={int(x["build"]):x for x in manifest["entries"]}
  catalog=read(ROOT/"cards.json"); render=read(ROOT/"render.json"); legacy=read(ROOT/"history.json"); central=read(ROOT/"data/history.json")
  cards=catalog["cards"]; ids={x["id"] for x in cards}; byid={x["id"]:x for x in cards}; rbyid={x["id"]:x for x in render["cards"]}
- assert len(manifest["entries"])==37 and all(len(x["commit"])==40 and len(x["xmlSha256"])==64 for x in manifest["entries"])
+ assert len(manifest["entries"])==37 and all(len(x["commit"])==40 and len(x["xmlSha256"])==64 and len(x["extractionSha256"])==64 and len(x["gitBlobSHA1"])==40 for x in manifest["entries"])
  xml={}
  for build in (25770,26757,27358,31022,31268,33157,33402,44222,77662,155409,158725,163976,165029,168129,168788,170126,170824,198314,198608,209698,210009,195316,195635,217489,217964,237510,247416,256589):
   meta=bybuild[build]; path=xml_dir/f"{build}.xml"
