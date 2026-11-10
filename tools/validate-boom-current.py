@@ -29,7 +29,8 @@ def parse_xml(path,wanted):
      strings[tid]={"present":True,"locales":locales,"valueAttributePresent":"value" in t.attrib,
                    "valueAttribute":t.attrib.get("value"),"textContent":"".join(t.itertext())}
    if cid in out: raise AssertionError((path,cid,"duplicate entity"))
-   out[cid]={"owned":owned,"referenced":refs,"strings":strings}
+   dbf_id=e.attrib.get("ID")
+   out[cid]={"dbfId":int(dbf_id) if dbf_id and dbf_id.isdigit() else None,"owned":owned,"referenced":refs,"strings":strings}
   e.clear()
  return out
 def display_text(raw):
@@ -60,6 +61,7 @@ def main():
   parsed=parse_xml(path,ids)
   assert len(parsed)==meta["observedCardCount"],(build,"entity count")
   assert set(ids)-set(parsed)==set(meta.get("absentOriginalIds",[])),(build,"missing original IDs")
+  for cid,item in parsed.items(): assert item["dbfId"]==byid[cid]["dbfId"],(build,cid,"immutable XML DBF ID")
   xml[build]=parsed
  # Parse and inspect every immutable archive in the 37-entry manifest, including
  # intermediate snapshots used only to establish undated representation changes.
