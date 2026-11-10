@@ -90,10 +90,10 @@ def main():
  assert "rarity" not in rbyid["BOT_270t"]
  assert "rarity" in next(x for x in rbyid["BOT_270t"]["history"] if x["from"]=="2018-08-08")["changes"]
  assert central["observations"]["undated"]["BOT_270t"]["rarity"]["date"] is None
- assert central["observations"]["undatedRawTags"]["BOT_270t"] or True
+ assert any(x["tagId"]==203 and x["before"]=="1" and x["after"]=="ABSENT" and x["date"] is None for x in central["observations"]["undatedRawTags"]["BOT_270t"])
  # Explicit localized Tag325 and Tag365 source strings; preserve literal source wording.
  expected_325={
-  "BOT_079":(" +1/+1","Give +1/+1."),
+  "BOT_079":("+1/+1","Give +1/+1."),
   "BOT_308":("피해 2","Deal 2 damage."),
   "BOT_576":("공격력 +4","Give +4 Attack."),
  }
@@ -102,7 +102,7 @@ def main():
    tag=source_map["325"]
    assert tag["type"]=="LocString" and tag["present"] is True,(cid,label,"Tag325 type/presence")
    assert tag["valueAttributePresent"] is False,(cid,label,"Tag325 value attribute")
-   assert tag["locales"]["koKR"]["value"]==ko.strip(),(cid,label,"Tag325 koKR")
+   assert tag["locales"]["koKR"]["value"]==ko,(cid,label,"Tag325 koKR")
    assert tag["locales"]["enUS"]["value"]==en,(cid,label,"Tag325 enUS")
  for label,source_map in (("launch",bot_strings("BOT_540","launch")),("current",bot_strings("BOT_540","current"))):
   tag=source_map["325"]
