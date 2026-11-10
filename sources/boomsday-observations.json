@@ -120,7 +120,123 @@
       ],
       "date": "2025-03-19",
       "kind": "weapon-durability-storage",
-      "finding": "DURABILITY(187) 제거 후 동일 내구도를 HEALTH(45)에 저장; 무기 health=0 논리 생략과 구분"
+      "finding": "DURABILITY(187) 제거 후 동일 내구도를 HEALTH(45)에 저장; 무기 health=0 논리 생략과 구분",
+      "sourceRefs": [
+        "official-32-0"
+      ],
+      "sourceURLs": [
+        "https://news.blizzard.com/ko-kr/article/24187196/32-0"
+      ],
+      "archiveEvidence": [
+        {
+          "before": {
+            "build": 217489,
+            "sourceURL": "https://github.com/HearthSim/hsdata/blob/62cc0f00dbed73f2d48ccefca6f611e6f8898986/CardDefs.xml",
+            "cardId": "BOT_042t",
+            "dbfId": 49473,
+            "ownedTags": {
+              "47": "2",
+              "48": "2",
+              "183": "1127",
+              "187": "3",
+              "199": "10",
+              "202": "7"
+            },
+            "referencedTags": {}
+          },
+          "after": {
+            "build": 217964,
+            "sourceURL": "https://github.com/HearthSim/hsdata/blob/fdad346dc49ebb5465f548a0a2b58b59edcbe087/CardDefs.xml",
+            "cardId": "BOT_042t",
+            "dbfId": 49473,
+            "ownedTags": {
+              "45": "3",
+              "47": "2",
+              "48": "2",
+              "183": "1127",
+              "199": "10",
+              "202": "7"
+            },
+            "referencedTags": {}
+          }
+        },
+        {
+          "before": {
+            "build": 217489,
+            "sourceURL": "https://github.com/HearthSim/hsdata/blob/62cc0f00dbed73f2d48ccefca6f611e6f8898986/CardDefs.xml",
+            "cardId": "BOT_286",
+            "dbfId": 48478,
+            "ownedTags": {
+              "47": "3",
+              "48": "3",
+              "183": "1127",
+              "187": "2",
+              "199": "7",
+              "202": "7",
+              "203": "3",
+              "217": "1",
+              "321": "1"
+            },
+            "referencedTags": {}
+          },
+          "after": {
+            "build": 217964,
+            "sourceURL": "https://github.com/HearthSim/hsdata/blob/fdad346dc49ebb5465f548a0a2b58b59edcbe087/CardDefs.xml",
+            "cardId": "BOT_286",
+            "dbfId": 48478,
+            "ownedTags": {
+              "45": "2",
+              "47": "3",
+              "48": "3",
+              "183": "1127",
+              "199": "7",
+              "202": "7",
+              "203": "3",
+              "217": "1",
+              "321": "1"
+            },
+            "referencedTags": {}
+          }
+        },
+        {
+          "before": {
+            "build": 217489,
+            "sourceURL": "https://github.com/HearthSim/hsdata/blob/62cc0f00dbed73f2d48ccefca6f611e6f8898986/CardDefs.xml",
+            "cardId": "BOT_406",
+            "dbfId": 48526,
+            "ownedTags": {
+              "32": "1",
+              "47": "1",
+              "48": "5",
+              "183": "1127",
+              "187": "3",
+              "199": "10",
+              "202": "7",
+              "203": "4",
+              "321": "1"
+            },
+            "referencedTags": {}
+          },
+          "after": {
+            "build": 217964,
+            "sourceURL": "https://github.com/HearthSim/hsdata/blob/fdad346dc49ebb5465f548a0a2b58b59edcbe087/CardDefs.xml",
+            "cardId": "BOT_406",
+            "dbfId": 48526,
+            "ownedTags": {
+              "32": "1",
+              "45": "3",
+              "47": "1",
+              "48": "5",
+              "183": "1127",
+              "199": "10",
+              "202": "7",
+              "203": "4",
+              "321": "1"
+            },
+            "referencedTags": {}
+          }
+        }
+      ]
     },
     {
       "cards": [
@@ -128,7 +244,64 @@
       ],
       "date": "2024-03-12",
       "kind": "elusive-representation",
-      "finding": "기존 대상 지정 불가 설명과 면역 태그를 ELUSIVE로 통합; 신규 효과 아님"
+      "finding": "기존 대상 지정 불가 설명과 면역 태그를 ELUSIVE로 통합; 신규 효과 아님",
+      "sourceRefs": [
+        "official-29-0"
+      ],
+      "sourceURLs": [
+        "https://hearthstone.blizzard.com/ko-kr/news/24064735"
+      ],
+      "archiveEvidence": [
+        {
+          "before": {
+            "build": 195316,
+            "sourceURL": "https://github.com/HearthSim/hsdata/blob/b0d06776272138cab032979722d18ca4de6545f0/CardDefs.xml",
+            "cardId": "BOT_237",
+            "dbfId": 48142,
+            "ownedTags": {
+              "45": "8",
+              "47": "4",
+              "48": "7",
+              "183": "1127",
+              "199": "10",
+              "200": "17",
+              "202": "4",
+              "203": "4",
+              "311": "1",
+              "321": "1",
+              "332": "1",
+              "849": "1",
+              "2787": "48698"
+            },
+            "referencedTags": {},
+            "koreanText": "[x]<b>합체</b>, 주문이나\n영웅 능력의 대상으로\n지정되지 않습니다.",
+            "englishText": "<b>Magnetic</b>\nCan't be targeted by spells or Hero Powers."
+          },
+          "after": {
+            "build": 195635,
+            "sourceURL": "https://github.com/HearthSim/hsdata/blob/e072e5d302a93dc6fb33542e7c528ae4d39560f0/CardDefs.xml",
+            "cardId": "BOT_237",
+            "dbfId": 48142,
+            "ownedTags": {
+              "45": "8",
+              "47": "4",
+              "48": "7",
+              "183": "1127",
+              "199": "10",
+              "200": "17",
+              "202": "4",
+              "203": "4",
+              "321": "1",
+              "849": "1",
+              "1211": "1",
+              "2787": "48698"
+            },
+            "referencedTags": {},
+            "koreanText": "<b>합체</b>, <b>모면</b>",
+            "englishText": "<b>Magnetic</b>\n<b>Elusive</b>"
+          }
+        }
+      ]
     },
     {
       "cards": [
