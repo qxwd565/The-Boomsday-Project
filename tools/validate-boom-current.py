@@ -128,7 +128,8 @@ def main():
  for cid,health in (("BOT_042t",3),("BOT_286",2),("BOT_406",3)):
   src=read(ROOT/"data"/(cid+".json")); row=src["2025-03-19"]
   raw={(x["role"],int(x["id"])):(x["before"],x["after"]) for x in row["rawTagDelta"]}
-  assert raw[("owned",187)]==("3","ABSENT"),(cid,"DURABILITY removal")
+  assert raw[("owned",187)]==("3" if cid!="BOT_286" else "2","ABSENT"),(cid,"DURABILITY removal")
+  assert raw[("owned",45)]==("ABSENT",str(health)),(cid,"HEALTH storage")
   state=copy.deepcopy(src["2018-08-08"])
   for d in sorted(k for k in src if DATE.fullmatch(k) and k<="2025-03-19" and k!="2018-08-08"):
    state=apply(state,src[d])
