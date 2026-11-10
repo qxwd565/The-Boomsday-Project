@@ -231,11 +231,6 @@ def main():
      av=a.get(str(tid),"ABSENT"); bv=b.get(str(tid),"ABSENT")
      if av!=bv: raw.append({"role":role,"id":int(tid),"before":av,"after":bv})
    if cid in REPRESENTATION_EVENTS.get(day,{}):
-    print(json.dumps({"representationEvidence":cid,"date":day,"beforeBuild":before_build,"afterBuild":after_build,
-      "beforeTags":{role:{str(t):before_xml[role].get(str(t),"ABSENT") for t in REPRESENTATION_EVENTS[day][cid]["rawTagIds"]} for role in ("owned","referenced")},
-      "afterTags":{role:{str(t):after_xml[role].get(str(t),"ABSENT") for t in REPRESENTATION_EVENTS[day][cid]["rawTagIds"]} for role in ("owned","referenced")},
-      "rawTagDelta":raw},ensure_ascii=False))
-   if cid in REPRESENTATION_EVENTS.get(day,{}):
     expected_raw=REPRESENTATION_EVENTS[day][cid]["expectedRaw"]
     for role,tid,expected_before,expected_after in expected_raw:
      actual_before=before_xml[role].get(str(tid),"ABSENT")
