@@ -131,7 +131,7 @@ def parse_xml(path, wanted):
   e.clear()
  return result
 def display_text(raw):
- return raw.replace("\r\n","\n").replace("\r","\n").replace("\n","<br></br>")
+ return raw.replace("[x]","").replace("\r\n","\n").replace("\r","\n").replace("\n","<br></br>")
 def tag_name_map(cards):
  out={}
  for c in cards:
