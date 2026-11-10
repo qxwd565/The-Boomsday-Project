@@ -43,7 +43,7 @@ def main():
  cards=catalog["cards"]; ids={x["id"] for x in cards}; byid={x["id"]:x for x in cards}; rbyid={x["id"]:x for x in render["cards"]}
  assert len(manifest["entries"])==37 and all(len(x["commit"])==40 and len(x["xmlSha256"])==64 for x in manifest["entries"])
  xml={}
- for build in (25770,26757,27358,31022,31268,33157,33402,44222,77662,155409,158725,163976,165029,168129,168788,170126,170824,198314,198608,209698,210009,217964,237510,247416,256589):
+ for build in (25770,26757,27358,31022,31268,33157,33402,44222,77662,155409,158725,163976,165029,168129,168788,170126,170824,198314,198608,209698,210009,195316,195635,217489,217964,237510,247416,256589):
   meta=bybuild[build]; path=xml_dir/f"{build}.xml"
   assert hashlib.sha256(path.read_bytes()).hexdigest()==meta["xmlSha256"],(build,"XML SHA")
   parsed=parse_xml(path,ids)
@@ -53,13 +53,14 @@ def main():
  assert len(cards)==155 and sum(bool(x.get("collectible")) for x in cards)==136
  assert sum(not bool(x.get("collectible")) for x in cards)==19
  assert central["format"]=="date-first-delta-v2"
- assert (central["initialStates"],central["followupEvents"],central["totalStates"])==(155,74,229)
+ assert (central["initialStates"],central["followupEvents"],central["totalStates"])==(155,78,233)
  assert len(central["events"]["2018-08-08"])==154 and "BOT_700" not in central["events"]["2018-08-08"]
  assert "BOT_700" in central["events"]["2019-06-04"]
  assert len(central["events"]["2019-06-04"])==21 and len(central["events"]["2019-08-27"])==4
  assert len(central["events"]["2022-11-30"])==7 and len(central["events"]["2023-02-15"])==12
  assert len(central["events"]["2023-04-05"])==4
  assert "2022-12-07" not in central["events"] and "2024-11-06" not in central["events"]
+ assert len(central["events"]["2024-03-12"])==1 and len(central["events"]["2025-03-19"])==3
  # Immutable current preservation from original prepared API.
  original=git_json("cards.json")
  old={x["id"]:x for x in original["cards"]}
@@ -118,6 +119,24 @@ def main():
     target=apply(target,src[d])
    for k in ("name","type","cardClass","classes","rarity","collectible","cost","attack","health","durability","armor","text","races","race","spellSchool","mechanics","nativeTags","nativeTagsOwned","nativeTagsReferenced"):
     assert restored.get(k,"ABSENT")==target.get(k,"ABSENT"),(cid,day,k,"legacy consumer replay")
+ # Four confirmed representation events are dated separately from gameplay.
+ assert central["events"]["2024-03-12"]["BOT_237"]["eventKind"]=="confirmed-representation"
+ assert central["events"]["2025-03-19"]["BOT_042t"]["eventKind"]=="confirmed-representation"
+ for cid,health in (("BOT_042t",3),("BOT_286",2),("BOT_406",3)):
+  src=read(ROOT/"data"/(cid+".json")); row=src["2025-03-19"]
+  raw={(x["role"],int(x["id"])):(x["before"],x["after"]) for x in row["rawTagDelta"]}
+  assert raw[("owned",187)]==("3","ABSENT"),(cid,"DURABILITY removal")
+  state=copy.deepcopy(src["2018-08-08"])
+  for d in sorted(k for k in src if DATE.fullmatch(k) and k<="2025-03-19" and k!="2018-08-08"):
+   state=apply(state,src[d])
+  assert state["nativeTagsOwned"].get("45")==str(health),(cid,"same durability stored as HEALTH")
+  assert state.get("durability")==src["2018-08-08"].get("durability"),(cid,"no logical durability change")
+ row=read(ROOT/"data/BOT_237.json")["2024-03-12"]
+ assert row["text"]=="<b>합체</b>, <b>모면</b>"
+ raw={(x["role"],int(x["id"])):(x["before"],x["after"]) for x in row["rawTagDelta"]}
+ assert raw[("owned",311)]==("1","ABSENT") and raw[("owned",332)]==("1","ABSENT")
+ assert raw[("owned",1211)]==("ABSENT","1")
+ assert central["events"]["2018-10-19"]["BOT_270"]["dateConfidence"]=="candidate"
  # Explicit card-specific constraints.
  for cid in ("BOT_031","BOT_537","BOT_558"): assert byid[cid]["attack"]==0
  for cid in ("BOT_246","BOT_517"): assert byid[cid]["cost"]==0
@@ -139,5 +158,5 @@ def main():
  for cid,oldcard in old.items():
   assert byid[cid].get("text","")==oldcard.get("text",""),(cid,"text changed")
   assert byid[cid].get("flavor","")==oldcard.get("flavor",""),(cid,"flavor changed")
- print(json.dumps({"cards":155,"xmlSnapshots":len(xml),"initialStates":155,"followupEvents":74,"totalStates":229,"rawTagEventsChecked":sum(len(read(ROOT/"data"/(cid+".json"))[d].get("rawTagDelta",[])) for cid in ids for d in read(ROOT/"data"/(cid+".json")) if DATE.fullmatch(d)),"legacyHistoryCards":len(legacy["cards"]),"rules":9,"representationGroups":11,"grammarSuggestions":8},ensure_ascii=False))
+ print(json.dumps({"cards":155,"xmlSnapshots":len(xml),"initialStates":155,"followupEvents":78,"totalStates":233,"rawTagEventsChecked":sum(len(read(ROOT/"data"/(cid+".json"))[d].get("rawTagDelta",[])) for cid in ids for d in read(ROOT/"data"/(cid+".json")) if DATE.fullmatch(d)),"legacyHistoryCards":len(legacy["cards"]),"rules":9,"representationGroups":11,"grammarSuggestions":8},ensure_ascii=False))
 if __name__=="__main__": main()
