@@ -175,7 +175,8 @@ def check():
  for cid,fields in initial_fixes.items():
   day="2019-06-04" if cid=="BOT_700" else "2018-08-08"
   for k,v in fields.items(): assert read(ROOT/"data"/(cid+".json"))[day][k]==v,(cid,k,"initial fix")
- assert read(ROOT/"data/BOT_444.json")["2018-08-08"]["nativeRawText"]=="이번 턴에\n하수인이 죽을 때마다 이번 턴에만 마나\u00a0수정을 1개 획득합니다."
+ bot444_raw=read(ROOT/"data/BOT_444.json")["2018-08-08"]["nativeRawText"]
+ assert bot444_raw=="이번 턴에\n하수인이 죽을 때마다 이번 턴에만 마나_수정을 1개 획득합니다.",repr(bot444_raw)
  assert read(ROOT/"data/BOT_444.json")["2018-08-08"]["text"]==display_text(read(ROOT/"data/BOT_444.json")["2018-08-08"]["nativeRawText"])
  assert read(ROOT/"data/BOT_558.json")["2018-08-08"]["nativeRawText"]=="<b>죽음의 메아리:</b>\n내가 이 하수인에게\n시전한 모든 주문을 내 손으로 가져옵니다."
  assert read(ROOT/"data/BOT_558.json")["2018-08-08"]["text"]==display_text(read(ROOT/"data/BOT_558.json")["2018-08-08"]["nativeRawText"])
