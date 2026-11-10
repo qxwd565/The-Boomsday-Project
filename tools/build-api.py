@@ -29,13 +29,13 @@ RENDER_FIELDS = (
     "id", "dbfId", "name", "type", "cardClass", "rarity", "collectible",
     "cost", "text", "attack", "health", "durability", "armor", "art",
     "races", "race", "spellSchool", "set", "nativeTags", "mechanics",
-    "watermark", "classes",
+    "watermark", "classes", "nativeTagsOwned", "nativeTagsReferenced",
 )
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 SPEC_FIELDS = (
     "name", "type", "cardClass", "classes", "rarity", "collectible",
     "cost", "attack", "health", "durability", "armor", "text",
-    "races", "race", "spellSchool", "mechanics",
+    "races", "race", "spellSchool", "mechanics", "nativeTags", "nativeTagsOwned", "nativeTagsReferenced",
 )
 TAXONOMY_RULE = "taxonomy-introduction"
 RACE_KOREAN = {
@@ -84,8 +84,15 @@ def read_catalog_source(path: Path, record: dict):
     if not path.is_file():
         return None
     data = load(path)
-    card = data.get("card") if isinstance(data, dict) else None
     cid = record["id"]
+    if isinstance(data, dict) and data.get("_meta", {}).get("schemaVersion") == 2:
+        current = data.get("_current")
+        if not isinstance(current, dict) or current.get("id") != cid:
+            raise ValueError(f"{cid}: date-first current snapshot ID mismatch")
+        if current.get("dbfId") != record.get("dbfId"):
+            raise ValueError(f"{cid}: date-first current DBF mismatch")
+        return data
+    card = data.get("card") if isinstance(data, dict) else None
     if not isinstance(card, dict) or card.get("id") != cid:
         raise ValueError(f"{cid}: source card ID mismatch")
     # A separately archived native token is not an asserted DBF mapping. Keep
@@ -275,6 +282,56 @@ def publish_forward_card(card: dict, current: dict, name: str):
     return backward
 
 
+def publish_date_first(data: dict, current: dict, name: str):
+    """Reconstruct dated states from sparse date-first source and publish reverse overrides."""
+    dates = sorted(k for k in data if DATE_RE.fullmatch(k))
+    if not dates:
+        raise ValueError(f"{name}: date-first source has no dated state")
+    state = copy.deepcopy(data[dates[0]])
+    states = [(dates[0], copy.deepcopy(state))]
+    for day in dates[1:]:
+        row = data[day]
+        for field, value in row.items():
+            if field in ("rawTagDelta", "source"):
+                continue
+            state[field] = copy.deepcopy(value)
+        for delta in row.get("rawTagDelta", []):
+            role = delta["role"]
+            if role not in ("owned", "referenced"):
+                raise ValueError(f"{name} {day}: invalid raw tag role {role}")
+            key = "nativeTagsOwned" if role == "owned" else "nativeTagsReferenced"
+            tags = state.setdefault(key, {})
+            tid = str(int(delta["id"]))
+            before = tags.get(tid, "ABSENT")
+            if before != delta.get("before", "ABSENT"):
+                raise ValueError(f"{name} {day}: raw tag {role}/{tid} before mismatch")
+            after = delta.get("after", "ABSENT")
+            if after == "ABSENT":
+                tags.pop(tid, None)
+            else:
+                tags[tid] = str(after)
+        states.append((day, copy.deepcopy(state)))
+    history_fields = set(SPEC_FIELDS) | {"nativeTags", "nativeTagsOwned", "nativeTagsReferenced"}
+    backward = []
+    for i, (day, old) in enumerate(states):
+        changes = {}
+        removed = []
+        for field in history_fields:
+            if field in old:
+                if field not in current or old[field] != current[field]:
+                    changes[field] = copy.deepcopy(old[field])
+            elif field in current:
+                removed.append(field)
+        if changes or removed:
+            revision = {"from": day, "changes": changes}
+            if i + 1 < len(states):
+                revision["before"] = states[i + 1][0]
+            if removed:
+                revision["removedFields"] = sorted(removed)
+            backward.append(revision)
+    return backward
+
+
 def main():
     source_path = ROOT / "cards.json"
     catalog = load(source_path)
@@ -308,29 +365,30 @@ def main():
             # Preserve cards that have no detailed source yet.
             record.pop("history", None)
         else:
-            card = data["card"]
-            # Preserve the approved current card catalogue exactly. Individual
-            # JSON owns historical changes only until current data is reconciled.
-            if "patches" in card:
-                if "history" in card:
-                    raise ValueError(f"{cid}: forward patches cannot coexist with legacy reverse history")
-                revisions = publish_forward_card(card, record, cid)
+            if data.get("_meta", {}).get("schemaVersion") == 2:
+                card = data["_current"]
+                revisions = publish_date_first(data, record, cid)
             else:
-                # Transitional support for un-migrated cards only.
-                revisions = read_history(card, cid)
-                if taxonomy_policy is not None:
-                    curated = [rev for rev in revisions if rev.get("generatedBy") != TAXONOMY_RULE]
-                    revisions = curated + taxonomy_revisions(record, release_date, taxonomy_policy)
-                    if revisions != card.get("history", []):
-                        card["history"] = revisions
+                card = data["card"]
+                if "patches" in card:
+                    if "history" in card:
+                        raise ValueError(f"{cid}: forward patches cannot coexist with legacy reverse history")
+                    revisions = publish_forward_card(card, record, cid)
+                else:
                     revisions = read_history(card, cid)
+                    if taxonomy_policy is not None:
+                        curated = [rev for rev in revisions if rev.get("generatedBy") != TAXONOMY_RULE]
+                        revisions = curated + taxonomy_revisions(record, release_date, taxonomy_policy)
+                        if revisions != card.get("history", []):
+                            card["history"] = revisions
+                        revisions = read_history(card, cid)
             if revisions:
                 history[str(record["dbfId"])] = {"id": cid, "history": revisions}
-            elif record.get("history"):
-                # Avoid silently discarding previously migrated patches.
-                raise ValueError(f"{cid}: history exists in cards.json but not data/{cid}.json")
             record.pop("history", None)
         render_card = {field: record[field] for field in RENDER_FIELDS if field in record}
+        if data is not None and data.get("_meta", {}).get("schemaVersion") == 2:
+            render_card["nativeTagsOwned"] = copy.deepcopy(data["_current"].get("nativeTagsOwned", {}))
+            render_card["nativeTagsReferenced"] = copy.deepcopy(data["_current"].get("nativeTagsReferenced", {}))
         # A single runtime endpoint: the current card and its sparse dated
         # differences are delivered together. Absence of history means current.
         if data is not None and revisions:
