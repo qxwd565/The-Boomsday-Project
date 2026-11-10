@@ -135,7 +135,10 @@ def check():
   assert any(x["id"]==45 and x["value"]==want for x in byid[cid]["nativeTags"])
  for cid in ("BOT_422a","BOT_422b"):
   src=read(ROOT/"data"/(cid+".json"))
-  assert "48" not in src["2018-08-08"]["nativeTagsOwned"],(cid,"choice UI cost must not be backdated")
+  assert "48" not in src["2018-08-08"]["nativeTagsOwned"],(cid,"choice UI raw COST must be absent at launch")
+  assert all("cost" not in src[d] for d in src if DATE.fullmatch(d)),(cid,"modern choice UI cost must not be backdated")
+  assert byid[cid]["cost"]==6 and src["_current"]["cost"]==6
+
  assert any(x["id"]==215 and x["value"]==2 for x in byid["BOT_246"]["nativeTags"])
  assert read(ROOT/"data/BOT_246.json")["_current"]["nativeTagsOwned"].get("215")=="2"
  # Current line-break repairs are unchanged from the immutable preparation snapshot.
