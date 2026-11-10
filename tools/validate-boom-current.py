@@ -50,7 +50,7 @@ def main():
  xml_dir=Path(sys.argv[1]) if len(sys.argv)>1 else Path("/tmp/boom-xml")
  manifest=read(ROOT/"sources/archive-manifest.json")
  bybuild={int(x["build"]):x for x in manifest["entries"]}
- catalog=read(ROOT/"cards.json"); render=read(ROOT/"render.json"); legacy=read(ROOT/"history.json"); central=read(ROOT/"data/history.json")
+ catalog=read(ROOT/"cards.json"); render=read(ROOT/"render.json"); legacy=read(ROOT/"history.json"); central=read(ROOT/"data/history.json"); obs=read(ROOT/"sources/boomsday-observations.json")
  cards=catalog["cards"]; ids={x["id"] for x in cards}; byid={x["id"]:x for x in cards}; rbyid={x["id"]:x for x in render["cards"]}
  assert len(manifest["entries"])==37 and all(len(x["commit"])==40 and len(x["xmlSha256"])==64 and len(x["extractionSha256"])==64 and len(x["gitBlobSHA1"])==40 for x in manifest["entries"])
  xml={}
