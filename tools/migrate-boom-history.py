@@ -20,7 +20,6 @@ INITIAL_FIX={
  "BOT_251":{"races":["MECHANICAL"],"race":"기계"},
  "BOT_283":{"races":["MECHANICAL"],"race":"기계"},
  "BOT_312":{"health":1},
- "BOT_444":{"text":"이번 턴에\n하수인이 죽을 때마다 이번 턴에만 마나\u00a0수정을 1개 획득합니다."},
  "BOT_445":{"races":["MECHANICAL"],"race":"기계"},
  "BOT_445t":{"races":["MECHANICAL"],"race":"기계"},
  "BOT_448":{"races":["MECHANICAL"],"race":"기계"},
@@ -28,7 +27,6 @@ INITIAL_FIX={
  "BOT_533":{"health":2},
  "BOT_534":{"races":["MECHANICAL"],"race":"기계"},
  "BOT_537t":{"races":["MECHANICAL"],"race":"기계"},
- "BOT_558":{"text":"<b>죽음의 메아리:</b>\n내가 이 하수인에게\n시전한 모든 주문을 내 손으로 가져옵니다."},
  "BOT_559":{"races":["BEAST"],"race":"야수"},
  "BOT_562":{"races":["MECHANICAL"],"race":"기계"},
  "BOT_563":{"attack":5},
@@ -63,9 +61,7 @@ NEW_EVENTS={
  "2023-04-05":{
   "BOT_021":{"attack":2},"BOT_312":{"health":2},"BOT_563":{"attack":6},"BOT_533":{"health":3}},
  "2023-03-15":{
-  "BOT_558":{"text":"<b>죽음의 메아리:</b>\n내가 이 하수인에게\n시전한 모든 주문을 내 덱에 섞어 넣습니다."}},
  "2024-04-26":{
-  "BOT_444":{"text":"이번 턴에 하수인이\n죽을 때마다 마나 수정을\n1개 회복합니다."}},
 }
 DATE_BUILDS={
  "2018-10-19":(26757,27358),
