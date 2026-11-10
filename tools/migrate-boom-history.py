@@ -230,6 +230,11 @@ def main():
     for tid in sorted(relevant,key=int):
      av=a.get(str(tid),"ABSENT"); bv=b.get(str(tid),"ABSENT")
      if av!=bv: raw.append({"role":role,"id":int(tid),"before":av,"after":bv})
+   if cid in REPRESENTATION_EVENTS.get(day,{}):
+    print(json.dumps({"representationEvidence":cid,"date":day,"beforeBuild":before_build,"afterBuild":after_build,
+      "beforeTags":{role:{str(t):before_xml[role].get(str(t),"ABSENT") for t in REPRESENTATION_EVENTS[day][cid]["rawTagIds"]} for role in ("owned","referenced")},
+      "afterTags":{role:{str(t):after_xml[role].get(str(t),"ABSENT") for t in REPRESENTATION_EVENTS[day][cid]["rawTagIds"]} for role in ("owned","referenced")},
+      "rawTagDelta":raw},ensure_ascii=False))
    # Keep the prior full raw state and apply the evidence-backed per-tag delta.
    prev_owned=copy.deepcopy(states[-1][1].get("nativeTagsOwned",{}))
    prev_ref=copy.deepcopy(states[-1][1].get("nativeTagsReferenced",{}))
