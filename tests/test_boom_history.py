@@ -163,18 +163,22 @@ def check():
  initial_fixes={"BOT_021":{"attack":1},"BOT_066":{"races":["MECHANICAL"],"race":"기계"},
  "BOT_066t":{"races":["MECHANICAL"],"race":"기계"},"BOT_251":{"races":["MECHANICAL"],"race":"기계"},
  "BOT_283":{"races":["MECHANICAL"],"race":"기계"},"BOT_312":{"health":1},
- "BOT_444":{"text":"이번 턴에\n하수인이 죽을 때마다 이번 턴에만 마나\u00a0수정을 1개 획득합니다."},
+
  "BOT_445":{"races":["MECHANICAL"],"race":"기계"},"BOT_445t":{"races":["MECHANICAL"],"race":"기계"},
  "BOT_448":{"races":["MECHANICAL"],"race":"기계"},"BOT_523":{"races":["MECHANICAL"],"race":"기계"},
  "BOT_533":{"health":2},"BOT_534":{"races":["MECHANICAL"],"race":"기계"},
  "BOT_537t":{"races":["MECHANICAL"],"race":"기계"},
- "BOT_558":{"text":"<b>죽음의 메아리:</b>\n내가 이 하수인에게\n시전한 모든 주문을 내 손으로 가져옵니다."},
+
  "BOT_559":{"races":["BEAST"],"race":"야수"},"BOT_562":{"races":["MECHANICAL"],"race":"기계"},
  "BOT_563":{"attack":5},"BOT_573":{"races":["BEAST"],"race":"야수"},
  "BOT_603":{"races":["MECHANICAL"],"race":"기계"},"BOT_700":{"races":["MECHANICAL"],"race":"기계"}}
  for cid,fields in initial_fixes.items():
   day="2019-06-04" if cid=="BOT_700" else "2018-08-08"
   for k,v in fields.items(): assert read(ROOT/"data"/(cid+".json"))[day][k]==v,(cid,k,"initial fix")
+ assert read(ROOT/"data/BOT_444.json")["2018-08-08"]["nativeRawText"]=="이번 턴에\\n하수인이 죽을 때마다 이번 턴에만 마나\\u00a0수정을 1개 획득합니다."
+ assert read(ROOT/"data/BOT_444.json")["2018-08-08"]["text"]==display_text(read(ROOT/"data/BOT_444.json")["2018-08-08"]["nativeRawText"])
+ assert read(ROOT/"data/BOT_558.json")["2018-08-08"]["nativeRawText"]=="<b>죽음의 메아리:</b>\\n내가 이 하수인에게\\n시전한 모든 주문을 내 손으로 가져옵니다."
+ assert read(ROOT/"data/BOT_558.json")["2018-08-08"]["text"]==display_text(read(ROOT/"data/BOT_558.json")["2018-08-08"]["nativeRawText"])
  # Confirmed representation history is dated, but does not alter gameplay stats.
  assert central["events"]["2024-03-12"]["BOT_237"]["eventKind"]=="confirmed-representation"
  assert central["events"]["2025-03-19"]["BOT_042t"]["eventKind"]=="confirmed-representation"
