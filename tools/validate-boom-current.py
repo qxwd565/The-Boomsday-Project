@@ -134,9 +134,11 @@ def main():
   undated=central["observations"]["undated"][cid]["cost"]
   assert undated["date"] is None and undated["before"]=="ABSENT" and undated["after"]==6,(cid,"undated choice cost")
   undated_tag(cid,48,"owned","ABSENT","6")
- # R002: non-collectible token rarity metadata removal, not gameplay.
+ # R002: non-collectible token was COMMON at launch; rarity metadata removal is undated.
+ assert xml_tag("BOT_270t",25770,"owned",203)=="1"
  assert xml_tag("BOT_270t",27358,"owned",203)=="1"
  assert xml_tag("BOT_270t",27405,"owned",203)=="ABSENT"
+ assert xml_tag("BOT_270t",256589,"owned",203)=="ABSENT"
  assert xml_text("BOT_270t",27358)==xml_text("BOT_270t",27405)
  undated_tag("BOT_270t",203,"owned","1","ABSENT")
  # R003: OVERLOAD_OWED removal does not change owned OVERLOAD or printed wording.
