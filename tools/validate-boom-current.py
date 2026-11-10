@@ -13,24 +13,31 @@ def parse_xml(path,wanted):
   if e.tag.rsplit("}",1)[-1]!="Entity": continue
   cid=e.attrib.get("CardID")
   if cid in wanted:
-   owned={}; refs={}; strings={}
+   owned={}; refs={}; strings={}; string_tags={}
    for t in list(e):
     kind=t.tag.rsplit("}",1)[-1]
     if kind not in ("Tag","ReferencedTag") or "enumID" not in t.attrib: continue
     tid=str(int(t.attrib["enumID"]))
     target=owned if kind=="Tag" else refs
     target[tid]=str(t.attrib.get("value",""))
-    if kind=="Tag" and tid in ("184","185"):
+    if kind=="Tag":
      locales={}
-     for child in list(t.iter())[1:]:
+     for child in list(t):
       locale=child.tag.rsplit("}",1)[-1]
-      if locale in ("koKR","enUS"):
+      if locale in ("deDE","enUS","esES","esMX","frFR","itIT","jaJP","koKR","plPL","ptBR","ruRU","thTH","zhCN","zhTW"):
        locales[locale]={"present":True,"value":"".join(child.itertext())}
-     strings[tid]={"present":True,"locales":locales,"valueAttributePresent":"value" in t.attrib,
-                   "valueAttribute":t.attrib.get("value"),"textContent":"".join(t.itertext())}
+     tag_type=t.attrib.get("type")
+     if tag_type in ("String","LocString") or locales:
+      if tag_type is None: tag_type="LocString" if locales else "String"
+      string_tags[tid]={"present":True,"type":tag_type,"valueAttributePresent":"value" in t.attrib,
+                        "valueAttribute":t.attrib.get("value"),"locales":locales,"textContent":"".join(t.itertext())}
+     if tid in ("184","185"):
+      strings[tid]={"present":True,"locales":{k:v for k,v in locales.items() if k in ("koKR","enUS")},
+                    "valueAttributePresent":"value" in t.attrib,"valueAttribute":t.attrib.get("value"),
+                    "textContent":"".join(t.itertext())}
    if cid in out: raise AssertionError((path,cid,"duplicate entity"))
    dbf_id=e.attrib.get("ID")
-   out[cid]={"dbfId":int(dbf_id) if dbf_id and dbf_id.isdigit() else None,"owned":owned,"referenced":refs,"strings":strings}
+   out[cid]={"dbfId":int(dbf_id) if dbf_id and dbf_id.isdigit() else None,"owned":owned,"referenced":refs,"strings":strings,"stringTags":string_tags}
   e.clear()
  return out
 def display_text(raw):
@@ -47,6 +54,9 @@ def apply(state,row):
   if d["after"]=="ABSENT": m.pop(tid,None)
   else: m[tid]=str(d["after"])
  return out
+def bot_strings(cid,which):
+ src=read(ROOT/"data"/(cid+".json"))
+ return src["_meta"]["launchStringTags" if which=="launch" else "currentStringTags"]
 def main():
  xml_dir=Path(sys.argv[1]) if len(sys.argv)>1 else Path("/tmp/boom-xml")
  manifest=read(ROOT/"sources/archive-manifest.json")
@@ -66,6 +76,44 @@ def main():
  # Parse and inspect every immutable archive in the 37-entry manifest, including
  # intermediate snapshots used only to establish undated representation changes.
  assert len(xml)==37 and set(xml)==set(bybuild)
+ # Generic native String/LocString Tags are preserved independently of scalar Tag values.
+ for cid in ids:
+  src=read(ROOT/"data"/(cid+".json"))
+  assert src["_meta"].get("launchStringTags")==xml[25770 if cid!="BOT_700" else 31268][cid]["stringTags"],(cid,"launch native string tags")
+  assert src["_meta"].get("currentStringTags")==xml[256589][cid]["stringTags"],(cid,"current native string tags")
+  assert rbyid[cid].get("nativeStringTags")=={"launch":src["_meta"]["launchStringTags"],"current":src["_meta"]["currentStringTags"]},(cid,"render native string tags")
+ # BOT_270t was COMMON at launch; later removal is undated representation context only.
+ bot270t=read(ROOT/"data/BOT_270t.json")
+ assert bot270t["2018-08-08"]["nativeTagsOwned"]["203"]=="1"
+ assert bot270t["2018-08-08"]["rarity"]=="COMMON"
+ assert "rarity" not in bot270t["_current"]
+ assert "rarity" not in rbyid["BOT_270t"]
+ assert "rarity" in next(x for x in rbyid["BOT_270t"]["history"] if x["from"]=="2018-08-08")["changes"]
+ assert central["observations"]["undated"]["BOT_270t"]["rarity"]["date"] is None
+ assert central["observations"]["undatedRawTags"]["BOT_270t"] or True
+ # Explicit localized Tag325 and Tag365 source strings; preserve literal source wording.
+ expected_325={
+  "BOT_079":(" +1/+1","Give +1/+1."),
+  "BOT_308":("피해 2","Deal 2 damage."),
+  "BOT_576":("공격력 +4","Give +4 Attack."),
+ }
+ for cid,(ko,en) in expected_325.items():
+  for label,source_map in (("launch",bot_strings(cid,"launch")),("current",bot_strings(cid,"current"))):
+   tag=source_map["325"]
+   assert tag["type"]=="LocString" and tag["present"] is True,(cid,label,"Tag325 type/presence")
+   assert tag["valueAttributePresent"] is False,(cid,label,"Tag325 value attribute")
+   assert tag["locales"]["koKR"]["value"]==ko.strip(),(cid,label,"Tag325 koKR")
+   assert tag["locales"]["enUS"]["value"]==en,(cid,label,"Tag325 enUS")
+ for label,source_map in (("launch",bot_strings("BOT_540","launch")),("current",bot_strings("BOT_540","current"))):
+  tag=source_map["325"]
+  assert tag["type"]=="LocString" and tag["valueAttributePresent"] is False
+  assert tag["locales"]["enUS"]["value"]=="Destroy a Mech."
+ assert bot_strings("BOT_540","launch")["325"]["locales"]["koKR"]["value"]=="기계 하나 처치"
+ assert bot_strings("BOT_540","current")["325"]["locales"]["koKR"]["value"]=="기계 처치"
+ golden=bot_strings("BOT_700","current")["365"]
+ assert golden["type"]=="LocString" and golden["present"] is True and golden["valueAttributePresent"] is False
+ assert golden["locales"]["koKR"]["value"]=="2019년 7월 4일부터 2019년 7월 2일까지 하스스톤에 로그인"
+ assert golden["locales"]["enUS"]["value"]=="Log in to Hearthstone from June 3, 2019 to July 1, 2019."
  def xml_tag(cid,build,role,tag_id):
   return xml[build][cid][role].get(str(tag_id),"ABSENT")
  def xml_text(cid,build,locale="koKR"):
