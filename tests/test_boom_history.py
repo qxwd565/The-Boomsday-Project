@@ -132,7 +132,7 @@ def check():
  for cid,health in (("BOT_042t",3),("BOT_286",2),("BOT_406",3)):
   src=read(ROOT/"data"/(cid+".json")); row=src["2025-03-19"]
   raw={(x["role"],int(x["id"])):(x["before"],x["after"]) for x in row["rawTagDelta"]}
-  assert raw[("owned",187)]==("3","ABSENT")
+  assert raw.get(("owned",187))==("3","ABSENT"),(cid,"Tag187 expected owned 3->ABSENT",raw)
   state=copy.deepcopy(src["2018-08-08"])
   for d in sorted(k for k in src if DATE.fullmatch(k) and k<="2025-03-19" and k!="2018-08-08"):
    state=apply_row(state,src[d])
