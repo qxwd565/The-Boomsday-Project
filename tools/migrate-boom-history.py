@@ -86,11 +86,11 @@ DATE_BUILDS={
 }
 REPRESENTATION_EVENTS={
  "2024-03-12":{
-  "BOT_237":{"text":"<b>합체</b>, <b>모면</b>","rawTagIds":[311,332,1211],"findingId":"BOOM-BAL-R006"}},
+  "BOT_237":{"text":"<b>합체</b>, <b>모면</b>","rawTagIds":[311,332,1211],"expectedRaw":[["owned",311,"1","ABSENT"],["owned",332,"1","ABSENT"],["owned",1211,"ABSENT","1"]],"findingId":"BOOM-BAL-R006"}},
  "2025-03-19":{
-  "BOT_042t":{"rawTagIds":[187,45],"findingId":"BOOM-BAL-R005"},
-  "BOT_286":{"rawTagIds":[187,45],"findingId":"BOOM-BAL-R005"},
-  "BOT_406":{"rawTagIds":[187,45],"findingId":"BOOM-BAL-R005"}}
+  "BOT_042t":{"rawTagIds":[187,45],"expectedRaw":[["owned",187,"3","ABSENT"],["owned",45,"ABSENT","3"]],"findingId":"BOOM-BAL-R005"},
+  "BOT_286":{"rawTagIds":[187,45],"expectedRaw":[["owned",187,"2","ABSENT"],["owned",45,"ABSENT","2"]],"findingId":"BOOM-BAL-R005"},
+  "BOT_406":{"rawTagIds":[187,45],"expectedRaw":[["owned",187,"3","ABSENT"],["owned",45,"ABSENT","3"]],"findingId":"BOOM-BAL-R005"}}
 }
 RELEVANT_TAGS={45,47,48,200,215,1635,2523,2534,2539,2540,2542}
 LOGICAL_FIELDS=("name","type","cardClass","classes","rarity","collectible","cost","attack","health","durability","armor","text","races","race","spellSchool","mechanics","flavor")
@@ -235,6 +235,15 @@ def main():
       "beforeTags":{role:{str(t):before_xml[role].get(str(t),"ABSENT") for t in REPRESENTATION_EVENTS[day][cid]["rawTagIds"]} for role in ("owned","referenced")},
       "afterTags":{role:{str(t):after_xml[role].get(str(t),"ABSENT") for t in REPRESENTATION_EVENTS[day][cid]["rawTagIds"]} for role in ("owned","referenced")},
       "rawTagDelta":raw},ensure_ascii=False))
+   if cid in REPRESENTATION_EVENTS.get(day,{}):
+    expected_raw=REPRESENTATION_EVENTS[day][cid]["expectedRaw"]
+    for role,tid,expected_before,expected_after in expected_raw:
+     actual_before=before_xml[role].get(str(tid),"ABSENT")
+     actual_after=after_xml[role].get(str(tid),"ABSENT")
+     if (actual_before,actual_after)!=(expected_before,expected_after):
+      raise ValueError(f"{cid} {day}: immutable XML Tag{tid} expected {(expected_before,expected_after)}, got {(actual_before,actual_after)}")
+     if not any(x["role"]==role and x["id"]==tid and x["before"]==expected_before and x["after"]==expected_after for x in raw):
+      raise ValueError(f"{cid} {day}: expected representation raw delta Tag{tid} missing from sparse event")
    # Keep the prior full raw state and apply the evidence-backed per-tag delta.
    prev_owned=copy.deepcopy(states[-1][1].get("nativeTagsOwned",{}))
    prev_ref=copy.deepcopy(states[-1][1].get("nativeTagsReferenced",{}))
