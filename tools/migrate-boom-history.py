@@ -257,6 +257,11 @@ def main():
   out={"_meta":meta,"_current":cur}
   out.update(date_map)
   write(ROOT/"data"/(cid+".json"),out)
+ for record in cards:
+  record.update(strip_type_fields(record))
+  if record["id"]=="BOT_246":
+   for tag in record.get("nativeTags",[]):
+    if int(tag["id"])==215: tag["value"]=2
  write(ROOT/"cards.json",catalog)
  print(json.dumps({"migratedCards":len(ids),"initialCards":sum(1 for c in cards if c["id"]!="BOT_700"),"newGameplayEvents":sum(len(x) for x in NEW_EVENTS.values()),"dateCorrections":DATE_FIX,"requiredXmlBuilds":sorted(required)},ensure_ascii=False))
 if __name__=="__main__": main()
