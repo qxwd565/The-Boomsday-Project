@@ -110,16 +110,29 @@ def parse_xml(path, wanted):
   if e.tag.rsplit("}",1)[-1]!="Entity": continue
   cid=e.attrib.get("CardID")
   if cid not in wanted: e.clear(); continue
-  owned={}; refs={}
+  owned={}; refs={}; strings={}
   for t in list(e):
    kind=t.tag.rsplit("}",1)[-1]
    if kind not in ("Tag","ReferencedTag") or "enumID" not in t.attrib: continue
-   target=owned if kind=="Tag" else refs
-   target[str(int(t.attrib["enumID"]))]=str(t.attrib.get("value",""))
+   tid=str(int(t.attrib["enumID"]))
+   if kind in ("Tag","ReferencedTag"):
+    target=owned if kind=="Tag" else refs
+    target[tid]=str(t.attrib.get("value",""))
+   if kind=="Tag" and tid in ("184","185"):
+    locales={}
+    for child in list(t.iter())[1:]:
+     locale=child.tag.rsplit("}",1)[-1]
+     if locale in ("koKR","enUS"):
+      locales[locale]={"present":True,"value":"".join(child.itertext())}
+    strings[tid]={"present":True,"locales":locales,
+                  "valueAttributePresent":"value" in t.attrib,
+                  "valueAttribute":t.attrib.get("value")}
   if cid in result: raise ValueError(f"duplicate XML entity {cid} in {path}")
-  result[cid]={"owned":owned,"referenced":refs}
+  result[cid]={"owned":owned,"referenced":refs,"strings":strings}
   e.clear()
  return result
+def display_text(raw):
+ return raw.replace("[x]","").replace("\\r\\n","\\n").replace("\\r","\\n").replace("\\n","<br></br>")
 def tag_name_map(cards):
  out={}
  for c in cards:
@@ -180,11 +193,20 @@ def main():
   release="2019-06-04" if cid=="BOT_700" else "2018-08-08"
   initial=copy.deepcopy(events[release][cid])
   initial.update(INITIAL_FIX.get(cid,{}))
-  initial.update(REPRESENTATION_BASELINE_FIX.get(cid,{}))
   initial=strip_type_fields(initial)
   # Choice UI display cost is current-only; immutable launch XML has no COST.
   if cid in ("BOT_422a","BOT_422b"): initial.pop("cost",None)
   release_build=31268 if cid=="BOT_700" else 25770
+  launch_strings=copy.deepcopy(xml[release_build][cid]["strings"])
+  cardname=launch_strings.get("185",{}).get("locales",{}).get("koKR")
+  if cardname is not None: initial["name"]=cardname["value"]
+  cardtext=launch_strings.get("184",{}).get("locales",{}).get("koKR")
+  if cardtext is not None:
+   initial["nativeRawText"]=cardtext["value"]
+   initial["text"]=display_text(cardtext["value"])
+  else:
+   initial.pop("nativeRawText",None)
+   initial.pop("text",None)
   initial["nativeTagsOwned"]=copy.deepcopy(xml[release_build][cid]["owned"])
   initial["nativeTagsReferenced"]=copy.deepcopy(xml[release_build][cid]["referenced"])
   if cid=="BOT_246": initial["nativeTagsOwned"]["215"]="2"
@@ -213,6 +235,14 @@ def main():
    event=rows[day]
    logical={k:copy.deepcopy(v) for k,v in event.items() if k not in ("nativeTags","id","dbfId","name","portrait","set","art","flavor") and k in LOGICAL_FIELDS}
    if cid in NEW_EVENTS.get(day,{}): logical=merge(logical,NEW_EVENTS[day][cid])
+   # Only attach text changes when the dated evidence explicitly establishes the
+   # wording transition; unrelated archive wording remains a null-day observation.
+   if "text" in logical or cid in REPRESENTATION_EVENTS.get(day,{}):
+    before_text=before_xml["strings"].get("184",{}).get("locales",{}).get("koKR")
+    after_text=after_xml["strings"].get("184",{}).get("locales",{}).get("koKR")
+    if before_text is not None and after_text is not None and before_text["value"]!=after_text["value"]:
+     logical["nativeRawText"]=after_text["value"]
+     logical["text"]=display_text(after_text["value"])
    next_state=merge(prev,logical)
    next_state=strip_type_fields(next_state)
    # Apply only raw scalar tags tied to the confirmed gameplay fields. Other raw
@@ -257,7 +287,8 @@ def main():
     next_state["findingId"]=REPRESENTATION_EVENTS[day][cid]["findingId"]
    next_state["source"]={"beforeBuild":before_build,"afterBuild":after_build,
       "beforeCommit":bybuild[before_build]["commit"],"afterCommit":bybuild[after_build]["commit"],
-      "beforeXmlSha256":bybuild[before_build]["xmlSha256"],"afterXmlSha256":bybuild[after_build]["xmlSha256"]}
+      "beforeXmlSha256":bybuild[before_build]["xmlSha256"],"afterXmlSha256":bybuild[after_build]["xmlSha256"],
+      "beforeStrings":copy.deepcopy(before_xml["strings"]),"afterStrings":copy.deepcopy(after_xml["strings"])}
    states.append((day,next_state,next_state["source"]))
    prev=next_state; prev_xml=after_xml
   # The 215 value is a current/source correction, not a new dated balance event.
@@ -276,6 +307,12 @@ def main():
    for t in cur.get("nativeTags",[]):
     if t["id"]==215: t["value"]=2
   cur=strip_type_fields(cur)
+  current_strings=copy.deepcopy(current_xml[cid]["strings"])
+  current_text=current_strings.get("184",{}).get("locales",{}).get("koKR")
+  if current_text is not None: cur["nativeRawText"]=current_text["value"]
+  else: cur.pop("nativeRawText",None)
+  current_name=current_strings.get("185",{}).get("locales",{}).get("koKR")
+  if current_name is not None: cur["name"]=current_name["value"]
   cur["nativeTagsOwned"]=copy.deepcopy(current_xml[cid]["owned"])
   cur["nativeTagsReferenced"]=copy.deepcopy(current_xml[cid]["referenced"])
   if cid=="BOT_246": cur["nativeTagsOwned"]["215"]="2"
@@ -301,7 +338,8 @@ def main():
    date_map[day]=entry
    prev_state=state
   data=original_data
-  meta={"schemaVersion":2,"mode":data.get("mode"),"artworkProvenance":copy.deepcopy(data.get("artworkProvenance",{}))}
+  meta={"schemaVersion":2,"mode":data.get("mode"),"artworkProvenance":copy.deepcopy(data.get("artworkProvenance",{})),
+        "launchStrings":launch_strings,"currentStrings":current_strings}
   out={"_meta":meta,"_current":cur}
   out.update(date_map)
   write(ROOT/"data"/(cid+".json"),out)
