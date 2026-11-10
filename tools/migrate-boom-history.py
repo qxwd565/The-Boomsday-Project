@@ -84,16 +84,17 @@ DATE_BUILDS={
  "2026-03-11":(217964,237510),
  "2026-07-22":(237510,247416),
 }
+REPRESENTATION_BASELINE_FIX={"BOT_237":{"nativeRawText":"[x]<b>합체</b>, 주문이나\n영웅 능력의 대상으로\n지정되지 않습니다.","text":"<b>합체</b>, 주문이나<br></br>영웅 능력의 대상으로<br></br>지정되지 않습니다."}}
 REPRESENTATION_EVENTS={
  "2024-03-12":{
-  "BOT_237":{"text":"<b>합체</b>, <b>모면</b>","rawTagIds":[311,332,1211],"expectedRaw":[["owned",311,"1","ABSENT"],["owned",332,"1","ABSENT"],["owned",1211,"ABSENT","1"]],"findingId":"BOOM-BAL-R006"}},
+  "BOT_237":{"nativeRawText":"<b>합체</b>, <b>모면</b>","text":"<b>합체</b>, <b>모면</b>","rawTagIds":[311,332,1211],"expectedRaw":[["owned",311,"1","ABSENT"],["owned",332,"1","ABSENT"],["owned",1211,"ABSENT","1"]],"findingId":"BOOM-BAL-R006"}},
  "2025-03-19":{
   "BOT_042t":{"rawTagIds":[187,45],"expectedRaw":[["owned",187,"3","ABSENT"],["owned",45,"ABSENT","3"]],"findingId":"BOOM-BAL-R005"},
   "BOT_286":{"rawTagIds":[187,45],"expectedRaw":[["owned",187,"2","ABSENT"],["owned",45,"ABSENT","2"]],"findingId":"BOOM-BAL-R005"},
   "BOT_406":{"rawTagIds":[187,45],"expectedRaw":[["owned",187,"3","ABSENT"],["owned",45,"ABSENT","3"]],"findingId":"BOOM-BAL-R005"}}
 }
 RELEVANT_TAGS={45,47,48,200,215,1635,2523,2534,2539,2540,2542}
-LOGICAL_FIELDS=("name","type","cardClass","classes","rarity","collectible","cost","attack","health","durability","armor","text","races","race","spellSchool","mechanics","flavor")
+LOGICAL_FIELDS=("name","type","cardClass","classes","rarity","collectible","cost","attack","health","durability","armor","text","nativeRawText","races","race","spellSchool","mechanics","flavor")
 def read(p): return json.loads(p.read_text(encoding="utf-8"))
 def write(p,obj):
  p.parent.mkdir(parents=True,exist_ok=True)
@@ -179,6 +180,7 @@ def main():
   release="2019-06-04" if cid=="BOT_700" else "2018-08-08"
   initial=copy.deepcopy(events[release][cid])
   initial.update(INITIAL_FIX.get(cid,{}))
+  initial.update(REPRESENTATION_BASELINE_FIX.get(cid,{}))
   initial=strip_type_fields(initial)
   # Choice UI display cost is current-only; immutable launch XML has no COST.
   if cid in ("BOT_422a","BOT_422b"): initial.pop("cost",None)
