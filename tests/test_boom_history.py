@@ -122,6 +122,8 @@ def check():
  for cid,cur in byid.items():
   src=read(ROOT/"data"/(cid+".json"))
   launch=src["_meta"]["launchStrings"]; current=src["_meta"]["currentStrings"]
+  assert src["_meta"]["launchStringTagPresence"]=={"184":"184" in launch,"185":"185" in launch},(cid,"launch tag presence")
+  assert src["_meta"]["currentStringTagPresence"]=={"184":"184" in current,"185":"185" in current},(cid,"current tag presence")
   for strings,label in ((launch,"launch"),(current,"current")):
    for tid in ("184","185"):
     if tid in strings:
@@ -131,16 +133,22 @@ def check():
        assert strings[tid]["locales"][locale]["present"] is True,(cid,label,tid,locale)
   release_day="2019-06-04" if cid=="BOT_700" else "2018-08-08"
   launch_text=launch.get("184",{}).get("locales",{}).get("koKR")
+  launch_name=launch.get("185",{}).get("locales",{}).get("koKR")
+  if launch_name is not None: assert src[release_day]["name"]==launch_name["value"],(cid,"launch name")
   if launch_text is not None:
    assert src[release_day]["nativeRawText"]==launch_text["value"],(cid,"launch raw text")
    assert src[release_day]["text"]==display_text(launch_text["value"]),(cid,"launch display text")
   else:
    assert "nativeRawText" not in src[release_day] and "text" not in src[release_day],(cid,"absent launch CARDTEXT")
+  current_name=current.get("185",{}).get("locales",{}).get("koKR")
+  if current_name is not None:
+   assert src["_current"]["name"]==current_name["value"] and cur["name"]==current_name["value"],(cid,"current name")
   current_text=current.get("184",{}).get("locales",{}).get("koKR")
   if current_text is not None:
    assert src["_current"]["nativeRawText"]==current_text["value"],(cid,"current raw text")
+   assert rbyid[cid].get("nativeRawText")==current_text["value"],(cid,"render current raw text")
   else:
-   assert "nativeRawText" not in src["_current"],(cid,"absent current CARDTEXT")
+   assert "nativeRawText" not in src["_current"] and "nativeRawText" not in rbyid[cid],(cid,"absent current CARDTEXT")
  bot237=read(ROOT/"data/BOT_237.json")
  assert bot237["_meta"]["launchStrings"]["184"]["locales"]["koKR"]["value"]=="<b>합체</b>, 이 하수인은 주문이나 영웅 능력의 대상으로 지정되지 않습니다."
  assert bot237["2018-08-08"]["nativeRawText"]=="<b>합체</b>, 이 하수인은 주문이나 영웅 능력의 대상으로 지정되지 않습니다."
