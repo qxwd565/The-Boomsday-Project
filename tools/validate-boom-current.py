@@ -34,7 +34,7 @@ def parse_xml(path,wanted):
   e.clear()
  return out
 def display_text(raw):
- return raw.replace("[x]","").replace("\r\n","\n").replace("\r","\n").replace("\n","<br></br>")
+ return raw.replace("[x]","").replace("_"," ").replace("\r\n","\n").replace("\r","\n").replace("\n","<br></br>")
 def apply(state,row):
  out=copy.deepcopy(state)
  for k,v in row.items():

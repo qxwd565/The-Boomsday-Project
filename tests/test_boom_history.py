@@ -8,7 +8,7 @@ def read(p): return json.loads(p.read_text(encoding="utf-8"))
 def git_file(path):
  return json.loads(subprocess.check_output(["git","show",f"{BASE}:{path}"],cwd=ROOT,text=True))
 def scalar(m): return {str(k):str(v) for k,v in m.items()}
-def display_text(raw): return raw.replace("[x]","").replace("\r\n","\n").replace("\r","\n").replace("\n","<br></br>")
+def display_text(raw): return raw.replace("[x]","").replace("_"," ").replace("\r\n","\n").replace("\r","\n").replace("\n","<br></br>")
 def apply_row(state,row):
  out=copy.deepcopy(state)
  for k,v in row.items():
