@@ -56,6 +56,42 @@ def check():
  assert "2022-12-07" not in central["events"] and "2024-11-06" not in central["events"]
  assert len(central["events"]["2024-03-12"])==1 and len(central["events"]["2025-03-19"])==3
  assert "2018-10-19" in central["events"] and "BOT_270" in central["events"]["2018-10-19"]
+ # BOT_270t's launch rarity is logical COMMON even though current rarity is absent.
+ bot270t=read(ROOT/"data/BOT_270t.json")
+ assert bot270t["2018-08-08"]["rarity"]=="COMMON"
+ assert bot270t["2018-08-08"]["nativeTagsOwned"]["203"]=="1"
+ assert "rarity" not in bot270t["_current"] and "rarity" not in rbyid["BOT_270t"]
+ assert central["observations"]["undated"]["BOT_270t"]["rarity"]=={"before":"COMMON","after":"ABSENT","date":None}
+ bot270_history=next(x for x in rbyid["BOT_270t"]["history"] if x["from"]=="2018-08-08")
+ assert bot270_history["changes"]["rarity"]=="COMMON"
+ assert central["observations"]["undatedRawTags"]["BOT_270t"]
+ # All native String/LocString Tags are stored separately from numeric nativeTags.
+ def string_tag(cid,stage,tag):
+  return read(ROOT/"data"/(cid+".json"))["_meta"][stage+"StringTags"][str(tag)]
+ expected_strings={
+  "BOT_079":("+1/+1","Give +1/+1."),
+  "BOT_308":("피해 2","Deal 2 damage."),
+  "BOT_576":("공격력 +4","Give +4 Attack."),
+ }
+ for cid,(ko,en) in expected_strings.items():
+  for stage in ("launch","current"):
+   tag=string_tag(cid,stage,325)
+   assert tag["present"] is True and tag["type"] in ("String","LocString")
+   assert tag["valueAttributePresent"] is False
+   assert tag["locales"]["koKR"]["present"] is True and tag["locales"]["koKR"]["value"]==ko
+   assert tag["locales"]["enUS"]["present"] is True and tag["locales"]["enUS"]["value"]==en
+ for stage,ko in (("launch","기계 하나 처치"),("current","기계 처치")):
+  tag=string_tag("BOT_540",stage,325)
+  assert tag["type"] in ("String","LocString") and tag["valueAttributePresent"] is False
+  assert tag["locales"]["koKR"]["value"]==ko
+  assert tag["locales"]["enUS"]["value"]=="Destroy a Mech."
+ golden=string_tag("BOT_700","current",365)
+ assert golden["present"] is True and golden["type"] in ("String","LocString")
+ assert golden["valueAttributePresent"] is False
+ assert golden["locales"]["koKR"]["value"]=="2019년 7월 4일부터 2019년 7월 2일까지 하스스톤에 로그인"
+ assert golden["locales"]["enUS"]["value"]=="Log in to Hearthstone from June 3, 2019 to July 1, 2019."
+ assert central["observations"]["undatedStringTags"]["BOT_540"]
+ assert all(x["date"] is None for x in central["observations"]["undatedStringTags"]["BOT_540"])
  assert len(obs["intentionalRulesAndAvailability"])==9
  assert len(obs["displayAndNativeRepresentationContext"])==11
  assert len(obs["grammarSuggestions"])==8 and len(obs["grammarHold"])==1
