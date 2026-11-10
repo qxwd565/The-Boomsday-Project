@@ -84,7 +84,6 @@ DATE_BUILDS={
  "2026-03-11":(217964,237510),
  "2026-07-22":(237510,247416),
 }
-REPRESENTATION_BASELINE_FIX={"BOT_237":{"nativeRawText":"[x]<b>합체</b>, 주문이나\n영웅 능력의 대상으로\n지정되지 않습니다.","text":"<b>합체</b>, 주문이나<br></br>영웅 능력의 대상으로<br></br>지정되지 않습니다."}}
 REPRESENTATION_EVENTS={
  "2024-03-12":{
   "BOT_237":{"nativeRawText":"<b>합체</b>, <b>모면</b>","text":"<b>합체</b>, <b>모면</b>","rawTagIds":[311,332,1211],"expectedRaw":[["owned",311,"1","ABSENT"],["owned",332,"1","ABSENT"],["owned",1211,"ABSENT","1"]],"findingId":"BOOM-BAL-R006"}},
