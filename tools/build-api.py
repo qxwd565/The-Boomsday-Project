@@ -29,13 +29,13 @@ RENDER_FIELDS = (
     "id", "dbfId", "name", "type", "cardClass", "rarity", "collectible",
     "cost", "text", "attack", "health", "durability", "armor", "art",
     "races", "race", "spellSchool", "set", "nativeTags", "mechanics",
-    "watermark", "classes", "nativeTagsOwned", "nativeTagsReferenced",
+    "watermark", "classes", "nativeTagsOwned", "nativeTagsReferenced", "nativeRawText",
 )
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 SPEC_FIELDS = (
     "name", "type", "cardClass", "classes", "rarity", "collectible",
     "cost", "attack", "health", "durability", "armor", "text",
-    "races", "race", "spellSchool", "mechanics", "nativeTags", "nativeTagsOwned", "nativeTagsReferenced",
+    "races", "race", "spellSchool", "mechanics", "nativeTags", "nativeTagsOwned", "nativeTagsReferenced", "nativeRawText",
 )
 TAXONOMY_RULE = "taxonomy-introduction"
 RACE_KOREAN = {
