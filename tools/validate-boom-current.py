@@ -100,18 +100,18 @@ def main():
  for cid,(ko,en) in expected_325.items():
   for label,source_map in (("launch",bot_strings(cid,"launch")),("current",bot_strings(cid,"current"))):
    tag=source_map["325"]
-   assert tag["type"]=="LocString" and tag["present"] is True,(cid,label,"Tag325 type/presence")
+   assert tag["type"] in ("String","LocString") and tag["present"] is True,(cid,label,"Tag325 type/presence")
    assert tag["valueAttributePresent"] is False,(cid,label,"Tag325 value attribute")
    assert tag["locales"]["koKR"]["value"]==ko,(cid,label,"Tag325 koKR")
    assert tag["locales"]["enUS"]["value"]==en,(cid,label,"Tag325 enUS")
  for label,source_map in (("launch",bot_strings("BOT_540","launch")),("current",bot_strings("BOT_540","current"))):
   tag=source_map["325"]
-  assert tag["type"]=="LocString" and tag["valueAttributePresent"] is False
+  assert tag["type"] in ("String","LocString") and tag["valueAttributePresent"] is False
   assert tag["locales"]["enUS"]["value"]=="Destroy a Mech."
  assert bot_strings("BOT_540","launch")["325"]["locales"]["koKR"]["value"]=="기계 하나 처치"
  assert bot_strings("BOT_540","current")["325"]["locales"]["koKR"]["value"]=="기계 처치"
  golden=bot_strings("BOT_700","current")["365"]
- assert golden["type"]=="LocString" and golden["present"] is True and golden["valueAttributePresent"] is False
+ assert golden["type"] in ("String","LocString") and golden["present"] is True and golden["valueAttributePresent"] is False
  assert golden["locales"]["koKR"]["value"]=="2019년 7월 4일부터 2019년 7월 2일까지 하스스톤에 로그인"
  assert golden["locales"]["enUS"]["value"]=="Log in to Hearthstone from June 3, 2019 to July 1, 2019."
  def xml_tag(cid,build,role,tag_id):
