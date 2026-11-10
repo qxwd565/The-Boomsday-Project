@@ -82,9 +82,9 @@ def main():
   src=read(ROOT/"data"/(cid+".json")); olddata=git_json("data/"+cid+".json")
   assert src["_meta"]["mode"]==olddata["mode"] and src["_meta"]["artworkProvenance"]==olddata["artworkProvenance"],(cid,"mode/artwork provenance")
   assert src["_current"]["portrait"]==olddata["card"]["portrait"] and src["_current"]["art"]==olddata["card"]["art"]
-  type_omit={"MINION":{"durability":0,"armor":0,"spellSchool":""},"SPELL":{"attack":0,"health":0,"durability":0,"armor":0,"races":[],"race":""},"WEAPON":{"health":0,"armor":0,"spellSchool":"","races":[],"race":""},"HERO":{"attack":0,"durability":0,"spellSchool":"","races":[],"race":""},"HERO_POWER":{"attack":0,"health":0,"durability":0,"armor":0,"spellSchool":"","races":[],"race":""}}.get(byid[cid]["type"],{})
+  type_omit_for_card={"MINION":{"durability":0,"armor":0,"spellSchool":""},"SPELL":{"attack":0,"health":0,"durability":0,"armor":0,"races":[],"race":""},"WEAPON":{"health":0,"armor":0,"spellSchool":"","races":[],"race":""},"HERO":{"attack":0,"durability":0,"spellSchool":"","races":[],"race":""},"HERO_POWER":{"attack":0,"health":0,"durability":0,"armor":0,"spellSchool":"","race":""}}.get(byid[cid]["type"],{})
   for field,value in olddata["card"].items():
-   if field not in byid[cid] and type_omit.get(field,"__NOT_OMITTED__")!=value:
+   if field not in byid[cid] and type_omit_for_card.get(field,"__NOT_OMITTED__")!=value:
     assert src["_current"].get(field,"ABSENT")==value,(cid,field,"preserve original extra relation/current field")
   assert src["_current"]["nativeTagsOwned"]==xml[256589][cid]["owned"],(cid,"current owned raw")
   assert src["_current"]["nativeTagsReferenced"]==xml[256589][cid]["referenced"],(cid,"current referenced raw")
