@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Falscher Kupferschwanz"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Coppertail Imposter"
+          },
+          "esES": {
+            "present": true,
+            "value": "Impostor colacobre"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Impostora de cobre"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Imposteur roussequeue"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Impostora Codaramata"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "カッパーテイルモドキ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "구리꼬리 다람쥐로봇"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Wiewiórka fałszywka"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Impostor Caudacobre"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Скрытная псевдобелка"
+          },
+          "thTH": {
+            "present": true,
+            "value": "คอปเปอร์เทลเสแสร้ง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "伪装机器人"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "銅尾偽裝者"
+          }
+        },
+        "textContent": "\n\t\t\tFalscher Kupferschwanz\n\t\t\tCoppertail Imposter\n\t\t\tImpostor colacobre\n\t\t\tImpostora de cobre\n\t\t\tImposteur roussequeue\n\t\t\tImpostora Codaramata\n\t\t\tカッパーテイルモドキ\n\t\t\t구리꼬리 다람쥐로봇\n\t\t\tWiewiórka fałszywka\n\t\t\tImpostor Caudacobre\n\t\t\tСкрытная псевдобелка\n\t\t\tคอปเปอร์เทลเสแสร้ง\n\t\t\t伪装机器人\n\t\t\t銅尾偽裝者\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Erhält bis\nzu Eurem nächsten Zug <b>Verstohlenheit</b>."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Gain <b>Stealth</b> until your next turn."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b>\nObtiene <b>Sigilo</b> hasta\ntu siguiente turno."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> obtiene <b>Sigilo</b> hasta tu próximo turno."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> gagne <b>Camouflage</b> jusqu’à votre_prochain_tour."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nottiene <b>Furtività</b> fino al\ntuo turno successivo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n次の自分のターンまで\n__<b>隠れ身</b>を獲得する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b> 내 다음 턴까지 <b>은신</b>을 얻습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Otrzymuje <b>Ukrycie</b> do twojej następnej tury."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Receba <b>Furtividade</b> até seu próximo turno."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> получает_<b>«Маскировку»</b> до_вашего следующего хода."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> <b>ซ่อนตัว</b> จนถึงเทิร์นถัดไป[b]ของคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>获得<b>潜行</b>直到你的下个回合。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>獲得<b>潛行</b>，直到你的下一回合"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Erhält bis\nzu Eurem nächsten Zug <b>Verstohlenheit</b>.\n\t\t\t<b>Battlecry:</b> Gain <b>Stealth</b> until your next turn.\n\t\t\t[x]<b>Grito de batalla:</b>\nObtiene <b>Sigilo</b> hasta\ntu siguiente turno.\n\t\t\t<b>Grito de batalla:</b> obtiene <b>Sigilo</b> hasta tu próximo turno.\n\t\t\t<b>Cri de guerre_:</b> gagne <b>Camouflage</b> jusqu’à votre_prochain_tour.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nottiene <b>Furtività</b> fino al\ntuo turno successivo.\n\t\t\t[x]<b>雄叫び:</b>\n次の自分のターンまで\n__<b>隠れ身</b>を獲得する。\n\t\t\t<b>전투의 함성:</b> 내 다음 턴까지 <b>은신</b>을 얻습니다.\n\t\t\t<b>Okrzyk bojowy:</b> Otrzymuje <b>Ukrycie</b> do twojej następnej tury.\n\t\t\t<b>Grito de Guerra:</b> Receba <b>Furtividade</b> até seu próximo turno.\n\t\t\t<b>Боевой клич:</b> получает_<b>«Маскировку»</b> до_вашего следующего хода.\n\t\t\t<b>คำรามสู้ศึก:</b> <b>ซ่อนตัว</b> จนถึงเทิร์นถัดไป[b]ของคุณ\n\t\t\t<b>战吼：</b>获得<b>潜行</b>直到你的下个回合。\n\t\t\t<b>戰吼：</b>獲得<b>潛行</b>，直到你的下一回合\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Gut abgekupfert und mit bloßem Auge nicht zu unterscheiden."
+          },
+          "enUS": {
+            "present": true,
+            "value": "It was fitting in fine until it gathered nuts <i>and</i> bolts."
+          },
+          "esES": {
+            "present": true,
+            "value": "Pasaba desapercibido hasta que empezó a recoger tornillos <i>además</i> de nueces."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Quiere pasar inadvertida, pero el cobre hace mucho ruido al caminar."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Il passait totalement inaperçu avant de se mettre à ramasser des noisettes <i>et</i> des boulons."
+          },
+          "itIT": {
+            "present": true,
+            "value": "È stata scoperta quando ha cominciato a raccogliere FULMINI oltre alle noci."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "うまく仲間に溶け込めてたんだ、ナッツじゃなくて<i>ナット</i>を集め始めるまでは。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "도토리 대신 너트와 볼트를 모아오기 전까지는 들키지 않았습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Dzień 10: ciągle niczego nie zauważyły. Kontynuuję badanie”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Estava passando totalmente despercebido até que começou a juntar nozes <i>e</i> parafusos."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Неотличима от обычной белки, пока не пускает в ход зубы."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ตอนแรกก็แนบเนียนดี จนกระทั่งมันเริ่มเก็บเศษเหล็กมากิน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "伪装得惟妙惟肖，直到它开始收集坚果和……螺栓。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "偽裝得唯妙唯肖，直到它開始收集堅果…和螺栓。"
+          }
+        },
+        "textContent": "\n\t\t\tGut abgekupfert und mit bloßem Auge nicht zu unterscheiden.\n\t\t\tIt was fitting in fine until it gathered nuts <i>and</i> bolts.\n\t\t\tPasaba desapercibido hasta que empezó a recoger tornillos <i>además</i> de nueces.\n\t\t\tQuiere pasar inadvertida, pero el cobre hace mucho ruido al caminar.\n\t\t\tIl passait totalement inaperçu avant de se mettre à ramasser des noisettes <i>et</i> des boulons.\n\t\t\tÈ stata scoperta quando ha cominciato a raccogliere FULMINI oltre alle noci.\n\t\t\tうまく仲間に溶け込めてたんだ、ナッツじゃなくて<i>ナット</i>を集め始めるまでは。\n\t\t\t도토리 대신 너트와 볼트를 모아오기 전까지는 들키지 않았습니다.\n\t\t\t„Dzień 10: ciągle niczego nie zauważyły. Kontynuuję badanie”.\n\t\t\tEstava passando totalmente despercebido até que começou a juntar nozes <i>e</i> parafusos.\n\t\t\tНеотличима от обычной белки, пока не пускает в ход зубы.\n\t\t\tตอนแรกก็แนบเนียนดี จนกระทั่งมันเริ่มเก็บเศษเหล็กมากิน\n\t\t\t伪装得惟妙惟肖，直到它开始收集坚果和……螺栓。\n\t\t\t偽裝得唯妙唯肖，直到它開始收集堅果…和螺栓。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Steve Prescott"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Falscher Kupferschwanz"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Coppertail Imposter"
+          },
+          "esES": {
+            "present": true,
+            "value": "Impostor colacobre"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Impostora de cobre"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Imposteur roussequeue"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Impostora Codaramata"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "カッパーテイルモドキ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "구리꼬리 다람쥐로봇"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Wiewiórka fałszywka"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Impostor Caudacobre"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Скрытная псевдобелка"
+          },
+          "thTH": {
+            "present": true,
+            "value": "คอปเปอร์เทลเสแสร้ง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "铜尾仿冒鼠"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "銅尾偽裝者"
+          }
+        },
+        "textContent": "\n\t\tFalscher Kupferschwanz\n\t\tCoppertail Imposter\n\t\tImpostor colacobre\n\t\tImpostora de cobre\n\t\tImposteur roussequeue\n\t\tImpostora Codaramata\n\t\tカッパーテイルモドキ\n\t\t구리꼬리 다람쥐로봇\n\t\tWiewiórka fałszywka\n\t\tImpostor Caudacobre\n\t\tСкрытная псевдобелка\n\t\tคอปเปอร์เทลเสแสร้ง\n\t\t铜尾仿冒鼠\n\t\t銅尾偽裝者\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Erhält bis\nzu Eurem nächsten Zug <b>Verstohlenheit</b>."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Gain <b>Stealth</b> until your next turn."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b>\nObtiene <b>Sigilo</b> hasta\ntu siguiente turno."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> obtiene <b>Sigilo</b> hasta tu próximo turno."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> gagne <b>Camouflage</b> jusqu’à votre_prochain_tour."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nottiene <b>Furtività</b> fino al\ntuo turno successivo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n次の自分のターンまで\n__<b>隠れ身</b>を獲得する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b> 내 다음 턴까지 <b>은신</b>을 얻습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Otrzymuje <b>Ukrycie</b> do twojej następnej tury."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Receba <b>Furtividade</b> até seu próximo turno."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> получает_<b>«Маскировку»</b> до_вашего следующего хода."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> <b>ซ่อนตัว</b> จนถึงเทิร์นถัดไป[b]ของคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>获得<b>潜行</b>直到你的下个回合。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>獲得<b>潛行</b>，直到你的下一回合"
+          }
+        },
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Erhält bis\nzu Eurem nächsten Zug <b>Verstohlenheit</b>.\n\t\t<b>Battlecry:</b> Gain <b>Stealth</b> until your next turn.\n\t\t[x]<b>Grito de batalla:</b>\nObtiene <b>Sigilo</b> hasta\ntu siguiente turno.\n\t\t<b>Grito de batalla:</b> obtiene <b>Sigilo</b> hasta tu próximo turno.\n\t\t<b>Cri de guerre_:</b> gagne <b>Camouflage</b> jusqu’à votre_prochain_tour.\n\t\t[x]<b>Grido di Battaglia:</b>\nottiene <b>Furtività</b> fino al\ntuo turno successivo.\n\t\t[x]<b>雄叫び:</b>\n次の自分のターンまで\n__<b>隠れ身</b>を獲得する。\n\t\t<b>전투의 함성:</b> 내 다음 턴까지 <b>은신</b>을 얻습니다.\n\t\t<b>Okrzyk bojowy:</b> Otrzymuje <b>Ukrycie</b> do twojej następnej tury.\n\t\t<b>Grito de Guerra:</b> Receba <b>Furtividade</b> até seu próximo turno.\n\t\t<b>Боевой клич:</b> получает_<b>«Маскировку»</b> до_вашего следующего хода.\n\t\t<b>คำรามสู้ศึก:</b> <b>ซ่อนตัว</b> จนถึงเทิร์นถัดไป[b]ของคุณ\n\t\t<b>战吼：</b>获得<b>潜行</b>直到你的下个回合。\n\t\t<b>戰吼：</b>獲得<b>潛行</b>，直到你的下一回合\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Gut abgekupfert und mit bloßem Auge nicht zu unterscheiden."
+          },
+          "enUS": {
+            "present": true,
+            "value": "It was fitting in fine until it gathered nuts <i>and</i> bolts."
+          },
+          "esES": {
+            "present": true,
+            "value": "Pasaba desapercibido hasta que empezó a recoger tornillos <i>además</i> de nueces."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Quiere pasar inadvertida, pero el cobre hace mucho ruido al caminar."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Il passait totalement inaperçu avant de se mettre à ramasser des noisettes <i>et</i> des boulons."
+          },
+          "itIT": {
+            "present": true,
+            "value": "È stata scoperta quando ha cominciato a raccogliere FULMINI oltre alle noci."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "うまく仲間に溶け込めてたんだ、ナッツじゃなくて<i>ナット</i>を集め始めるまでは。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "도토리 대신 너트와 볼트를 모아오기 전까지는 들키지 않았습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Dzień 10: ciągle niczego nie zauważyły. Kontynuuję badanie”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Estava passando totalmente despercebido até que começou a juntar nozes <i>e</i> parafusos."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Неотличима от обычной белки, пока не пускает в ход зубы."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ตอนแรกก็แนบเนียนดี จนกระทั่งมันเริ่มเก็บเศษเหล็กมากิน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "伪装得惟妙惟肖，直到它开始收集坚果和……螺栓。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "偽裝得唯妙唯肖，直到它開始收集堅果…和螺栓。"
+          }
+        },
+        "textContent": "\n\t\tGut abgekupfert und mit bloßem Auge nicht zu unterscheiden.\n\t\tIt was fitting in fine until it gathered nuts <i>and</i> bolts.\n\t\tPasaba desapercibido hasta que empezó a recoger tornillos <i>además</i> de nueces.\n\t\tQuiere pasar inadvertida, pero el cobre hace mucho ruido al caminar.\n\t\tIl passait totalement inaperçu avant de se mettre à ramasser des noisettes <i>et</i> des boulons.\n\t\tÈ stata scoperta quando ha cominciato a raccogliere FULMINI oltre alle noci.\n\t\tうまく仲間に溶け込めてたんだ、ナッツじゃなくて<i>ナット</i>を集め始めるまでは。\n\t\t도토리 대신 너트와 볼트를 모아오기 전까지는 들키지 않았습니다.\n\t\t„Dzień 10: ciągle niczego nie zauważyły. Kontynuuję badanie”.\n\t\tEstava passando totalmente despercebido até que começou a juntar nozes <i>e</i> parafusos.\n\t\tНеотличима от обычной белки, пока не пускает в ход зубы.\n\t\tตอนแรกก็แนบเนียนดี จนกระทั่งมันเริ่มเก็บเศษเหล็กมากิน\n\t\t伪装得惟妙惟肖，直到它开始收集坚果和……螺栓。\n\t\t偽裝得唯妙唯肖，直到它開始收集堅果…和螺栓。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Steve Prescott"
+      }
     }
   },
   "_current": {

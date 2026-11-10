@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Doppelwichtel"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Doubling Imp"
+          },
+          "esES": {
+            "present": true,
+            "value": "Diablillo duplicador"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Diablillo duplicador"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Diablotin double"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Imp Duplicante"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ドッペルインプ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "복제하는 임프"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Chochlik duplikator"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Diabrete Duplicado"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Двоящийся бес"
+          },
+          "thTH": {
+            "present": true,
+            "value": "อิมพ์สองร่าง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "双生小鬼"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "殘影小鬼"
+          }
+        },
+        "textContent": "\n\t\t\tDoppelwichtel\n\t\t\tDoubling Imp\n\t\t\tDiablillo duplicador\n\t\t\tDiablillo duplicador\n\t\t\tDiablotin double\n\t\t\tImp Duplicante\n\t\t\tドッペルインプ\n\t\t\t복제하는 임프\n\t\t\tChochlik duplikator\n\t\t\tDiabrete Duplicado\n\t\t\tДвоящийся бес\n\t\t\tอิมพ์สองร่าง\n\t\t\t双生小鬼\n\t\t\t殘影小鬼\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Ruft eine Kopie dieses Dieners herbei."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Summon a copy of this minion."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b>\nInvoca una copia\nde este esbirro."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> invoca una copia de este esbirro."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> invoque une copie de ce serviteur."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nevoca una copia\ndi se stesso."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\nこのミニオンのコピーを\n1体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b> 이 하수인을 복사하여 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Przyzwij kopię tego stronnika."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Evoque uma cópia deste lacaio."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> призывает копию этого существа."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> เรียกร่างก๊อปปี้ของ[b]มินเนี่ยนตัวนี้"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>召唤该随从的一个复制。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>召喚一個\n此手下的分身"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Ruft eine Kopie dieses Dieners herbei.\n\t\t\t<b>Battlecry:</b> Summon a copy of this minion.\n\t\t\t<b>Grito de batalla:</b>\nInvoca una copia\nde este esbirro.\n\t\t\t<b>Grito de batalla:</b> invoca una copia de este esbirro.\n\t\t\t<b>Cri de guerre_:</b> invoque une copie de ce serviteur.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nevoca una copia\ndi se stesso.\n\t\t\t[x]<b>雄叫び:</b>\nこのミニオンのコピーを\n1体召喚する。\n\t\t\t<b>전투의 함성:</b> 이 하수인을 복사하여 소환합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Przyzwij kopię tego stronnika.\n\t\t\t<b>Grito de Guerra:</b> Evoque uma cópia deste lacaio.\n\t\t\t<b>Боевой клич:</b> призывает копию этого существа.\n\t\t\t<b>คำรามสู้ศึก:</b> เรียกร่างก๊อปปี้ของ[b]มินเนี่ยนตัวนี้\n\t\t\t<b>战吼：</b>召唤该随从的一个复制。\n\t\t\t<b>戰吼：</b>召喚一個\n此手下的分身\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Zwei Wichtel sind zwei zu viel!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "What's worse than finding two imps in your lab? Only finding one of them."
+          },
+          "esES": {
+            "present": true,
+            "value": "¿Qué es peor que encontrarte con dos diablillos en tu laboratorio? Encontrar solo a uno de ellos."
+          },
+          "esMX": {
+            "present": true,
+            "value": "¿Qué es peor que encontrar dos diablillos en tu laboratorio? Buscar y solo encontrar a uno."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Qu’y a-t-il de pire que de retrouver deux diablotins dans son labo ? N’en retrouver plus qu’un !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Cosa c'è di peggio di trovare due Imp nel proprio laboratorio? Trovare uno solo dei due."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "Q. 研究室でインプが2匹見つかるよりもマズイことは？\nA. 1匹しか見つからないこと。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "연구실에서 임프 두 마리를 발견하는 것보다 최악인 상황은 뭘까요? 둘 중 하나만 발견하는 것입니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Co jest gorsze niż znalezienie dwóch chochlików w swoim laboratorium? Znalezienie tylko jednego z nich."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "O que é pior do que achar dois diabretes no seu laboratório? Só encontrar um deles."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Что может быть хуже, чем найти в своей лаборатории двух бесов? Найти только одного из них!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "สิ่งที่เลวร้ายกว่าการเจอ[b]อิมพ์สองตัวในห้องแล็บของคุณ[b]คือการหามันเจอแค่ตัวเดียว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "在实验室发现两只小鬼不可怕，可怕的是只发现了一只。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "有什麼事比兩隻小鬼在實驗室裡還糟糕？那就是只看到一隻小鬼。"
+          }
+        },
+        "textContent": "\n\t\t\tZwei Wichtel sind zwei zu viel!\n\t\t\tWhat's worse than finding two imps in your lab? Only finding one of them.\n\t\t\t¿Qué es peor que encontrarte con dos diablillos en tu laboratorio? Encontrar solo a uno de ellos.\n\t\t\t¿Qué es peor que encontrar dos diablillos en tu laboratorio? Buscar y solo encontrar a uno.\n\t\t\tQu’y a-t-il de pire que de retrouver deux diablotins dans son labo ? N’en retrouver plus qu’un !\n\t\t\tCosa c'è di peggio di trovare due Imp nel proprio laboratorio? Trovare uno solo dei due.\n\t\t\tQ. 研究室でインプが2匹見つかるよりもマズイことは？\nA. 1匹しか見つからないこと。\n\t\t\t연구실에서 임프 두 마리를 발견하는 것보다 최악인 상황은 뭘까요? 둘 중 하나만 발견하는 것입니다.\n\t\t\tCo jest gorsze niż znalezienie dwóch chochlików w swoim laboratorium? Znalezienie tylko jednego z nich.\n\t\t\tO que é pior do que achar dois diabretes no seu laboratório? Só encontrar um deles.\n\t\t\tЧто может быть хуже, чем найти в своей лаборатории двух бесов? Найти только одного из них!\n\t\t\tสิ่งที่เลวร้ายกว่าการเจอ[b]อิมพ์สองตัวในห้องแล็บของคุณ[b]คือการหามันเจอแค่ตัวเดียว\n\t\t\t在实验室发现两只小鬼不可怕，可怕的是只发现了一只。\n\t\t\t有什麼事比兩隻小鬼在實驗室裡還糟糕？那就是只看到一隻小鬼。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Dave Allsop"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Doppelwichtel"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Doubling Imp"
+          },
+          "esES": {
+            "present": true,
+            "value": "Diablillo duplicador"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Diablillo duplicador"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Diablotin double"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Imp Duplicante"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ドッペルインプ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "복제하는 임프"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Chochlik duplikator"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Diabrete Duplicado"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Двоящийся бес"
+          },
+          "thTH": {
+            "present": true,
+            "value": "อิมพ์สองร่าง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "双生小鬼"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "殘影小鬼"
+          }
+        },
+        "textContent": "\n\t\tDoppelwichtel\n\t\tDoubling Imp\n\t\tDiablillo duplicador\n\t\tDiablillo duplicador\n\t\tDiablotin double\n\t\tImp Duplicante\n\t\tドッペルインプ\n\t\t복제하는 임프\n\t\tChochlik duplikator\n\t\tDiabrete Duplicado\n\t\tДвоящийся бес\n\t\tอิมพ์สองร่าง\n\t\t双生小鬼\n\t\t殘影小鬼\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Ruft eine Kopie dieses Dieners herbei."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Summon a copy of this minion."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b>\nInvoca una copia\nde este esbirro."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> invoca una copia de este esbirro."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> invoque une copie de ce serviteur."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nevoca una copia\ndi se stesso."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\nこのミニオンのコピーを\n1体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b> 이 하수인을 복사하여 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Przyzwij kopię tego stronnika."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Evoque uma cópia deste lacaio."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> призывает копию этого существа."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> เรียกร่างก๊อปปี้ของ[b]มินเนี่ยนตัวนี้"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>召唤一个本随从的复制。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>召喚一個\n此手下的分身"
+          }
+        },
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Ruft eine Kopie dieses Dieners herbei.\n\t\t<b>Battlecry:</b> Summon a copy of this minion.\n\t\t<b>Grito de batalla:</b>\nInvoca una copia\nde este esbirro.\n\t\t<b>Grito de batalla:</b> invoca una copia de este esbirro.\n\t\t<b>Cri de guerre_:</b> invoque une copie de ce serviteur.\n\t\t[x]<b>Grido di Battaglia:</b>\nevoca una copia\ndi se stesso.\n\t\t[x]<b>雄叫び:</b>\nこのミニオンのコピーを\n1体召喚する。\n\t\t<b>전투의 함성:</b> 이 하수인을 복사하여 소환합니다.\n\t\t<b>Okrzyk bojowy:</b> Przyzwij kopię tego stronnika.\n\t\t<b>Grito de Guerra:</b> Evoque uma cópia deste lacaio.\n\t\t<b>Боевой клич:</b> призывает копию этого существа.\n\t\t<b>คำรามสู้ศึก:</b> เรียกร่างก๊อปปี้ของ[b]มินเนี่ยนตัวนี้\n\t\t<b>战吼：</b>召唤一个本随从的复制。\n\t\t<b>戰吼：</b>召喚一個\n此手下的分身\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Zwei Wichtel sind zwei zu viel!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "What's worse than finding two imps in your lab? Only finding one of them."
+          },
+          "esES": {
+            "present": true,
+            "value": "¿Qué es peor que encontrarte con dos diablillos en tu laboratorio? Encontrar solo a uno de ellos."
+          },
+          "esMX": {
+            "present": true,
+            "value": "¿Qué es peor que encontrar dos diablillos en tu laboratorio? Buscar y solo encontrar a uno."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Qu’y a-t-il de pire que de retrouver deux diablotins dans son labo ? N’en retrouver plus qu’un !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Cosa c'è di peggio di trovare due Imp nel proprio laboratorio? Trovare uno solo dei due."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "Q. 研究室でインプが2匹見つかるよりもマズイことは？\nA. 1匹しか見つからないこと。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "연구실에서 임프 두 마리를 발견하는 것보다 최악인 상황은 뭘까요? 둘 중 하나만 발견하는 것입니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Co jest gorsze niż znalezienie dwóch chochlików w swoim laboratorium? Znalezienie tylko jednego z nich."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "O que é pior do que achar dois diabretes no seu laboratório? Só encontrar um deles."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Что может быть хуже, чем найти в своей лаборатории двух бесов? Найти только одного из них!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "สิ่งที่เลวร้ายกว่าการเจอ[b]อิมพ์สองตัวในห้องแล็บของคุณ[b]คือการหามันเจอแค่ตัวเดียว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "在实验室发现两只小鬼不可怕，可怕的是只发现了一只。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "有什麼事比兩隻小鬼在實驗室裡還糟糕？那就是只看到一隻小鬼。"
+          }
+        },
+        "textContent": "\n\t\tZwei Wichtel sind zwei zu viel!\n\t\tWhat's worse than finding two imps in your lab? Only finding one of them.\n\t\t¿Qué es peor que encontrarte con dos diablillos en tu laboratorio? Encontrar solo a uno de ellos.\n\t\t¿Qué es peor que encontrar dos diablillos en tu laboratorio? Buscar y solo encontrar a uno.\n\t\tQu’y a-t-il de pire que de retrouver deux diablotins dans son labo ? N’en retrouver plus qu’un !\n\t\tCosa c'è di peggio di trovare due Imp nel proprio laboratorio? Trovare uno solo dei due.\n\t\tQ. 研究室でインプが2匹見つかるよりもマズイことは？\nA. 1匹しか見つからないこと。\n\t\t연구실에서 임프 두 마리를 발견하는 것보다 최악인 상황은 뭘까요? 둘 중 하나만 발견하는 것입니다.\n\t\tCo jest gorsze niż znalezienie dwóch chochlików w swoim laboratorium? Znalezienie tylko jednego z nich.\n\t\tO que é pior do que achar dois diabretes no seu laboratório? Só encontrar um deles.\n\t\tЧто может быть хуже, чем найти в своей лаборатории двух бесов? Найти только одного из них!\n\t\tสิ่งที่เลวร้ายกว่าการเจอ[b]อิมพ์สองตัวในห้องแล็บของคุณ[b]คือการหามันเจอแค่ตัวเดียว\n\t\t在实验室发现两只小鬼不可怕，可怕的是只发现了一只。\n\t\t有什麼事比兩隻小鬼在實驗室裡還糟糕？那就是只看到一隻小鬼。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Dave Allsop"
+      }
     }
   },
   "_current": {

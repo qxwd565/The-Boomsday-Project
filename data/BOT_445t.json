@@ -51,6 +51,156 @@
     "currentStringTagPresence": {
       "184": false,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Beutelmechjunges"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Jo-E Bot"
+          },
+          "esES": {
+            "present": true,
+            "value": "R1t0"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Canguribot"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Petit kangou-bot"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Cucciolobot"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "コメカンガルー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "새끼 캥거루로봇"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Kangurobocik"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Mecanguri"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Мехуренок"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โจ-อีบอท"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "机械袋鼠宝宝"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "機械小袋鼠"
+          }
+        },
+        "textContent": "\n\t\t\tBeutelmechjunges\n\t\t\tJo-E Bot\n\t\t\tR1t0\n\t\t\tCanguribot\n\t\t\tPetit kangou-bot\n\t\t\tCucciolobot\n\t\t\tコメカンガルー\n\t\t\t새끼 캥거루로봇\n\t\t\tKangurobocik\n\t\t\tMecanguri\n\t\t\tМехуренок\n\t\t\tโจ-อีบอท\n\t\t\t机械袋鼠宝宝\n\t\t\t機械小袋鼠\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Eva Widermann"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Beutelmechjunges"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Jo-E Bot"
+          },
+          "esES": {
+            "present": true,
+            "value": "R1t0"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Canguribot"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Petit kangou-bot"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Cucciolobot"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "コメカンガルー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "새끼 캥거루로봇"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Kangurobocik"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Mecanguri"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Мехуренок"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โจ-อีบอท"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "机械袋鼠宝宝"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "機械小袋鼠"
+          }
+        },
+        "textContent": "\n\t\tBeutelmechjunges\n\t\tJo-E Bot\n\t\tR1t0\n\t\tCanguribot\n\t\tPetit kangou-bot\n\t\tCucciolobot\n\t\tコメカンガルー\n\t\t새끼 캥거루로봇\n\t\tKangurobocik\n\t\tMecanguri\n\t\tМехуренок\n\t\tโจ-อีบอท\n\t\t机械袋鼠宝宝\n\t\t機械小袋鼠\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Eva Widermann"
+      }
     }
   },
   "_current": {

@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Gewissenlose Forscherin"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Reckless Experimenter"
+          },
+          "esES": {
+            "present": true,
+            "value": "Experimentadora imprudente"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Científica insensata"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Expérimentatrice téméraire"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Ricercatrice Incauta"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "無謀な実験者"
+          },
+          "koKR": {
+            "present": true,
+            "value": "무모한 실험가"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Koneserka eksperymentów"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Pesquisadora Imprudente"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Жестокая лаборантка"
+          },
+          "thTH": {
+            "present": true,
+            "value": "นักทดลองบ้าระห่ำ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "鲁莽的实验者"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "草率的實驗者"
+          }
+        },
+        "textContent": "\n\t\t\tGewissenlose Forscherin\n\t\t\tReckless Experimenter\n\t\t\tExperimentadora imprudente\n\t\t\tCientífica insensata\n\t\t\tExpérimentatrice téméraire\n\t\t\tRicercatrice Incauta\n\t\t\t無謀な実験者\n\t\t\t무모한 실험가\n\t\t\tKoneserka eksperymentów\n\t\t\tPesquisadora Imprudente\n\t\t\tЖестокая лаборантка\n\t\t\tนักทดลองบ้าระห่ำ\n\t\t\t鲁莽的实验者\n\t\t\t草率的實驗者\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Diener mit <b>Todesröcheln</b>,\ndie Ihr ausspielt, kosten (3) weniger, aber sterben am Ende des Zuges."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Deathrattle</b> minions you\nplay cost (3) less, but die\nat the end of the turn."
+          },
+          "esES": {
+            "present": true,
+            "value": "Los esbirros con <b>Último aliento</b> que juegas cuestan (3) cristales menos, pero mueren al final del turno."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Los esbirros con <b>Estertor</b> que juegas cuestan (3) menos, pero mueren al final del turno."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Les serviteurs avec <b>Râle d’agonie</b> que_vous_jouez_coûtent_(3)_cristaux de moins, mais ils meurent à la fin de votre tour."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]I servitori con <b>Rantolo di\nMorte</b> che giochi costano\n(3) in meno, ma muoiono\nalla fine del turno."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]自分が手札から使用する\n<b>断末魔</b>を持つミニオンは\nコストが（3）減るが\nターンの終了時に\n死亡する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "내가 내는 <b>죽음의 메아리</b> 하수인들의 비용이 (3) 감소하지만 턴이 끝날 때 죽습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zagrani przez ciebie stronnicy z <b>Agonią</b> kosztują (3) mniej, ale giną na koniec tury."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Lacaios com <b>Último Suspiro</b> que você jogar custam (3) a menos, mas morrem no final do turno."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]Разыгранные вами существа\nс <b>«Предсмертным хрипом»</b>\nстоят на (3) меньше, но умира-\nют в конце вашего хода."
+          },
+          "thTH": {
+            "present": true,
+            "value": "มินเนี่ยน <b>เสียงสุดท้าย</b> ที่[b]คุณเล่นมีค่าร่ายลดลง (3) แต่จะตายเมื่อจบเทิร์น"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "你使用的<b>亡语</b>随从牌的法力值消耗减少（3）点，但会在回合结束时死亡。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "你的<b>死亡之聲</b>手下消耗減少(3)，但在回合結束時死亡"
+          }
+        },
+        "textContent": "\n\t\t\tDiener mit <b>Todesröcheln</b>,\ndie Ihr ausspielt, kosten (3) weniger, aber sterben am Ende des Zuges.\n\t\t\t[x]<b>Deathrattle</b> minions you\nplay cost (3) less, but die\nat the end of the turn.\n\t\t\tLos esbirros con <b>Último aliento</b> que juegas cuestan (3) cristales menos, pero mueren al final del turno.\n\t\t\tLos esbirros con <b>Estertor</b> que juegas cuestan (3) menos, pero mueren al final del turno.\n\t\t\tLes serviteurs avec <b>Râle d’agonie</b> que_vous_jouez_coûtent_(3)_cristaux de moins, mais ils meurent à la fin de votre tour.\n\t\t\t[x]I servitori con <b>Rantolo di\nMorte</b> che giochi costano\n(3) in meno, ma muoiono\nalla fine del turno.\n\t\t\t[x]自分が手札から使用する\n<b>断末魔</b>を持つミニオンは\nコストが（3）減るが\nターンの終了時に\n死亡する。\n\t\t\t내가 내는 <b>죽음의 메아리</b> 하수인들의 비용이 (3) 감소하지만 턴이 끝날 때 죽습니다.\n\t\t\tZagrani przez ciebie stronnicy z <b>Agonią</b> kosztują (3) mniej, ale giną na koniec tury.\n\t\t\tLacaios com <b>Último Suspiro</b> que você jogar custam (3) a menos, mas morrem no final do turno.\n\t\t\t[x]Разыгранные вами существа\nс <b>«Предсмертным хрипом»</b>\nстоят на (3) меньше, но умира-\nют в конце вашего хода.\n\t\t\tมินเนี่ยน <b>เสียงสุดท้าย</b> ที่[b]คุณเล่นมีค่าร่ายลดลง (3) แต่จะตายเมื่อจบเทิร์น\n\t\t\t你使用的<b>亡语</b>随从牌的法力值消耗减少（3）点，但会在回合结束时死亡。\n\t\t\t你的<b>死亡之聲</b>手下消耗減少(3)，但在回合結束時死亡\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Sie hat dreimal in Folge den Preis für das unethischste Experiment des Jahres gewonnen. Dr. Bumm ist so stolz auf sie!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "It's hard to call her reckless when it's clear she knows what she's doing."
+          },
+          "esES": {
+            "present": true,
+            "value": "No es muy justo llamarla imprudente cuando está claro que sabe lo que hace."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Es difícil tratarla de temeraria cuando claramente sabe lo que hace."
+          },
+          "frFR": {
+            "present": true,
+            "value": "« J’ai bien mieux à faire que mourir. La mort peut attendre. Pour moi. »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Non datele dell'incosciente però! È pienamente cosciente di cosa sta creando."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「無謀」だって？彼女はいつも謀（はかりごと）をめぐらしてるのにか？"
+          },
+          "koKR": {
+            "present": true,
+            "value": "무모하다고 하기도 애매한 게, 뭘 하고 있는지 정확히 알고 있거든요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Tylko najlepsze eksperymenty trafiają do jej kolekcji. Reszta idzie do utylizacji."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "É difícil chamar ela de \"imprudente\" quando ela claramente sabe o que está fazendo."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "«Вы называете это жестокостью, а я – креативным мышлением!»"
+          },
+          "thTH": {
+            "present": true,
+            "value": "จะบอกว่าเธอบ้าระห่ำก็พูดได้[b]ไม่เต็มปาก ในเมื่อเธอรู้ดีว่าตัวเอง[b]ทำอะไรอยู่"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "虽说鲁莽，但她倒是很清楚自己想要什么。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "很難指責她實驗過程草率，因為她其實很清楚自己在做什麼。"
+          }
+        },
+        "textContent": "\n\t\t\tSie hat dreimal in Folge den Preis für das unethischste Experiment des Jahres gewonnen. Dr. Bumm ist so stolz auf sie!\n\t\t\tIt's hard to call her reckless when it's clear she knows what she's doing.\n\t\t\tNo es muy justo llamarla imprudente cuando está claro que sabe lo que hace.\n\t\t\tEs difícil tratarla de temeraria cuando claramente sabe lo que hace.\n\t\t\t« J’ai bien mieux à faire que mourir. La mort peut attendre. Pour moi. »\n\t\t\tNon datele dell'incosciente però! È pienamente cosciente di cosa sta creando.\n\t\t\t「無謀」だって？彼女はいつも謀（はかりごと）をめぐらしてるのにか？\n\t\t\t무모하다고 하기도 애매한 게, 뭘 하고 있는지 정확히 알고 있거든요.\n\t\t\tTylko najlepsze eksperymenty trafiają do jej kolekcji. Reszta idzie do utylizacji.\n\t\t\tÉ difícil chamar ela de \"imprudente\" quando ela claramente sabe o que está fazendo.\n\t\t\t«Вы называете это жестокостью, а я – креативным мышлением!»\n\t\t\tจะบอกว่าเธอบ้าระห่ำก็พูดได้[b]ไม่เต็มปาก ในเมื่อเธอรู้ดีว่าตัวเอง[b]ทำอะไรอยู่\n\t\t\t虽说鲁莽，但她倒是很清楚自己想要什么。\n\t\t\t很難指責她實驗過程草率，因為她其實很清楚自己在做什麼。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Zoltan Boros"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Gewissenlose Forscherin"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Reckless Experimenter"
+          },
+          "esES": {
+            "present": true,
+            "value": "Experimentadora imprudente"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Científica insensata"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Expérimentatrice téméraire"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Ricercatrice Incauta"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "無謀な実験者"
+          },
+          "koKR": {
+            "present": true,
+            "value": "무모한 실험가"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Koneserka eksperymentów"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Pesquisadora Imprudente"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Жестокая лаборантка"
+          },
+          "thTH": {
+            "present": true,
+            "value": "นักทดลองบ้าระห่ำ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "鲁莽的实验者"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "草率的實驗者"
+          }
+        },
+        "textContent": "\n\t\tGewissenlose Forscherin\n\t\tReckless Experimenter\n\t\tExperimentadora imprudente\n\t\tCientífica insensata\n\t\tExpérimentatrice téméraire\n\t\tRicercatrice Incauta\n\t\t無謀な実験者\n\t\t무모한 실험가\n\t\tKoneserka eksperymentów\n\t\tPesquisadora Imprudente\n\t\tЖестокая лаборантка\n\t\tนักทดลองบ้าระห่ำ\n\t\t鲁莽的实验者\n\t\t草率的實驗者\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Diener mit <b>Todesröcheln</b>, die Ihr ausspielt, kosten (3) weniger, sterben aber am Ende des Zuges."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Deathrattle</b> minions you\nplay cost (3) less, but die\nat the end of the turn."
+          },
+          "esES": {
+            "present": true,
+            "value": "Tus esbirros con <b>Último aliento</b> cuestan (3) cristales menos, pero mueren al final del turno."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Los esbirros con <b>Estertor</b> que juegas cuestan (3) menos, pero mueren al final del turno."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Les serviteurs avec <b>Râle d’agonie</b> que vous jouez coûtent (3)_cristaux de moins mais meurent à la fin du tour."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]I servitori con <b>Rantolo di Morte</b>\nche giochi costano (3) in meno,\nma muoiono alla fine del turno."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]自分が手札から使用する\n<b>断末魔</b>ミニオンは\nコストが（3）減るが\n____ターンの終了時に死亡する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "내가 내는 <b>죽음의 메아리</b> 하수인들의 비용이 (3) 감소하지만 턴이 끝날 때 죽습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zagrani przez ciebie stronnicy z <b>Agonią</b> kosztują (3) mniej, ale giną na koniec tury."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Lacaios com <b>Último Suspiro</b> que você jogar custam (3) a menos, mas morrem no final do turno."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]Разыгрываемые вами\nсущества с_<b>«Предсмертным\nхрипом»</b> стоят на (3) меньше,\n___но умирают в конце хода."
+          },
+          "thTH": {
+            "present": true,
+            "value": "มินเนี่ยน <b>เสียงสุดท้าย</b> ที่[b]คุณเล่นมีค่าร่ายลดลง (3) แต่จะตายเมื่อจบเทิร์น"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "你使用的<b>亡语</b>随从牌的法力值消耗减少（3）点，但会在回合结束时死亡。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "[x]你打出的<b>死亡之聲</b>手\n下消耗減少(3)，但在\n回合結束時死亡"
+          }
+        },
+        "textContent": "\n\t\tDiener mit <b>Todesröcheln</b>, die Ihr ausspielt, kosten (3) weniger, sterben aber am Ende des Zuges.\n\t\t[x]<b>Deathrattle</b> minions you\nplay cost (3) less, but die\nat the end of the turn.\n\t\tTus esbirros con <b>Último aliento</b> cuestan (3) cristales menos, pero mueren al final del turno.\n\t\tLos esbirros con <b>Estertor</b> que juegas cuestan (3) menos, pero mueren al final del turno.\n\t\tLes serviteurs avec <b>Râle d’agonie</b> que vous jouez coûtent (3)_cristaux de moins mais meurent à la fin du tour.\n\t\t[x]I servitori con <b>Rantolo di Morte</b>\nche giochi costano (3) in meno,\nma muoiono alla fine del turno.\n\t\t[x]自分が手札から使用する\n<b>断末魔</b>ミニオンは\nコストが（3）減るが\n____ターンの終了時に死亡する。\n\t\t내가 내는 <b>죽음의 메아리</b> 하수인들의 비용이 (3) 감소하지만 턴이 끝날 때 죽습니다.\n\t\tZagrani przez ciebie stronnicy z <b>Agonią</b> kosztują (3) mniej, ale giną na koniec tury.\n\t\tLacaios com <b>Último Suspiro</b> que você jogar custam (3) a menos, mas morrem no final do turno.\n\t\t[x]Разыгрываемые вами\nсущества с_<b>«Предсмертным\nхрипом»</b> стоят на (3) меньше,\n___но умирают в конце хода.\n\t\tมินเนี่ยน <b>เสียงสุดท้าย</b> ที่[b]คุณเล่นมีค่าร่ายลดลง (3) แต่จะตายเมื่อจบเทิร์น\n\t\t你使用的<b>亡语</b>随从牌的法力值消耗减少（3）点，但会在回合结束时死亡。\n\t\t[x]你打出的<b>死亡之聲</b>手\n下消耗減少(3)，但在\n回合結束時死亡\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Sie hat dreimal in Folge den Preis für das unethischste Experiment des Jahres gewonnen. Dr. Bumm ist so stolz auf sie!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "It's hard to call her reckless when it's clear she knows what she's doing."
+          },
+          "esES": {
+            "present": true,
+            "value": "No es muy justo llamarla imprudente cuando está claro que sabe lo que hace."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Es difícil tratarla de temeraria cuando claramente sabe lo que hace."
+          },
+          "frFR": {
+            "present": true,
+            "value": "« J’ai bien mieux à faire que mourir. La mort peut attendre. Pour moi. »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Non datele dell'incosciente però! È pienamente cosciente di cosa sta creando."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「無謀」だって？彼女はいつも謀（はかりごと）をめぐらしてるのにか？"
+          },
+          "koKR": {
+            "present": true,
+            "value": "무모하다고 하기도 애매한 게, 뭘 하고 있는지 정확히 알고 있거든요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Tylko najlepsze eksperymenty trafiają do jej kolekcji. Reszta idzie do utylizacji."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "É difícil chamar ela de \"imprudente\" quando ela claramente sabe o que está fazendo."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "«Вы называете это жестокостью, а я – креативным мышлением!»"
+          },
+          "thTH": {
+            "present": true,
+            "value": "จะบอกว่าเธอบ้าระห่ำก็พูดได้[b]ไม่เต็มปาก ในเมื่อเธอรู้ดีว่าตัวเอง[b]ทำอะไรอยู่"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "虽说鲁莽，但她倒是很清楚自己想要什么。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "很難指責她實驗過程草率，因為她其實很清楚自己在做什麼。"
+          }
+        },
+        "textContent": "\n\t\tSie hat dreimal in Folge den Preis für das unethischste Experiment des Jahres gewonnen. Dr. Bumm ist so stolz auf sie!\n\t\tIt's hard to call her reckless when it's clear she knows what she's doing.\n\t\tNo es muy justo llamarla imprudente cuando está claro que sabe lo que hace.\n\t\tEs difícil tratarla de temeraria cuando claramente sabe lo que hace.\n\t\t« J’ai bien mieux à faire que mourir. La mort peut attendre. Pour moi. »\n\t\tNon datele dell'incosciente però! È pienamente cosciente di cosa sta creando.\n\t\t「無謀」だって？彼女はいつも謀（はかりごと）をめぐらしてるのにか？\n\t\t무모하다고 하기도 애매한 게, 뭘 하고 있는지 정확히 알고 있거든요.\n\t\tTylko najlepsze eksperymenty trafiają do jej kolekcji. Reszta idzie do utylizacji.\n\t\tÉ difícil chamar ela de \"imprudente\" quando ela claramente sabe o que está fazendo.\n\t\t«Вы называете это жестокостью, а я – креативным мышлением!»\n\t\tจะบอกว่าเธอบ้าระห่ำก็พูดได้[b]ไม่เต็มปาก ในเมื่อเธอรู้ดีว่าตัวเอง[b]ทำอะไรอยู่\n\t\t虽说鲁莽，但她倒是很清楚自己想要什么。\n\t\t很難指責她實驗過程草率，因為她其實很清楚自己在做什麼。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Zoltan Boros"
+      }
     }
   },
   "_current": {

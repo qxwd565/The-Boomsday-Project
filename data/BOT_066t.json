@@ -51,6 +51,156 @@
     "currentStringTagPresence": {
       "184": false,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mechanischer Drache"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Mechanical Dragon"
+          },
+          "esES": {
+            "present": true,
+            "value": "Dragón mecánico"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Dragón mecánico"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Dragon mécanique"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Drago Meccanico"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "メカ・ドラゴン"
+          },
+          "koKR": {
+            "present": true,
+            "value": "기계용"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Mechasmok"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Dragão Mecânico"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Механический дракон"
+          },
+          "thTH": {
+            "present": true,
+            "value": "มังกรจักรกล"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "机械巨龙"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "機械龍"
+          }
+        },
+        "textContent": "\n\t\t\tMechanischer Drache\n\t\t\tMechanical Dragon\n\t\t\tDragón mecánico\n\t\t\tDragón mecánico\n\t\t\tDragon mécanique\n\t\t\tDrago Meccanico\n\t\t\tメカ・ドラゴン\n\t\t\t기계용\n\t\t\tMechasmok\n\t\t\tDragão Mecânico\n\t\t\tМеханический дракон\n\t\t\tมังกรจักรกล\n\t\t\t机械巨龙\n\t\t\t機械龍\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Phil Saunders"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mechanischer Drache"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Mechanical Dragon"
+          },
+          "esES": {
+            "present": true,
+            "value": "Dragón mecánico"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Dragón mecánico"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Dragon mécanique"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Drago Meccanico"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "メカ・ドラゴン"
+          },
+          "koKR": {
+            "present": true,
+            "value": "기계용"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Mechasmok"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Dragão Mecânico"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Механический дракон"
+          },
+          "thTH": {
+            "present": true,
+            "value": "มังกรจักรกล"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "机械巨龙"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "機械龍"
+          }
+        },
+        "textContent": "\n\t\tMechanischer Drache\n\t\tMechanical Dragon\n\t\tDragón mecánico\n\t\tDragón mecánico\n\t\tDragon mécanique\n\t\tDrago Meccanico\n\t\tメカ・ドラゴン\n\t\t기계용\n\t\tMechasmok\n\t\tDragão Mecânico\n\t\tМеханический дракон\n\t\tมังกรจักรกล\n\t\t机械巨龙\n\t\t機械龍\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Phil Saunders"
+      }
     }
   },
   "_current": {

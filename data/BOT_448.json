@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Beschädigter Stegotron"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Damaged Stegotron"
+          },
+          "esES": {
+            "present": true,
+            "value": "Estegotrón dañado"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Estegotrón dañado"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Stégotron endommagé"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Stegotron Danneggiato"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "損傷したステゴトロン"
+          },
+          "koKR": {
+            "present": true,
+            "value": "손상된 스테고트론"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Uszkodzony stegotron"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Estegotron Danificado"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Поврежденный стеготрон"
+          },
+          "thTH": {
+            "present": true,
+            "value": "สเตโกทรอนเสียหาย"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "受损的机械剑龙"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "受損的機械劍龍"
+          }
+        },
+        "textContent": "\n\t\t\tBeschädigter Stegotron\n\t\t\tDamaged Stegotron\n\t\t\tEstegotrón dañado\n\t\t\tEstegotrón dañado\n\t\t\tStégotron endommagé\n\t\t\tStegotron Danneggiato\n\t\t\t損傷したステゴトロン\n\t\t\t손상된 스테고트론\n\t\t\tUszkodzony stegotron\n\t\t\tEstegotron Danificado\n\t\t\tПоврежденный стеготрон\n\t\t\tสเตโกทรอนเสียหาย\n\t\t\t受损的机械剑龙\n\t\t\t受損的機械劍龍\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Spott</b>. <b>Kampfschrei:</b>\nFügt diesem Diener\n6 Schaden zu."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Taunt</b>\n<b>Battlecry:</b> Deal 6 damage to this minion."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Provocar</b>\n<b>Grito de batalla:</b>\nInflige 6 p. de daño\na este esbirro."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Provocación</b>\n<b>Grito de batalla:</b> inflige 6 de daño a este esbirro."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Provocation</b>\n<b>Cri de guerre_:</b> inflige 6_|4(point,points) de dégâts à ce serviteur."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Provocazione</b>. <b>Grido\ndi Battaglia:</b> infligge 6\ndanni a SE STESSO."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>挑発</b>\n<b>雄叫び:</b>\nこのミニオンに\n__6ダメージを与える。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>도발</b>, <b>전투의 함성:</b> 자신에게 피해를\n6 줍니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Prowokacja</b>\n<b>Okrzyk bojowy:</b> Zadaj\n6 pkt. obrażeń temu stronnikowi."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Provocar</b>\n<b>Grito de Guerra:</b> Cause 6 de dano a este lacaio."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]<b>Провокация</b>. <b>Боевой клич:</b>\nнаносит 6 ед. урона этому\nсуществу."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>ยั่วยุ</b>, <b>คำรามสู้ศึก:</b> สร้างความเสียหาย 6_แต้มให้มินเนี่ยนตัวนี้"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>嘲讽，战吼：</b>对该随从造成6点伤害。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "[x]<b>嘲諷</b>\n<b>戰吼：</b>對此手下\n造成6點傷害"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Spott</b>. <b>Kampfschrei:</b>\nFügt diesem Diener\n6 Schaden zu.\n\t\t\t<b>Taunt</b>\n<b>Battlecry:</b> Deal 6 damage to this minion.\n\t\t\t[x]<b>Provocar</b>\n<b>Grito de batalla:</b>\nInflige 6 p. de daño\na este esbirro.\n\t\t\t<b>Provocación</b>\n<b>Grito de batalla:</b> inflige 6 de daño a este esbirro.\n\t\t\t<b>Provocation</b>\n<b>Cri de guerre_:</b> inflige 6_|4(point,points) de dégâts à ce serviteur.\n\t\t\t[x]<b>Provocazione</b>. <b>Grido\ndi Battaglia:</b> infligge 6\ndanni a SE STESSO.\n\t\t\t<b>挑発</b>\n<b>雄叫び:</b>\nこのミニオンに\n__6ダメージを与える。\n\t\t\t<b>도발</b>, <b>전투의 함성:</b> 자신에게 피해를\n6 줍니다.\n\t\t\t<b>Prowokacja</b>\n<b>Okrzyk bojowy:</b> Zadaj\n6 pkt. obrażeń temu stronnikowi.\n\t\t\t<b>Provocar</b>\n<b>Grito de Guerra:</b> Cause 6 de dano a este lacaio.\n\t\t\t[x]<b>Провокация</b>. <b>Боевой клич:</b>\nнаносит 6 ед. урона этому\nсуществу.\n\t\t\t<b>ยั่วยุ</b>, <b>คำรามสู้ศึก:</b> สร้างความเสียหาย 6_แต้มให้มินเนี่ยนตัวนี้\n\t\t\t<b>嘲讽，战吼：</b>对该随从造成6点伤害。\n\t\t\t[x]<b>嘲諷</b>\n<b>戰吼：</b>對此手下\n造成6點傷害\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Feuerbälle sind von der Garantie ausgeschlossen."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Sadly the warranty does not cover fireballs or acts of Boom."
+          },
+          "esES": {
+            "present": true,
+            "value": "Lamentablemente, la garantía no cubre daños por bolas de fuego o explosiones."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Lamentablemente la garantía no cubre bolas de fuego ni actos de Bum."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Malheureusement, la garantie ne couvrait pas les boules de feu ou les expériences de Boum."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Purtroppo, la garanzia non copre i danni da Palle di Fuoco."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ドクター・ブームのあらゆる行為の結果による損傷は、「天才等の不可抗力」とみなされ、補償の対象外となります。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "화염구나 각종 천재지붐으로 파손된 경우는 책임지지 않습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Gwarancja nie obejmuje uszkodzeń od kuli ognia ani bomb."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Infelizmente, a garantia não cobre bolas de fogo ou atos praticados por Cabum."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Прямое попадание огненного шара и прочие несчастные случаи в пределах лаборатории страховкой не покрываются."
+          },
+          "thTH": {
+            "present": true,
+            "value": "น่าเสียดายที่การรับประกัน[b]ไม่ครอบคลุมถึงบอลเพลิง[b]และภัยจากบูม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "火球术及爆炸所造成的损伤不在保修范围内。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "本產品保固不包含火球術和不可抗力的爆炸意外所造成的損傷。"
+          }
+        },
+        "textContent": "\n\t\t\tFeuerbälle sind von der Garantie ausgeschlossen.\n\t\t\tSadly the warranty does not cover fireballs or acts of Boom.\n\t\t\tLamentablemente, la garantía no cubre daños por bolas de fuego o explosiones.\n\t\t\tLamentablemente la garantía no cubre bolas de fuego ni actos de Bum.\n\t\t\tMalheureusement, la garantie ne couvrait pas les boules de feu ou les expériences de Boum.\n\t\t\tPurtroppo, la garanzia non copre i danni da Palle di Fuoco.\n\t\t\tドクター・ブームのあらゆる行為の結果による損傷は、「天才等の不可抗力」とみなされ、補償の対象外となります。\n\t\t\t화염구나 각종 천재지붐으로 파손된 경우는 책임지지 않습니다.\n\t\t\tGwarancja nie obejmuje uszkodzeń od kuli ognia ani bomb.\n\t\t\tInfelizmente, a garantia não cobre bolas de fogo ou atos praticados por Cabum.\n\t\t\tПрямое попадание огненного шара и прочие несчастные случаи в пределах лаборатории страховкой не покрываются.\n\t\t\tน่าเสียดายที่การรับประกัน[b]ไม่ครอบคลุมถึงบอลเพลิง[b]และภัยจากบูม\n\t\t\t火球术及爆炸所造成的损伤不在保修范围内。\n\t\t\t本產品保固不包含火球術和不可抗力的爆炸意外所造成的損傷。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Daria Tuzova"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Beschädigter Stegotron"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Damaged Stegotron"
+          },
+          "esES": {
+            "present": true,
+            "value": "Estegotrón dañado"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Estegotrón dañado"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Stégotron endommagé"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Stegotron Danneggiato"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "損傷したステゴトロン"
+          },
+          "koKR": {
+            "present": true,
+            "value": "손상된 스테고트론"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Uszkodzony stegotron"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Estegotron Danificado"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Поврежденный стеготрон"
+          },
+          "thTH": {
+            "present": true,
+            "value": "สเตโกทรอนเสียหาย"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "受损的机械剑龙"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "受損的機械劍龍"
+          }
+        },
+        "textContent": "\n\t\tBeschädigter Stegotron\n\t\tDamaged Stegotron\n\t\tEstegotrón dañado\n\t\tEstegotrón dañado\n\t\tStégotron endommagé\n\t\tStegotron Danneggiato\n\t\t損傷したステゴトロン\n\t\t손상된 스테고트론\n\t\tUszkodzony stegotron\n\t\tEstegotron Danificado\n\t\tПоврежденный стеготрон\n\t\tสเตโกทรอนเสียหาย\n\t\t受损的机械剑龙\n\t\t受損的機械劍龍\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Spott</b>. <b>Kampfschrei:</b>\nFügt diesem Diener\n6 Schaden zu."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Taunt</b>\n<b>Battlecry:</b> Deal 6 damage to this minion."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Provocar</b>\n<b>Grito de batalla:</b>\nInflige 6 p. de daño\na este esbirro."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Provocación</b>\n<b>Grito de batalla:</b> inflige 6 de daño a este esbirro."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Provocation</b>\n<b>Cri de guerre_:</b> inflige 6_|4(point,points) de dégâts à ce serviteur."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Provocazione</b>. <b>Grido\ndi Battaglia:</b> infligge 6\ndanni a SE STESSO."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>挑発</b>\n<b>雄叫び:</b>\nこのミニオンに\n__6ダメージを与える。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>도발</b>, <b>전투의 함성:</b> 자신에게 피해를\n6 줍니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Prowokacja</b>\n<b>Okrzyk bojowy:</b> Zadaj\n6 pkt. obrażeń temu stronnikowi."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Provocar</b>\n<b>Grito de Guerra:</b> Cause 6 de dano a este lacaio."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]<b>Провокация</b>. <b>Боевой клич:</b>\nнаносит 6 ед. урона этому\nсуществу."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>ยั่วยุ</b> <b>คำรามสู้ศึก:</b> สร้างความเสียหาย 6_แต้มให้มินเนี่ยนตัวนี้"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>嘲讽</b>。<b>战吼：</b>对本随从造成6点伤害。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "[x]<b>嘲諷</b>\n<b>戰吼：</b>對此手下\n造成6點傷害"
+          }
+        },
+        "textContent": "\n\t\t<b>Spott</b>. <b>Kampfschrei:</b>\nFügt diesem Diener\n6 Schaden zu.\n\t\t<b>Taunt</b>\n<b>Battlecry:</b> Deal 6 damage to this minion.\n\t\t[x]<b>Provocar</b>\n<b>Grito de batalla:</b>\nInflige 6 p. de daño\na este esbirro.\n\t\t<b>Provocación</b>\n<b>Grito de batalla:</b> inflige 6 de daño a este esbirro.\n\t\t<b>Provocation</b>\n<b>Cri de guerre_:</b> inflige 6_|4(point,points) de dégâts à ce serviteur.\n\t\t[x]<b>Provocazione</b>. <b>Grido\ndi Battaglia:</b> infligge 6\ndanni a SE STESSO.\n\t\t<b>挑発</b>\n<b>雄叫び:</b>\nこのミニオンに\n__6ダメージを与える。\n\t\t<b>도발</b>, <b>전투의 함성:</b> 자신에게 피해를\n6 줍니다.\n\t\t<b>Prowokacja</b>\n<b>Okrzyk bojowy:</b> Zadaj\n6 pkt. obrażeń temu stronnikowi.\n\t\t<b>Provocar</b>\n<b>Grito de Guerra:</b> Cause 6 de dano a este lacaio.\n\t\t[x]<b>Провокация</b>. <b>Боевой клич:</b>\nнаносит 6 ед. урона этому\nсуществу.\n\t\t<b>ยั่วยุ</b> <b>คำรามสู้ศึก:</b> สร้างความเสียหาย 6_แต้มให้มินเนี่ยนตัวนี้\n\t\t<b>嘲讽</b>。<b>战吼：</b>对本随从造成6点伤害。\n\t\t[x]<b>嘲諷</b>\n<b>戰吼：</b>對此手下\n造成6點傷害\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Feuerbälle sind von der Garantie ausgeschlossen."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Sadly the warranty does not cover fireballs or acts of Boom."
+          },
+          "esES": {
+            "present": true,
+            "value": "Lamentablemente, la garantía no cubre daños por bolas de fuego o explosiones."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Lamentablemente la garantía no cubre bolas de fuego ni actos de Bum."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Malheureusement, la garantie ne couvrait pas les boules de feu ou les expériences de Boum."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Purtroppo, la garanzia non copre i danni da Palle di Fuoco."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ドクター・ブームのあらゆる行為の結果による損傷は、「天才等の不可抗力」とみなされ、補償の対象外となります。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "화염구나 각종 천재지붐으로 파손된 경우는 책임지지 않습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Gwarancja nie obejmuje uszkodzeń od kuli ognia ani bomb."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Infelizmente, a garantia não cobre bolas de fogo ou atos praticados por Cabum."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Прямое попадание огненного шара и прочие несчастные случаи в пределах лаборатории страховкой не покрываются."
+          },
+          "thTH": {
+            "present": true,
+            "value": "น่าเสียดายที่การรับประกัน[b]ไม่ครอบคลุมถึงบอลเพลิง[b]และภัยจากบูม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "火球术及爆炸所造成的损伤不在保修范围内。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "本產品保固不包含火球術和不可抗力的爆炸意外所造成的損傷。"
+          }
+        },
+        "textContent": "\n\t\tFeuerbälle sind von der Garantie ausgeschlossen.\n\t\tSadly the warranty does not cover fireballs or acts of Boom.\n\t\tLamentablemente, la garantía no cubre daños por bolas de fuego o explosiones.\n\t\tLamentablemente la garantía no cubre bolas de fuego ni actos de Bum.\n\t\tMalheureusement, la garantie ne couvrait pas les boules de feu ou les expériences de Boum.\n\t\tPurtroppo, la garanzia non copre i danni da Palle di Fuoco.\n\t\tドクター・ブームのあらゆる行為の結果による損傷は、「天才等の不可抗力」とみなされ、補償の対象外となります。\n\t\t화염구나 각종 천재지붐으로 파손된 경우는 책임지지 않습니다.\n\t\tGwarancja nie obejmuje uszkodzeń od kuli ognia ani bomb.\n\t\tInfelizmente, a garantia não cobre bolas de fogo ou atos praticados por Cabum.\n\t\tПрямое попадание огненного шара и прочие несчастные случаи в пределах лаборатории страховкой не покрываются.\n\t\tน่าเสียดายที่การรับประกัน[b]ไม่ครอบคลุมถึงบอลเพลิง[b]และภัยจากบูม\n\t\t火球术及爆炸所造成的损伤不在保修范围内。\n\t\t本產品保固不包含火球術和不可抗力的爆炸意外所造成的損傷。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Daria Tuzova"
+      }
     }
   },
   "_current": {

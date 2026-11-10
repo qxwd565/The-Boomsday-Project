@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Destillierter Blitz"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Beakered Lightning"
+          },
+          "esES": {
+            "present": true,
+            "value": "Relámpago envasado"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Relámpago capturado"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Foudre en bécher"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Fulmine Contenuto"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ガラス管入りの稲妻"
+          },
+          "koKR": {
+            "present": true,
+            "value": "비커에 담긴 번개"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zabutelkowana błyskawica"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Raio Encapsulado"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Молния в колбе"
+          },
+          "thTH": {
+            "present": true,
+            "value": "สายฟ้าในบีกเกอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "瓶装闪电"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "封裝的閃電"
+          }
+        },
+        "textContent": "\n\t\t\tDestillierter Blitz\n\t\t\tBeakered Lightning\n\t\t\tRelámpago envasado\n\t\t\tRelámpago capturado\n\t\t\tFoudre en bécher\n\t\t\tFulmine Contenuto\n\t\t\tガラス管入りの稲妻\n\t\t\t비커에 담긴 번개\n\t\t\tZabutelkowana błyskawica\n\t\t\tRaio Encapsulado\n\t\t\tМолния в колбе\n\t\t\tสายฟ้าในบีกเกอร์\n\t\t\t瓶装闪电\n\t\t\t封裝的閃電\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Fügt allen Dienern $1_Schaden zu. <b>Überladung:</b> (2)"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Deal $1 damage to all minions. <b>Overload:</b> (2)"
+          },
+          "esES": {
+            "present": true,
+            "value": "Inflige $1 p. de daño\na todos los esbirros. <b>Sobrecarga:</b> (2)."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Inflige $1 de daño a todos los esbirros. <b>Sobrecarga:</b> (2)"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Inflige_$1_|4(point,points)_de_dégâts à tous les serviteurs. <b>Surcharge_:</b>_(2)"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Infligge $1 |4(danno,danni) a TUTTI i servitori. <b>Sovraccarico:</b> (2)"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]全てのミニオンに\n$1ダメージを与える。\n<b>オーバーロード:</b>（2）"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>모든</b> 하수인에게 피해를 $1 줍니다. <b>과부하:</b> (2)"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zadaj $1 pkt. obrażeń wszystkim stronnikom. <b>Przeciążenie:</b> (2)"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Cause $1 de dano a todos os lacaios. <b>Sobrecarga:</b> (2)"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Наносит $1 ед. урона всем существам. <b>Перегрузка:</b> (2)"
+          },
+          "thTH": {
+            "present": true,
+            "value": "สร้างความเสียหาย $1_แต้มให้มินเนี่ยนทั้งหมด <b>โอเวอร์โหลด:</b> (2)"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "对所有随从造成$1点伤害。\n<b>过载：</b>（2）"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "對全部手下\n造成$1點傷害\n<b>超載：</b>(2)"
+          }
+        },
+        "textContent": "\n\t\t\tFügt allen Dienern $1_Schaden zu. <b>Überladung:</b> (2)\n\t\t\tDeal $1 damage to all minions. <b>Overload:</b> (2)\n\t\t\tInflige $1 p. de daño\na todos los esbirros. <b>Sobrecarga:</b> (2).\n\t\t\tInflige $1 de daño a todos los esbirros. <b>Sobrecarga:</b> (2)\n\t\t\tInflige_$1_|4(point,points)_de_dégâts à tous les serviteurs. <b>Surcharge_:</b>_(2)\n\t\t\tInfligge $1 |4(danno,danni) a TUTTI i servitori. <b>Sovraccarico:</b> (2)\n\t\t\t[x]全てのミニオンに\n$1ダメージを与える。\n<b>オーバーロード:</b>（2）\n\t\t\t<b>모든</b> 하수인에게 피해를 $1 줍니다. <b>과부하:</b> (2)\n\t\t\tZadaj $1 pkt. obrażeń wszystkim stronnikom. <b>Przeciążenie:</b> (2)\n\t\t\tCause $1 de dano a todos os lacaios. <b>Sobrecarga:</b> (2)\n\t\t\tНаносит $1 ед. урона всем существам. <b>Перегрузка:</b> (2)\n\t\t\tสร้างความเสียหาย $1_แต้มให้มินเนี่ยนทั้งหมด <b>โอเวอร์โหลด:</b> (2)\n\t\t\t对所有随从造成$1点伤害。\n<b>过载：</b>（2）\n\t\t\t對全部手下\n造成$1點傷害\n<b>超載：</b>(2)\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Ihr dachtet wohl, wir finden kein Wort mehr, dass sich sinnvoll mit Blitz kombinieren lässt, was?"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Working in a shaman's lab, it's important to be well-grounded."
+          },
+          "esES": {
+            "present": true,
+            "value": "¿La mejor manera de envasar un relámpago? Claramente, una frágil probeta de cristal."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Cuando trabajas en el laboratorio de un chamán es importante tener un cable a tierra."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Voilà qui explique la tête de Neurovolt !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Quando si lavora in un laboratorio di Sciamani, è importante avere una buona messa a terra."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "シャーマンの研究室で働くなら、特に重要なのはアース・エレメンタルだ。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "주술사 연구실에서 일할 때에는 발을 땅에서 떼지 않는 게 좋을 겁니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "W tym laboratorium często dochodzi do spięć między pracownikami."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Para trabalhar em laboratório de Xamã, é preciso estar bem aterrado."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Перед проведением экспериментов в шаманской лаборатории не забудьте как следует заземлиться."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ถ้าจะทำงานในห้องแล็บ[b]ของชาแมน คุณต้องทำตัว[b]ติดดินเข้าไว้"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "在萨满祭司实验室工作只有一个要求，那就是——稳。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "在薩滿實驗室工作，最重要的就是腳踏實地，能打赤腳更好。"
+          }
+        },
+        "textContent": "\n\t\t\tIhr dachtet wohl, wir finden kein Wort mehr, dass sich sinnvoll mit Blitz kombinieren lässt, was?\n\t\t\tWorking in a shaman's lab, it's important to be well-grounded.\n\t\t\t¿La mejor manera de envasar un relámpago? Claramente, una frágil probeta de cristal.\n\t\t\tCuando trabajas en el laboratorio de un chamán es importante tener un cable a tierra.\n\t\t\tVoilà qui explique la tête de Neurovolt !\n\t\t\tQuando si lavora in un laboratorio di Sciamani, è importante avere una buona messa a terra.\n\t\t\tシャーマンの研究室で働くなら、特に重要なのはアース・エレメンタルだ。\n\t\t\t주술사 연구실에서 일할 때에는 발을 땅에서 떼지 않는 게 좋을 겁니다.\n\t\t\tW tym laboratorium często dochodzi do spięć między pracownikami.\n\t\t\tPara trabalhar em laboratório de Xamã, é preciso estar bem aterrado.\n\t\t\tПеред проведением экспериментов в шаманской лаборатории не забудьте как следует заземлиться.\n\t\t\tถ้าจะทำงานในห้องแล็บ[b]ของชาแมน คุณต้องทำตัว[b]ติดดินเข้าไว้\n\t\t\t在萨满祭司实验室工作只有一个要求，那就是——稳。\n\t\t\t在薩滿實驗室工作，最重要的就是腳踏實地，能打赤腳更好。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Evgeniy Dlinnov"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Destillierter Blitz"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Beakered Lightning"
+          },
+          "esES": {
+            "present": true,
+            "value": "Relámpago envasado"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Relámpago capturado"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Foudre en bécher"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Fulmine Contenuto"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ガラス管入りの稲妻"
+          },
+          "koKR": {
+            "present": true,
+            "value": "비커에 담긴 번개"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zabutelkowana błyskawica"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Raio Encapsulado"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Молния в колбе"
+          },
+          "thTH": {
+            "present": true,
+            "value": "สายฟ้าในบีกเกอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "瓶装闪电"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "封裝的閃電"
+          }
+        },
+        "textContent": "\n\t\tDestillierter Blitz\n\t\tBeakered Lightning\n\t\tRelámpago envasado\n\t\tRelámpago capturado\n\t\tFoudre en bécher\n\t\tFulmine Contenuto\n\t\tガラス管入りの稲妻\n\t\t비커에 담긴 번개\n\t\tZabutelkowana błyskawica\n\t\tRaio Encapsulado\n\t\tМолния в колбе\n\t\tสายฟ้าในบีกเกอร์\n\t\t瓶装闪电\n\t\t封裝的閃電\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Fügt allen Dienern $1_Schaden zu. <b>Überladung:</b> (2)"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Deal $1 damage to all minions. <b>Overload:</b> (2)"
+          },
+          "esES": {
+            "present": true,
+            "value": "Inflige $1 p. de daño\na todos los esbirros. <b>Sobrecarga:</b> (2)."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Inflige $1 de daño a todos los esbirros. <b>Sobrecarga:</b> (2)"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Inflige_$1_|4(point,points)_de_dégâts à tous les serviteurs. <b>Surcharge_:_(2)</b>"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Infligge $1 |4(danno,danni) a TUTTI i servitori. <b>Sovraccarico:</b> (2)"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]全てのミニオンに\n$1ダメージを与える。\n<b>オーバーロード:</b>（2）"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>모든</b> 하수인에게 피해를 $1 줍니다. <b>과부하:</b> (2)"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zadaj $1 pkt. obrażeń wszystkim stronnikom. <b>Przeciążenie:</b> (2)"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Cause $1 de dano a todos os lacaios. <b>Sobrecarga:</b> (2)"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Наносит $1 ед. урона всем существам. <b>Перегрузка:</b> (2)"
+          },
+          "thTH": {
+            "present": true,
+            "value": "สร้างความเสียหาย $1_แต้มให้มินเนี่ยนทั้งหมด <b>โอเวอร์โหลด:</b> (2)"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "对所有随从造成$1点伤害。\n<b>过载：</b>（2）"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "對全部手下\n造成$1點傷害\n<b>超載：</b>(2)"
+          }
+        },
+        "textContent": "\n\t\tFügt allen Dienern $1_Schaden zu. <b>Überladung:</b> (2)\n\t\tDeal $1 damage to all minions. <b>Overload:</b> (2)\n\t\tInflige $1 p. de daño\na todos los esbirros. <b>Sobrecarga:</b> (2).\n\t\tInflige $1 de daño a todos los esbirros. <b>Sobrecarga:</b> (2)\n\t\tInflige_$1_|4(point,points)_de_dégâts à tous les serviteurs. <b>Surcharge_:_(2)</b>\n\t\tInfligge $1 |4(danno,danni) a TUTTI i servitori. <b>Sovraccarico:</b> (2)\n\t\t[x]全てのミニオンに\n$1ダメージを与える。\n<b>オーバーロード:</b>（2）\n\t\t<b>모든</b> 하수인에게 피해를 $1 줍니다. <b>과부하:</b> (2)\n\t\tZadaj $1 pkt. obrażeń wszystkim stronnikom. <b>Przeciążenie:</b> (2)\n\t\tCause $1 de dano a todos os lacaios. <b>Sobrecarga:</b> (2)\n\t\tНаносит $1 ед. урона всем существам. <b>Перегрузка:</b> (2)\n\t\tสร้างความเสียหาย $1_แต้มให้มินเนี่ยนทั้งหมด <b>โอเวอร์โหลด:</b> (2)\n\t\t对所有随从造成$1点伤害。\n<b>过载：</b>（2）\n\t\t對全部手下\n造成$1點傷害\n<b>超載：</b>(2)\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Ihr dachtet wohl, wir finden kein Wort mehr, dass sich sinnvoll mit Blitz kombinieren lässt, was?"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Working in a shaman's lab, it's important to be well-grounded."
+          },
+          "esES": {
+            "present": true,
+            "value": "¿La mejor manera de envasar un relámpago? Claramente, una frágil probeta de cristal."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Cuando trabajas en el laboratorio de un chamán es importante tener un cable a tierra."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Voilà qui explique la tête de Neurovolt !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Quando si lavora in un laboratorio di Sciamani, è importante avere una buona messa a terra."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "シャーマンの研究室で働くなら、特に重要なのはアース・エレメンタルだ。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "주술사 연구실에서 일할 때에는 발을 땅에서 떼지 않는 게 좋을 겁니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "W tym laboratorium często dochodzi do spięć między pracownikami."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Para trabalhar em laboratório de Xamã, é preciso estar bem aterrado."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Перед проведением экспериментов в шаманской лаборатории не забудьте как следует заземлиться."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ถ้าจะทำงานในห้องแล็บ[b]ของชาแมน คุณต้องทำตัว[b]ติดดินเข้าไว้"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "在萨满祭司实验室工作只有一个要求，那就是——稳。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "在薩滿實驗室工作，最重要的就是腳踏實地，能打赤腳更好。"
+          }
+        },
+        "textContent": "\n\t\tIhr dachtet wohl, wir finden kein Wort mehr, dass sich sinnvoll mit Blitz kombinieren lässt, was?\n\t\tWorking in a shaman's lab, it's important to be well-grounded.\n\t\t¿La mejor manera de envasar un relámpago? Claramente, una frágil probeta de cristal.\n\t\tCuando trabajas en el laboratorio de un chamán es importante tener un cable a tierra.\n\t\tVoilà qui explique la tête de Neurovolt !\n\t\tQuando si lavora in un laboratorio di Sciamani, è importante avere una buona messa a terra.\n\t\tシャーマンの研究室で働くなら、特に重要なのはアース・エレメンタルだ。\n\t\t주술사 연구실에서 일할 때에는 발을 땅에서 떼지 않는 게 좋을 겁니다.\n\t\tW tym laboratorium często dochodzi do spięć między pracownikami.\n\t\tPara trabalhar em laboratório de Xamã, é preciso estar bem aterrado.\n\t\tПеред проведением экспериментов в шаманской лаборатории не забудьте как следует заземлиться.\n\t\tถ้าจะทำงานในห้องแล็บ[b]ของชาแมน คุณต้องทำตัว[b]ติดดินเข้าไว้\n\t\t在萨满祭司实验室工作只有一个要求，那就是——稳。\n\t\t在薩滿實驗室工作，最重要的就是腳踏實地，能打赤腳更好。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Evgeniy Dlinnov"
+      }
     }
   },
   "_current": {

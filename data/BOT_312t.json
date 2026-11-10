@@ -51,6 +51,156 @@
     "currentStringTagPresence": {
       "184": false,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mikrobot"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Microbot"
+          },
+          "esES": {
+            "present": true,
+            "value": "Microbot"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Microbot"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Microbot"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Microbot"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "マイクロロボ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "초소형 로봇"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Mikrobot"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Microrrobô"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Микробот"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ไมโครบอท"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "微型机器人"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "微型機器人"
+          }
+        },
+        "textContent": "\n\t\t\tMikrobot\n\t\t\tMicrobot\n\t\t\tMicrobot\n\t\t\tMicrobot\n\t\t\tMicrobot\n\t\t\tMicrobot\n\t\t\tマイクロロボ\n\t\t\t초소형 로봇\n\t\t\tMikrobot\n\t\t\tMicrorrobô\n\t\t\tМикробот\n\t\t\tไมโครบอท\n\t\t\t微型机器人\n\t\t\t微型機器人\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Vladimir Kafanov"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mikrobot"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Microbot"
+          },
+          "esES": {
+            "present": true,
+            "value": "Microbot"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Microbot"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Microbot"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Microbot"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "マイクロロボ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "초소형 로봇"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Mikrobot"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Microrrobô"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Микробот"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ไมโครบอท"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "微型机器人"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "微型機器人"
+          }
+        },
+        "textContent": "\n\t\tMikrobot\n\t\tMicrobot\n\t\tMicrobot\n\t\tMicrobot\n\t\tMicrobot\n\t\tMicrobot\n\t\tマイクロロボ\n\t\t초소형 로봇\n\t\tMikrobot\n\t\tMicrorrobô\n\t\tМикробот\n\t\tไมโครบอท\n\t\t微型机器人\n\t\t微型機器人\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Vladimir Kafanov"
+      }
     }
   },
   "_current": {

@@ -83,6 +83,286 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Lieferdrohne"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Delivery Drone"
+          },
+          "esES": {
+            "present": true,
+            "value": "Dron repartidor"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Dron mensajero"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Drone de livraison"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Drone Fattorino"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "お届けドローン"
+          },
+          "koKR": {
+            "present": true,
+            "value": "지원 병력 투하"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Dron dostawczy"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Drone de Entregas"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Доставочный дрон"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โดรนลำเลียง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "无人运输机"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "快遞無人機"
+          }
+        },
+        "textContent": "\n\t\t\tLieferdrohne\n\t\t\tDelivery Drone\n\t\t\tDron repartidor\n\t\t\tDron mensajero\n\t\t\tDrone de livraison\n\t\t\tDrone Fattorino\n\t\t\tお届けドローン\n\t\t\t지원 병력 투하\n\t\t\tDron dostawczy\n\t\t\tDrone de Entregas\n\t\t\tДоставочный дрон\n\t\t\tโดรนลำเลียง\n\t\t\t无人运输机\n\t\t\t快遞無人機\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Heldenfähigkeit</b>\n<b>Entdeckt</b> einen Mech. [x]Wechselt in jedem Zug."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Hero Power</b>\n<b>Discover</b> a Mech.\nSwaps_each_turn."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Poder de héroe</b>\n<b>Descubre</b> un robot.\nCambia cada turno."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Poder de héroe</b>\n<b>Devela</b> un Meca.\nCambia con cada turno."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Pouvoir héroïque</b>\n<b>Découvre</b> un Méca. Change_à_chaque_tour."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Potere Eroe</b>\n<b>Rinvieni</b> un Robot.\nCambia ogni turno."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>ヒーローパワー</b>\nメカを1体<b>発見</b>する。\nパワーは毎ターン\n入れ替わる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>영웅 능력</b>\n기계를 하나 <b>발견</b>합니다.\n매 턴마다 바뀝니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Moc specjalna</b>\n<b>Odkryj</b> Mecha. Zmienia się w każdej turze."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Poder Heroico</b>\n<b>Descubra</b> um Mecanoide. Muda a cada turno."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Сила героя</b>\nВы <b>раскапываете</b> механизм. Меняется каждый ход."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>พลังฮีโร่</b>\n<b>ค้นพบ</b> การ์ดเครื่องจักร เปลี่ยนพลังใหม่ทุกเทิร์น"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>英雄技能</b>\n<b>发现</b>一张机械牌。每回合切换。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>英雄能力</b>\n<b>發現</b>一個機械\n(每回合換能力)"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Heldenfähigkeit</b>\n<b>Entdeckt</b> einen Mech. [x]Wechselt in jedem Zug.\n\t\t\t<b>Hero Power</b>\n<b>Discover</b> a Mech.\nSwaps_each_turn.\n\t\t\t[x]<b>Poder de héroe</b>\n<b>Descubre</b> un robot.\nCambia cada turno.\n\t\t\t<b>Poder de héroe</b>\n<b>Devela</b> un Meca.\nCambia con cada turno.\n\t\t\t<b>Pouvoir héroïque</b>\n<b>Découvre</b> un Méca. Change_à_chaque_tour.\n\t\t\t[x]<b>Potere Eroe</b>\n<b>Rinvieni</b> un Robot.\nCambia ogni turno.\n\t\t\t[x]<b>ヒーローパワー</b>\nメカを1体<b>発見</b>する。\nパワーは毎ターン\n入れ替わる。\n\t\t\t[x]<b>영웅 능력</b>\n기계를 하나 <b>발견</b>합니다.\n매 턴마다 바뀝니다.\n\t\t\t<b>Moc specjalna</b>\n<b>Odkryj</b> Mecha. Zmienia się w każdej turze.\n\t\t\t<b>Poder Heroico</b>\n<b>Descubra</b> um Mecanoide. Muda a cada turno.\n\t\t\t<b>Сила героя</b>\nВы <b>раскапываете</b> механизм. Меняется каждый ход.\n\t\t\t<b>พลังฮีโร่</b>\n<b>ค้นพบ</b> การ์ดเครื่องจักร เปลี่ยนพลังใหม่ทุกเทิร์น\n\t\t\t<b>英雄技能</b>\n<b>发现</b>一张机械牌。每回合切换。\n\t\t\t<b>英雄能力</b>\n<b>發現</b>一個機械\n(每回合換能力)\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Konstantin Turovec"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Lieferdrohne"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Delivery Drone"
+          },
+          "esES": {
+            "present": true,
+            "value": "Dron repartidor"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Dron mensajero"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Drone de livraison"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Drone Fattorino"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "お届けドローン"
+          },
+          "koKR": {
+            "present": true,
+            "value": "지원 병력 투하"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Dron dostawczy"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Drone de Entregas"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Доставочный дрон"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โดรนลำเลียง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "无人运输机"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "快遞無人機"
+          }
+        },
+        "textContent": "\n\t\tLieferdrohne\n\t\tDelivery Drone\n\t\tDron repartidor\n\t\tDron mensajero\n\t\tDrone de livraison\n\t\tDrone Fattorino\n\t\tお届けドローン\n\t\t지원 병력 투하\n\t\tDron dostawczy\n\t\tDrone de Entregas\n\t\tДоставочный дрон\n\t\tโดรนลำเลียง\n\t\t无人运输机\n\t\t快遞無人機\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Entdeckt</b> einen Mech.\nWechselt in jedem Zug."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Discover</b> a Mech.\nSwaps_each_turn."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Descubre</b> un robot. Cambia cada turno."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Devela</b> un Meca. Cambia_con_cada_turno."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Découvre</b> un Méca. Change à chaque tour."
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>Rinvieni</b> un Robot. Cambia ogni turno."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]メカを1体<b>発見</b>する。\n毎ターン対象の\n種族が替わる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "기계를 <b>발견</b>합니다.\n매 턴마다 바뀝니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Odkryj</b> Mecha. Zmienia się w każdej turze."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Descubra</b> um Mecanoide. Muda a cada turno."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Вы <b>раскапываете</b> механизм. Меняется каждый ход."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>ค้นพบ</b> เครื่องจักรหนึ่งใบ สลับพลังทุกเทิร์น"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>发现</b>一张机械牌。每回合切换。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>發現</b>一個機械(每回合換能力)"
+          }
+        },
+        "textContent": "\n\t\t<b>Entdeckt</b> einen Mech.\nWechselt in jedem Zug.\n\t\t<b>Discover</b> a Mech.\nSwaps_each_turn.\n\t\t<b>Descubre</b> un robot. Cambia cada turno.\n\t\t<b>Devela</b> un Meca. Cambia_con_cada_turno.\n\t\t<b>Découvre</b> un Méca. Change à chaque tour.\n\t\t<b>Rinvieni</b> un Robot. Cambia ogni turno.\n\t\t[x]メカを1体<b>発見</b>する。\n毎ターン対象の\n種族が替わる。\n\t\t기계를 <b>발견</b>합니다.\n매 턴마다 바뀝니다.\n\t\t<b>Odkryj</b> Mecha. Zmienia się w każdej turze.\n\t\t<b>Descubra</b> um Mecanoide. Muda a cada turno.\n\t\tВы <b>раскапываете</b> механизм. Меняется каждый ход.\n\t\t<b>ค้นพบ</b> เครื่องจักรหนึ่งใบ สลับพลังทุกเทิร์น\n\t\t<b>发现</b>一张机械牌。每回合切换。\n\t\t<b>發現</b>一個機械(每回合換能力)\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Konstantin Turovec"
+      }
     }
   },
   "_current": {

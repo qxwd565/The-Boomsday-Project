@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Bronzetorwächter"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Bronze Gatekeeper"
+          },
+          "esES": {
+            "present": true,
+            "value": "Guardián de bronce"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Guardián de bronce"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Gardienne de bronze"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Sorvegliante di Bronzo"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ブロンズ・ゲートキーパー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "청동 문지기"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Strażnik z brązu"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Guarda-Pórtico de Bronze"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Бронзовая привратница"
+          },
+          "thTH": {
+            "present": true,
+            "value": "บรอนซ์เกตคีปเปอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "青铜门卫"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "青銅守門者"
+          }
+        },
+        "textContent": "\n\t\t\tBronzetorwächter\n\t\t\tBronze Gatekeeper\n\t\t\tGuardián de bronce\n\t\t\tGuardián de bronce\n\t\t\tGardienne de bronze\n\t\t\tSorvegliante di Bronzo\n\t\t\tブロンズ・ゲートキーパー\n\t\t\t청동 문지기\n\t\t\tStrażnik z brązu\n\t\t\tGuarda-Pórtico de Bronze\n\t\t\tБронзовая привратница\n\t\t\tบรอนซ์เกตคีปเปอร์\n\t\t\t青铜门卫\n\t\t\t青銅守門者\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Magnetisch</b>, <b>Spott</b>"
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Magnetic</b>\n<b>Taunt</b>"
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Magnetismo</b>\n<b>Provocar</b>"
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Magnetismo</b>\n<b>Provocación</b>"
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Magnétisme</b>\n<b>Provocation</b>"
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Magnetismo</b>.\n<b>Provocazione</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>超電磁</b>\n<b>挑発</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>합체</b>\n<b>도발</b>"
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Magnetyzm</b>\n<b>Prowokacja</b>"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Magnético</b>\n<b>Provocar</b>"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Магнетизм</b>\n<b>Провокация</b>"
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>แม่เหล็ก</b>\n<b>ยั่วยุ</b>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>磁力</b>\n<b>嘲讽</b>"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>合體</b>\n<b>嘲諷</b>"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Magnetisch</b>, <b>Spott</b>\n\t\t\t<b>Magnetic</b>\n<b>Taunt</b>\n\t\t\t<b>Magnetismo</b>\n<b>Provocar</b>\n\t\t\t<b>Magnetismo</b>\n<b>Provocación</b>\n\t\t\t<b>Magnétisme</b>\n<b>Provocation</b>\n\t\t\t[x]<b>Magnetismo</b>.\n<b>Provocazione</b>.\n\t\t\t<b>超電磁</b>\n<b>挑発</b>\n\t\t\t<b>합체</b>\n<b>도발</b>\n\t\t\t<b>Magnetyzm</b>\n<b>Prowokacja</b>\n\t\t\t<b>Magnético</b>\n<b>Provocar</b>\n\t\t\t<b>Магнетизм</b>\n<b>Провокация</b>\n\t\t\t<b>แม่เหล็ก</b>\n<b>ยั่วยุ</b>\n\t\t\t<b>磁力</b>\n<b>嘲讽</b>\n\t\t\t<b>合體</b>\n<b>嘲諷</b>\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Er will in dieser Saison unbedingt in die Silberliga aufsteigen. Aber das geht natürlich nur, wenn er bessere Mitspieler erwischt als bisher."
+          },
+          "enUS": {
+            "present": true,
+            "value": "\"You have my shield! And the rest of me too.\""
+          },
+          "esES": {
+            "present": true,
+            "value": "«¡Cuenta con mi escudo!»."
+          },
+          "esMX": {
+            "present": true,
+            "value": "\"¡Tienes mi escudo! Y también el resto de mí\"."
+          },
+          "frFR": {
+            "present": true,
+            "value": "« Mon bouclier est vôtre ! »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "\"Hai il mio scudo! E anche tutto il resto.\""
+          },
+          "jaJP": {
+            "present": true,
+            "value": "彼は密かに自分を「キャプテン・ネザーストーム」と呼んでいる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"제 방패는 당신 것입니다! 나머지 부품도 당신 것이고요.\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Masz moją tarczę! I całą resztę w sumie też”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "\"Meu escudo está com você! E o resto também.\""
+          },
+          "ruRU": {
+            "present": true,
+            "value": "«Мой щит тебя защитит!»"
+          },
+          "thTH": {
+            "present": true,
+            "value": "\"โล่ข้าเป็นของเจ้า! ส่วนอื่นๆ ในตัวข้าก็เหมือนกัน\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "我的盾，我的全身心，现在都属于你。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "「我的盾，跟我的人都是你的。」"
+          }
+        },
+        "textContent": "\n\t\t\tEr will in dieser Saison unbedingt in die Silberliga aufsteigen. Aber das geht natürlich nur, wenn er bessere Mitspieler erwischt als bisher.\n\t\t\t\"You have my shield! And the rest of me too.\"\n\t\t\t«¡Cuenta con mi escudo!».\n\t\t\t\"¡Tienes mi escudo! Y también el resto de mí\".\n\t\t\t« Mon bouclier est vôtre ! »\n\t\t\t\"Hai il mio scudo! E anche tutto il resto.\"\n\t\t\t彼は密かに自分を「キャプテン・ネザーストーム」と呼んでいる。\n\t\t\t\"제 방패는 당신 것입니다! 나머지 부품도 당신 것이고요.\"\n\t\t\t„Masz moją tarczę! I całą resztę w sumie też”.\n\t\t\t\"Meu escudo está com você! E o resto também.\"\n\t\t\t«Мой щит тебя защитит!»\n\t\t\t\"โล่ข้าเป็นของเจ้า! ส่วนอื่นๆ ในตัวข้าก็เหมือนกัน\"\n\t\t\t我的盾，我的全身心，现在都属于你。\n\t\t\t「我的盾，跟我的人都是你的。」\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Ursula dorada"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Bronzetorwächter"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Bronze Gatekeeper"
+          },
+          "esES": {
+            "present": true,
+            "value": "Guardián de bronce"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Guardián de bronce"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Gardienne de bronze"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Sorvegliante di Bronzo"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ブロンズ・ゲートキーパー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "청동 문지기"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Strażnik z brązu"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Guarda-Pórtico de Bronze"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Бронзовая привратница"
+          },
+          "thTH": {
+            "present": true,
+            "value": "บรอนซ์เกตคีปเปอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "青铜门卫"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "青銅守門者"
+          }
+        },
+        "textContent": "\n\t\tBronzetorwächter\n\t\tBronze Gatekeeper\n\t\tGuardián de bronce\n\t\tGuardián de bronce\n\t\tGardienne de bronze\n\t\tSorvegliante di Bronzo\n\t\tブロンズ・ゲートキーパー\n\t\t청동 문지기\n\t\tStrażnik z brązu\n\t\tGuarda-Pórtico de Bronze\n\t\tБронзовая привратница\n\t\tบรอนซ์เกตคีปเปอร์\n\t\t青铜门卫\n\t\t青銅守門者\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Magnetisch</b>, <b>Spott</b>"
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Magnetic</b>\n<b>Taunt</b>"
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Magnetismo</b>\n<b>Provocar</b>"
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Magnetismo</b>\n<b>Provocación</b>"
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Magnétisme</b>\n<b>Provocation</b>"
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Magnetismo</b>.\n<b>Provocazione</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>超電磁</b>\n<b>挑発</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>합체</b>\n<b>도발</b>"
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Magnetyzm</b>\n<b>Prowokacja</b>"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Magnético</b>\n<b>Provocar</b>"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Магнетизм</b>\n<b>Провокация</b>"
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>แม่เหล็ก</b>\n<b>ยั่วยุ</b>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>磁力</b>\n<b>嘲讽</b>"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>合體</b>\n<b>嘲諷</b>"
+          }
+        },
+        "textContent": "\n\t\t<b>Magnetisch</b>, <b>Spott</b>\n\t\t<b>Magnetic</b>\n<b>Taunt</b>\n\t\t<b>Magnetismo</b>\n<b>Provocar</b>\n\t\t<b>Magnetismo</b>\n<b>Provocación</b>\n\t\t<b>Magnétisme</b>\n<b>Provocation</b>\n\t\t[x]<b>Magnetismo</b>.\n<b>Provocazione</b>.\n\t\t<b>超電磁</b>\n<b>挑発</b>\n\t\t<b>합체</b>\n<b>도발</b>\n\t\t<b>Magnetyzm</b>\n<b>Prowokacja</b>\n\t\t<b>Magnético</b>\n<b>Provocar</b>\n\t\t<b>Магнетизм</b>\n<b>Провокация</b>\n\t\t<b>แม่เหล็ก</b>\n<b>ยั่วยุ</b>\n\t\t<b>磁力</b>\n<b>嘲讽</b>\n\t\t<b>合體</b>\n<b>嘲諷</b>\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Er will in dieser Saison unbedingt in die Silberliga aufsteigen. Aber das geht natürlich nur, wenn er bessere Mitspieler erwischt als bisher."
+          },
+          "enUS": {
+            "present": true,
+            "value": "\"You have my shield! And the rest of me too.\""
+          },
+          "esES": {
+            "present": true,
+            "value": "«¡Cuenta con mi escudo!»."
+          },
+          "esMX": {
+            "present": true,
+            "value": "\"¡Tienes mi escudo! Y también el resto de mí\"."
+          },
+          "frFR": {
+            "present": true,
+            "value": "« Mon bouclier est vôtre ! »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "\"Hai il mio scudo! E anche tutto il resto.\""
+          },
+          "jaJP": {
+            "present": true,
+            "value": "彼は密かに自分を「キャプテン・ネザーストーム」と呼んでいる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"제 방패는 당신 것입니다! 나머지 부품도 당신 것이고요.\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Masz moją tarczę! I całą resztę w sumie też”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "\"Meu escudo está com você! E o resto também.\""
+          },
+          "ruRU": {
+            "present": true,
+            "value": "«Мой щит тебя защитит!»"
+          },
+          "thTH": {
+            "present": true,
+            "value": "\"โล่ข้าเป็นของเจ้า! ส่วนอื่นๆ ในตัวข้าก็เหมือนกัน\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "我的盾，我的全身心，现在都属于你。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "「我的盾，跟我的人都是你的。」"
+          }
+        },
+        "textContent": "\n\t\tEr will in dieser Saison unbedingt in die Silberliga aufsteigen. Aber das geht natürlich nur, wenn er bessere Mitspieler erwischt als bisher.\n\t\t\"You have my shield! And the rest of me too.\"\n\t\t«¡Cuenta con mi escudo!».\n\t\t\"¡Tienes mi escudo! Y también el resto de mí\".\n\t\t« Mon bouclier est vôtre ! »\n\t\t\"Hai il mio scudo! E anche tutto il resto.\"\n\t\t彼は密かに自分を「キャプテン・ネザーストーム」と呼んでいる。\n\t\t\"제 방패는 당신 것입니다! 나머지 부품도 당신 것이고요.\"\n\t\t„Masz moją tarczę! I całą resztę w sumie też”.\n\t\t\"Meu escudo está com você! E o resto também.\"\n\t\t«Мой щит тебя защитит!»\n\t\t\"โล่ข้าเป็นของเจ้า! ส่วนอื่นๆ ในตัวข้าก็เหมือนกัน\"\n\t\t我的盾，我的全身心，现在都属于你。\n\t\t「我的盾，跟我的人都是你的。」\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Ursula Dorada"
+      }
     }
   },
   "_current": {

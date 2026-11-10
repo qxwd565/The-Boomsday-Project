@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Omegahirn"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Omega Mind"
+          },
+          "esES": {
+            "present": true,
+            "value": "Mente Omega"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Mente omega"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Esprit Oméga"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Mente Omega"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "オメガ・マインド"
+          },
+          "koKR": {
+            "present": true,
+            "value": "오메가 의식"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Świadomość Omega"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Mente Ômega"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Омега-разум"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โอเมก้าไมนด์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "欧米茄灵能者"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "奧米伽靈能者"
+          }
+        },
+        "textContent": "\n\t\t\tOmegahirn\n\t\t\tOmega Mind\n\t\t\tMente Omega\n\t\t\tMente omega\n\t\t\tEsprit Oméga\n\t\t\tMente Omega\n\t\t\tオメガ・マインド\n\t\t\t오메가 의식\n\t\t\tŚwiadomość Omega\n\t\t\tMente Ômega\n\t\t\tОмега-разум\n\t\t\tโอเมก้าไมนด์\n\t\t\t欧米茄灵能者\n\t\t\t奧米伽靈能者\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "[x]<b>Kampfschrei:</b> Eure Zauber\nhaben in diesem Zug\n<b>Lebensentzug</b>, wenn Ihr 10\nManakristalle habt."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> If you have 10\nMana Crystals, your spells\n have <b>Lifesteal</b> this turn."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b>\nSi tienes 10 cristales de maná,\ntus hechizos tienen <b>Robo de vida</b>\ndurante este turno."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> si tienes 10 Cristales de maná, tus hechizos tienen <b>Robavida</b> este turno."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> vos sorts ont <b>Vol de vie</b> pendant ce tour si vous avez 10_cristaux de mana."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b> se hai\n10 Cristalli di Mana, le tue\nMagie hanno <b>Furto Vitale</b>\nper questo turno."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n自分のマナクリスタルが\n10個ある場合\nこのターンの間、自分の\n______呪文は<b>生命奪取</b>を得る。_"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b> 내 마나 수정이\n10개면, 이번 턴에 내 주문이\n<b>생명력_흡수</b>를 얻습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Jeśli masz 10 kryształów many, twoje zaklęcia mają w tej turze <b>Kradzież życia</b>."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Se você tiver \n10 Cristais de Mana, seus \nfeitiços têm <b>Roubar_Vida</b> neste_turno."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]<b>Боевой клич:</b> если у вас\n10 кристаллов маны,\nваши заклинания\nна этом ходу получают\n<b>«Похищение жизни»</b>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> ถ้าคุณมีคริสตัลมานา 10 อัน เวทมนตร์ของคุณมี <b>สูบชีวิต</b> ในเทิร์นนี้"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>如果你有十个法力水晶，在本回合中你的所有法术具有\n<b>吸血</b>。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>若你有10顆法力水晶，本回合你的法術獲得<b>生命竊取</b>"
+          }
+        },
+        "textContent": "\n\t\t\t[x]<b>Kampfschrei:</b> Eure Zauber\nhaben in diesem Zug\n<b>Lebensentzug</b>, wenn Ihr 10\nManakristalle habt.\n\t\t\t[x]<b>Battlecry:</b> If you have 10\nMana Crystals, your spells\n have <b>Lifesteal</b> this turn.\n\t\t\t[x]<b>Grito de batalla:</b>\nSi tienes 10 cristales de maná,\ntus hechizos tienen <b>Robo de vida</b>\ndurante este turno.\n\t\t\t<b>Grito de batalla:</b> si tienes 10 Cristales de maná, tus hechizos tienen <b>Robavida</b> este turno.\n\t\t\t<b>Cri de guerre_:</b> vos sorts ont <b>Vol de vie</b> pendant ce tour si vous avez 10_cristaux de mana.\n\t\t\t[x]<b>Grido di Battaglia:</b> se hai\n10 Cristalli di Mana, le tue\nMagie hanno <b>Furto Vitale</b>\nper questo turno.\n\t\t\t[x]<b>雄叫び:</b>\n自分のマナクリスタルが\n10個ある場合\nこのターンの間、自分の\n______呪文は<b>生命奪取</b>を得る。_\n\t\t\t[x]<b>전투의 함성:</b> 내 마나 수정이\n10개면, 이번 턴에 내 주문이\n<b>생명력_흡수</b>를 얻습니다.\n\t\t\t<b>Okrzyk bojowy:</b> Jeśli masz 10 kryształów many, twoje zaklęcia mają w tej turze <b>Kradzież życia</b>.\n\t\t\t<b>Grito de Guerra:</b> Se você tiver \n10 Cristais de Mana, seus \nfeitiços têm <b>Roubar_Vida</b> neste_turno.\n\t\t\t[x]<b>Боевой клич:</b> если у вас\n10 кристаллов маны,\nваши заклинания\nна этом ходу получают\n<b>«Похищение жизни»</b>.\n\t\t\t<b>คำรามสู้ศึก:</b> ถ้าคุณมีคริสตัลมานา 10 อัน เวทมนตร์ของคุณมี <b>สูบชีวิต</b> ในเทิร์นนี้\n\t\t\t<b>战吼：</b>如果你有十个法力水晶，在本回合中你的所有法术具有\n<b>吸血</b>。\n\t\t\t<b>戰吼：</b>若你有10顆法力水晶，本回合你的法術獲得<b>生命竊取</b>\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Sie ist ein echter Blitzmerker."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Has a side-business selling her lipstick shade, \"Omega Red.\""
+          },
+          "esES": {
+            "present": true,
+            "value": "Hizo su fortuna con un negocio de pintalabios; gracias al éxito de ventas de su tono exclusivo: rojo omega."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Tiene un negocio paralelo donde vende su lápiz labial \"Omega Rojo\"."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Toute ressemblance avec Oméga rouge est purement fortuite."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Mente sapendo di mentire."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "彼女は副業として、愛用する「オメガレッド」色の口紅を売っている。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "부업으로 자신이 만든 틴트 \"오메가 레드\"를 팝니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Została ambasadorką linii kosmetyków „Czerwień Omega”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Ela tem um negócio paralelo de venda de batons, chamado \"Ômega Vermelho\"."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "В свободное от работы время продвигает свою линию авторской косметики «Красная Омега»."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เธอมีธุรกิจเสริมคือการขาย[b]ลิปสติกสีพิเศษ \"โอเมก้าเรด\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "代价就是掉头发和坐轮椅。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "她的副業是賣口紅，最暢銷的顏色是「奧米伽紅」。"
+          }
+        },
+        "textContent": "\n\t\t\tSie ist ein echter Blitzmerker.\n\t\t\tHas a side-business selling her lipstick shade, \"Omega Red.\"\n\t\t\tHizo su fortuna con un negocio de pintalabios; gracias al éxito de ventas de su tono exclusivo: rojo omega.\n\t\t\tTiene un negocio paralelo donde vende su lápiz labial \"Omega Rojo\".\n\t\t\tToute ressemblance avec Oméga rouge est purement fortuite.\n\t\t\tMente sapendo di mentire.\n\t\t\t彼女は副業として、愛用する「オメガレッド」色の口紅を売っている。\n\t\t\t부업으로 자신이 만든 틴트 \"오메가 레드\"를 팝니다.\n\t\t\tZostała ambasadorką linii kosmetyków „Czerwień Omega”.\n\t\t\tEla tem um negócio paralelo de venda de batons, chamado \"Ômega Vermelho\".\n\t\t\tВ свободное от работы время продвигает свою линию авторской косметики «Красная Омега».\n\t\t\tเธอมีธุรกิจเสริมคือการขาย[b]ลิปสติกสีพิเศษ \"โอเมก้าเรด\"\n\t\t\t代价就是掉头发和坐轮椅。\n\t\t\t她的副業是賣口紅，最暢銷的顏色是「奧米伽紅」。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Alex Horley Orlandelli"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Omegahirn"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Omega Mind"
+          },
+          "esES": {
+            "present": true,
+            "value": "Mente Omega"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Mente omega"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Esprit Oméga"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Mente Omega"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "オメガ・マインド"
+          },
+          "koKR": {
+            "present": true,
+            "value": "오메가 의식"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Świadomość Omega"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Mente Ômega"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Омега-разум"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โอเมก้าไมนด์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "欧米茄灵能者"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "奧米伽靈能者"
+          }
+        },
+        "textContent": "\n\t\tOmegahirn\n\t\tOmega Mind\n\t\tMente Omega\n\t\tMente omega\n\t\tEsprit Oméga\n\t\tMente Omega\n\t\tオメガ・マインド\n\t\t오메가 의식\n\t\tŚwiadomość Omega\n\t\tMente Ômega\n\t\tОмега-разум\n\t\tโอเมก้าไมนด์\n\t\t欧米茄灵能者\n\t\t奧米伽靈能者\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "[x]<b>Kampfschrei:</b> Eure Zauber\nhaben in diesem Zug\n<b>Lebensentzug</b>, wenn Ihr 10\nManakristalle habt."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> If you have 10\nMana Crystals, your spells\n have <b>Lifesteal</b> this turn."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b>\nSi tienes 10 cristales de maná,\ntus hechizos tienen <b>Robo de vida</b>\ndurante este turno."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> si tienes 10 Cristales de maná, tus hechizos tienen <b>Robavida</b> este turno."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> vos sorts ont <b>Vol de vie</b> pendant ce tour si vous avez 10_cristaux de mana."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b> se hai\n10 Cristalli di Mana, le tue\nMagie hanno <b>Furto Vitale</b>\nper questo turno."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n自分のマナクリスタルが\n10個ある場合\nこのターンの間、自分の\n______呪文は<b>生命奪取</b>を得る。_"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b> 내 마나 수정이\n10개면, 이번 턴에 내 주문이\n<b>생명력_흡수</b>를 얻습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Jeśli masz 10 kryształów many, twoje zaklęcia mają w tej turze <b>Kradzież życia</b>."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Se você tiver \n10 Cristais de Mana, seus \nfeitiços têm <b>Roubar_Vida</b> neste_turno."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]<b>Боевой клич:</b> если у вас\n10 кристаллов маны,\nваши заклинания\nна этом ходу получают\n<b>«Похищение жизни»</b>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b>_ถ้าคุณมีคริสตัล[b]มานา_10_อัน เวทมนตร์ของ[b]คุณมี_<b>สูบชีวิต</b>_ในเทิร์นนี้"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>如果你有十个法力水晶，在本回合中你的所有法术拥有\n<b>吸血</b>。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>若你有10顆法力水晶，本回合你的法術獲得<b>生命竊取</b>"
+          }
+        },
+        "textContent": "\n\t\t[x]<b>Kampfschrei:</b> Eure Zauber\nhaben in diesem Zug\n<b>Lebensentzug</b>, wenn Ihr 10\nManakristalle habt.\n\t\t[x]<b>Battlecry:</b> If you have 10\nMana Crystals, your spells\n have <b>Lifesteal</b> this turn.\n\t\t[x]<b>Grito de batalla:</b>\nSi tienes 10 cristales de maná,\ntus hechizos tienen <b>Robo de vida</b>\ndurante este turno.\n\t\t<b>Grito de batalla:</b> si tienes 10 Cristales de maná, tus hechizos tienen <b>Robavida</b> este turno.\n\t\t<b>Cri de guerre_:</b> vos sorts ont <b>Vol de vie</b> pendant ce tour si vous avez 10_cristaux de mana.\n\t\t[x]<b>Grido di Battaglia:</b> se hai\n10 Cristalli di Mana, le tue\nMagie hanno <b>Furto Vitale</b>\nper questo turno.\n\t\t[x]<b>雄叫び:</b>\n自分のマナクリスタルが\n10個ある場合\nこのターンの間、自分の\n______呪文は<b>生命奪取</b>を得る。_\n\t\t[x]<b>전투의 함성:</b> 내 마나 수정이\n10개면, 이번 턴에 내 주문이\n<b>생명력_흡수</b>를 얻습니다.\n\t\t<b>Okrzyk bojowy:</b> Jeśli masz 10 kryształów many, twoje zaklęcia mają w tej turze <b>Kradzież życia</b>.\n\t\t<b>Grito de Guerra:</b> Se você tiver \n10 Cristais de Mana, seus \nfeitiços têm <b>Roubar_Vida</b> neste_turno.\n\t\t[x]<b>Боевой клич:</b> если у вас\n10 кристаллов маны,\nваши заклинания\nна этом ходу получают\n<b>«Похищение жизни»</b>.\n\t\t<b>คำรามสู้ศึก:</b>_ถ้าคุณมีคริสตัล[b]มานา_10_อัน เวทมนตร์ของ[b]คุณมี_<b>สูบชีวิต</b>_ในเทิร์นนี้\n\t\t<b>战吼：</b>如果你有十个法力水晶，在本回合中你的所有法术拥有\n<b>吸血</b>。\n\t\t<b>戰吼：</b>若你有10顆法力水晶，本回合你的法術獲得<b>生命竊取</b>\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Sie ist ein echter Blitzmerker."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Has a side-business selling her lipstick shade, \"Omega Red.\""
+          },
+          "esES": {
+            "present": true,
+            "value": "Hizo su fortuna con un negocio de pintalabios; gracias al éxito de ventas de su tono exclusivo: rojo omega."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Tiene un negocio paralelo donde vende su lápiz labial \"Omega Rojo\"."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Toute ressemblance avec Oméga rouge est purement fortuite."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Mente sapendo di mentire."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "彼女は副業として、愛用する「オメガレッド」色の口紅を売っている。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "부업으로 자신이 만든 틴트 \"오메가 레드\"를 팝니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Została ambasadorką linii kosmetyków „Czerwień Omega”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Ela tem um negócio paralelo de venda de batons, chamado \"Ômega Vermelho\"."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "В свободное от работы время продвигает свою линию авторской косметики «Красная Омега»."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เธอมีธุรกิจเสริมคือการขาย[b]ลิปสติกสีพิเศษ \"โอเมก้าเรด\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "代价就是掉头发和坐轮椅。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "她的副業是賣口紅，最暢銷的顏色是「奧米伽紅」。"
+          }
+        },
+        "textContent": "\n\t\tSie ist ein echter Blitzmerker.\n\t\tHas a side-business selling her lipstick shade, \"Omega Red.\"\n\t\tHizo su fortuna con un negocio de pintalabios; gracias al éxito de ventas de su tono exclusivo: rojo omega.\n\t\tTiene un negocio paralelo donde vende su lápiz labial \"Omega Rojo\".\n\t\tToute ressemblance avec Oméga rouge est purement fortuite.\n\t\tMente sapendo di mentire.\n\t\t彼女は副業として、愛用する「オメガレッド」色の口紅を売っている。\n\t\t부업으로 자신이 만든 틴트 \"오메가 레드\"를 팝니다.\n\t\tZostała ambasadorką linii kosmetyków „Czerwień Omega”.\n\t\tEla tem um negócio paralelo de venda de batons, chamado \"Ômega Vermelho\".\n\t\tВ свободное от работы время продвигает свою линию авторской косметики «Красная Омега».\n\t\tเธอมีธุรกิจเสริมคือการขาย[b]ลิปสติกสีพิเศษ \"โอเมก้าเรด\"\n\t\t代价就是掉头发和坐轮椅。\n\t\t她的副業是賣口紅，最暢銷的顏色是「奧米伽紅」。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Alex Horley Orlandelli"
+      }
     }
   },
   "_current": {

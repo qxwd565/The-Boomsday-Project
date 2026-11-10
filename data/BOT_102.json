@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Funkenbohrer"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Spark Drill"
+          },
+          "esES": {
+            "present": true,
+            "value": "Taladro de chispas"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Taladro de chispas"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Fore-étincelles"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Trivella a Scintilla"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "スパーク・ドリル"
+          },
+          "koKR": {
+            "present": true,
+            "value": "불꽃 드릴"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Iskrzące wiertło"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Perfuratriz Faiscante"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Электробур"
+          },
+          "thTH": {
+            "present": true,
+            "value": "สว่านประกายไฟ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "火花钻机"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "火花鑽孔機"
+          }
+        },
+        "textContent": "\n\t\t\tFunkenbohrer\n\t\t\tSpark Drill\n\t\t\tTaladro de chispas\n\t\t\tTaladro de chispas\n\t\t\tFore-étincelles\n\t\t\tTrivella a Scintilla\n\t\t\tスパーク・ドリル\n\t\t\t불꽃 드릴\n\t\t\tIskrzące wiertło\n\t\t\tPerfuratriz Faiscante\n\t\t\tЭлектробур\n\t\t\tสว่านประกายไฟ\n\t\t\t火花钻机\n\t\t\t火花鑽孔機\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Eifer</b>. <b>Todesröcheln:</b> Erhaltet 2 Funken (1/1) mit <b>Eifer</b> auf die Hand."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Rush</b>\n<b>Deathrattle:</b> Add two\n1/1 Sparks with <b>Rush</b> to your hand."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Embestir</b>\n<b>Último aliento:</b> Añade dos\nchispas 1/1 con <b>Embestir</b>\na tu mano."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Acometida</b>\n<b>Estertor:</b> agrega dos Chispas 1/1 con <b>Acometida</b> a tu mano."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Ruée</b>\n<b>Râle d’agonie_:</b> ajoute deux étincelles_1/1 avec <b>Ruée</b> dans votre main."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Assalto</b>. <b>Rantolo di Morte:</b>\nmette nella tua mano\ndue Scintille 1/1\ncon <b>Assalto</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>急襲</b>\n<b>断末魔:</b>\n<b>急襲</b>を持つ1/1の\n「スパーク」2体を自分の\n手札に追加する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>속공</b>, <b>죽음의 메아리:</b>\n<b>속공</b> 능력이 있는 1/1\n불꽃 둘을 내 손으로\n가져옵니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Zryw</b>\n<b>Agonia:</b> Dodaj dwie Iskry_1/1 ze <b>Zrywem</b> do_twojej_ręki."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Rapidez</b>\n<b>Último Suspiro:</b> Adicione duas Faíscas 1/1 com <b>Rapidez</b> à sua mão."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Натиск</b>\n<b>Предсмертный хрип:</b>\nвы кладете в руку две искры 1/1 с_<b>«Натиском»</b>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>จู่โจม</b>, <b>เสียงสุดท้าย:</b> เพิ่ม ประกายไฟ_1/1_ที่มี_<b>จู่โจม</b> สองใบในมือคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>突袭，亡语：</b>将两张1/1并具有<b>突袭</b>的“火花”置入你的手牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "[x]<b>衝刺</b>\n<b>死亡之聲：</b>放兩個\n有<b>衝刺</b>的1/1火花\n到你的手中"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Eifer</b>. <b>Todesröcheln:</b> Erhaltet 2 Funken (1/1) mit <b>Eifer</b> auf die Hand.\n\t\t\t<b>Rush</b>\n<b>Deathrattle:</b> Add two\n1/1 Sparks with <b>Rush</b> to your hand.\n\t\t\t[x]<b>Embestir</b>\n<b>Último aliento:</b> Añade dos\nchispas 1/1 con <b>Embestir</b>\na tu mano.\n\t\t\t<b>Acometida</b>\n<b>Estertor:</b> agrega dos Chispas 1/1 con <b>Acometida</b> a tu mano.\n\t\t\t<b>Ruée</b>\n<b>Râle d’agonie_:</b> ajoute deux étincelles_1/1 avec <b>Ruée</b> dans votre main.\n\t\t\t[x]<b>Assalto</b>. <b>Rantolo di Morte:</b>\nmette nella tua mano\ndue Scintille 1/1\ncon <b>Assalto</b>.\n\t\t\t[x]<b>急襲</b>\n<b>断末魔:</b>\n<b>急襲</b>を持つ1/1の\n「スパーク」2体を自分の\n手札に追加する。\n\t\t\t[x]<b>속공</b>, <b>죽음의 메아리:</b>\n<b>속공</b> 능력이 있는 1/1\n불꽃 둘을 내 손으로\n가져옵니다.\n\t\t\t<b>Zryw</b>\n<b>Agonia:</b> Dodaj dwie Iskry_1/1 ze <b>Zrywem</b> do_twojej_ręki.\n\t\t\t<b>Rapidez</b>\n<b>Último Suspiro:</b> Adicione duas Faíscas 1/1 com <b>Rapidez</b> à sua mão.\n\t\t\t<b>Натиск</b>\n<b>Предсмертный хрип:</b>\nвы кладете в руку две искры 1/1 с_<b>«Натиском»</b>.\n\t\t\t<b>จู่โจม</b>, <b>เสียงสุดท้าย:</b> เพิ่ม ประกายไฟ_1/1_ที่มี_<b>จู่โจม</b> สองใบในมือคุณ\n\t\t\t<b>突袭，亡语：</b>将两张1/1并具有<b>突袭</b>的“火花”置入你的手牌。\n\t\t\t[x]<b>衝刺</b>\n<b>死亡之聲：</b>放兩個\n有<b>衝刺</b>的1/1火花\n到你的手中\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Es gibt keinen furchterregenderen Anblick als einen Elementar, der einen Bohrer bedient. Wie er das eigentlich macht und warum überhaupt, das ist Dr. Bumms Geheimnis."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Preferred weapon of Dr. Boom's orthodontist."
+          },
+          "esES": {
+            "present": true,
+            "value": "El arma preferida del dentista del Dr. Bum."
+          },
+          "esMX": {
+            "present": true,
+            "value": "El arma preferida del dentista del Dr. Bum."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Outil préféré de l’orthodontiste du Dr Boum."
+          },
+          "itIT": {
+            "present": true,
+            "value": "L'arma preferita dell'odontoiatra del Dott. Boom."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ドクター・ブームの矯正歯科医の愛用武器。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "박사 붐의 치과 의사가 즐겨 사용하는 무기입니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Ulubiona broń dentysty Doktora Huka."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "A arma preferida do dentista do Dr. Cabum."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Любимый инструмент дантиста, у которого лечится доктор Бум."
+          },
+          "thTH": {
+            "present": true,
+            "value": "อาวุธที่ทันตแพทย์[b]ของด็อกเตอร์บูมเลือกใช้"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "砰砰博士的牙医最喜欢的武器。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "爆爆博士的牙科醫生最喜歡的工具。"
+          }
+        },
+        "textContent": "\n\t\t\tEs gibt keinen furchterregenderen Anblick als einen Elementar, der einen Bohrer bedient. Wie er das eigentlich macht und warum überhaupt, das ist Dr. Bumms Geheimnis.\n\t\t\tPreferred weapon of Dr. Boom's orthodontist.\n\t\t\tEl arma preferida del dentista del Dr. Bum.\n\t\t\tEl arma preferida del dentista del Dr. Bum.\n\t\t\tOutil préféré de l’orthodontiste du Dr Boum.\n\t\t\tL'arma preferita dell'odontoiatra del Dott. Boom.\n\t\t\tドクター・ブームの矯正歯科医の愛用武器。\n\t\t\t박사 붐의 치과 의사가 즐겨 사용하는 무기입니다.\n\t\t\tUlubiona broń dentysty Doktora Huka.\n\t\t\tA arma preferida do dentista do Dr. Cabum.\n\t\t\tЛюбимый инструмент дантиста, у которого лечится доктор Бум.\n\t\t\tอาวุธที่ทันตแพทย์[b]ของด็อกเตอร์บูมเลือกใช้\n\t\t\t砰砰博士的牙医最喜欢的武器。\n\t\t\t爆爆博士的牙科醫生最喜歡的工具。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Ivan Fomin"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Funkenbohrer"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Spark Drill"
+          },
+          "esES": {
+            "present": true,
+            "value": "Taladro de chispas"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Taladro de chispas"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Fore-étincelles"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Trivella a Scintilla"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "スパーク・ドリル"
+          },
+          "koKR": {
+            "present": true,
+            "value": "불꽃 드릴"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Iskrzące wiertło"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Perfuratriz Faiscante"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Электробур"
+          },
+          "thTH": {
+            "present": true,
+            "value": "สว่านประกายไฟ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "火花钻机"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "火花鑽孔機"
+          }
+        },
+        "textContent": "\n\t\tFunkenbohrer\n\t\tSpark Drill\n\t\tTaladro de chispas\n\t\tTaladro de chispas\n\t\tFore-étincelles\n\t\tTrivella a Scintilla\n\t\tスパーク・ドリル\n\t\t불꽃 드릴\n\t\tIskrzące wiertło\n\t\tPerfuratriz Faiscante\n\t\tЭлектробур\n\t\tสว่านประกายไฟ\n\t\t火花钻机\n\t\t火花鑽孔機\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Eifer</b>. <b>Todesröcheln:</b> Erhaltet 2 Funken (1/1) mit <b>Eifer</b> auf die Hand."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Rush</b>\n<b>Deathrattle:</b> Add two\n1/1 Sparks with <b>Rush</b> to your hand."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Embestir</b>\n<b>Último aliento:</b> Añade dos\nchispas 1/1 con <b>Embestir</b>\na tu mano."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Acometida</b>\n<b>Estertor:</b> agrega dos Chispas 1/1 con <b>Acometida</b> a tu mano."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Ruée</b>\n<b>Râle d’agonie_:</b> ajoute deux étincelles_1/1 avec <b>Ruée</b> dans votre main."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Assalto</b>. <b>Rantolo di Morte:</b>\nmette nella tua mano\ndue Scintille 1/1\ncon <b>Assalto</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>急襲</b>\n<b>断末魔:</b>\n<b>急襲</b>を持つ1/1の\n「スパーク」2体を自分の\n手札に追加する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>속공</b>, <b>죽음의 메아리:</b>\n<b>속공</b> 능력이 있는 1/1\n불꽃 둘을 내 손으로\n가져옵니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Zryw</b>\n<b>Agonia:</b> Dodaj dwie Iskry_1/1 ze <b>Zrywem</b> do_twojej_ręki."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Rapidez</b>\n<b>Último Suspiro:</b> Adicione duas Faíscas 1/1 com <b>Rapidez</b> à sua mão."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Натиск</b>\n<b>Предсмертный хрип:</b>\nвы кладете в руку две искры 1/1 с_<b>«Натиском»</b>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>จู่โจม</b> <b>เสียงสุดท้าย:</b> เพิ่ม ประกายไฟ_1/1_ที่มี_<b>จู่โจม</b> สองใบในมือคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>突袭，亡语：</b>将两张1/1并具有<b>突袭</b>的“火花”置入你的手牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "[x]<b>衝刺</b>\n<b>死亡之聲：</b>放兩個\n有<b>衝刺</b>的1/1火花\n到你的手中"
+          }
+        },
+        "textContent": "\n\t\t<b>Eifer</b>. <b>Todesröcheln:</b> Erhaltet 2 Funken (1/1) mit <b>Eifer</b> auf die Hand.\n\t\t<b>Rush</b>\n<b>Deathrattle:</b> Add two\n1/1 Sparks with <b>Rush</b> to your hand.\n\t\t[x]<b>Embestir</b>\n<b>Último aliento:</b> Añade dos\nchispas 1/1 con <b>Embestir</b>\na tu mano.\n\t\t<b>Acometida</b>\n<b>Estertor:</b> agrega dos Chispas 1/1 con <b>Acometida</b> a tu mano.\n\t\t<b>Ruée</b>\n<b>Râle d’agonie_:</b> ajoute deux étincelles_1/1 avec <b>Ruée</b> dans votre main.\n\t\t[x]<b>Assalto</b>. <b>Rantolo di Morte:</b>\nmette nella tua mano\ndue Scintille 1/1\ncon <b>Assalto</b>.\n\t\t[x]<b>急襲</b>\n<b>断末魔:</b>\n<b>急襲</b>を持つ1/1の\n「スパーク」2体を自分の\n手札に追加する。\n\t\t[x]<b>속공</b>, <b>죽음의 메아리:</b>\n<b>속공</b> 능력이 있는 1/1\n불꽃 둘을 내 손으로\n가져옵니다.\n\t\t<b>Zryw</b>\n<b>Agonia:</b> Dodaj dwie Iskry_1/1 ze <b>Zrywem</b> do_twojej_ręki.\n\t\t<b>Rapidez</b>\n<b>Último Suspiro:</b> Adicione duas Faíscas 1/1 com <b>Rapidez</b> à sua mão.\n\t\t<b>Натиск</b>\n<b>Предсмертный хрип:</b>\nвы кладете в руку две искры 1/1 с_<b>«Натиском»</b>.\n\t\t<b>จู่โจม</b> <b>เสียงสุดท้าย:</b> เพิ่ม ประกายไฟ_1/1_ที่มี_<b>จู่โจม</b> สองใบในมือคุณ\n\t\t<b>突袭，亡语：</b>将两张1/1并具有<b>突袭</b>的“火花”置入你的手牌。\n\t\t[x]<b>衝刺</b>\n<b>死亡之聲：</b>放兩個\n有<b>衝刺</b>的1/1火花\n到你的手中\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Es gibt keinen furchterregenderen Anblick als einen Elementar, der einen Bohrer bedient. Wie er das eigentlich macht und warum überhaupt, das ist Dr. Bumms Geheimnis."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Preferred weapon of Dr. Boom's orthodontist."
+          },
+          "esES": {
+            "present": true,
+            "value": "El arma preferida del dentista del Dr. Bum."
+          },
+          "esMX": {
+            "present": true,
+            "value": "El arma preferida del dentista del Dr. Bum."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Outil préféré de l’orthodontiste du Dr Boum."
+          },
+          "itIT": {
+            "present": true,
+            "value": "L'arma preferita dell'odontoiatra del Dott. Boom."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ドクター・ブームの矯正歯科医の愛用武器。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "박사 붐의 치과 의사가 즐겨 사용하는 무기입니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Ulubiona broń dentysty Doktora Huka."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "A arma preferida do dentista do Dr. Cabum."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Любимый инструмент дантиста, у которого лечится доктор Бум."
+          },
+          "thTH": {
+            "present": true,
+            "value": "อาวุธที่ทันตแพทย์[b]ของด็อกเตอร์บูมเลือกใช้"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "砰砰博士的牙医最喜欢的武器。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "爆爆博士的牙科醫生最喜歡的工具。"
+          }
+        },
+        "textContent": "\n\t\tEs gibt keinen furchterregenderen Anblick als einen Elementar, der einen Bohrer bedient. Wie er das eigentlich macht und warum überhaupt, das ist Dr. Bumms Geheimnis.\n\t\tPreferred weapon of Dr. Boom's orthodontist.\n\t\tEl arma preferida del dentista del Dr. Bum.\n\t\tEl arma preferida del dentista del Dr. Bum.\n\t\tOutil préféré de l’orthodontiste du Dr Boum.\n\t\tL'arma preferita dell'odontoiatra del Dott. Boom.\n\t\tドクター・ブームの矯正歯科医の愛用武器。\n\t\t박사 붐의 치과 의사가 즐겨 사용하는 무기입니다.\n\t\tUlubiona broń dentysty Doktora Huka.\n\t\tA arma preferida do dentista do Dr. Cabum.\n\t\tЛюбимый инструмент дантиста, у которого лечится доктор Бум.\n\t\tอาวุธที่ทันตแพทย์[b]ของด็อกเตอร์บูมเลือกใช้\n\t\t砰砰博士的牙医最喜欢的武器。\n\t\t爆爆博士的牙科醫生最喜歡的工具。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Ivan Fomin"
+      }
     }
   },
   "_current": {

@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Dämonisches Projekt"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Demonic Project"
+          },
+          "esES": {
+            "present": true,
+            "value": "Proyecto demoníaco"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Proyecto demoníaco"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Projet démoniaque"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Progetto: Demoni"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "悪魔化プロジェクト"
+          },
+          "koKR": {
+            "present": true,
+            "value": "악마학 프로젝트"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Demoniczny projekt"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Projeto Demoníaco"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Проект по демонологии"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โครงการปลุกปีศาจ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "恶魔计划"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "惡魔研究計畫"
+          }
+        },
+        "textContent": "\n\t\t\tDämonisches Projekt\n\t\t\tDemonic Project\n\t\t\tProyecto demoníaco\n\t\t\tProyecto demoníaco\n\t\t\tProjet démoniaque\n\t\t\tProgetto: Demoni\n\t\t\t悪魔化プロジェクト\n\t\t\t악마학 프로젝트\n\t\t\tDemoniczny projekt\n\t\t\tProjeto Demoníaco\n\t\t\tПроект по демонологии\n\t\t\tโครงการปลุกปีศาจ\n\t\t\t恶魔计划\n\t\t\t惡魔研究計畫\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verwandelt einen zufälligen Diener auf der Hand jedes Spielers in einen Dämon."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Each player transforms a random minion in their hand into a Demon."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Cada jugador transforma\na un esbirro aleatorio\nde su mano en un\ndemonio."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Cada jugador transforma un esbirro aleatorio de su mano en un Demonio."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Chaque joueur transforme un serviteur aléatoire de sa main en démon."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Ogni giocatore trasforma un servitore casuale nella propria mano in un Demone."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]各プレイヤーは\n手札のランダムな\nミニオン1体を悪魔に\n変身させる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "각 플레이어의 손에 있는 무작위 하수인 하나씩을 무작위 악마로 변신시킵니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Każdy gracz przemienia losowego stronnika w swojej ręce w Demona."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Cada jogador transforma um lacaio aleatório da mão em um Demônio."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Превращает по случайному существу в_руке каждого игрока в демона."
+          },
+          "thTH": {
+            "present": true,
+            "value": "สุ่มเปลี่ยนมินเนี่ยน[b]หนึ่งใบในมือผู้เล่นทุกคน[b]เป็นมินเนี่ยนปีศาจ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "每个玩家将其手牌中的一张随机随从牌变形成为一张\n恶魔牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "雙方將手中的一個隨機手下變形為惡魔"
+          }
+        },
+        "textContent": "\n\t\t\tVerwandelt einen zufälligen Diener auf der Hand jedes Spielers in einen Dämon.\n\t\t\tEach player transforms a random minion in their hand into a Demon.\n\t\t\t[x]Cada jugador transforma\na un esbirro aleatorio\nde su mano en un\ndemonio.\n\t\t\tCada jugador transforma un esbirro aleatorio de su mano en un Demonio.\n\t\t\tChaque joueur transforme un serviteur aléatoire de sa main en démon.\n\t\t\tOgni giocatore trasforma un servitore casuale nella propria mano in un Demone.\n\t\t\t[x]各プレイヤーは\n手札のランダムな\nミニオン1体を悪魔に\n変身させる。\n\t\t\t각 플레이어의 손에 있는 무작위 하수인 하나씩을 무작위 악마로 변신시킵니다.\n\t\t\tKażdy gracz przemienia losowego stronnika w swojej ręce w Demona.\n\t\t\tCada jogador transforma um lacaio aleatório da mão em um Demônio.\n\t\t\tПревращает по случайному существу в_руке каждого игрока в демона.\n\t\t\tสุ่มเปลี่ยนมินเนี่ยน[b]หนึ่งใบในมือผู้เล่นทุกคน[b]เป็นมินเนี่ยนปีศาจ\n\t\t\t每个玩家将其手牌中的一张随机随从牌变形成为一张\n恶魔牌。\n\t\t\t雙方將手中的一個隨機手下變形為惡魔\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Noch so ein Gemeinschaftsprojekt, bei dem Jaraxxus keinen Finger krumm macht."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Another group project where Jaraxxus doesn't do any work."
+          },
+          "esES": {
+            "present": true,
+            "value": "Otro trabajo de grupo en el que Jaraxxus no hizo nada."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Otro proyecto grupal en el que Jaraxxus no aporta nada."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Encore un projet de groupe dans lequel Jaraxxus ne fait absolument rien."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Un altro progetto di gruppo in cui il contributo di Jaraxxus è stato irrisorio."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "このグループプロジェクトでも、ジャラクサスは一切働かない。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "조별 과제지만 자락서스는 역시나 하는 게 없군요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Kolejny projekt grupowy, w którym Jaraxxus uchyla się od pracy."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Mais um trabalho em grupo em que Jaraxxus não faz absolutamente nada."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Еще один групповой проект, для которого Джараксус не сделал ровным счетом ничего."
+          },
+          "thTH": {
+            "present": true,
+            "value": "งานกลุ่มอีกงานที่จาแร็กซ์ซัสไม่ช่วยอะไรเลย"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "每个人的心中都有一个恶魔。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "又是一個賈拉克瑟斯沒有做出任何貢獻的團隊研究計畫。"
+          }
+        },
+        "textContent": "\n\t\t\tNoch so ein Gemeinschaftsprojekt, bei dem Jaraxxus keinen Finger krumm macht.\n\t\t\tAnother group project where Jaraxxus doesn't do any work.\n\t\t\tOtro trabajo de grupo en el que Jaraxxus no hizo nada.\n\t\t\tOtro proyecto grupal en el que Jaraxxus no aporta nada.\n\t\t\tEncore un projet de groupe dans lequel Jaraxxus ne fait absolument rien.\n\t\t\tUn altro progetto di gruppo in cui il contributo di Jaraxxus è stato irrisorio.\n\t\t\tこのグループプロジェクトでも、ジャラクサスは一切働かない。\n\t\t\t조별 과제지만 자락서스는 역시나 하는 게 없군요.\n\t\t\tKolejny projekt grupowy, w którym Jaraxxus uchyla się od pracy.\n\t\t\tMais um trabalho em grupo em que Jaraxxus não faz absolutamente nada.\n\t\t\tЕще один групповой проект, для которого Джараксус не сделал ровным счетом ничего.\n\t\t\tงานกลุ่มอีกงานที่จาแร็กซ์ซัสไม่ช่วยอะไรเลย\n\t\t\t每个人的心中都有一个恶魔。\n\t\t\t又是一個賈拉克瑟斯沒有做出任何貢獻的團隊研究計畫。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "J. Paick & K. Turovec"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Dämonisches Projekt"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Demonic Project"
+          },
+          "esES": {
+            "present": true,
+            "value": "Proyecto demoníaco"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Proyecto demoníaco"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Projet démoniaque"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Progetto: Demoni"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "悪魔化プロジェクト"
+          },
+          "koKR": {
+            "present": true,
+            "value": "악마학 프로젝트"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Demoniczny projekt"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Projeto Demoníaco"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Проект по демонологии"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โครงการปลุกปีศาจ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "恶魔计划"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "惡魔研究計畫"
+          }
+        },
+        "textContent": "\n\t\tDämonisches Projekt\n\t\tDemonic Project\n\t\tProyecto demoníaco\n\t\tProyecto demoníaco\n\t\tProjet démoniaque\n\t\tProgetto: Demoni\n\t\t悪魔化プロジェクト\n\t\t악마학 프로젝트\n\t\tDemoniczny projekt\n\t\tProjeto Demoníaco\n\t\tПроект по демонологии\n\t\tโครงการปลุกปีศาจ\n\t\t恶魔计划\n\t\t惡魔研究計畫\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verwandelt einen zufälligen Diener auf der Hand jedes Spielers in einen Dämon."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Each player transforms a random minion in their hand into a Demon."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Cada jugador transforma\na un esbirro aleatorio\nde su mano en un\ndemonio."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Cada jugador transforma un esbirro aleatorio de su mano en un Demonio."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Chaque joueur transforme un serviteur aléatoire de sa main en Démon."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Ogni giocatore trasforma un servitore casuale nella propria mano in un Demone."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]各プレイヤーは\n手札のランダムな\nミニオン1体を悪魔に\n変身させる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]각 플레이어의 손에 있는\n무작위 하수인을 무작위\n악마로 변신시킵니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Każdy gracz przemienia losowego stronnika w swojej ręce w Demona."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Cada jogador transforma um lacaio aleatório da mão em um Demônio."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Превращает по случайному существу в_руке каждого игрока в демона."
+          },
+          "thTH": {
+            "present": true,
+            "value": "สุ่มเปลี่ยนมินเนี่ยน[b]หนึ่งใบในมือผู้เล่น[b]ทุกคนเป็นปีศาจ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "随机将每个玩家手牌中的一张随从牌变形成为一张\n恶魔牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "雙方將手中的一個隨機手下變形為惡魔"
+          }
+        },
+        "textContent": "\n\t\tVerwandelt einen zufälligen Diener auf der Hand jedes Spielers in einen Dämon.\n\t\tEach player transforms a random minion in their hand into a Demon.\n\t\t[x]Cada jugador transforma\na un esbirro aleatorio\nde su mano en un\ndemonio.\n\t\tCada jugador transforma un esbirro aleatorio de su mano en un Demonio.\n\t\tChaque joueur transforme un serviteur aléatoire de sa main en Démon.\n\t\tOgni giocatore trasforma un servitore casuale nella propria mano in un Demone.\n\t\t[x]各プレイヤーは\n手札のランダムな\nミニオン1体を悪魔に\n変身させる。\n\t\t[x]각 플레이어의 손에 있는\n무작위 하수인을 무작위\n악마로 변신시킵니다.\n\t\tKażdy gracz przemienia losowego stronnika w swojej ręce w Demona.\n\t\tCada jogador transforma um lacaio aleatório da mão em um Demônio.\n\t\tПревращает по случайному существу в_руке каждого игрока в демона.\n\t\tสุ่มเปลี่ยนมินเนี่ยน[b]หนึ่งใบในมือผู้เล่น[b]ทุกคนเป็นปีศาจ\n\t\t随机将每个玩家手牌中的一张随从牌变形成为一张\n恶魔牌。\n\t\t雙方將手中的一個隨機手下變形為惡魔\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Noch so ein Gemeinschaftsprojekt, bei dem Jaraxxus keinen Finger krumm macht."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Another group project where Jaraxxus doesn't do any work."
+          },
+          "esES": {
+            "present": true,
+            "value": "Otro trabajo de grupo en el que Jaraxxus no hizo nada."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Otro proyecto grupal en el que Jaraxxus no aporta nada."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Encore un projet de groupe dans lequel Jaraxxus ne fait absolument rien."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Un altro progetto di gruppo in cui il contributo di Jaraxxus è stato irrisorio."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "このグループプロジェクトでも、ジャラクサスは一切働かない。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "조별 과제지만 자락서스는 역시나 하는 게 없군요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Kolejny projekt grupowy, w którym Jaraxxus uchyla się od pracy."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Mais um trabalho em grupo em que Jaraxxus não faz absolutamente nada."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Еще один групповой проект, для которого Джараксус не сделал ровным счетом ничего."
+          },
+          "thTH": {
+            "present": true,
+            "value": "งานกลุ่มอีกงานที่จาแร็กซ์ซัสไม่ช่วยอะไรเลย"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "每个人的心中都有一个恶魔。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "又是一個賈拉克瑟斯沒有做出任何貢獻的團隊研究計畫。"
+          }
+        },
+        "textContent": "\n\t\tNoch so ein Gemeinschaftsprojekt, bei dem Jaraxxus keinen Finger krumm macht.\n\t\tAnother group project where Jaraxxus doesn't do any work.\n\t\tOtro trabajo de grupo en el que Jaraxxus no hizo nada.\n\t\tOtro proyecto grupal en el que Jaraxxus no aporta nada.\n\t\tEncore un projet de groupe dans lequel Jaraxxus ne fait absolument rien.\n\t\tUn altro progetto di gruppo in cui il contributo di Jaraxxus è stato irrisorio.\n\t\tこのグループプロジェクトでも、ジャラクサスは一切働かない。\n\t\t조별 과제지만 자락서스는 역시나 하는 게 없군요.\n\t\tKolejny projekt grupowy, w którym Jaraxxus uchyla się od pracy.\n\t\tMais um trabalho em grupo em que Jaraxxus não faz absolutamente nada.\n\t\tЕще один групповой проект, для которого Джараксус не сделал ровным счетом ничего.\n\t\tงานกลุ่มอีกงานที่จาแร็กซ์ซัสไม่ช่วยอะไรเลย\n\t\t每个人的心中都有一个恶魔。\n\t\t又是一個賈拉克瑟斯沒有做出任何貢獻的團隊研究計畫。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "J. Paick & K. Turovec"
+      }
     }
   },
   "_current": {

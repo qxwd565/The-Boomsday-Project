@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Ektomantie"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Ectomancy"
+          },
+          "esES": {
+            "present": true,
+            "value": "Ectomancia"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Ectomancia"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Ectomancie"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Ectomanzia"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "蝕媒術"
+          },
+          "koKR": {
+            "present": true,
+            "value": "심령술"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Ektomancja"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Ectomancia"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Эктомантия"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ศาสตร์สื่อวิญญาณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "炼魂术"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "煉魂術"
+          }
+        },
+        "textContent": "\n\t\t\tEktomantie\n\t\t\tEctomancy\n\t\t\tEctomancia\n\t\t\tEctomancia\n\t\t\tEctomancie\n\t\t\tEctomanzia\n\t\t\t蝕媒術\n\t\t\t심령술\n\t\t\tEktomancja\n\t\t\tEctomancia\n\t\t\tЭктомантия\n\t\t\tศาสตร์สื่อวิญญาณ\n\t\t\t炼魂术\n\t\t\t煉魂術\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Ruft eine Kopie jedes Dämons herbei, den Ihr kontrolliert."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Summon copies of all Demons you control."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Invoca copias\nde todos los demonios\nque controlas."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Invoca copias de todos los Demonios que controles."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Invoque des copies de tous les démons que vous contrôlez."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Evoca copie\ndei tuoi Demoni."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]味方の全ての悪魔の\nコピーを召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]내 전장의 모든 악마를\n복사하여 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Przyzwij kopie wszystkich Demonów, które kontrolujesz."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Evoque cópias de todos os Demônios que você controlar."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Призывает копии всех демонов под вашим контролем."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เรียกร่างก๊อปปี้ของปีศาจ[b]ทั้งหมดในสนามฝั่งคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "召唤你控制的所有恶魔的复制。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "為你場上全部的惡魔召喚分身"
+          }
+        },
+        "textContent": "\n\t\t\tRuft eine Kopie jedes Dämons herbei, den Ihr kontrolliert.\n\t\t\tSummon copies of all Demons you control.\n\t\t\t[x]Invoca copias\nde todos los demonios\nque controlas.\n\t\t\tInvoca copias de todos los Demonios que controles.\n\t\t\tInvoque des copies de tous les démons que vous contrôlez.\n\t\t\t[x]Evoca copie\ndei tuoi Demoni.\n\t\t\t[x]味方の全ての悪魔の\nコピーを召喚する。\n\t\t\t[x]내 전장의 모든 악마를\n복사하여 소환합니다.\n\t\t\tPrzyzwij kopie wszystkich Demonów, które kontrolujesz.\n\t\t\tEvoque cópias de todos os Demônios que você controlar.\n\t\t\tПризывает копии всех демонов под вашим контролем.\n\t\t\tเรียกร่างก๊อปปี้ของปีศาจ[b]ทั้งหมดในสนามฝั่งคุณ\n\t\t\t召唤你控制的所有恶魔的复制。\n\t\t\t為你場上全部的惡魔召喚分身\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "„Zerek! Raus aus meinem Labor!“"
+          },
+          "enUS": {
+            "present": true,
+            "value": "\"Zerek! Stay out of my lab!\""
+          },
+          "esES": {
+            "present": true,
+            "value": "¡Es un espectro omnivagante de la clase 5!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "\"¡Zerek! ¡No entres en mi laboratorio!\""
+          },
+          "frFR": {
+            "present": true,
+            "value": "« Zerek ! Ne t’approche pas de mon labo ! »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "\"Zerek! Stai lontano dal mio laboratorio!\""
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「ゼレク！私の研究室に入るな！」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"제레크! 내 연구실에서 썩 나가지 못해?!\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Zerek! Wynocha z mojego laboratorium!”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "\"Zerek! Fora do meu laboratório!\""
+          },
+          "ruRU": {
+            "present": true,
+            "value": "«Зерек!!! Не смей приближаться к моей лаборатории!»"
+          },
+          "thTH": {
+            "present": true,
+            "value": "\"เซเรค! อย่ายุ่งกับแล็บของข้า!\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "\"泽里克！滚出我的实验室！\""
+          },
+          "zhTW": {
+            "present": true,
+            "value": "「澤瑞克！滾出我的實驗室！」"
+          }
+        },
+        "textContent": "\n\t\t\t„Zerek! Raus aus meinem Labor!“\n\t\t\t\"Zerek! Stay out of my lab!\"\n\t\t\t¡Es un espectro omnivagante de la clase 5!\n\t\t\t\"¡Zerek! ¡No entres en mi laboratorio!\"\n\t\t\t« Zerek ! Ne t’approche pas de mon labo ! »\n\t\t\t\"Zerek! Stai lontano dal mio laboratorio!\"\n\t\t\t「ゼレク！私の研究室に入るな！」\n\t\t\t\"제레크! 내 연구실에서 썩 나가지 못해?!\"\n\t\t\t„Zerek! Wynocha z mojego laboratorium!”.\n\t\t\t\"Zerek! Fora do meu laboratório!\"\n\t\t\t«Зерек!!! Не смей приближаться к моей лаборатории!»\n\t\t\t\"เซเรค! อย่ายุ่งกับแล็บของข้า!\"\n\t\t\t\"泽里克！滚出我的实验室！\"\n\t\t\t「澤瑞克！滾出我的實驗室！」\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Jerry Mascho"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Ektomantie"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Ectomancy"
+          },
+          "esES": {
+            "present": true,
+            "value": "Ectomancia"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Ectomancia"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Ectomancie"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Ectomanzia"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "蝕媒術"
+          },
+          "koKR": {
+            "present": true,
+            "value": "심령술"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Ektomancja"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Ectomancia"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Эктомантия"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ศาสตร์สื่อวิญญาณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "炼魂术"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "煉魂術"
+          }
+        },
+        "textContent": "\n\t\tEktomantie\n\t\tEctomancy\n\t\tEctomancia\n\t\tEctomancia\n\t\tEctomancie\n\t\tEctomanzia\n\t\t蝕媒術\n\t\t심령술\n\t\tEktomancja\n\t\tEctomancia\n\t\tЭктомантия\n\t\tศาสตร์สื่อวิญญาณ\n\t\t炼魂术\n\t\t煉魂術\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Ruft eine Kopie jedes Dämons herbei, den Ihr kontrolliert."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Summon copies of all Demons you control."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Invoca copias\nde todos los demonios\nque controlas."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Invoca copias de todos los Demonios que controles."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Invoque des copies de tous les Démons que vous contrôlez."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Evoca copie\ndei tuoi Demoni."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]味方の全ての悪魔の\nコピーを召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]내 전장의 모든 악마를\n복사하여 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Przyzwij kopie wszystkich Demonów, które kontrolujesz."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Evoque cópias de todos os Demônios que você controlar."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Призывает копии всех демонов под вашим контролем."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เรียกร่างก๊อปปี้[b]ของปีศาจทั้งหมดใน[b]สนามฝั่งคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "召唤你控制的所有恶魔的复制。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "為你場上全部的惡魔召喚分身"
+          }
+        },
+        "textContent": "\n\t\tRuft eine Kopie jedes Dämons herbei, den Ihr kontrolliert.\n\t\tSummon copies of all Demons you control.\n\t\t[x]Invoca copias\nde todos los demonios\nque controlas.\n\t\tInvoca copias de todos los Demonios que controles.\n\t\tInvoque des copies de tous les Démons que vous contrôlez.\n\t\t[x]Evoca copie\ndei tuoi Demoni.\n\t\t[x]味方の全ての悪魔の\nコピーを召喚する。\n\t\t[x]내 전장의 모든 악마를\n복사하여 소환합니다.\n\t\tPrzyzwij kopie wszystkich Demonów, które kontrolujesz.\n\t\tEvoque cópias de todos os Demônios que você controlar.\n\t\tПризывает копии всех демонов под вашим контролем.\n\t\tเรียกร่างก๊อปปี้[b]ของปีศาจทั้งหมดใน[b]สนามฝั่งคุณ\n\t\t召唤你控制的所有恶魔的复制。\n\t\t為你場上全部的惡魔召喚分身\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "„Zerek! Raus aus meinem Labor!“"
+          },
+          "enUS": {
+            "present": true,
+            "value": "\"Zerek! Stay out of my lab!\""
+          },
+          "esES": {
+            "present": true,
+            "value": "¡Es un espectro omnivagante de la clase 5!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "\"¡Zerek! ¡No entres en mi laboratorio!\""
+          },
+          "frFR": {
+            "present": true,
+            "value": "« Zerek ! Ne t’approche pas de mon labo ! »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "\"Zerek! Stai lontano dal mio laboratorio!\""
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「ゼレク！私の研究室に入るな！」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"제레크! 내 연구실에서 썩 나가지 못해?!\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Zerek! Wynocha z mojego laboratorium!”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "\"Zerek! Fora do meu laboratório!\""
+          },
+          "ruRU": {
+            "present": true,
+            "value": "«Зерек!!! Не смей приближаться к моей лаборатории!»"
+          },
+          "thTH": {
+            "present": true,
+            "value": "\"เซเรค! อย่ายุ่งกับแล็บของข้า!\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "“泽里克！滚出我的实验室！”"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "「澤瑞克！滾出我的實驗室！」"
+          }
+        },
+        "textContent": "\n\t\t„Zerek! Raus aus meinem Labor!“\n\t\t\"Zerek! Stay out of my lab!\"\n\t\t¡Es un espectro omnivagante de la clase 5!\n\t\t\"¡Zerek! ¡No entres en mi laboratorio!\"\n\t\t« Zerek ! Ne t’approche pas de mon labo ! »\n\t\t\"Zerek! Stai lontano dal mio laboratorio!\"\n\t\t「ゼレク！私の研究室に入るな！」\n\t\t\"제레크! 내 연구실에서 썩 나가지 못해?!\"\n\t\t„Zerek! Wynocha z mojego laboratorium!”.\n\t\t\"Zerek! Fora do meu laboratório!\"\n\t\t«Зерек!!! Не смей приближаться к моей лаборатории!»\n\t\t\"เซเรค! อย่ายุ่งกับแล็บของข้า!\"\n\t\t“泽里克！滚出我的实验室！”\n\t\t「澤瑞克！滾出我的實驗室！」\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Jerry Mascho"
+      }
     }
   },
   "_current": {

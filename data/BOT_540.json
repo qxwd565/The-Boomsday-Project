@@ -83,6 +83,546 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "EMP-Expertin"
+          },
+          "enUS": {
+            "present": true,
+            "value": "E.M.P. Operative"
+          },
+          "esES": {
+            "present": true,
+            "value": "Operativa de PEM"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Agente de P.E.M."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Agent émetteur d’I.E.M."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Agente Elettromagnetica"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "電磁パルス工作員"
+          },
+          "koKR": {
+            "present": true,
+            "value": "E.M.P. 비밀요원"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Elektromagnetyczna agentka"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Agente de P.E.M."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Агент ЭМИ"
+          },
+          "thTH": {
+            "present": true,
+            "value": "หน่วยปฏิบัติการ E.M.P."
+          },
+          "zhCN": {
+            "present": true,
+            "value": "电磁脉冲特工"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "E.M.P.特務"
+          }
+        },
+        "textContent": "\n\t\t\tEMP-Expertin\n\t\t\tE.M.P. Operative\n\t\t\tOperativa de PEM\n\t\t\tAgente de P.E.M.\n\t\t\tAgent émetteur d’I.E.M.\n\t\t\tAgente Elettromagnetica\n\t\t\t電磁パルス工作員\n\t\t\tE.M.P. 비밀요원\n\t\t\tElektromagnetyczna agentka\n\t\t\tAgente de P.E.M.\n\t\t\tАгент ЭМИ\n\t\t\tหน่วยปฏิบัติการ E.M.P.\n\t\t\t电磁脉冲特工\n\t\t\tE.M.P.特務\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Vernichtet einen Mech."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Destroy a Mech."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> Destruye un robot."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> destruye un Meca."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b>\ndétruit un Méca."
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>Grido di Battaglia:</b> distrugge un Robot."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n__メカ1体を破壊する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n기계를 하나 처치합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Zniszcz Mecha."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Destrua um Mecanoide."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> уничтожает выбранный механизм."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> ทำลาย[b]มินเนี่ยนเครื่องจักรหนึ่งตัว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>\n消灭一个机械。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>摧毀一個機械"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Vernichtet einen Mech.\n\t\t\t<b>Battlecry:</b> Destroy a Mech.\n\t\t\t<b>Grito de batalla:</b> Destruye un robot.\n\t\t\t<b>Grito de batalla:</b> destruye un Meca.\n\t\t\t<b>Cri de guerre_:</b>\ndétruit un Méca.\n\t\t\t<b>Grido di Battaglia:</b> distrugge un Robot.\n\t\t\t[x]<b>雄叫び:</b>\n__メカ1体を破壊する。\n\t\t\t<b>전투의 함성:</b>\n기계를 하나 처치합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Zniszcz Mecha.\n\t\t\t<b>Grito de Guerra:</b> Destrua um Mecanoide.\n\t\t\t<b>Боевой клич:</b> уничтожает выбранный механизм.\n\t\t\t<b>คำรามสู้ศึก:</b> ทำลาย[b]มินเนี่ยนเครื่องจักรหนึ่งตัว\n\t\t\t<b>战吼：</b>\n消灭一个机械。\n\t\t\t<b>戰吼：</b>摧毀一個機械\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "EMP, mit freundlichen Grüßen. Die Mechs liegen mir zu Füßen, denn ich stehe drauf."
+          },
+          "enUS": {
+            "present": true,
+            "value": "\"I said this looks like a job for me\nSo everybody just follow me\n'Cause we need a little E.M.P.\n'Cause it feels so mechy without me…\""
+          },
+          "esES": {
+            "present": true,
+            "value": "No le tiembla el pulso electromagnético."
+          },
+          "esMX": {
+            "present": true,
+            "value": "\"Más inteligente que la 99, más fuerte que Lara…\" Todos me adulan cuando necesitan mis servicios..."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Son appareil lui permet d’introduire des bugs dans la matrice et d’arrêter les Méca."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Il peggior incubo di ogni reparto IT."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "日が暮れるように\n弱くなってゆくよ\n消えかかる　メカのパルス\nI'm here"
+          },
+          "koKR": {
+            "present": true,
+            "value": "¿Quién es Sombra?"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Mechom aż wygina się metal ze strachu, gdy tylko ktoś o niej wspomni."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "\"Diga, se te deixei faltar robô, se o meu pulso é sem valor, se não fui agente pra você...\""
+          },
+          "ruRU": {
+            "present": true,
+            "value": "О, как устала я возиться вечно с теми,\nКто механизмы «номинирует на ЭМИ»..."
+          },
+          "thTH": {
+            "present": true,
+            "value": "มองทางโน้นไม่มี E\nมองทางนี้ไม่เจอ M\nมองทางไหนถึงเจอ P"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "我说这事非得我出马不行\n所有人都给我过来这里听\n因为我们需要一点E.M.P.\n因为它们只能由我来搞定"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "看來這件事非我來不行，\n所有人都給我過來這裡。\n我們會需要一點E.M.P.，\n只有我可以解決這些機器…"
+          }
+        },
+        "textContent": "\n\t\t\tEMP, mit freundlichen Grüßen. Die Mechs liegen mir zu Füßen, denn ich stehe drauf.\n\t\t\t\"I said this looks like a job for me\nSo everybody just follow me\n'Cause we need a little E.M.P.\n'Cause it feels so mechy without me…\"\n\t\t\tNo le tiembla el pulso electromagnético.\n\t\t\t\"Más inteligente que la 99, más fuerte que Lara…\" Todos me adulan cuando necesitan mis servicios...\n\t\t\tSon appareil lui permet d’introduire des bugs dans la matrice et d’arrêter les Méca.\n\t\t\tIl peggior incubo di ogni reparto IT.\n\t\t\t日が暮れるように\n弱くなってゆくよ\n消えかかる　メカのパルス\nI'm here\n\t\t\t¿Quién es Sombra?\n\t\t\tMechom aż wygina się metal ze strachu, gdy tylko ktoś o niej wspomni.\n\t\t\t\"Diga, se te deixei faltar robô, se o meu pulso é sem valor, se não fui agente pra você...\"\n\t\t\tО, как устала я возиться вечно с теми,\nКто механизмы «номинирует на ЭМИ»...\n\t\t\tมองทางโน้นไม่มี E\nมองทางนี้ไม่เจอ M\nมองทางไหนถึงเจอ P\n\t\t\t我说这事非得我出马不行\n所有人都给我过来这里听\n因为我们需要一点E.M.P.\n因为它们只能由我来搞定\n\t\t\t看來這件事非我來不行，\n所有人都給我過來這裡。\n我們會需要一點E.M.P.，\n只有我可以解決這些機器…\n\t\t"
+      },
+      "325": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Vernichtet einen Mech."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Destroy a Mech."
+          },
+          "esES": {
+            "present": true,
+            "value": "Destruye un robot."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Destruye un Meca."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Détruit un Méca."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Distrugge un Robot."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "メカ1体を破壊する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "기계 하나 처치"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zniszcz Mecha."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Destrua um Mecanoide."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Уничтожить механизм."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ทำลายมินเนี่ยน[b]เครื่องจักรหนึ่งตัว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "消灭一个机械。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "摧毀一個機械"
+          }
+        },
+        "textContent": "\n\t\t\tVernichtet einen Mech.\n\t\t\tDestroy a Mech.\n\t\t\tDestruye un robot.\n\t\t\tDestruye un Meca.\n\t\t\tDétruit un Méca.\n\t\t\tDistrugge un Robot.\n\t\t\tメカ1体を破壊する。\n\t\t\t기계 하나 처치\n\t\t\tZniszcz Mecha.\n\t\t\tDestrua um Mecanoide.\n\t\t\tУничтожить механизм.\n\t\t\tทำลายมินเนี่ยน[b]เครื่องจักรหนึ่งตัว\n\t\t\t消灭一个机械。\n\t\t\t摧毀一個機械\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Mauricio Herrera"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "EMP-Expertin"
+          },
+          "enUS": {
+            "present": true,
+            "value": "E.M.P. Operative"
+          },
+          "esES": {
+            "present": true,
+            "value": "Operativa de PEM"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Agente de P.E.M."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Agent émetteur d’I.E.M."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Agente Elettromagnetica"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "電磁パルス工作員"
+          },
+          "koKR": {
+            "present": true,
+            "value": "E.M.P. 비밀요원"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Elektromagnetyczna agentka"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Agente de P.E.M."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Агент ЭМИ"
+          },
+          "thTH": {
+            "present": true,
+            "value": "หน่วยปฏิบัติการ E.M.P."
+          },
+          "zhCN": {
+            "present": true,
+            "value": "电磁脉冲特工"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "E.M.P.特務"
+          }
+        },
+        "textContent": "\n\t\tEMP-Expertin\n\t\tE.M.P. Operative\n\t\tOperativa de PEM\n\t\tAgente de P.E.M.\n\t\tAgent émetteur d’I.E.M.\n\t\tAgente Elettromagnetica\n\t\t電磁パルス工作員\n\t\tE.M.P. 비밀요원\n\t\tElektromagnetyczna agentka\n\t\tAgente de P.E.M.\n\t\tАгент ЭМИ\n\t\tหน่วยปฏิบัติการ E.M.P.\n\t\t电磁脉冲特工\n\t\tE.M.P.特務\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Vernichtet einen Mech."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Destroy a Mech."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> Destruye un robot."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> destruye un Meca."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b>\ndétruit un Méca."
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>Grido di Battaglia:</b> distrugge un Robot."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n__メカ1体を破壊する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n기계를 처치합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Zniszcz Mecha."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Destrua um Mecanoide."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> уничтожает механизм."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> ทำลาย[b]เครื่องจักรหนึ่งตัว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>\n消灭一个机械。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>摧毀一個機械"
+          }
+        },
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Vernichtet einen Mech.\n\t\t<b>Battlecry:</b> Destroy a Mech.\n\t\t<b>Grito de batalla:</b> Destruye un robot.\n\t\t<b>Grito de batalla:</b> destruye un Meca.\n\t\t<b>Cri de guerre_:</b>\ndétruit un Méca.\n\t\t<b>Grido di Battaglia:</b> distrugge un Robot.\n\t\t[x]<b>雄叫び:</b>\n__メカ1体を破壊する。\n\t\t<b>전투의 함성:</b>\n기계를 처치합니다.\n\t\t<b>Okrzyk bojowy:</b> Zniszcz Mecha.\n\t\t<b>Grito de Guerra:</b> Destrua um Mecanoide.\n\t\t<b>Боевой клич:</b> уничтожает механизм.\n\t\t<b>คำรามสู้ศึก:</b> ทำลาย[b]เครื่องจักรหนึ่งตัว\n\t\t<b>战吼：</b>\n消灭一个机械。\n\t\t<b>戰吼：</b>摧毀一個機械\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "EMP, mit freundlichen Grüßen. Die Mechs liegen mir zu Füßen, denn ich stehe drauf."
+          },
+          "enUS": {
+            "present": true,
+            "value": "\"I said this looks like a job for me\nSo everybody just follow me\n'Cause we need a little E.M.P.\n'Cause it feels so mechy without me…\""
+          },
+          "esES": {
+            "present": true,
+            "value": "No le tiembla el pulso electromagnético."
+          },
+          "esMX": {
+            "present": true,
+            "value": "\"Más inteligente que la 99, más fuerte que Lara…\" Todos me adulan cuando necesitan mis servicios..."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Son appareil lui permet d’introduire des bugs dans la matrice et d’arrêter les Méca."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Il peggior incubo di ogni reparto IT."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "日が暮れるように\n弱くなってゆくよ\n消えかかる　メカのパルス\nI'm here"
+          },
+          "koKR": {
+            "present": true,
+            "value": "¿Quién es Sombra?"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Mechom aż wygina się metal ze strachu, gdy tylko ktoś o niej wspomni."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "\"Diga, se te deixei faltar robô, se o meu pulso é sem valor, se não fui agente pra você...\""
+          },
+          "ruRU": {
+            "present": true,
+            "value": "О, как устала я возиться вечно с теми,\nКто механизмы «номинирует на ЭМИ»..."
+          },
+          "thTH": {
+            "present": true,
+            "value": "\"มองทางโน้นไม่มี E\nมองทางนี้ไม่เจอ M\nมองทางไหนถึงเจอ P \""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "我说这事非得我出马不行\n所有人都给我过来这里听\n因为我们需要一点E.M.P.\n因为它们只能由我来搞定"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "看來這件事非我來不行，\n所有人都給我過來這裡。\n我們會需要一點E.M.P.，\n只有我可以解決這些機器…"
+          }
+        },
+        "textContent": "\n\t\tEMP, mit freundlichen Grüßen. Die Mechs liegen mir zu Füßen, denn ich stehe drauf.\n\t\t\"I said this looks like a job for me\nSo everybody just follow me\n'Cause we need a little E.M.P.\n'Cause it feels so mechy without me…\"\n\t\tNo le tiembla el pulso electromagnético.\n\t\t\"Más inteligente que la 99, más fuerte que Lara…\" Todos me adulan cuando necesitan mis servicios...\n\t\tSon appareil lui permet d’introduire des bugs dans la matrice et d’arrêter les Méca.\n\t\tIl peggior incubo di ogni reparto IT.\n\t\t日が暮れるように\n弱くなってゆくよ\n消えかかる　メカのパルス\nI'm here\n\t\t¿Quién es Sombra?\n\t\tMechom aż wygina się metal ze strachu, gdy tylko ktoś o niej wspomni.\n\t\t\"Diga, se te deixei faltar robô, se o meu pulso é sem valor, se não fui agente pra você...\"\n\t\tО, как устала я возиться вечно с теми,\nКто механизмы «номинирует на ЭМИ»...\n\t\t\"มองทางโน้นไม่มี E\nมองทางนี้ไม่เจอ M\nมองทางไหนถึงเจอ P \"\n\t\t我说这事非得我出马不行\n所有人都给我过来这里听\n因为我们需要一点E.M.P.\n因为它们只能由我来搞定\n\t\t看來這件事非我來不行，\n所有人都給我過來這裡。\n我們會需要一點E.M.P.，\n只有我可以解決這些機器…\n\t"
+      },
+      "325": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Vernichtet einen Mech."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Destroy a Mech."
+          },
+          "esES": {
+            "present": true,
+            "value": "Destruye un robot."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Destruye un Meca."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Détruit un Méca."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Distrugge un Robot."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "メカ1体を破壊する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "기계 처치"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zniszcz Mecha."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Destrua um Mecanoide."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Уничтожить механизм."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ทำลาย[b]เครื่องจักรหนึ่งตัว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "消灭一个机械。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "摧毀一個機械"
+          }
+        },
+        "textContent": "\n\t\tVernichtet einen Mech.\n\t\tDestroy a Mech.\n\t\tDestruye un robot.\n\t\tDestruye un Meca.\n\t\tDétruit un Méca.\n\t\tDistrugge un Robot.\n\t\tメカ1体を破壊する。\n\t\t기계 처치\n\t\tZniszcz Mecha.\n\t\tDestrua um Mecanoide.\n\t\tУничтожить механизм.\n\t\tทำลาย[b]เครื่องจักรหนึ่งตัว\n\t\t消灭一个机械。\n\t\t摧毀一個機械\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Mauricio Herrera"
+      }
     }
   },
   "_current": {

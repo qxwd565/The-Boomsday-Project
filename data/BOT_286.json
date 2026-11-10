@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Nekriumklinge"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Necrium Blade"
+          },
+          "esES": {
+            "present": true,
+            "value": "Hoja de nécrium"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Sable de necrio"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Lame en nécrium"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Lama di Necrium"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ネクリウムの刃"
+          },
+          "koKR": {
+            "present": true,
+            "value": "네크리움 단검"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Ostrze z nekrium"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Lâmina de Necrium"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Некриевый клинок"
+          },
+          "thTH": {
+            "present": true,
+            "value": "มีดเนเครียม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "死金匕首"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "死金刃"
+          }
+        },
+        "textContent": "\n\t\t\tNekriumklinge\n\t\t\tNecrium Blade\n\t\t\tHoja de nécrium\n\t\t\tSable de necrio\n\t\t\tLame en nécrium\n\t\t\tLama di Necrium\n\t\t\tネクリウムの刃\n\t\t\t네크리움 단검\n\t\t\tOstrze z nekrium\n\t\t\tLâmina de Necrium\n\t\t\tНекриевый клинок\n\t\t\tมีดเนเครียม\n\t\t\t死金匕首\n\t\t\t死金刃\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "[x]<b>Todesröcheln:</b> Löst das\n<b>Todesröcheln</b> eines\nzufälligen befreundeten\nDieners aus."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Trigger the <b>Deathrattle</b> of a random friendly minion."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Último aliento:</b> Activa el\n<b>Último aliento</b> de un esbirro\namistoso aleatorio."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Estertor:</b> activa el <b>Estertor</b> de un esbirro aliado aleatorio."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Râle d’agonie_:</b> déclenche le <b>Râle d’agonie</b> d’un serviteur allié aléatoire."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Rantolo di Morte:</b> attiva il\n<b>Rantolo di Morte</b> di un tuo\nservitore casuale."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>断末魔:</b>\nランダムな\n味方のミニオン1体の\n____<b>断末魔</b>を発動する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>죽음의 메아리:</b> 무작위\n아군 하수인 하나의\n<b>죽음의_메아리</b> 능력을\n발동시킵니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Agonia:</b> Aktywuj <b>Agonię</b> losowego przyjaznego stronnika."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Último Suspiro:</b>\nAtive o <b>Último Suspiro</b> de um lacaio aliado aleatório."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]<b>Предсмертный хрип:</b>\nзаставляет сработать\n<b>«Предсмертный хрип»</b>\nвашего случайного\nсущества."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>เสียงสุดท้าย:</b> สุ่มบังคับใช้ผล <b>เสียงสุดท้าย</b> ของมินเนี่ยน[b]ฝ่ายคุณหนึ่งตัว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>亡语：</b>\n触发一个随机友方随从的<b>亡语</b>。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>死亡之聲：</b>觸發\n一個隨機友方手下的<b>死亡之聲</b>"
+          }
+        },
+        "textContent": "\n\t\t\t[x]<b>Todesröcheln:</b> Löst das\n<b>Todesröcheln</b> eines\nzufälligen befreundeten\nDieners aus.\n\t\t\t<b>Deathrattle:</b> Trigger the <b>Deathrattle</b> of a random friendly minion.\n\t\t\t[x]<b>Último aliento:</b> Activa el\n<b>Último aliento</b> de un esbirro\namistoso aleatorio.\n\t\t\t<b>Estertor:</b> activa el <b>Estertor</b> de un esbirro aliado aleatorio.\n\t\t\t<b>Râle d’agonie_:</b> déclenche le <b>Râle d’agonie</b> d’un serviteur allié aléatoire.\n\t\t\t[x]<b>Rantolo di Morte:</b> attiva il\n<b>Rantolo di Morte</b> di un tuo\nservitore casuale.\n\t\t\t[x]<b>断末魔:</b>\nランダムな\n味方のミニオン1体の\n____<b>断末魔</b>を発動する。\n\t\t\t[x]<b>죽음의 메아리:</b> 무작위\n아군 하수인 하나의\n<b>죽음의_메아리</b> 능력을\n발동시킵니다.\n\t\t\t<b>Agonia:</b> Aktywuj <b>Agonię</b> losowego przyjaznego stronnika.\n\t\t\t<b>Último Suspiro:</b>\nAtive o <b>Último Suspiro</b> de um lacaio aliado aleatório.\n\t\t\t[x]<b>Предсмертный хрип:</b>\nзаставляет сработать\n<b>«Предсмертный хрип»</b>\nвашего случайного\nсущества.\n\t\t\t<b>เสียงสุดท้าย:</b> สุ่มบังคับใช้ผล <b>เสียงสุดท้าย</b> ของมินเนี่ยน[b]ฝ่ายคุณหนึ่งตัว\n\t\t\t<b>亡语：</b>\n触发一个随机友方随从的<b>亡语</b>。\n\t\t\t<b>死亡之聲：</b>觸發\n一個隨機友方手下的<b>死亡之聲</b>\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Das Ding macht so tot, toter geht's gar nicht!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Grab death by the handle."
+          },
+          "esES": {
+            "present": true,
+            "value": "Coge la muerte por el mango."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Si te atreves, toma la muerte por el mango."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Si vous ne voulez pas mourir dans d’atroces souffrances, évitez de casser la poignée."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Un Rantolo di Morte tira l'altro!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "その手に死の刃を握れ…違う、握るのは柄の方！"
+          },
+          "koKR": {
+            "present": true,
+            "value": "죽음의 힘을 손에 거머쥐어 보세요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Podwójnie zabójczy miecz z poręczną rękojeścią!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Nunca segure uma adaga da morte pela lâmina."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Схвати смерть за рукоять."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เวลาจับความตายให้จับตรงด้าม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "匕首的柄部装有死金药剂。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "原來手把就是死亡之握的部分啊！"
+          }
+        },
+        "textContent": "\n\t\t\tDas Ding macht so tot, toter geht's gar nicht!\n\t\t\tGrab death by the handle.\n\t\t\tCoge la muerte por el mango.\n\t\t\tSi te atreves, toma la muerte por el mango.\n\t\t\tSi vous ne voulez pas mourir dans d’atroces souffrances, évitez de casser la poignée.\n\t\t\tUn Rantolo di Morte tira l'altro!\n\t\t\tその手に死の刃を握れ…違う、握るのは柄の方！\n\t\t\t죽음의 힘을 손에 거머쥐어 보세요.\n\t\t\tPodwójnie zabójczy miecz z poręczną rękojeścią!\n\t\t\tNunca segure uma adaga da morte pela lâmina.\n\t\t\tСхвати смерть за рукоять.\n\t\t\tเวลาจับความตายให้จับตรงด้าม\n\t\t\t匕首的柄部装有死金药剂。\n\t\t\t原來手把就是死亡之握的部分啊！\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Vlad Botos"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Nekriumklinge"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Necrium Blade"
+          },
+          "esES": {
+            "present": true,
+            "value": "Hoja de nécrium"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Sable de necrio"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Lame en nécrium"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Lama di Necrium"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ネクリウムの刃"
+          },
+          "koKR": {
+            "present": true,
+            "value": "네크리움 단검"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Ostrze z nekrium"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Lâmina de Necrium"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Некриевый клинок"
+          },
+          "thTH": {
+            "present": true,
+            "value": "มีดเนเครียม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "死金匕首"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "死金刃"
+          }
+        },
+        "textContent": "\n\t\tNekriumklinge\n\t\tNecrium Blade\n\t\tHoja de nécrium\n\t\tSable de necrio\n\t\tLame en nécrium\n\t\tLama di Necrium\n\t\tネクリウムの刃\n\t\t네크리움 단검\n\t\tOstrze z nekrium\n\t\tLâmina de Necrium\n\t\tНекриевый клинок\n\t\tมีดเนเครียม\n\t\t死金匕首\n\t\t死金刃\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "[x]<b>Todesröcheln:</b> Löst das\n<b>Todesröcheln</b> eines\nzufälligen befreundeten\nDieners aus."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Trigger the <b>Deathrattle</b> of a random friendly minion."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Último aliento:</b> Activa el\n<b>Último aliento</b> de un esbirro\namistoso aleatorio."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Estertor:</b> activa el <b>Estertor</b> de un esbirro aliado aleatorio."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Râle d’agonie_:</b> déclenche le <b>Râle d’agonie</b> d’un serviteur allié aléatoire."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Rantolo di Morte:</b> attiva il\n<b>Rantolo di Morte</b> di un tuo\nservitore casuale."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>断末魔:</b>\nランダムな\n味方のミニオン1体の\n____<b>断末魔</b>を発動する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>죽음의 메아리:</b>\n무작위 아군 하수인의\n<b>죽음의_메아리</b> 능력을\n발동시킵니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Agonia:</b> Aktywuj <b>Agonię</b> losowego przyjaznego stronnika."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Último Suspiro:</b>\nAtive o <b>Último Suspiro</b> de um lacaio aliado aleatório."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]<b>Предсмертный хрип:</b>\nвызывает срабатывание\n<b>«Предсмертного хрипа»</b>\nвашего случайного\nсущества."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>เสียงสุดท้าย:</b> สุ่มบังคับใช้ผล <b>เสียงสุดท้าย</b> ของมินเนี่ยน[b]ฝ่ายคุณหนึ่งตัว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>亡语：</b>\n随机触发一个友方随从的<b>亡语</b>。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>死亡之聲：</b>觸發\n一個隨機友方手下的<b>死亡之聲</b>"
+          }
+        },
+        "textContent": "\n\t\t[x]<b>Todesröcheln:</b> Löst das\n<b>Todesröcheln</b> eines\nzufälligen befreundeten\nDieners aus.\n\t\t<b>Deathrattle:</b> Trigger the <b>Deathrattle</b> of a random friendly minion.\n\t\t[x]<b>Último aliento:</b> Activa el\n<b>Último aliento</b> de un esbirro\namistoso aleatorio.\n\t\t<b>Estertor:</b> activa el <b>Estertor</b> de un esbirro aliado aleatorio.\n\t\t<b>Râle d’agonie_:</b> déclenche le <b>Râle d’agonie</b> d’un serviteur allié aléatoire.\n\t\t[x]<b>Rantolo di Morte:</b> attiva il\n<b>Rantolo di Morte</b> di un tuo\nservitore casuale.\n\t\t[x]<b>断末魔:</b>\nランダムな\n味方のミニオン1体の\n____<b>断末魔</b>を発動する。\n\t\t[x]<b>죽음의 메아리:</b>\n무작위 아군 하수인의\n<b>죽음의_메아리</b> 능력을\n발동시킵니다.\n\t\t<b>Agonia:</b> Aktywuj <b>Agonię</b> losowego przyjaznego stronnika.\n\t\t<b>Último Suspiro:</b>\nAtive o <b>Último Suspiro</b> de um lacaio aliado aleatório.\n\t\t[x]<b>Предсмертный хрип:</b>\nвызывает срабатывание\n<b>«Предсмертного хрипа»</b>\nвашего случайного\nсущества.\n\t\t<b>เสียงสุดท้าย:</b> สุ่มบังคับใช้ผล <b>เสียงสุดท้าย</b> ของมินเนี่ยน[b]ฝ่ายคุณหนึ่งตัว\n\t\t<b>亡语：</b>\n随机触发一个友方随从的<b>亡语</b>。\n\t\t<b>死亡之聲：</b>觸發\n一個隨機友方手下的<b>死亡之聲</b>\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Das Ding macht so tot, toter geht’s gar nicht!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Grab death by the handle."
+          },
+          "esES": {
+            "present": true,
+            "value": "Coge la muerte por el mango."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Si te atreves, toma la muerte por el mango."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Si vous ne voulez pas mourir dans d’atroces souffrances, évitez de casser la poignée."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Un Rantolo di Morte tira l'altro!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "その手に死の刃を握れ…違う、握るのは柄の方！"
+          },
+          "koKR": {
+            "present": true,
+            "value": "죽음의 힘을 손에 거머쥐어 보세요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Podwójnie zabójczy miecz z poręczną rękojeścią!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Nunca segure uma adaga da morte pela lâmina."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Схвати смерть за рукоять."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เวลาจับความตายให้จับตรงด้าม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "匕首的柄部装有死金药剂。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "原來手把就是死亡之握的部分啊！"
+          }
+        },
+        "textContent": "\n\t\tDas Ding macht so tot, toter geht’s gar nicht!\n\t\tGrab death by the handle.\n\t\tCoge la muerte por el mango.\n\t\tSi te atreves, toma la muerte por el mango.\n\t\tSi vous ne voulez pas mourir dans d’atroces souffrances, évitez de casser la poignée.\n\t\tUn Rantolo di Morte tira l'altro!\n\t\tその手に死の刃を握れ…違う、握るのは柄の方！\n\t\t죽음의 힘을 손에 거머쥐어 보세요.\n\t\tPodwójnie zabójczy miecz z poręczną rękojeścią!\n\t\tNunca segure uma adaga da morte pela lâmina.\n\t\tСхвати смерть за рукоять.\n\t\tเวลาจับความตายให้จับตรงด้าม\n\t\t匕首的柄部装有死金药剂。\n\t\t原來手把就是死亡之握的部分啊！\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Vlad Botos"
+      }
     }
   },
   "_current": {

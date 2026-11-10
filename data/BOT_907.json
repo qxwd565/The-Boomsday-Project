@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mechatroniker"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Galvanizer"
+          },
+          "esES": {
+            "present": true,
+            "value": "Galvanizador"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Galvanizador"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Galvaniseur"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Galvanizzatore"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "電設ロボ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "전류 공급기"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Galwanizator"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Galvanizador"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Гальванизатор"
+          },
+          "thTH": {
+            "present": true,
+            "value": "กัลวาไนเซอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "通电机器人"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "導電機器人"
+          }
+        },
+        "textContent": "\n\t\t\tMechatroniker\n\t\t\tGalvanizer\n\t\t\tGalvanizador\n\t\t\tGalvanizador\n\t\t\tGalvaniseur\n\t\t\tGalvanizzatore\n\t\t\t電設ロボ\n\t\t\t전류 공급기\n\t\t\tGalwanizator\n\t\t\tGalvanizador\n\t\t\tГальванизатор\n\t\t\tกัลวาไนเซอร์\n\t\t\t通电机器人\n\t\t\t導電機器人\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Verringert die Kosten von Mechs auf Eurer Hand um (1)."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> Reduce the\nCost of Mechs in your\nhand by (1)."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b>\nReduce en (1) cristal\nel coste de los robots\nde tu mano."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> reduce el costo de los Mecas en tu mano en (1)."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> réduit de (1)_|4(cristal,cristaux) le coût des Méca de votre main."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nriduce di (1) il costo dei\nRobot nella tua mano."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>雄叫び:</b>\n自分の手札のメカ全ての\nコストを（1）減らす。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b>\n내 손에 있는 기계들의\n비용이 (1) 감소합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Zmniejsz koszt Mechów w twojej ręce_o (1)."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Reduza em (1) o custo dos Mecanoides na sua mão."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> уменьшает стоимость механизмов у_вас в руке на (1)."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> ลดค่าร่าย[b]ของเครื่องจักรทุกใบ[b]ในมือคุณลง (1)"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>使你手牌中所有机械牌的法力值消耗减少（1）点。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>使你手中的\n機械消耗降低(1)點"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Verringert die Kosten von Mechs auf Eurer Hand um (1).\n\t\t\t[x]<b>Battlecry:</b> Reduce the\nCost of Mechs in your\nhand by (1).\n\t\t\t[x]<b>Grito de batalla:</b>\nReduce en (1) cristal\nel coste de los robots\nde tu mano.\n\t\t\t<b>Grito de batalla:</b> reduce el costo de los Mecas en tu mano en (1).\n\t\t\t<b>Cri de guerre_:</b> réduit de (1)_|4(cristal,cristaux) le coût des Méca de votre main.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nriduce di (1) il costo dei\nRobot nella tua mano.\n\t\t\t<b>雄叫び:</b>\n自分の手札のメカ全ての\nコストを（1）減らす。\n\t\t\t[x]<b>전투의 함성:</b>\n내 손에 있는 기계들의\n비용이 (1) 감소합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Zmniejsz koszt Mechów w twojej ręce_o (1).\n\t\t\t<b>Grito de Guerra:</b> Reduza em (1) o custo dos Mecanoides na sua mão.\n\t\t\t<b>Боевой клич:</b> уменьшает стоимость механизмов у_вас в руке на (1).\n\t\t\t<b>คำรามสู้ศึก:</b> ลดค่าร่าย[b]ของเครื่องจักรทุกใบ[b]ในมือคุณลง (1)\n\t\t\t<b>战吼：</b>使你手牌中所有机械牌的法力值消耗减少（1）点。\n\t\t\t<b>戰吼：</b>使你手中的\n機械消耗降低(1)點\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Er steht momentan etwas unter Strom."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Also known as a power zinc."
+          },
+          "esES": {
+            "present": true,
+            "value": "Galvanizador, pequeño robot. Tu amigo fiel."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Excelente para proteger las tuberías."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Dès qu’il entre en scène, il électrise les Méca !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Quando lo zinco dà il massimo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "自分をレジェンドミニオンだと信じて疑わない。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "아낌없이 전류를 주는 공급기입니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zawsze naładowany pozytywną energią."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Muito útil na aplicação de mecanoides em ambientes externos."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Обожает литий-ионные коктейли!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เคลือบไฟฟ้าเพื่อผิวกระจ่างใส เนียนเด้งมีออร่า"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "补锌补脑，健康到老。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "原理是使你手中的機械電阻降低1歐姆。"
+          }
+        },
+        "textContent": "\n\t\t\tEr steht momentan etwas unter Strom.\n\t\t\tAlso known as a power zinc.\n\t\t\tGalvanizador, pequeño robot. Tu amigo fiel.\n\t\t\tExcelente para proteger las tuberías.\n\t\t\tDès qu’il entre en scène, il électrise les Méca !\n\t\t\tQuando lo zinco dà il massimo.\n\t\t\t自分をレジェンドミニオンだと信じて疑わない。\n\t\t\t아낌없이 전류를 주는 공급기입니다.\n\t\t\tZawsze naładowany pozytywną energią.\n\t\t\tMuito útil na aplicação de mecanoides em ambientes externos.\n\t\t\tОбожает литий-ионные коктейли!\n\t\t\tเคลือบไฟฟ้าเพื่อผิวกระจ่างใส เนียนเด้งมีออร่า\n\t\t\t补锌补脑，健康到老。\n\t\t\t原理是使你手中的機械電阻降低1歐姆。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Matt Dixon"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mechatroniker"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Galvanizer"
+          },
+          "esES": {
+            "present": true,
+            "value": "Galvanizador"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Galvanizador"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Galvaniseur"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Galvanizzatore"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "電設ロボ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "전류 공급기"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Galwanizator"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Galvanizador"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Гальванизатор"
+          },
+          "thTH": {
+            "present": true,
+            "value": "กัลวาไนเซอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "通电机器人"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "導電機器人"
+          }
+        },
+        "textContent": "\n\t\tMechatroniker\n\t\tGalvanizer\n\t\tGalvanizador\n\t\tGalvanizador\n\t\tGalvaniseur\n\t\tGalvanizzatore\n\t\t電設ロボ\n\t\t전류 공급기\n\t\tGalwanizator\n\t\tGalvanizador\n\t\tГальванизатор\n\t\tกัลวาไนเซอร์\n\t\t通电机器人\n\t\t導電機器人\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Verringert die Kosten von Mechs auf Eurer Hand um (1)."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> Reduce the\nCost of Mechs in your\nhand by (1)."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b>\nReduce en (1) cristal\nel coste de los robots\nde tu mano."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> reduce el costo de los Mecas en tu mano en (1)."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> réduit de (1)_|4(cristal,cristaux) le coût des Méca de votre main."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nriduce di (1) il costo dei\nRobot nella tua mano."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>雄叫び:</b>\n自分の手札のメカ全ての\nコストを（1）減らす。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b>\n내 손에 있는 기계들의\n비용이 (1) 감소합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Zmniejsz koszt Mechów w twojej ręce_o (1)."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Reduza em (1) o Custo dos Mecanoides na sua mão."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> уменьшает стоимость механизмов у_вас в руке на (1)."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> ลดค่าร่าย[b]ของเครื่องจักรทั้งหมดใน[b]มือคุณลง_(1)"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>使你手牌中所有机械牌的法力值消耗减少（1）点。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>使你手中的\n機械消耗降低(1)"
+          }
+        },
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Verringert die Kosten von Mechs auf Eurer Hand um (1).\n\t\t[x]<b>Battlecry:</b> Reduce the\nCost of Mechs in your\nhand by (1).\n\t\t[x]<b>Grito de batalla:</b>\nReduce en (1) cristal\nel coste de los robots\nde tu mano.\n\t\t<b>Grito de batalla:</b> reduce el costo de los Mecas en tu mano en (1).\n\t\t<b>Cri de guerre_:</b> réduit de (1)_|4(cristal,cristaux) le coût des Méca de votre main.\n\t\t[x]<b>Grido di Battaglia:</b>\nriduce di (1) il costo dei\nRobot nella tua mano.\n\t\t<b>雄叫び:</b>\n自分の手札のメカ全ての\nコストを（1）減らす。\n\t\t[x]<b>전투의 함성:</b>\n내 손에 있는 기계들의\n비용이 (1) 감소합니다.\n\t\t<b>Okrzyk bojowy:</b> Zmniejsz koszt Mechów w twojej ręce_o (1).\n\t\t<b>Grito de Guerra:</b> Reduza em (1) o Custo dos Mecanoides na sua mão.\n\t\t<b>Боевой клич:</b> уменьшает стоимость механизмов у_вас в руке на (1).\n\t\t<b>คำรามสู้ศึก:</b> ลดค่าร่าย[b]ของเครื่องจักรทั้งหมดใน[b]มือคุณลง_(1)\n\t\t<b>战吼：</b>使你手牌中所有机械牌的法力值消耗减少（1）点。\n\t\t<b>戰吼：</b>使你手中的\n機械消耗降低(1)\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Er steht momentan etwas unter Strom."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Also known as a power zinc."
+          },
+          "esES": {
+            "present": true,
+            "value": "Galvanizador, pequeño robot. Tu amigo fiel."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Excelente para proteger las tuberías."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Dès qu’il entre en scène, il électrise les Méca !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Quando lo zinco dà il massimo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "自分をレジェンドミニオンだと信じて疑わない。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "아낌없이 전류를 주는 공급기입니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zawsze naładowany pozytywną energią."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Muito útil na aplicação de mecanoides em ambientes externos."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Обожает литий-ионные коктейли!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เคลือบไฟฟ้าเพื่อผิวกระจ่างใส เนียนเด้งมีออร่า"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "补锌补脑，健康到老。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "原理是使你手中的機械電阻降低1歐姆。"
+          }
+        },
+        "textContent": "\n\t\tEr steht momentan etwas unter Strom.\n\t\tAlso known as a power zinc.\n\t\tGalvanizador, pequeño robot. Tu amigo fiel.\n\t\tExcelente para proteger las tuberías.\n\t\tDès qu’il entre en scène, il électrise les Méca !\n\t\tQuando lo zinco dà il massimo.\n\t\t自分をレジェンドミニオンだと信じて疑わない。\n\t\t아낌없이 전류를 주는 공급기입니다.\n\t\tZawsze naładowany pozytywną energią.\n\t\tMuito útil na aplicação de mecanoides em ambientes externos.\n\t\tОбожает литий-ионные коктейли!\n\t\tเคลือบไฟฟ้าเพื่อผิวกระจ่างใส เนียนเด้งมีออร่า\n\t\t补锌补脑，健康到老。\n\t\t原理是使你手中的機械電阻降低1歐姆。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Matt Dixon"
+      }
     }
   },
   "_current": {

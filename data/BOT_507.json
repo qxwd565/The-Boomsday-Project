@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Glibbersprüher"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Gloop Sprayer"
+          },
+          "esES": {
+            "present": true,
+            "value": "Irrigador de babas"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Propagador de viscosidad"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Pulvérisateur de gloup"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Spargimuco"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "べとべとスプレーマン"
+          },
+          "koKR": {
+            "present": true,
+            "value": "수액 살포자"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Szlamolejca"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Jateador de Glub"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Хлюпонизатор"
+          },
+          "thTH": {
+            "present": true,
+            "value": "นักพ่นกลู๊ป"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "黏液喷射者"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "黏液噴灑者"
+          }
+        },
+        "textContent": "\n\t\t\tGlibbersprüher\n\t\t\tGloop Sprayer\n\t\t\tIrrigador de babas\n\t\t\tPropagador de viscosidad\n\t\t\tPulvérisateur de gloup\n\t\t\tSpargimuco\n\t\t\tべとべとスプレーマン\n\t\t\t수액 살포자\n\t\t\tSzlamolejca\n\t\t\tJateador de Glub\n\t\t\tХлюпонизатор\n\t\t\tนักพ่นกลู๊ป\n\t\t\t黏液喷射者\n\t\t\t黏液噴灑者\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Ruft eine Kopie jedes benachbarten Dieners herbei."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Summon a copy of each adjacent minion."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b>\nInvoca una copia de cada\nesbirro adyacente."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> invoca una copia de cada esbirro adyacente."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> invoque une copie de chaque serviteur adjacent."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nevoca una copia dei\nservitori adiacenti."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n隣接する各ミニオンの\nコピーを1体ずつ\n召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n양옆의 하수인들을 복사하여 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Przyzwij kopię każdego sąsiedniego stronnika."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Evoque uma cópia de cada lacaio adjacente a este."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> призывает копии существ по обе стороны от себя."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> เรียกร่าง[b]ก๊อปปี้ของมินเนี่ยนทั้งหมด[b]ที่อยู่ติดกับมินเนี่ยนตัวนี้"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>\n为相邻的随从各召唤一个复制。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>召喚兩側的\n手下的分身"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Ruft eine Kopie jedes benachbarten Dieners herbei.\n\t\t\t<b>Battlecry:</b> Summon a copy of each adjacent minion.\n\t\t\t[x]<b>Grito de batalla:</b>\nInvoca una copia de cada\nesbirro adyacente.\n\t\t\t<b>Grito de batalla:</b> invoca una copia de cada esbirro adyacente.\n\t\t\t<b>Cri de guerre_:</b> invoque une copie de chaque serviteur adjacent.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nevoca una copia dei\nservitori adiacenti.\n\t\t\t[x]<b>雄叫び:</b>\n隣接する各ミニオンの\nコピーを1体ずつ\n召喚する。\n\t\t\t<b>전투의 함성:</b>\n양옆의 하수인들을 복사하여 소환합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Przyzwij kopię każdego sąsiedniego stronnika.\n\t\t\t<b>Grito de Guerra:</b> Evoque uma cópia de cada lacaio adjacente a este.\n\t\t\t<b>Боевой клич:</b> призывает копии существ по обе стороны от себя.\n\t\t\t<b>คำรามสู้ศึก:</b> เรียกร่าง[b]ก๊อปปี้ของมินเนี่ยนทั้งหมด[b]ที่อยู่ติดกับมินเนี่ยนตัวนี้\n\t\t\t<b>战吼：</b>\n为相邻的随从各召唤一个复制。\n\t\t\t<b>戰吼：</b>召喚兩側的\n手下的分身\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Glibber wird eigentlich in ganz geringen Dosen per Pipette aufgetragen. Aber hey, wir sind hier schließlich bei Dr. Bumm!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "\"Are you sure that's enough gloop?\"\n\"Hold on.\""
+          },
+          "esES": {
+            "present": true,
+            "value": "¡Mocomanguera! Riega la ciudad o riega la pradera."
+          },
+          "esMX": {
+            "present": true,
+            "value": "—¿Seguro que es suficiente viscosidad?\n—Un momento."
+          },
+          "frFR": {
+            "present": true,
+            "value": "« - Vous croyez qu’il y a assez de gloup ?\n- Attendez, je m’en occupe ! »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Il muco non è mai abbastanza."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「本当に、べとべと足りてる？」\n「ちょっと待って」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"그 정도 수액으로 괜찮겠어?\" \"괜찮아, 문제 없어.\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Przydałoby się więcej tego szlamu, prawda?”. „Już się robi”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "\"Tem certeza que tem glub suficiente?\" \"Espera aí\"."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "«Коллега, вы проверили уровень хлюпастости?» –_«Разуме... минуточку!»"
+          },
+          "thTH": {
+            "present": true,
+            "value": "\"แน่ใจนะว่ากลู๊ปแค่นั้นพอแล้ว?\" \"เดี๋ยวจัดให้\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "“加多少？200金币？”“加满！”"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "「這樣灌滿了嗎？」「再來再來。」"
+          }
+        },
+        "textContent": "\n\t\t\tGlibber wird eigentlich in ganz geringen Dosen per Pipette aufgetragen. Aber hey, wir sind hier schließlich bei Dr. Bumm!\n\t\t\t\"Are you sure that's enough gloop?\"\n\"Hold on.\"\n\t\t\t¡Mocomanguera! Riega la ciudad o riega la pradera.\n\t\t\t—¿Seguro que es suficiente viscosidad?\n—Un momento.\n\t\t\t« - Vous croyez qu’il y a assez de gloup ?\n- Attendez, je m’en occupe ! »\n\t\t\tIl muco non è mai abbastanza.\n\t\t\t「本当に、べとべと足りてる？」\n「ちょっと待って」\n\t\t\t\"그 정도 수액으로 괜찮겠어?\" \"괜찮아, 문제 없어.\"\n\t\t\t„Przydałoby się więcej tego szlamu, prawda?”. „Już się robi”.\n\t\t\t\"Tem certeza que tem glub suficiente?\" \"Espera aí\".\n\t\t\t«Коллега, вы проверили уровень хлюпастости?» –_«Разуме... минуточку!»\n\t\t\t\"แน่ใจนะว่ากลู๊ปแค่นั้นพอแล้ว?\" \"เดี๋ยวจัดให้\"\n\t\t\t“加多少？200金币？”“加满！”\n\t\t\t「這樣灌滿了嗎？」「再來再來。」\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Arthur Bozonnet"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Glibbersprüher"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Gloop Sprayer"
+          },
+          "esES": {
+            "present": true,
+            "value": "Irrigador de babas"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Propagador de viscosidad"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Pulvérisateur de gloup"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Spargimuco"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "べとべとスプレーマン"
+          },
+          "koKR": {
+            "present": true,
+            "value": "수액 살포자"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Szlamolejca"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Jateador de Glub"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Хлюпонизатор"
+          },
+          "thTH": {
+            "present": true,
+            "value": "นักพ่นกลู๊ป"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "黏液喷射者"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "黏液噴灑者"
+          }
+        },
+        "textContent": "\n\t\tGlibbersprüher\n\t\tGloop Sprayer\n\t\tIrrigador de babas\n\t\tPropagador de viscosidad\n\t\tPulvérisateur de gloup\n\t\tSpargimuco\n\t\tべとべとスプレーマン\n\t\t수액 살포자\n\t\tSzlamolejca\n\t\tJateador de Glub\n\t\tХлюпонизатор\n\t\tนักพ่นกลู๊ป\n\t\t黏液喷射者\n\t\t黏液噴灑者\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Ruft eine Kopie jedes benachbarten Dieners herbei."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Summon a copy of each adjacent minion."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b>\nInvoca una copia de cada\nesbirro adyacente."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> invoca una copia de cada esbirro adyacente."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> invoque une copie de chaque serviteur adjacent."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nevoca una copia dei\nservitori adiacenti."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n隣接する各ミニオンの\nコピーを1体ずつ\n召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n양옆의 하수인들을 복사하여 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Przyzwij kopię każdego sąsiedniego stronnika."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Evoque uma cópia de cada lacaio adjacente a este."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> призывает копии существ по обе стороны от себя."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> เรียกร่าง[b]ก๊อปปี้ของมินเนี่ยนทั้งหมด[b]ที่อยู่ติดกับมินเนี่ยนตัวนี้"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>\n为相邻的随从各召唤一个复制。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>召喚兩側的\n手下的分身"
+          }
+        },
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Ruft eine Kopie jedes benachbarten Dieners herbei.\n\t\t<b>Battlecry:</b> Summon a copy of each adjacent minion.\n\t\t[x]<b>Grito de batalla:</b>\nInvoca una copia de cada\nesbirro adyacente.\n\t\t<b>Grito de batalla:</b> invoca una copia de cada esbirro adyacente.\n\t\t<b>Cri de guerre_:</b> invoque une copie de chaque serviteur adjacent.\n\t\t[x]<b>Grido di Battaglia:</b>\nevoca una copia dei\nservitori adiacenti.\n\t\t[x]<b>雄叫び:</b>\n隣接する各ミニオンの\nコピーを1体ずつ\n召喚する。\n\t\t<b>전투의 함성:</b>\n양옆의 하수인들을 복사하여 소환합니다.\n\t\t<b>Okrzyk bojowy:</b> Przyzwij kopię każdego sąsiedniego stronnika.\n\t\t<b>Grito de Guerra:</b> Evoque uma cópia de cada lacaio adjacente a este.\n\t\t<b>Боевой клич:</b> призывает копии существ по обе стороны от себя.\n\t\t<b>คำรามสู้ศึก:</b> เรียกร่าง[b]ก๊อปปี้ของมินเนี่ยนทั้งหมด[b]ที่อยู่ติดกับมินเนี่ยนตัวนี้\n\t\t<b>战吼：</b>\n为相邻的随从各召唤一个复制。\n\t\t<b>戰吼：</b>召喚兩側的\n手下的分身\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Glibber wird eigentlich in ganz geringen Dosen per Pipette aufgetragen. Aber hey, wir sind hier schließlich bei Dr. Bumm!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "\"Are you sure that's enough gloop?\"\n\"Hold on.\""
+          },
+          "esES": {
+            "present": true,
+            "value": "¡Mocomanguera! Riega la ciudad o riega la pradera."
+          },
+          "esMX": {
+            "present": true,
+            "value": "—¿Seguro que es suficiente viscosidad?\n—Un momento."
+          },
+          "frFR": {
+            "present": true,
+            "value": "« - Vous croyez qu’il y a assez de gloup ?\n- Attendez, je m’en occupe ! »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Il muco non è mai abbastanza."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「本当に、べとべと足りてる？」\n「ちょっと待って」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"그 정도 수액으로 괜찮겠어?\" \"괜찮아, 문제 없어.\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Przydałoby się więcej tego szlamu, prawda?”. „Już się robi”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "\"Tem certeza que tem glub suficiente?\" \"Espera aí\"."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "«Коллега, вы проверили уровень хлюпастости?» –_«Разуме... минуточку!»"
+          },
+          "thTH": {
+            "present": true,
+            "value": "\"แน่ใจนะว่ากลู๊ปแค่นั้นพอแล้ว?\" \"เดี๋ยวจัดให้\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "“加多少？200金币？”“加满！”"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "「這樣灌滿了嗎？」「再來再來。」"
+          }
+        },
+        "textContent": "\n\t\tGlibber wird eigentlich in ganz geringen Dosen per Pipette aufgetragen. Aber hey, wir sind hier schließlich bei Dr. Bumm!\n\t\t\"Are you sure that's enough gloop?\"\n\"Hold on.\"\n\t\t¡Mocomanguera! Riega la ciudad o riega la pradera.\n\t\t—¿Seguro que es suficiente viscosidad?\n—Un momento.\n\t\t« - Vous croyez qu’il y a assez de gloup ?\n- Attendez, je m’en occupe ! »\n\t\tIl muco non è mai abbastanza.\n\t\t「本当に、べとべと足りてる？」\n「ちょっと待って」\n\t\t\"그 정도 수액으로 괜찮겠어?\" \"괜찮아, 문제 없어.\"\n\t\t„Przydałoby się więcej tego szlamu, prawda?”. „Już się robi”.\n\t\t\"Tem certeza que tem glub suficiente?\" \"Espera aí\".\n\t\t«Коллега, вы проверили уровень хлюпастости?» –_«Разуме... минуточку!»\n\t\t\"แน่ใจนะว่ากลู๊ปแค่นั้นพอแล้ว?\" \"เดี๋ยวจัดให้\"\n\t\t“加多少？200金币？”“加满！”\n\t\t「這樣灌滿了嗎？」「再來再來。」\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Arthur Bozonnet"
+      }
     }
   },
   "_current": {

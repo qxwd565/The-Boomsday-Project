@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Waffenprojekt"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Weapons Project"
+          },
+          "esES": {
+            "present": true,
+            "value": "Proyecto armamentístico"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Proyecto de armas"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Projet d’armement"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Progetto: Armi"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "兵器プロジェクト"
+          },
+          "koKR": {
+            "present": true,
+            "value": "무기 프로젝트"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Projekt zbrojny"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Projeto Bélico"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Проект по вооружению"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โครงการอาวุธ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "武器计划"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "武器研究計畫"
+          }
+        },
+        "textContent": "\n\t\t\tWaffenprojekt\n\t\t\tWeapons Project\n\t\t\tProyecto armamentístico\n\t\t\tProyecto de armas\n\t\t\tProjet d’armement\n\t\t\tProgetto: Armi\n\t\t\t兵器プロジェクト\n\t\t\t무기 프로젝트\n\t\t\tProjekt zbrojny\n\t\t\tProjeto Bélico\n\t\t\tПроект по вооружению\n\t\t\tโครงการอาวุธ\n\t\t\t武器计划\n\t\t\t武器研究計畫\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Jeder Held legt eine Waffe (2/3) an und erhält 6 Rüstung."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Each player equips a 2/3 Weapon and\ngains 6 Armor."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Cada jugador equipa\nun arma 2/3 y obtiene\n6 p. de armadura."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Cada jugador equipa un arma 2/3 y obtiene 6 de armadura."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Équipe chaque joueur d’une arme_2/3 et leur confère 6_points d’armure."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Ogni giocatore equipaggia un'Arma 2/3 e ottiene 6 Armatura."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]各プレイヤーは\n2/3の武器を装備し\n__装甲を6獲得する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "각 플레이어가 2/3 무기를 하나씩 장착하고 방어도를 +6씩 얻습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Każdy bohater otrzymuje 6 pkt. pancerza i zostaje wyposażony w broń 2/3."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Cada jogador equipa uma Arma 2/3 e recebe 6 de Armadura."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Снаряжает обоих игроков оружием 2/3. Каждый игрок получает +6 к броне."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ผู้เล่นทุกคนสวมใส่อาวุธ 2/3 และได้รับเกราะ 6_แต้ม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "每个玩家装备一把2/3的武器，并获得6点护甲值。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "雙方裝備一把\n2/3武器，並獲得\n6點護甲值"
+          }
+        },
+        "textContent": "\n\t\t\tJeder Held legt eine Waffe (2/3) an und erhält 6 Rüstung.\n\t\t\tEach player equips a 2/3 Weapon and\ngains 6 Armor.\n\t\t\t[x]Cada jugador equipa\nun arma 2/3 y obtiene\n6 p. de armadura.\n\t\t\tCada jugador equipa un arma 2/3 y obtiene 6 de armadura.\n\t\t\tÉquipe chaque joueur d’une arme_2/3 et leur confère 6_points d’armure.\n\t\t\tOgni giocatore equipaggia un'Arma 2/3 e ottiene 6 Armatura.\n\t\t\t[x]各プレイヤーは\n2/3の武器を装備し\n__装甲を6獲得する。\n\t\t\t각 플레이어가 2/3 무기를 하나씩 장착하고 방어도를 +6씩 얻습니다.\n\t\t\tKażdy bohater otrzymuje 6 pkt. pancerza i zostaje wyposażony w broń 2/3.\n\t\t\tCada jogador equipa uma Arma 2/3 e recebe 6 de Armadura.\n\t\t\tСнаряжает обоих игроков оружием 2/3. Каждый игрок получает +6 к броне.\n\t\t\tผู้เล่นทุกคนสวมใส่อาวุธ 2/3 และได้รับเกราะ 6_แต้ม\n\t\t\t每个玩家装备一把2/3的武器，并获得6点护甲值。\n\t\t\t雙方裝備一把\n2/3武器，並獲得\n6點護甲值\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Harrison Jones wurde von dem Projekt frühzeitig ausgeschlossen."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Harrison Jones was kicked off this project."
+          },
+          "esES": {
+            "present": true,
+            "value": "A Harrison Jones lo echaron de este proyecto."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Harrison Jones fue expulsado de este proyecto."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Harrison Jones a été viré du projet."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Harrison Jones è stato subito allontanato da questo progetto."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ハリソン・ジョーンズはプロジェクトから追放された。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "해리슨 존스가 이 프로젝트를 좋아합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Harrison Jones został wykluczony\nz tego projektu."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Harrison Jones foi expulso deste projeto."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Этот проект примечателен, в частности, тем, что с него выгнали Харрисона Джонса."
+          },
+          "thTH": {
+            "present": true,
+            "value": "แฮริสัน โจนส์ถูกขับออกจาก[b]โครงการนี้แล้ว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "作为此项计划的发起人，哈里森·琼斯最后被踢出了执行团队。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "哈里遜·瓊斯被踢出這個研究計畫，不准參加。"
+          }
+        },
+        "textContent": "\n\t\t\tHarrison Jones wurde von dem Projekt frühzeitig ausgeschlossen.\n\t\t\tHarrison Jones was kicked off this project.\n\t\t\tA Harrison Jones lo echaron de este proyecto.\n\t\t\tHarrison Jones fue expulsado de este proyecto.\n\t\t\tHarrison Jones a été viré du projet.\n\t\t\tHarrison Jones è stato subito allontanato da questo progetto.\n\t\t\tハリソン・ジョーンズはプロジェクトから追放された。\n\t\t\t해리슨 존스가 이 프로젝트를 좋아합니다.\n\t\t\tHarrison Jones został wykluczony\nz tego projektu.\n\t\t\tHarrison Jones foi expulso deste projeto.\n\t\t\tЭтот проект примечателен, в частности, тем, что с него выгнали Харрисона Джонса.\n\t\t\tแฮริสัน โจนส์ถูกขับออกจาก[b]โครงการนี้แล้ว\n\t\t\t作为此项计划的发起人，哈里森·琼斯最后被踢出了执行团队。\n\t\t\t哈里遜·瓊斯被踢出這個研究計畫，不准參加。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "J. Paick & K. Turovec"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Waffenprojekt"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Weapons Project"
+          },
+          "esES": {
+            "present": true,
+            "value": "Proyecto armamentístico"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Proyecto de armas"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Projet d’armement"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Progetto: Armi"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "兵器プロジェクト"
+          },
+          "koKR": {
+            "present": true,
+            "value": "무기 프로젝트"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Projekt zbrojny"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Projeto Bélico"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Проект по вооружению"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โครงการอาวุธ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "武器计划"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "武器研究計畫"
+          }
+        },
+        "textContent": "\n\t\tWaffenprojekt\n\t\tWeapons Project\n\t\tProyecto armamentístico\n\t\tProyecto de armas\n\t\tProjet d’armement\n\t\tProgetto: Armi\n\t\t兵器プロジェクト\n\t\t무기 프로젝트\n\t\tProjekt zbrojny\n\t\tProjeto Bélico\n\t\tПроект по вооружению\n\t\tโครงการอาวุธ\n\t\t武器计划\n\t\t武器研究計畫\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Jeder Held legt eine Waffe (2/3) an und erhält 6 Rüstung."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Each player equips a 2/3 weapon and\ngains 6 Armor."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Cada jugador equipa\nun arma 2/3 y obtiene\n6 p. de armadura."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Cada jugador equipa un arma 2/3 y obtiene 6 de Armadura."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Équipe chaque joueur d’une arme_2/3 et leur confère 6_points d’armure."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Ogni giocatore equipaggia un'Arma 2/3 e ottiene 6 Armatura."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]各プレイヤーは\n2/3の武器を装備し\n__装甲を6獲得する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "각 플레이어가 2/3 무기를 장착하고 방어도를 +6씩 얻습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Każdy bohater otrzymuje 6 pkt. pancerza i zostaje wyposażony w broń 2/3."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Cada jogador equipa uma arma 2/3 e recebe 6 de Armadura."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Снаряжает обоих игроков оружием 2/3. Каждый игрок получает +6 к броне."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ผู้เล่นทุกคนสวมใส่อาวุธ 2/3 และได้รับเกราะ 6_แต้ม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "每个玩家装备一把2/3的武器，并获得6点护甲值。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "雙方裝備一把\n2/3武器，並獲得\n6點護甲值"
+          }
+        },
+        "textContent": "\n\t\tJeder Held legt eine Waffe (2/3) an und erhält 6 Rüstung.\n\t\tEach player equips a 2/3 weapon and\ngains 6 Armor.\n\t\t[x]Cada jugador equipa\nun arma 2/3 y obtiene\n6 p. de armadura.\n\t\tCada jugador equipa un arma 2/3 y obtiene 6 de Armadura.\n\t\tÉquipe chaque joueur d’une arme_2/3 et leur confère 6_points d’armure.\n\t\tOgni giocatore equipaggia un'Arma 2/3 e ottiene 6 Armatura.\n\t\t[x]各プレイヤーは\n2/3の武器を装備し\n__装甲を6獲得する。\n\t\t각 플레이어가 2/3 무기를 장착하고 방어도를 +6씩 얻습니다.\n\t\tKażdy bohater otrzymuje 6 pkt. pancerza i zostaje wyposażony w broń 2/3.\n\t\tCada jogador equipa uma arma 2/3 e recebe 6 de Armadura.\n\t\tСнаряжает обоих игроков оружием 2/3. Каждый игрок получает +6 к броне.\n\t\tผู้เล่นทุกคนสวมใส่อาวุธ 2/3 และได้รับเกราะ 6_แต้ม\n\t\t每个玩家装备一把2/3的武器，并获得6点护甲值。\n\t\t雙方裝備一把\n2/3武器，並獲得\n6點護甲值\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Harrison Jones wurde von dem Projekt frühzeitig ausgeschlossen."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Harrison Jones was kicked off this project."
+          },
+          "esES": {
+            "present": true,
+            "value": "A Harrison Jones lo echaron de este proyecto."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Harrison Jones fue expulsado de este proyecto."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Harrison Jones a été viré du projet."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Harrison Jones è stato subito allontanato da questo progetto."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ハリソン・ジョーンズはプロジェクトから追放された。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "해리슨 존스가 이 프로젝트를 좋아합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Harrison Jones został wykluczony\nz tego projektu."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Harrison Jones foi expulso deste projeto."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Этот проект примечателен, в частности, тем, что с него выгнали Харрисона Джонса."
+          },
+          "thTH": {
+            "present": true,
+            "value": "แฮริสัน โจนส์ถูกขับออกจาก[b]โครงการนี้แล้ว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "作为此项计划的发起人，哈里森·琼斯最后被踢出了执行团队。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "哈里遜‧瓊斯被踢出這個研究計畫，不准參加。"
+          }
+        },
+        "textContent": "\n\t\tHarrison Jones wurde von dem Projekt frühzeitig ausgeschlossen.\n\t\tHarrison Jones was kicked off this project.\n\t\tA Harrison Jones lo echaron de este proyecto.\n\t\tHarrison Jones fue expulsado de este proyecto.\n\t\tHarrison Jones a été viré du projet.\n\t\tHarrison Jones è stato subito allontanato da questo progetto.\n\t\tハリソン・ジョーンズはプロジェクトから追放された。\n\t\t해리슨 존스가 이 프로젝트를 좋아합니다.\n\t\tHarrison Jones został wykluczony\nz tego projektu.\n\t\tHarrison Jones foi expulso deste projeto.\n\t\tЭтот проект примечателен, в частности, тем, что с него выгнали Харрисона Джонса.\n\t\tแฮริสัน โจนส์ถูกขับออกจาก[b]โครงการนี้แล้ว\n\t\t作为此项计划的发起人，哈里森·琼斯最后被踢出了执行团队。\n\t\t哈里遜‧瓊斯被踢出這個研究計畫，不准參加。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "J. Paick & K. Turovec"
+      }
     }
   },
   "_current": {

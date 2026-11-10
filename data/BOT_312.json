@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Modulare Bedrohung"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Replicating Menace"
+          },
+          "esES": {
+            "present": true,
+            "value": "Amenaza replicante"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Amenaza replicante"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Menace répliquante"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Minaccia Replicante"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "自己増殖型メナス"
+          },
+          "koKR": {
+            "present": true,
+            "value": "증식하는 위협"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Replikator bojowy"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Ameaça Replicante"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Репликатор"
+          },
+          "thTH": {
+            "present": true,
+            "value": "หุ่นพิฆาตจำลองร่าง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "量产型恐吓机"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "合體的威脅者"
+          }
+        },
+        "textContent": "\n\t\t\tModulare Bedrohung\n\t\t\tReplicating Menace\n\t\t\tAmenaza replicante\n\t\t\tAmenaza replicante\n\t\t\tMenace répliquante\n\t\t\tMinaccia Replicante\n\t\t\t自己増殖型メナス\n\t\t\t증식하는 위협\n\t\t\tReplikator bojowy\n\t\t\tAmeaça Replicante\n\t\t\tРепликатор\n\t\t\tหุ่นพิฆาตจำลองร่าง\n\t\t\t量产型恐吓机\n\t\t\t合體的威脅者\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Magnetisch</b>. <b>Todesröcheln:</b> Ruft 3 Mikrobots (1/1) herbei."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Magnetic</b>\n<b>Deathrattle:</b> Summon three 1/1 Microbots."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Magnetismo</b>\n<b>Último aliento:</b> Invoca\ntres microbots 1/1."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Magnetismo</b>\n<b>Estertor:</b> invoca tres Microbots 1/1."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Magnétisme</b>\n<b>Râle d’agonie_:</b> invoque trois_microbots_1/1."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Magnetismo</b>.\n<b>Rantolo di Morte:</b>\n__evoca tre Microbot 1/1."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>超電磁</b>\n<b>断末魔:</b>\n1/1の「マイクロロボ」を\n3体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>합체</b>, <b>죽음의 메아리:</b>\n1/1 초소형 로봇을\n셋 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Magnetyzm</b>\n<b>Agonia:</b> Przyzwij trzy Mikroboty 1/1."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Magnético</b>\n<b>Último Suspiro:</b> Evoque três Microrrobôs 1/1."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Магнетизм</b>\n<b>Предсмертный хрип:</b> призывает трех микроботов 1/1."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>แม่เหล็ก</b>, <b>เสียงสุดท้าย:</b>[b]เรียกไมโครบอท_1/1 สามตัว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>磁力，亡语：</b>召唤三个1/1的微型机器人。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "[x]<b>合體</b>\n<b>死亡之聲：</b>召喚三個\n1/1微型機器人"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Magnetisch</b>. <b>Todesröcheln:</b> Ruft 3 Mikrobots (1/1) herbei.\n\t\t\t<b>Magnetic</b>\n<b>Deathrattle:</b> Summon three 1/1 Microbots.\n\t\t\t[x]<b>Magnetismo</b>\n<b>Último aliento:</b> Invoca\ntres microbots 1/1.\n\t\t\t<b>Magnetismo</b>\n<b>Estertor:</b> invoca tres Microbots 1/1.\n\t\t\t<b>Magnétisme</b>\n<b>Râle d’agonie_:</b> invoque trois_microbots_1/1.\n\t\t\t[x]<b>Magnetismo</b>.\n<b>Rantolo di Morte:</b>\n__evoca tre Microbot 1/1.\n\t\t\t[x]<b>超電磁</b>\n<b>断末魔:</b>\n1/1の「マイクロロボ」を\n3体召喚する。\n\t\t\t[x]<b>합체</b>, <b>죽음의 메아리:</b>\n1/1 초소형 로봇을\n셋 소환합니다.\n\t\t\t<b>Magnetyzm</b>\n<b>Agonia:</b> Przyzwij trzy Mikroboty 1/1.\n\t\t\t<b>Magnético</b>\n<b>Último Suspiro:</b> Evoque três Microrrobôs 1/1.\n\t\t\t<b>Магнетизм</b>\n<b>Предсмертный хрип:</b> призывает трех микроботов 1/1.\n\t\t\t<b>แม่เหล็ก</b>, <b>เสียงสุดท้าย:</b>[b]เรียกไมโครบอท_1/1 สามตัว\n\t\t\t<b>磁力，亡语：</b>召唤三个1/1的微型机器人。\n\t\t\t[x]<b>合體</b>\n<b>死亡之聲：</b>召喚三個\n1/1微型機器人\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Jeder Mech träumt davon, sich in einen eleganten Sportwagen zu verwandeln. Aber man kann es sich nicht immer aussuchen."
+          },
+          "enUS": {
+            "present": true,
+            "value": "It's a car!\n*Whomp whomp whomp*\nIt's a robot!\n*Whomp whom-CRUNCH*\nIt's… three.. smaller robots!"
+          },
+          "esES": {
+            "present": true,
+            "value": "Y recuerda: si no son microbots no son los auténticos."
+          },
+          "esMX": {
+            "present": true,
+            "value": "¿Son vehículos de ataque? ¿Son robots destructores? ¡No! Son tres preciosos y pequeñitos robots..."
+          },
+          "frFR": {
+            "present": true,
+            "value": "C’est une voiture ! * Bang bang bang* C’est un robot ! * Bang, bang bang* Non… Ce sont… trois petits robots !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "È una macchina! *Stump stump stump* È un robot! *Stump stump SBANG* È... sono tre robot più piccoli!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "トランスフォーム！カーモード！（ギガゴゴゴ）\nトランスフォーム！ロボットモード！（ギガゴゴ…バキャッ！）\nえぇと…3つの…小型ロボットモード！"
+          },
+          "koKR": {
+            "present": true,
+            "value": "자동차야! *펑 펑 펑* 로봇이야! *펑 펑 우지끈* 아주... 작은 로봇 셋이야!"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Po jego dezaktywacji mikroboty przejmą dzieło ciemiężenia innych."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "É um carro! *Bam-bam-bam* É um robô! *Bam-bam-TREC* É... três... robôs pequenos!"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Это машина! *тыщ-бум-бац* Это робот! *кряк-бряк-БАБАХ* Это... три маленьких робота!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เดี๋ยวเป็นรถยนต์! *วู้ม วู้ม วู้ม* เดี๋ยวเป็นหุ่นยนต์! *วู้ม วู้ม-โครม* เดี๋ยวเป็น… หุ่นยนต์.. ตัวเล็กสามตัว!"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "我来组成头部！\n我来组成躯干！\n我来组成……"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "是一輛車子！(隆隆隆)變成機器人啦！(隆隆…匡噹)變成…三台小台機器人了…"
+          }
+        },
+        "textContent": "\n\t\t\tJeder Mech träumt davon, sich in einen eleganten Sportwagen zu verwandeln. Aber man kann es sich nicht immer aussuchen.\n\t\t\tIt's a car!\n*Whomp whomp whomp*\nIt's a robot!\n*Whomp whom-CRUNCH*\nIt's… three.. smaller robots!\n\t\t\tY recuerda: si no son microbots no son los auténticos.\n\t\t\t¿Son vehículos de ataque? ¿Son robots destructores? ¡No! Son tres preciosos y pequeñitos robots...\n\t\t\tC’est une voiture ! * Bang bang bang* C’est un robot ! * Bang, bang bang* Non… Ce sont… trois petits robots !\n\t\t\tÈ una macchina! *Stump stump stump* È un robot! *Stump stump SBANG* È... sono tre robot più piccoli!\n\t\t\tトランスフォーム！カーモード！（ギガゴゴゴ）\nトランスフォーム！ロボットモード！（ギガゴゴ…バキャッ！）\nえぇと…3つの…小型ロボットモード！\n\t\t\t자동차야! *펑 펑 펑* 로봇이야! *펑 펑 우지끈* 아주... 작은 로봇 셋이야!\n\t\t\tPo jego dezaktywacji mikroboty przejmą dzieło ciemiężenia innych.\n\t\t\tÉ um carro! *Bam-bam-bam* É um robô! *Bam-bam-TREC* É... três... robôs pequenos!\n\t\t\tЭто машина! *тыщ-бум-бац* Это робот! *кряк-бряк-БАБАХ* Это... три маленьких робота!\n\t\t\tเดี๋ยวเป็นรถยนต์! *วู้ม วู้ม วู้ม* เดี๋ยวเป็นหุ่นยนต์! *วู้ม วู้ม-โครม* เดี๋ยวเป็น… หุ่นยนต์.. ตัวเล็กสามตัว!\n\t\t\t我来组成头部！\n我来组成躯干！\n我来组成……\n\t\t\t是一輛車子！(隆隆隆)變成機器人啦！(隆隆…匡噹)變成…三台小台機器人了…\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Vladimir Kafanov"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Modulare Bedrohung"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Replicating Menace"
+          },
+          "esES": {
+            "present": true,
+            "value": "Amenaza replicante"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Amenaza replicante"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Menace répliquante"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Minaccia Replicante"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "自己増殖型メナス"
+          },
+          "koKR": {
+            "present": true,
+            "value": "증식하는 위협"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Replikator bojowy"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Ameaça Replicante"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Репликатор"
+          },
+          "thTH": {
+            "present": true,
+            "value": "หุ่นพิฆาตจำลองร่าง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "量产型恐吓机"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "合體的威脅者"
+          }
+        },
+        "textContent": "\n\t\tModulare Bedrohung\n\t\tReplicating Menace\n\t\tAmenaza replicante\n\t\tAmenaza replicante\n\t\tMenace répliquante\n\t\tMinaccia Replicante\n\t\t自己増殖型メナス\n\t\t증식하는 위협\n\t\tReplikator bojowy\n\t\tAmeaça Replicante\n\t\tРепликатор\n\t\tหุ่นพิฆาตจำลองร่าง\n\t\t量产型恐吓机\n\t\t合體的威脅者\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Magnetisch</b>. <b>Todesröcheln:</b> Ruft 3 Mikrobots (1/1) herbei."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Magnetic</b>\n<b>Deathrattle:</b> Summon three 1/1 Microbots."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Magnetismo</b>\n<b>Último aliento:</b> Invoca\ntres microbots 1/1."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Magnetismo</b>\n<b>Estertor:</b> invoca tres Microbots 1/1."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Magnétisme</b>\n<b>Râle d’agonie_:</b> invoque trois_microbots_1/1."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Magnetismo</b>.\n<b>Rantolo di Morte:</b>\n__evoca tre Microbot 1/1."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>超電磁</b>\n<b>断末魔:</b>\n1/1の「マイクロロボ」を\n3体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>합체</b>, <b>죽음의 메아리:</b>\n1/1 초소형 로봇을\n셋 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Magnetyzm</b>\n<b>Agonia:</b> Przyzwij trzy Mikroboty 1/1."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Magnético</b>\n<b>Último Suspiro:</b> Evoque três Microrrobôs 1/1."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Магнетизм</b>\n<b>Предсмертный хрип:</b> призывает трех микроботов 1/1."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>แม่เหล็ก</b> <b>เสียงสุดท้าย:</b>[b]เรียกไมโครบอท_1/1 สามตัว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>磁力</b>\n<b>亡语：</b>召唤三个1/1的微型机器人。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "[x]<b>合體</b>\n<b>死亡之聲：</b>召喚三個\n1/1微型機器人"
+          }
+        },
+        "textContent": "\n\t\t<b>Magnetisch</b>. <b>Todesröcheln:</b> Ruft 3 Mikrobots (1/1) herbei.\n\t\t<b>Magnetic</b>\n<b>Deathrattle:</b> Summon three 1/1 Microbots.\n\t\t[x]<b>Magnetismo</b>\n<b>Último aliento:</b> Invoca\ntres microbots 1/1.\n\t\t<b>Magnetismo</b>\n<b>Estertor:</b> invoca tres Microbots 1/1.\n\t\t<b>Magnétisme</b>\n<b>Râle d’agonie_:</b> invoque trois_microbots_1/1.\n\t\t[x]<b>Magnetismo</b>.\n<b>Rantolo di Morte:</b>\n__evoca tre Microbot 1/1.\n\t\t[x]<b>超電磁</b>\n<b>断末魔:</b>\n1/1の「マイクロロボ」を\n3体召喚する。\n\t\t[x]<b>합체</b>, <b>죽음의 메아리:</b>\n1/1 초소형 로봇을\n셋 소환합니다.\n\t\t<b>Magnetyzm</b>\n<b>Agonia:</b> Przyzwij trzy Mikroboty 1/1.\n\t\t<b>Magnético</b>\n<b>Último Suspiro:</b> Evoque três Microrrobôs 1/1.\n\t\t<b>Магнетизм</b>\n<b>Предсмертный хрип:</b> призывает трех микроботов 1/1.\n\t\t<b>แม่เหล็ก</b> <b>เสียงสุดท้าย:</b>[b]เรียกไมโครบอท_1/1 สามตัว\n\t\t<b>磁力</b>\n<b>亡语：</b>召唤三个1/1的微型机器人。\n\t\t[x]<b>合體</b>\n<b>死亡之聲：</b>召喚三個\n1/1微型機器人\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Jeder Mech träumt davon, sich in einen eleganten Sportwagen zu verwandeln. Aber man kann es sich nicht immer aussuchen."
+          },
+          "enUS": {
+            "present": true,
+            "value": "It's a car!\n*Whomp whomp whomp*\nIt's a robot!\n*Whomp whom-CRUNCH*\nIt's… three.. smaller robots!"
+          },
+          "esES": {
+            "present": true,
+            "value": "Y recuerda: si no son microbots no son los auténticos."
+          },
+          "esMX": {
+            "present": true,
+            "value": "¿Son vehículos de ataque? ¿Son robots destructores? ¡No! Son tres preciosos y pequeñitos robots..."
+          },
+          "frFR": {
+            "present": true,
+            "value": "C’est une voiture ! * Bang bang bang* C’est un robot ! * Bang, bang bang* Non… Ce sont… trois petits robots !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "È una macchina! *Stump stump stump* È un robot! *Stump stump SBANG* È... sono tre robot più piccoli!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "トランスフォーム！カーモード！（ギガゴゴゴ）\nトランスフォーム！ロボットモード！（ギガゴゴ…バキャッ！）\nえぇと…3つの…小型ロボットモード！"
+          },
+          "koKR": {
+            "present": true,
+            "value": "자동차야! *펑 펑 펑* 로봇이야! *펑 펑 우지끈* 아주... 작은 로봇 셋이야!"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Po jego dezaktywacji mikroboty przejmą dzieło ciemiężenia innych."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "É um carro! *Bam-bam-bam* É um robô! *Bam-bam-TREC* É... três... robôs pequenos!"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Это машина! *тыщ-бум-бац* Это робот! *кряк-бряк-БАБАХ* Это... три маленьких робота!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เดี๋ยวเป็นรถยนต์! *วู้ม วู้ม วู้ม* เดี๋ยวเป็นหุ่นยนต์! *วู้ม วู้ม-โครม* เดี๋ยวเป็น… หุ่นยนต์.. ตัวเล็กสามตัว!"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "我来组成头部！\n我来组成躯干！\n我来组成……"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "是一輛車子！(隆隆隆)變成機器人啦！(隆隆…匡噹)變成…三台小台機器人了…"
+          }
+        },
+        "textContent": "\n\t\tJeder Mech träumt davon, sich in einen eleganten Sportwagen zu verwandeln. Aber man kann es sich nicht immer aussuchen.\n\t\tIt's a car!\n*Whomp whomp whomp*\nIt's a robot!\n*Whomp whom-CRUNCH*\nIt's… three.. smaller robots!\n\t\tY recuerda: si no son microbots no son los auténticos.\n\t\t¿Son vehículos de ataque? ¿Son robots destructores? ¡No! Son tres preciosos y pequeñitos robots...\n\t\tC’est une voiture ! * Bang bang bang* C’est un robot ! * Bang, bang bang* Non… Ce sont… trois petits robots !\n\t\tÈ una macchina! *Stump stump stump* È un robot! *Stump stump SBANG* È... sono tre robot più piccoli!\n\t\tトランスフォーム！カーモード！（ギガゴゴゴ）\nトランスフォーム！ロボットモード！（ギガゴゴ…バキャッ！）\nえぇと…3つの…小型ロボットモード！\n\t\t자동차야! *펑 펑 펑* 로봇이야! *펑 펑 우지끈* 아주... 작은 로봇 셋이야!\n\t\tPo jego dezaktywacji mikroboty przejmą dzieło ciemiężenia innych.\n\t\tÉ um carro! *Bam-bam-bam* É um robô! *Bam-bam-TREC* É... três... robôs pequenos!\n\t\tЭто машина! *тыщ-бум-бац* Это робот! *кряк-бряк-БАБАХ* Это... три маленьких робота!\n\t\tเดี๋ยวเป็นรถยนต์! *วู้ม วู้ม วู้ม* เดี๋ยวเป็นหุ่นยนต์! *วู้ม วู้ม-โครม* เดี๋ยวเป็น… หุ่นยนต์.. ตัวเล็กสามตัว!\n\t\t我来组成头部！\n我来组成躯干！\n我来组成……\n\t\t是一輛車子！(隆隆隆)變成機器人啦！(隆隆…匡噹)變成…三台小台機器人了…\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Vladimir Kafanov"
+      }
     }
   },
   "_current": {

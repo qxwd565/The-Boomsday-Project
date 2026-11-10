@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Heureka!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Eureka!"
+          },
+          "esES": {
+            "present": true,
+            "value": "¡Eureka!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "¡Eureka!"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Eurêka !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Eureka!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "エウレーカ！"
+          },
+          "koKR": {
+            "present": true,
+            "value": "유레카!"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Eureka!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Eureca!"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Эврика!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ยูเรก้า!"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "我找到了！"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "有了！"
+          }
+        },
+        "textContent": "\n\t\t\tHeureka!\n\t\t\tEureka!\n\t\t\t¡Eureka!\n\t\t\t¡Eureka!\n\t\t\tEurêka !\n\t\t\tEureka!\n\t\t\tエウレーカ！\n\t\t\t유레카!\n\t\t\tEureka!\n\t\t\tEureca!\n\t\t\tЭврика!\n\t\t\tยูเรก้า!\n\t\t\t我找到了！\n\t\t\t有了！\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Ruft eine Kopie eines zufälligen Dieners aus Eurer Hand herbei."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Summon a copy of_a_random minion from your hand."
+          },
+          "esES": {
+            "present": true,
+            "value": "Invoca una copia\nde un esbirro aleatorio de tu mano."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Invoca una copia de un esbirro aleatorio de tu mano."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Invoque une copie d’un serviteur aléatoire de votre main."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Evoca una copia di\nun servitore casuale\nnella tua mano."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]自分の手札から\nランダムな\nミニオンのコピーを\n_1体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 손에 있는 무작위 하수인 하나를 복사하여 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Przyzwij kopię losowego stronnika z_twojej ręki."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Evoque uma cópia de um lacaio aleatório da sua mão."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Вы призываете копию случайного существа из руки."
+          },
+          "thTH": {
+            "present": true,
+            "value": "สุ่มเรียกร่างก๊อปปี้ของ[b]มินเนี่ยนหนึ่งตัวในมือคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "随机挑选你手牌里的一个随从，召唤一个复制。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "從你手中\n召喚一個隨機手下的分身"
+          }
+        },
+        "textContent": "\n\t\t\tRuft eine Kopie eines zufälligen Dieners aus Eurer Hand herbei.\n\t\t\tSummon a copy of_a_random minion from your hand.\n\t\t\tInvoca una copia\nde un esbirro aleatorio de tu mano.\n\t\t\tInvoca una copia de un esbirro aleatorio de tu mano.\n\t\t\tInvoque une copie d’un serviteur aléatoire de votre main.\n\t\t\t[x]Evoca una copia di\nun servitore casuale\nnella tua mano.\n\t\t\t[x]自分の手札から\nランダムな\nミニオンのコピーを\n_1体召喚する。\n\t\t\t내 손에 있는 무작위 하수인 하나를 복사하여 소환합니다.\n\t\t\tPrzyzwij kopię losowego stronnika z_twojej ręki.\n\t\t\tEvoque uma cópia de um lacaio aleatório da sua mão.\n\t\t\tВы призываете копию случайного существа из руки.\n\t\t\tสุ่มเรียกร่างก๊อปปี้ของ[b]มินเนี่ยนหนึ่งตัวในมือคุณ\n\t\t\t随机挑选你手牌里的一个随从，召唤一个复制。\n\t\t\t從你手中\n召喚一個隨機手下的分身\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Genie ist zu 1_% Inspiration und zu 99_% das Ziehen von Todesschwinge."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Genius is 1% inspiration, and 99% drawing your Deathwing."
+          },
+          "esES": {
+            "present": true,
+            "value": "La jugada maestra consiste en un 1% de táctica y un 99% de que te salga Alamuerte."
+          },
+          "esMX": {
+            "present": true,
+            "value": "El genio es 1% inspiración y 99% robar un Alamuerte."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Le génie, c’est 1% d’inspiration et 99% d’Aile de mort."
+          },
+          "itIT": {
+            "present": true,
+            "value": "La genialità è 1% ispirazione e 99% pescare Alamorte."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "天才は1%のひらめきと、99%の「デスウィング」の引きである。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "천재는 1%의 영감과 99%의 오른쪽 데스윙으로 이루어진다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Geniusz to w 1% inspiracja i w 99% dobranie Śmiercioskrzydłego w odpowiednim momencie!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Fórmula da genialidade: 1% de inspiração e 99% de sorte pra comprar o Asa da Morte na hora certa."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Гений – это на 1% вдохновение, а на 99% – умение вовремя вытащить из колоды Смертокрыла."
+          },
+          "thTH": {
+            "present": true,
+            "value": "อัจฉริยะเกิดจากแรงบันดาลใจ 1% และอีก 99% คือการจั่วให้ได้เดธวิง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "三分天注定，七分靠打拼，九十分靠发牌员。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "天才是1%的努力，和99%的抽到死亡之翼。"
+          }
+        },
+        "textContent": "\n\t\t\tGenie ist zu 1_% Inspiration und zu 99_% das Ziehen von Todesschwinge.\n\t\t\tGenius is 1% inspiration, and 99% drawing your Deathwing.\n\t\t\tLa jugada maestra consiste en un 1% de táctica y un 99% de que te salga Alamuerte.\n\t\t\tEl genio es 1% inspiración y 99% robar un Alamuerte.\n\t\t\tLe génie, c’est 1% d’inspiration et 99% d’Aile de mort.\n\t\t\tLa genialità è 1% ispirazione e 99% pescare Alamorte.\n\t\t\t天才は1%のひらめきと、99%の「デスウィング」の引きである。\n\t\t\t천재는 1%의 영감과 99%의 오른쪽 데스윙으로 이루어진다.\n\t\t\tGeniusz to w 1% inspiracja i w 99% dobranie Śmiercioskrzydłego w odpowiednim momencie!\n\t\t\tFórmula da genialidade: 1% de inspiração e 99% de sorte pra comprar o Asa da Morte na hora certa.\n\t\t\tГений – это на 1% вдохновение, а на 99% – умение вовремя вытащить из колоды Смертокрыла.\n\t\t\tอัจฉริยะเกิดจากแรงบันดาลใจ 1% และอีก 99% คือการจั่วให้ได้เดธวิง\n\t\t\t三分天注定，七分靠打拼，九十分靠发牌员。\n\t\t\t天才是1%的努力，和99%的抽到死亡之翼。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Peter Stapleton"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Heureka!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Eureka!"
+          },
+          "esES": {
+            "present": true,
+            "value": "¡Eureka!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "¡Eureka!"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Eurêka !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Eureka!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "エウレーカ！"
+          },
+          "koKR": {
+            "present": true,
+            "value": "유레카!"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Eureka!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Eureca!"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Эврика!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ยูเรก้า!"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "我找到了"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "有了！"
+          }
+        },
+        "textContent": "\n\t\tHeureka!\n\t\tEureka!\n\t\t¡Eureka!\n\t\t¡Eureka!\n\t\tEurêka !\n\t\tEureka!\n\t\tエウレーカ！\n\t\t유레카!\n\t\tEureka!\n\t\tEureca!\n\t\tЭврика!\n\t\tยูเรก้า!\n\t\t我找到了\n\t\t有了！\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Ruft eine Kopie eines zufälligen Dieners aus Eurer Hand herbei."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Summon a copy of_a_random minion from your hand."
+          },
+          "esES": {
+            "present": true,
+            "value": "Invoca una copia\nde un esbirro aleatorio de tu mano."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Invoca una copia de un esbirro aleatorio de_tu_mano."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Invoque une copie d’un serviteur aléatoire de votre main."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Evoca una copia di\nun servitore casuale\nnella tua mano."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]自分の手札から\nランダムな\nミニオンのコピーを\n_1体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 손에 있는 무작위 하수인을 복사하여 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Przyzwij kopię losowego stronnika z_twojej ręki."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Evoque uma cópia de um lacaio aleatório da sua mão."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Призывает копию случайного существа из руки."
+          },
+          "thTH": {
+            "present": true,
+            "value": "สุ่มเรียกร่างก๊อปปี้[b]ของมินเนี่ยนหนึ่งตัว[b]จากมือคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "随机召唤你手牌中的一张随从牌的一个复制。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "從你手中\n召喚一個隨機手下的分身"
+          }
+        },
+        "textContent": "\n\t\tRuft eine Kopie eines zufälligen Dieners aus Eurer Hand herbei.\n\t\tSummon a copy of_a_random minion from your hand.\n\t\tInvoca una copia\nde un esbirro aleatorio de tu mano.\n\t\tInvoca una copia de un esbirro aleatorio de_tu_mano.\n\t\tInvoque une copie d’un serviteur aléatoire de votre main.\n\t\t[x]Evoca una copia di\nun servitore casuale\nnella tua mano.\n\t\t[x]自分の手札から\nランダムな\nミニオンのコピーを\n_1体召喚する。\n\t\t내 손에 있는 무작위 하수인을 복사하여 소환합니다.\n\t\tPrzyzwij kopię losowego stronnika z_twojej ręki.\n\t\tEvoque uma cópia de um lacaio aleatório da sua mão.\n\t\tПризывает копию случайного существа из руки.\n\t\tสุ่มเรียกร่างก๊อปปี้[b]ของมินเนี่ยนหนึ่งตัว[b]จากมือคุณ\n\t\t随机召唤你手牌中的一张随从牌的一个复制。\n\t\t從你手中\n召喚一個隨機手下的分身\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Genie ist zu 1_% Inspiration und zu 99_% das Ziehen von Todesschwinge."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Genius is 1% inspiration, and 99% drawing your Deathwing."
+          },
+          "esES": {
+            "present": true,
+            "value": "La jugada maestra consiste en un 1% de táctica y un 99% de que te salga Alamuerte."
+          },
+          "esMX": {
+            "present": true,
+            "value": "El genio es 1% inspiración y 99% robar un Alamuerte."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Le génie, c’est 1% d’inspiration et 99% d’Aile de mort."
+          },
+          "itIT": {
+            "present": true,
+            "value": "La genialità è 1% ispirazione e 99% pescare Alamorte."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "天才は1%のひらめきと、99%の「デスウィング」の引きである。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "천재는 1%의 영감과 99%의 오른쪽 데스윙으로 이루어진다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Geniusz to w 1% inspiracja i w 99% dobranie Śmiercioskrzydłego w odpowiednim momencie!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Fórmula da genialidade: 1% de inspiração e 99% de sorte pra comprar o Asa da Morte na hora certa."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Гений – это на 1% вдохновение, а на 99% – умение вовремя вытащить из колоды Смертокрыла."
+          },
+          "thTH": {
+            "present": true,
+            "value": "อัจฉริยะเกิดจากแรงบันดาลใจ 1% และอีก 99% คือการจั่วให้ได้เดธวิง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "三分天注定，七分靠打拼，九十分靠发牌员。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "天才是1%的努力，和99%的抽到死亡之翼。"
+          }
+        },
+        "textContent": "\n\t\tGenie ist zu 1_% Inspiration und zu 99_% das Ziehen von Todesschwinge.\n\t\tGenius is 1% inspiration, and 99% drawing your Deathwing.\n\t\tLa jugada maestra consiste en un 1% de táctica y un 99% de que te salga Alamuerte.\n\t\tEl genio es 1% inspiración y 99% robar un Alamuerte.\n\t\tLe génie, c’est 1% d’inspiration et 99% d’Aile de mort.\n\t\tLa genialità è 1% ispirazione e 99% pescare Alamorte.\n\t\t天才は1%のひらめきと、99%の「デスウィング」の引きである。\n\t\t천재는 1%의 영감과 99%의 오른쪽 데스윙으로 이루어진다.\n\t\tGeniusz to w 1% inspiracja i w 99% dobranie Śmiercioskrzydłego w odpowiednim momencie!\n\t\tFórmula da genialidade: 1% de inspiração e 99% de sorte pra comprar o Asa da Morte na hora certa.\n\t\tГений – это на 1% вдохновение, а на 99% – умение вовремя вытащить из колоды Смертокрыла.\n\t\tอัจฉริยะเกิดจากแรงบันดาลใจ 1% และอีก 99% คือการจั่วให้ได้เดธวิง\n\t\t三分天注定，七分靠打拼，九十分靠发牌员。\n\t\t天才是1%的努力，和99%的抽到死亡之翼。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Peter Stapleton"
+      }
     }
   },
   "_current": {

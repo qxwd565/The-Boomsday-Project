@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mikrotechnikerin"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Microtech Controller"
+          },
+          "esES": {
+            "present": true,
+            "value": "Piloto de microbots"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Controladora técnica"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Contrôleuse de microbots"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Pilota di Microbot"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "マイクロロボ操縦者"
+          },
+          "koKR": {
+            "present": true,
+            "value": "초소형 로봇 조종사"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Kontrolerka mikrobotów"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Microtécnica de Controle"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Микроконтроллер"
+          },
+          "thTH": {
+            "present": true,
+            "value": "นักควบคุมหุ่นจิ๋ว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "微机操控者"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "微機器遙控師"
+          }
+        },
+        "textContent": "\n\t\t\tMikrotechnikerin\n\t\t\tMicrotech Controller\n\t\t\tPiloto de microbots\n\t\t\tControladora técnica\n\t\t\tContrôleuse de microbots\n\t\t\tPilota di Microbot\n\t\t\tマイクロロボ操縦者\n\t\t\t초소형 로봇 조종사\n\t\t\tKontrolerka mikrobotów\n\t\t\tMicrotécnica de Controle\n\t\t\tМикроконтроллер\n\t\t\tนักควบคุมหุ่นจิ๋ว\n\t\t\t微机操控者\n\t\t\t微機器遙控師\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Ruft\n2 Mikrobots (1/1) herbei."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Summon two 1/1 Microbots."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b>\nInvoca dos microbots 1/1."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> invoca dos Microbots 1/1."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> invoque deux microbots_1/1."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nevoca due Microbot 1/1."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n1/1の\n「マイクロロボ」を\n___2体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b>\n1/1 초소형 로봇을\n둘 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Przyzwij dwa Mikroboty 1/1."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Evoque dois Microrrobôs 1/1."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> призывает двух микроботов 1/1."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> เรียกไมโครบอท 1/1 สองตัว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>召唤两个1/1的微型机器人。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>召喚兩個\n1/1微型機器人"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Ruft\n2 Mikrobots (1/1) herbei.\n\t\t\t<b>Battlecry:</b> Summon two 1/1 Microbots.\n\t\t\t<b>Grito de batalla:</b>\nInvoca dos microbots 1/1.\n\t\t\t<b>Grito de batalla:</b> invoca dos Microbots 1/1.\n\t\t\t<b>Cri de guerre_:</b> invoque deux microbots_1/1.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nevoca due Microbot 1/1.\n\t\t\t[x]<b>雄叫び:</b>\n1/1の\n「マイクロロボ」を\n___2体召喚する。\n\t\t\t[x]<b>전투의 함성:</b>\n1/1 초소형 로봇을\n둘 소환합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Przyzwij dwa Mikroboty 1/1.\n\t\t\t<b>Grito de Guerra:</b> Evoque dois Microrrobôs 1/1.\n\t\t\t<b>Боевой клич:</b> призывает двух микроботов 1/1.\n\t\t\t<b>คำรามสู้ศึก:</b> เรียกไมโครบอท 1/1 สองตัว\n\t\t\t<b>战吼：</b>召唤两个1/1的微型机器人。\n\t\t\t<b>戰吼：</b>召喚兩個\n1/1微型機器人\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Technik, die begeistert."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Best-selling author of \"How to Make Friends You Completely Control.\""
+          },
+          "esES": {
+            "present": true,
+            "value": "Autora del éxito de ventas «Cómo hacer amigos a los que controlar»."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Exitosa autora de \"Cómo ganar amigos y controlarlos por completo\"."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Le serviteur qui avait le contrôle de ces machines, Kysten, envoya deux microbots sur le champ de bataille."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Quando la passione per il modellismo diventa un lavoro."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ベストセラー「人をロボ化す」の著者。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "불티나게 팔리고 있는 책인 \"내가 완벽하게 조종할 수 있는 친구 만들기\"의 저자입니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Autorka bestsellerowej książki „Jak zdobyć przyjaciół i przejąć nad nimi kontrolę”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Autora do best-seller \"Como fazer amigos e controlar pessoas\"."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Автор бестселлера «Как завести абсолютно контролируемых друзей»."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ผู้เขียนหนังสือขายดี \"วิธีผูกมิตร[b]กับคนที่คุณควบคุมได้เบ็ดเสร็จ\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "畅销书《操纵你的朋友圈》作者。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "她是暢銷書《如何贏取機械友誼與完全控制它們》的作者。"
+          }
+        },
+        "textContent": "\n\t\t\tTechnik, die begeistert.\n\t\t\tBest-selling author of \"How to Make Friends You Completely Control.\"\n\t\t\tAutora del éxito de ventas «Cómo hacer amigos a los que controlar».\n\t\t\tExitosa autora de \"Cómo ganar amigos y controlarlos por completo\".\n\t\t\tLe serviteur qui avait le contrôle de ces machines, Kysten, envoya deux microbots sur le champ de bataille.\n\t\t\tQuando la passione per il modellismo diventa un lavoro.\n\t\t\tベストセラー「人をロボ化す」の著者。\n\t\t\t불티나게 팔리고 있는 책인 \"내가 완벽하게 조종할 수 있는 친구 만들기\"의 저자입니다.\n\t\t\tAutorka bestsellerowej książki „Jak zdobyć przyjaciół i przejąć nad nimi kontrolę”.\n\t\t\tAutora do best-seller \"Como fazer amigos e controlar pessoas\".\n\t\t\tАвтор бестселлера «Как завести абсолютно контролируемых друзей».\n\t\t\tผู้เขียนหนังสือขายดี \"วิธีผูกมิตร[b]กับคนที่คุณควบคุมได้เบ็ดเสร็จ\"\n\t\t\t畅销书《操纵你的朋友圈》作者。\n\t\t\t她是暢銷書《如何贏取機械友誼與完全控制它們》的作者。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Vladimir Kafanov"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mikrotechnikerin"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Microtech Controller"
+          },
+          "esES": {
+            "present": true,
+            "value": "Piloto de microbots"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Controladora técnica"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Contrôleuse de microbots"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Pilota di Microbot"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "マイクロロボ操縦者"
+          },
+          "koKR": {
+            "present": true,
+            "value": "초소형 로봇 조종사"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Kontrolerka mikrobotów"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Microtécnica de Controle"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Микроконтроллер"
+          },
+          "thTH": {
+            "present": true,
+            "value": "นักควบคุมหุ่นจิ๋ว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "微机操控者"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "微機器遙控師"
+          }
+        },
+        "textContent": "\n\t\tMikrotechnikerin\n\t\tMicrotech Controller\n\t\tPiloto de microbots\n\t\tControladora técnica\n\t\tContrôleuse de microbots\n\t\tPilota di Microbot\n\t\tマイクロロボ操縦者\n\t\t초소형 로봇 조종사\n\t\tKontrolerka mikrobotów\n\t\tMicrotécnica de Controle\n\t\tМикроконтроллер\n\t\tนักควบคุมหุ่นจิ๋ว\n\t\t微机操控者\n\t\t微機器遙控師\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Ruft\n2 Mikrobots (1/1) herbei."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Summon two 1/1 Microbots."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b>\nInvoca dos microbots 1/1."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> invoca dos Microbots 1/1."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> invoque deux microbots_1/1."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nevoca due Microbot 1/1."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n1/1の\n「マイクロロボ」を\n___2体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b>\n1/1 초소형 로봇을\n둘 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Przyzwij dwa Mikroboty 1/1."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Evoque dois Microrrobôs 1/1."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> призывает двух микроботов 1/1."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> เรียก[b]ไมโครบอท_1/1_สองตัว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>召唤两个1/1的微型机器人。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>召喚兩個\n1/1微型機器人"
+          }
+        },
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Ruft\n2 Mikrobots (1/1) herbei.\n\t\t<b>Battlecry:</b> Summon two 1/1 Microbots.\n\t\t<b>Grito de batalla:</b>\nInvoca dos microbots 1/1.\n\t\t<b>Grito de batalla:</b> invoca dos Microbots 1/1.\n\t\t<b>Cri de guerre_:</b> invoque deux microbots_1/1.\n\t\t[x]<b>Grido di Battaglia:</b>\nevoca due Microbot 1/1.\n\t\t[x]<b>雄叫び:</b>\n1/1の\n「マイクロロボ」を\n___2体召喚する。\n\t\t[x]<b>전투의 함성:</b>\n1/1 초소형 로봇을\n둘 소환합니다.\n\t\t<b>Okrzyk bojowy:</b> Przyzwij dwa Mikroboty 1/1.\n\t\t<b>Grito de Guerra:</b> Evoque dois Microrrobôs 1/1.\n\t\t<b>Боевой клич:</b> призывает двух микроботов 1/1.\n\t\t<b>คำรามสู้ศึก:</b> เรียก[b]ไมโครบอท_1/1_สองตัว\n\t\t<b>战吼：</b>召唤两个1/1的微型机器人。\n\t\t<b>戰吼：</b>召喚兩個\n1/1微型機器人\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Technik, die begeistert."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Best-selling author of \"How to Make Friends You Completely Control.\""
+          },
+          "esES": {
+            "present": true,
+            "value": "Autora del éxito de ventas «Cómo hacer amigos a los que controlar»."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Exitosa autora de \"Cómo ganar amigos y controlarlos por completo\"."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Le serviteur qui avait le contrôle de ces machines, Kysten, envoya deux microbots sur le champ de bataille."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Quando la passione per il modellismo diventa un lavoro."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ベストセラー「人をロボ化す」の著者。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "불티나게 팔리고 있는 책인 \"내가 완벽하게 조종할 수 있는 친구 만들기\"의 저자입니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Autorka bestsellerowej książki „Jak zdobyć przyjaciół i przejąć nad nimi kontrolę”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Autora do best-seller \"Como fazer amigos e controlar pessoas\"."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Автор бестселлера «Как завести абсолютно контролируемых друзей»."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ผู้เขียนหนังสือขายดี \"วิธีผูกมิตร[b]กับคนที่คุณควบคุมได้เบ็ดเสร็จ\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "畅销书《操纵你的朋友圈》作者。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "她是暢銷書《如何贏取機械友誼與完全控制它們》的作者。"
+          }
+        },
+        "textContent": "\n\t\tTechnik, die begeistert.\n\t\tBest-selling author of \"How to Make Friends You Completely Control.\"\n\t\tAutora del éxito de ventas «Cómo hacer amigos a los que controlar».\n\t\tExitosa autora de \"Cómo ganar amigos y controlarlos por completo\".\n\t\tLe serviteur qui avait le contrôle de ces machines, Kysten, envoya deux microbots sur le champ de bataille.\n\t\tQuando la passione per il modellismo diventa un lavoro.\n\t\tベストセラー「人をロボ化す」の著者。\n\t\t불티나게 팔리고 있는 책인 \"내가 완벽하게 조종할 수 있는 친구 만들기\"의 저자입니다.\n\t\tAutorka bestsellerowej książki „Jak zdobyć przyjaciół i przejąć nad nimi kontrolę”.\n\t\tAutora do best-seller \"Como fazer amigos e controlar pessoas\".\n\t\tАвтор бестселлера «Как завести абсолютно контролируемых друзей».\n\t\tผู้เขียนหนังสือขายดี \"วิธีผูกมิตร[b]กับคนที่คุณควบคุมได้เบ็ดเสร็จ\"\n\t\t畅销书《操纵你的朋友圈》作者。\n\t\t她是暢銷書《如何贏取機械友誼與完全控制它們》的作者。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Vladimir Kafanov"
+      }
     }
   },
   "_current": {

@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Dr. Morrigan"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Dr. Morrigan"
+          },
+          "esES": {
+            "present": true,
+            "value": "Dra. Morrigan"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Dra. Morrigan"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Dr Morrigan"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Dott.ssa Morrigan"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ドクター・モリガン"
+          },
+          "koKR": {
+            "present": true,
+            "value": "박사 모리건"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Doktor Morrigan"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Dra. Morrigan"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Доктор Морриган"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ด็อกเตอร์มอริแกน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "莫瑞甘博士"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "莫莉根博士"
+          }
+        },
+        "textContent": "\n\t\t\tDr. Morrigan\n\t\t\tDr. Morrigan\n\t\t\tDra. Morrigan\n\t\t\tDra. Morrigan\n\t\t\tDr Morrigan\n\t\t\tDott.ssa Morrigan\n\t\t\tドクター・モリガン\n\t\t\t박사 모리건\n\t\t\tDoktor Morrigan\n\t\t\tDra. Morrigan\n\t\t\tДоктор Морриган\n\t\t\tด็อกเตอร์มอริแกน\n\t\t\t莫瑞甘博士\n\t\t\t莫莉根博士\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Todesröcheln:</b> Tauscht diesen Diener gegen einen Diener aus Eurem Deck aus."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Swap this with a minion from your deck."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Último aliento:</b> Intercambia este esbirro con otro\nde tu mazo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Estertor:</b> intercambia este esbirro por uno de tu mazo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Râle d’agonie_:</b> échange cette carte avec un serviteur de votre deck."
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>Rantolo di Morte:</b> scambia questo servitore con un altro nel tuo mazzo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>断末魔:</b>\nこのミニオンを自分の\nデッキのミニオン\n___1体と入れ替える。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b>\n이 하수인을 내 덱의 무작위 하수인 하나와 교체합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Agonia:</b> Zamień tego stronnika ze stronnikiem z_twojej talii."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Último Suspiro:</b> Troque este card por um lacaio do seu deck."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Предсмертный хрип:</b> меняется местами с_существом из_колоды."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>เสียงสุดท้าย:</b> สลับ[b]มินเนี่ยนตัวนี้กับมินเนี่ยน[b]หนึ่งตัวในเด็คคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>亡语：</b>\n将该随从与你牌库中的一个随从互换。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>死亡之聲：</b>與你牌堆中的一個手下交換"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Todesröcheln:</b> Tauscht diesen Diener gegen einen Diener aus Eurem Deck aus.\n\t\t\t<b>Deathrattle:</b> Swap this with a minion from your deck.\n\t\t\t<b>Último aliento:</b> Intercambia este esbirro con otro\nde tu mazo.\n\t\t\t<b>Estertor:</b> intercambia este esbirro por uno de tu mazo.\n\t\t\t<b>Râle d’agonie_:</b> échange cette carte avec un serviteur de votre deck.\n\t\t\t<b>Rantolo di Morte:</b> scambia questo servitore con un altro nel tuo mazzo.\n\t\t\t[x]<b>断末魔:</b>\nこのミニオンを自分の\nデッキのミニオン\n___1体と入れ替える。\n\t\t\t<b>죽음의 메아리:</b>\n이 하수인을 내 덱의 무작위 하수인 하나와 교체합니다.\n\t\t\t<b>Agonia:</b> Zamień tego stronnika ze stronnikiem z_twojej talii.\n\t\t\t<b>Último Suspiro:</b> Troque este card por um lacaio do seu deck.\n\t\t\t<b>Предсмертный хрип:</b> меняется местами с_существом из_колоды.\n\t\t\t<b>เสียงสุดท้าย:</b> สลับ[b]มินเนี่ยนตัวนี้กับมินเนี่ยน[b]หนึ่งตัวในเด็คคุณ\n\t\t\t<b>亡语：</b>\n将该随从与你牌库中的一个随从互换。\n\t\t\t<b>死亡之聲：</b>與你牌堆中的一個手下交換\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Wer einen Witz erwartet hat nach dem Motto „Sie hat einen Doktor in Literaturwissenschaft“, der wird enttäuscht sein: In Wirklichkeit hat sie einen Abschluss in Bösem Maschinenbau."
+          },
+          "enUS": {
+            "present": true,
+            "value": "She will NOT STOP until she gets tenure."
+          },
+          "esES": {
+            "present": true,
+            "value": "¡No parará hasta que consiga plaza fija!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "NO SE DETENDRÁ hasta que su cargo sea vitalicio."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Elle s’arrêtera UNIQUEMENT quand elle aura obtenu un CDI !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Non si fermerà fin quando non avrà ottenuto l'incarico dal Dott. Boom."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "終身雇用資格を得るまで、彼女は絶ッッッッッッ対にやめない。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "종신 재직권을 얻기 전까지 절대로 멈추지 않을 거라는군요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zrobi habilitację, choćby miała sczeznąć."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Ela SÓ VAI PARAR quando passar o estágio probatório."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Она не остановится, пока не получит профессорскую мантию!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เธอจะไม่หยุดจนกว่าจะได้[b]ดำรงตำแหน่งถาวร"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "不拿到终生聘任她决不罢休。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "在拿到終生聘之前，她會一直這樣做。"
+          }
+        },
+        "textContent": "\n\t\t\tWer einen Witz erwartet hat nach dem Motto „Sie hat einen Doktor in Literaturwissenschaft“, der wird enttäuscht sein: In Wirklichkeit hat sie einen Abschluss in Bösem Maschinenbau.\n\t\t\tShe will NOT STOP until she gets tenure.\n\t\t\t¡No parará hasta que consiga plaza fija!\n\t\t\tNO SE DETENDRÁ hasta que su cargo sea vitalicio.\n\t\t\tElle s’arrêtera UNIQUEMENT quand elle aura obtenu un CDI !\n\t\t\tNon si fermerà fin quando non avrà ottenuto l'incarico dal Dott. Boom.\n\t\t\t終身雇用資格を得るまで、彼女は絶ッッッッッッ対にやめない。\n\t\t\t종신 재직권을 얻기 전까지 절대로 멈추지 않을 거라는군요.\n\t\t\tZrobi habilitację, choćby miała sczeznąć.\n\t\t\tEla SÓ VAI PARAR quando passar o estágio probatório.\n\t\t\tОна не остановится, пока не получит профессорскую мантию!\n\t\t\tเธอจะไม่หยุดจนกว่าจะได้[b]ดำรงตำแหน่งถาวร\n\t\t\t不拿到终生聘任她决不罢休。\n\t\t\t在拿到終生聘之前，她會一直這樣做。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Slawomir Maniak"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Dr. Morrigan"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Dr. Morrigan"
+          },
+          "esES": {
+            "present": true,
+            "value": "Dra. Morrigan"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Dra. Morrigan"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Dr Morrigan"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Dott.ssa Morrigan"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ドクター・モリガン"
+          },
+          "koKR": {
+            "present": true,
+            "value": "박사 모리건"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Doktor Morrigan"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Dra. Morrigan"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Доктор Морриган"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ด็อกเตอร์มอริแกน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "莫瑞甘博士"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "莫莉根博士"
+          }
+        },
+        "textContent": "\n\t\tDr. Morrigan\n\t\tDr. Morrigan\n\t\tDra. Morrigan\n\t\tDra. Morrigan\n\t\tDr Morrigan\n\t\tDott.ssa Morrigan\n\t\tドクター・モリガン\n\t\t박사 모리건\n\t\tDoktor Morrigan\n\t\tDra. Morrigan\n\t\tДоктор Морриган\n\t\tด็อกเตอร์มอริแกน\n\t\t莫瑞甘博士\n\t\t莫莉根博士\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Todesröcheln:</b> Tauscht diesen Diener gegen einen Diener aus Eurem Deck aus."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Swap this with a minion from your deck."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Último aliento:</b> Intercambia este esbirro con otro\nde tu mazo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Estertor:</b> intercambia este esbirro por uno de tu mazo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Râle d’agonie_:</b> échange cette carte avec un serviteur de votre deck."
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>Rantolo di Morte:</b> scambia questo servitore con un altro nel tuo mazzo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>断末魔:</b>\nこのミニオンを自分の\nデッキのミニオン\n___1体と入れ替える。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b>\n이 하수인을 내 덱의 무작위 하수인과 교체합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Agonia:</b> Zamień tego stronnika ze stronnikiem z_twojej talii."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Último Suspiro:</b> Troque este card por um lacaio do seu deck."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Предсмертный хрип:</b> меняется местами с_существом из_колоды."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>เสียงสุดท้าย:</b> สลับ[b]มินเนี่ยนตัวนี้กับมินเนี่ยน[b]หนึ่งตัวในเด็คคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>亡语：</b>\n将本随从与你牌库中的一个随从互换。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>死亡之聲：</b>與你牌堆中的一個手下交換"
+          }
+        },
+        "textContent": "\n\t\t<b>Todesröcheln:</b> Tauscht diesen Diener gegen einen Diener aus Eurem Deck aus.\n\t\t<b>Deathrattle:</b> Swap this with a minion from your deck.\n\t\t<b>Último aliento:</b> Intercambia este esbirro con otro\nde tu mazo.\n\t\t<b>Estertor:</b> intercambia este esbirro por uno de tu mazo.\n\t\t<b>Râle d’agonie_:</b> échange cette carte avec un serviteur de votre deck.\n\t\t<b>Rantolo di Morte:</b> scambia questo servitore con un altro nel tuo mazzo.\n\t\t[x]<b>断末魔:</b>\nこのミニオンを自分の\nデッキのミニオン\n___1体と入れ替える。\n\t\t<b>죽음의 메아리:</b>\n이 하수인을 내 덱의 무작위 하수인과 교체합니다.\n\t\t<b>Agonia:</b> Zamień tego stronnika ze stronnikiem z_twojej talii.\n\t\t<b>Último Suspiro:</b> Troque este card por um lacaio do seu deck.\n\t\t<b>Предсмертный хрип:</b> меняется местами с_существом из_колоды.\n\t\t<b>เสียงสุดท้าย:</b> สลับ[b]มินเนี่ยนตัวนี้กับมินเนี่ยน[b]หนึ่งตัวในเด็คคุณ\n\t\t<b>亡语：</b>\n将本随从与你牌库中的一个随从互换。\n\t\t<b>死亡之聲：</b>與你牌堆中的一個手下交換\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Wer einen Witz erwartet hat nach dem Motto „Sie hat einen Doktor in Literaturwissenschaft“, der wird enttäuscht sein: In Wirklichkeit hat sie einen Abschluss in Bösem Maschinenbau."
+          },
+          "enUS": {
+            "present": true,
+            "value": "She will NOT STOP until she gets tenure."
+          },
+          "esES": {
+            "present": true,
+            "value": "¡No parará hasta que consiga plaza fija!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "NO SE DETENDRÁ hasta que su cargo sea vitalicio."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Elle s’arrêtera UNIQUEMENT quand elle aura obtenu un CDI !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Non si fermerà fin quando non avrà ottenuto l'incarico dal Dott. Boom."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "終身雇用資格を得るまで、彼女は絶ッッッッッッ対にやめない。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "종신 재직권을 얻기 전까지 절대로 멈추지 않을 거라는군요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zrobi habilitację, choćby miała sczeznąć."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Ela SÓ VAI PARAR quando passar o estágio probatório."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Она не остановится, пока не получит профессорскую мантию!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เธอจะไม่หยุดจนกว่าจะได้[b]ดำรงตำแหน่งถาวร"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "不拿到终生聘任她决不罢休。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "在拿到終生聘之前，她會一直這樣做。"
+          }
+        },
+        "textContent": "\n\t\tWer einen Witz erwartet hat nach dem Motto „Sie hat einen Doktor in Literaturwissenschaft“, der wird enttäuscht sein: In Wirklichkeit hat sie einen Abschluss in Bösem Maschinenbau.\n\t\tShe will NOT STOP until she gets tenure.\n\t\t¡No parará hasta que consiga plaza fija!\n\t\tNO SE DETENDRÁ hasta que su cargo sea vitalicio.\n\t\tElle s’arrêtera UNIQUEMENT quand elle aura obtenu un CDI !\n\t\tNon si fermerà fin quando non avrà ottenuto l'incarico dal Dott. Boom.\n\t\t終身雇用資格を得るまで、彼女は絶ッッッッッッ対にやめない。\n\t\t종신 재직권을 얻기 전까지 절대로 멈추지 않을 거라는군요.\n\t\tZrobi habilitację, choćby miała sczeznąć.\n\t\tEla SÓ VAI PARAR quando passar o estágio probatório.\n\t\tОна не остановится, пока не получит профессорскую мантию!\n\t\tเธอจะไม่หยุดจนกว่าจะได้[b]ดำรงตำแหน่งถาวร\n\t\t不拿到终生聘任她决不罢休。\n\t\t在拿到終生聘之前，她會一直這樣做。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Slawomir Maniak"
+      }
     }
   },
   "_current": {

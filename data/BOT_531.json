@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Galaktischer Gesandter"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Celestial Emissary"
+          },
+          "esES": {
+            "present": true,
+            "value": "Emisario celestial"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Emisario celestial"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Émissaire céleste"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Emissario Celeste"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "星界からの使者"
+          },
+          "koKR": {
+            "present": true,
+            "value": "별빛 사절"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Gwiezdny wysłannik"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Emissário Celestial"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Посланник небес"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ทูตแห่งดวงดาว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "星界密使"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "星界特使"
+          }
+        },
+        "textContent": "\n\t\t\tGalaktischer Gesandter\n\t\t\tCelestial Emissary\n\t\t\tEmisario celestial\n\t\t\tEmisario celestial\n\t\t\tÉmissaire céleste\n\t\t\tEmissario Celeste\n\t\t\t星界からの使者\n\t\t\t별빛 사절\n\t\t\tGwiezdny wysłannik\n\t\t\tEmissário Celestial\n\t\t\tПосланник небес\n\t\t\tทูตแห่งดวงดาว\n\t\t\t星界密使\n\t\t\t星界特使\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Euer nächster Zauber in diesem Zug hat <b>Zauberschaden +2</b>."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Your next spell_this turn has <b>Spell_Damage +2</b>."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b> Tu próximo\nhechizo en este turno\ntiene <b>+2 p. de daño\ncon hechizos</b>."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> tu próximo hechizo este turno tiene <b>Daño de hechizo +2</b>."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> votre prochain sort pendant ce tour a <b>+2 aux dégâts des sorts</b>."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nla prossima Magia che\nlanci in questo turno\nha <b>+2 Danni Magici</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\nこのターン、自分が\n次に使用する呪文は\n____<b>呪文ダメージ+2</b>を得る。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b> 이번 턴의 내 다음 주문이 <b>주문 공격력 +2</b>를 얻습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b>\nTwoje następne zaklęcie w_tej turze ma <b>Obrażenia_zaklęć_+2</b>."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> \nSeu próximo feitiço neste turno tem <b>+2 de Dano Mágico</b>."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]<b>Боевой клич:</b> ваше\nследующее заклинание\nна этом ходу получает\n________<b>урон от заклинаний +2</b>.___"
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> เวทมนตร์[b]ใบถัดไปที่คุณร่ายในเทิร์นนี้มี <b>ความเสียหายเวท +2</b>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>在本回合中，你的下一个法术将获得<b>法术伤害+2</b>。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>本回合\n你的下一個法術獲得<b>法術傷害+2</b>"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Euer nächster Zauber in diesem Zug hat <b>Zauberschaden +2</b>.\n\t\t\t<b>Battlecry:</b> Your next spell_this turn has <b>Spell_Damage +2</b>.\n\t\t\t[x]<b>Grito de batalla:</b> Tu próximo\nhechizo en este turno\ntiene <b>+2 p. de daño\ncon hechizos</b>.\n\t\t\t<b>Grito de batalla:</b> tu próximo hechizo este turno tiene <b>Daño de hechizo +2</b>.\n\t\t\t<b>Cri de guerre_:</b> votre prochain sort pendant ce tour a <b>+2 aux dégâts des sorts</b>.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nla prossima Magia che\nlanci in questo turno\nha <b>+2 Danni Magici</b>.\n\t\t\t[x]<b>雄叫び:</b>\nこのターン、自分が\n次に使用する呪文は\n____<b>呪文ダメージ+2</b>を得る。\n\t\t\t<b>전투의 함성:</b> 이번 턴의 내 다음 주문이 <b>주문 공격력 +2</b>를 얻습니다.\n\t\t\t<b>Okrzyk bojowy:</b>\nTwoje następne zaklęcie w_tej turze ma <b>Obrażenia_zaklęć_+2</b>.\n\t\t\t<b>Grito de Guerra:</b> \nSeu próximo feitiço neste turno tem <b>+2 de Dano Mágico</b>.\n\t\t\t[x]<b>Боевой клич:</b> ваше\nследующее заклинание\nна этом ходу получает\n________<b>урон от заклинаний +2</b>.___\n\t\t\t<b>คำรามสู้ศึก:</b> เวทมนตร์[b]ใบถัดไปที่คุณร่ายในเทิร์นนี้มี <b>ความเสียหายเวท +2</b>\n\t\t\t<b>战吼：</b>在本回合中，你的下一个法术将获得<b>法术伤害+2</b>。\n\t\t\t<b>戰吼：</b>本回合\n你的下一個法術獲得<b>法術傷害+2</b>\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Ihr glaubt ja gar nicht, was passiert, wenn man direkt nach ihm die Münze spielt. Das müsst Ihr einfach ausprobieren!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Casting with the stars."
+          },
+          "esES": {
+            "present": true,
+            "value": "¡Hasta el infinito y más allá!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Para bailar con las estrellas tienes que aprender a volar."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Je danse avec les étoiles."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Lo attende una carriera stellare."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "回答を間違えたヤツらの部屋には行かない。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "샤라랄라랄랄라~"
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Taniec z gwiazdami” to jego ulubiony program."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Estava escrito nas estrelas."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Пассы со звездами."
+          },
+          "thTH": {
+            "present": true,
+            "value": "คืนที่ดาวเต็มฟ้า ฉันจินตนาการว่ายิงเวทใส่หน้าเธอ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "唯爱与星辰共舞。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "嗜好是與星星共舞。"
+          }
+        },
+        "textContent": "\n\t\t\tIhr glaubt ja gar nicht, was passiert, wenn man direkt nach ihm die Münze spielt. Das müsst Ihr einfach ausprobieren!\n\t\t\tCasting with the stars.\n\t\t\t¡Hasta el infinito y más allá!\n\t\t\tPara bailar con las estrellas tienes que aprender a volar.\n\t\t\tJe danse avec les étoiles.\n\t\t\tLo attende una carriera stellare.\n\t\t\t回答を間違えたヤツらの部屋には行かない。\n\t\t\t샤라랄라랄랄라~\n\t\t\t„Taniec z gwiazdami” to jego ulubiony program.\n\t\t\tEstava escrito nas estrelas.\n\t\t\tПассы со звездами.\n\t\t\tคืนที่ดาวเต็มฟ้า ฉันจินตนาการว่ายิงเวทใส่หน้าเธอ\n\t\t\t唯爱与星辰共舞。\n\t\t\t嗜好是與星星共舞。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "L Chanchai"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Galaktischer Gesandter"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Celestial Emissary"
+          },
+          "esES": {
+            "present": true,
+            "value": "Emisario celestial"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Emisario celestial"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Émissaire céleste"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Emissario Celeste"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "星界からの使者"
+          },
+          "koKR": {
+            "present": true,
+            "value": "별빛 사절"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Gwiezdny wysłannik"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Emissário Celestial"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Посланник небес"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ทูตแห่งดวงดาว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "星界密使"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "星界特使"
+          }
+        },
+        "textContent": "\n\t\tGalaktischer Gesandter\n\t\tCelestial Emissary\n\t\tEmisario celestial\n\t\tEmisario celestial\n\t\tÉmissaire céleste\n\t\tEmissario Celeste\n\t\t星界からの使者\n\t\t별빛 사절\n\t\tGwiezdny wysłannik\n\t\tEmissário Celestial\n\t\tПосланник небес\n\t\tทูตแห่งดวงดาว\n\t\t星界密使\n\t\t星界特使\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Euer nächster Zauber in diesem Zug hat <b>Zauberschaden +2</b>."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Your next spell_this turn has <b>Spell_Damage +2</b>."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b> Tu próximo\nhechizo en este turno\ntiene <b>+2 p. de daño\ncon hechizos</b>."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> tu próximo hechizo este turno tiene <b>Daño de hechizo +2</b>."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> votre prochain sort pendant ce tour a <b>+2 aux dégâts des sorts</b>."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nla prossima Magia che\nlanci in questo turno\nha <b>+2 Danni Magici</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\nこのターン、自分が\n次に使用する呪文は\n____<b>呪文ダメージ+2</b>を得る。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b> 이번 턴의 내 다음 주문이 <b>주문 공격력 +2</b>를 얻습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b>\nTwoje następne zaklęcie w_tej turze ma <b>Obrażenia_zaklęć_+2</b>."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> \nSeu próximo feitiço neste turno tem <b>+2 de Dano Mágico</b>."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]<b>Боевой клич:</b> ваше\nследующее заклинание\nна этом ходу получает\n________<b>урон от заклинаний +2</b>.___"
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> เวทมนตร์ใบ[b]ถัดไปของคุณในเทิร์นนี้มี <b>ความเสียหายเวท_+2</b>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>在本回合中，你的下一个法术拥有<b>法术伤害+2</b>。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>本回合\n你的下一個法術獲得<b>法術傷害+2</b>"
+          }
+        },
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Euer nächster Zauber in diesem Zug hat <b>Zauberschaden +2</b>.\n\t\t<b>Battlecry:</b> Your next spell_this turn has <b>Spell_Damage +2</b>.\n\t\t[x]<b>Grito de batalla:</b> Tu próximo\nhechizo en este turno\ntiene <b>+2 p. de daño\ncon hechizos</b>.\n\t\t<b>Grito de batalla:</b> tu próximo hechizo este turno tiene <b>Daño de hechizo +2</b>.\n\t\t<b>Cri de guerre_:</b> votre prochain sort pendant ce tour a <b>+2 aux dégâts des sorts</b>.\n\t\t[x]<b>Grido di Battaglia:</b>\nla prossima Magia che\nlanci in questo turno\nha <b>+2 Danni Magici</b>.\n\t\t[x]<b>雄叫び:</b>\nこのターン、自分が\n次に使用する呪文は\n____<b>呪文ダメージ+2</b>を得る。\n\t\t<b>전투의 함성:</b> 이번 턴의 내 다음 주문이 <b>주문 공격력 +2</b>를 얻습니다.\n\t\t<b>Okrzyk bojowy:</b>\nTwoje następne zaklęcie w_tej turze ma <b>Obrażenia_zaklęć_+2</b>.\n\t\t<b>Grito de Guerra:</b> \nSeu próximo feitiço neste turno tem <b>+2 de Dano Mágico</b>.\n\t\t[x]<b>Боевой клич:</b> ваше\nследующее заклинание\nна этом ходу получает\n________<b>урон от заклинаний +2</b>.___\n\t\t<b>คำรามสู้ศึก:</b> เวทมนตร์ใบ[b]ถัดไปของคุณในเทิร์นนี้มี <b>ความเสียหายเวท_+2</b>\n\t\t<b>战吼：</b>在本回合中，你的下一个法术拥有<b>法术伤害+2</b>。\n\t\t<b>戰吼：</b>本回合\n你的下一個法術獲得<b>法術傷害+2</b>\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Ihr glaubt ja gar nicht, was passiert, wenn man direkt nach ihm die Münze spielt. Das müsst Ihr einfach ausprobieren!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Casting with the stars."
+          },
+          "esES": {
+            "present": true,
+            "value": "¡Hasta el infinito y más allá!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Para bailar con las estrellas tienes que aprender a volar."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Je danse avec les étoiles."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Lo attende una carriera stellare."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "回答を間違えたヤツらの部屋には行かない。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "샤라랄라랄랄라~"
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Taniec z gwiazdami” to jego ulubiony program."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Estava escrito nas estrelas."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Пассы со звездами."
+          },
+          "thTH": {
+            "present": true,
+            "value": "คืนที่ดาวเต็มฟ้า ฉันจินตนาการว่ายิงเวทใส่หน้าเธอ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "唯爱与星辰共舞。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "嗜好是與星星共舞。"
+          }
+        },
+        "textContent": "\n\t\tIhr glaubt ja gar nicht, was passiert, wenn man direkt nach ihm die Münze spielt. Das müsst Ihr einfach ausprobieren!\n\t\tCasting with the stars.\n\t\t¡Hasta el infinito y más allá!\n\t\tPara bailar con las estrellas tienes que aprender a volar.\n\t\tJe danse avec les étoiles.\n\t\tLo attende una carriera stellare.\n\t\t回答を間違えたヤツらの部屋には行かない。\n\t\t샤라랄라랄랄라~\n\t\t„Taniec z gwiazdami” to jego ulubiony program.\n\t\tEstava escrito nas estrelas.\n\t\tПассы со звездами.\n\t\tคืนที่ดาวเต็มฟ้า ฉันจินตนาการว่ายิงเวทใส่หน้าเธอ\n\t\t唯爱与星辰共舞。\n\t\t嗜好是與星星共舞。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "L Chanchai"
+      }
     }
   },
   "_current": {

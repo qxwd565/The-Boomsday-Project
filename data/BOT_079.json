@@ -83,6 +83,546 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Helferlein Lumi"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Faithful Lumi"
+          },
+          "esES": {
+            "present": true,
+            "value": "Lucecilla fiel"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Lucecita fiel"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Lumi loyal"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Lumino Fedele"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "忠実ロボ・ルミ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "충직한 초롱이"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Lojalny żarnik"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Lumi Fiel"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Лампуся"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ลูมิผู้ซื่อสัตย์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "可靠的灯泡"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "可靠的照明機器人"
+          }
+        },
+        "textContent": "\n\t\t\tHelferlein Lumi\n\t\t\tFaithful Lumi\n\t\t\tLucecilla fiel\n\t\t\tLucecita fiel\n\t\t\tLumi loyal\n\t\t\tLumino Fedele\n\t\t\t忠実ロボ・ルミ\n\t\t\t충직한 초롱이\n\t\t\tLojalny żarnik\n\t\t\tLumi Fiel\n\t\t\tЛампуся\n\t\t\tลูมิผู้ซื่อสัตย์\n\t\t\t可靠的灯泡\n\t\t\t可靠的照明機器人\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Verleiht einem befreundeten Mech +1/+1."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Give a friendly Mech +1/+1."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b>\nOtorga +1/+1\na un robot amistoso."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> otorga +1/+1 a un Meca aliado."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> donne_+1/+1 à\nun Méca allié."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\n+1/+1 a un tuo Robot."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n味方のメカ1体に\n__+1/+1を付与する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n아군 기계 하나에게 +1/+1을 부여합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Daj przyjaznemu Mechowi +1/+1."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Conceda +1/+1 a um Mecanoide aliado."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> ваш выбранный механизм получает +1/+1."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> มอบ +1/+1 ให้เครื่องจักรฝ่ายคุณหนึ่งตัว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>使一个友方机械获得+1/+1。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>賦予一個友方機械+1/+1"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Verleiht einem befreundeten Mech +1/+1.\n\t\t\t<b>Battlecry:</b> Give a friendly Mech +1/+1.\n\t\t\t[x]<b>Grito de batalla:</b>\nOtorga +1/+1\na un robot amistoso.\n\t\t\t<b>Grito de batalla:</b> otorga +1/+1 a un Meca aliado.\n\t\t\t<b>Cri de guerre_:</b> donne_+1/+1 à\nun Méca allié.\n\t\t\t[x]<b>Grido di Battaglia:</b>\n+1/+1 a un tuo Robot.\n\t\t\t[x]<b>雄叫び:</b>\n味方のメカ1体に\n__+1/+1を付与する。\n\t\t\t<b>전투의 함성:</b>\n아군 기계 하나에게 +1/+1을 부여합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Daj przyjaznemu Mechowi +1/+1.\n\t\t\t<b>Grito de Guerra:</b> Conceda +1/+1 a um Mecanoide aliado.\n\t\t\t<b>Боевой клич:</b> ваш выбранный механизм получает +1/+1.\n\t\t\t<b>คำรามสู้ศึก:</b> มอบ +1/+1 ให้เครื่องจักรฝ่ายคุณหนึ่งตัว\n\t\t\t<b>战吼：</b>使一个友方机械获得+1/+1。\n\t\t\t<b>戰吼：</b>賦予一個友方機械+1/+1\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Es ist keine große Leuchte, aber bei den anderen Mechs ist es sehr beliebt."
+          },
+          "enUS": {
+            "present": true,
+            "value": "They're a little light-headed."
+          },
+          "esES": {
+            "present": true,
+            "value": "Es superocurrente; cada dos por tres, se le ilumina la bombilla."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Sin dudas, una iluminada."
+          },
+          "frFR": {
+            "present": true,
+            "value": "C’est une tête d’ampoule."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Sono dei tipi un po' allampati!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "こいつの存在は、周囲を明るくしてくれる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "이렇게 앙증맞은 녀석을 거대한 기계식 최첨단 고릴라 로봇 팔로 부숴 버리다니..."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Ile żarników potrzeba, żeby wkręcić żarówkę?"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Eles são meio cabeça oca."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Светлая голова, хоть и робот!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "พวกนี้ออกจะหัวใสนิดหน่อย"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "小小灯泡，脑门锃亮；左摇右摆，晕头转向。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "頭會發光的代價是‧‧‧頭昏眼花。"
+          }
+        },
+        "textContent": "\n\t\t\tEs ist keine große Leuchte, aber bei den anderen Mechs ist es sehr beliebt.\n\t\t\tThey're a little light-headed.\n\t\t\tEs superocurrente; cada dos por tres, se le ilumina la bombilla.\n\t\t\tSin dudas, una iluminada.\n\t\t\tC’est une tête d’ampoule.\n\t\t\tSono dei tipi un po' allampati!\n\t\t\tこいつの存在は、周囲を明るくしてくれる。\n\t\t\t이렇게 앙증맞은 녀석을 거대한 기계식 최첨단 고릴라 로봇 팔로 부숴 버리다니...\n\t\t\tIle żarników potrzeba, żeby wkręcić żarówkę?\n\t\t\tEles são meio cabeça oca.\n\t\t\tСветлая голова, хоть и робот!\n\t\t\tพวกนี้ออกจะหัวใสนิดหน่อย\n\t\t\t小小灯泡，脑门锃亮；左摇右摆，晕头转向。\n\t\t\t頭會發光的代價是‧‧‧頭昏眼花。\n\t\t"
+      },
+      "325": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verleiht +1/+1."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Give +1/+1."
+          },
+          "esES": {
+            "present": true,
+            "value": "Otorga +1/+1."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Otorga +1/+1."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Donne_+1/+1."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Fornisce +1/+1."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "+1/+1を付与する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "+1/+1"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Daj +1/+1."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Conceda +1/+1."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Добавить +1/+1."
+          },
+          "thTH": {
+            "present": true,
+            "value": "มอบ +1/+1"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "获得+1/+1。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "賦予+1/+1"
+          }
+        },
+        "textContent": "\n\t\t\tVerleiht +1/+1.\n\t\t\tGive +1/+1.\n\t\t\tOtorga +1/+1.\n\t\t\tOtorga +1/+1.\n\t\t\tDonne_+1/+1.\n\t\t\tFornisce +1/+1.\n\t\t\t+1/+1を付与する。\n\t\t\t+1/+1\n\t\t\tDaj +1/+1.\n\t\t\tConceda +1/+1.\n\t\t\tДобавить +1/+1.\n\t\t\tมอบ +1/+1\n\t\t\t获得+1/+1。\n\t\t\t賦予+1/+1\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Zero"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Helferlein Lumi"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Faithful Lumi"
+          },
+          "esES": {
+            "present": true,
+            "value": "Lucecilla fiel"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Lucecita fiel"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Lumi loyal"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Lumino Fedele"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "忠実ロボ・ルミ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "충직한 초롱이"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Lojalny żarnik"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Lumi Fiel"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Лампуся"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ลูมิผู้ซื่อสัตย์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "可靠的灯泡"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "可靠的照明機器人"
+          }
+        },
+        "textContent": "\n\t\tHelferlein Lumi\n\t\tFaithful Lumi\n\t\tLucecilla fiel\n\t\tLucecita fiel\n\t\tLumi loyal\n\t\tLumino Fedele\n\t\t忠実ロボ・ルミ\n\t\t충직한 초롱이\n\t\tLojalny żarnik\n\t\tLumi Fiel\n\t\tЛампуся\n\t\tลูมิผู้ซื่อสัตย์\n\t\t可靠的灯泡\n\t\t可靠的照明機器人\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Verleiht einem befreundeten Mech +1/+1."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Give a friendly Mech +1/+1."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b>\nOtorga +1/+1\na un robot amistoso."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> otorga +1/+1 a un Meca aliado."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> donne_+1/+1 à\nun Méca allié."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\n+1/+1 a un tuo Robot."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n味方のメカ1体に\n__+1/+1を付与する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n아군 기계에 +1/+1을\n부여합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Daj przyjaznemu Mechowi +1/+1."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Conceda +1/+1 a um Mecanoide aliado."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> ваш механизм получает +1/+1."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> มอบ +1/+1 ให้เครื่องจักรฝ่ายคุณหนึ่งตัว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>使一个友方机械获得+1/+1。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>賦予一個友方機械+1/+1"
+          }
+        },
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Verleiht einem befreundeten Mech +1/+1.\n\t\t<b>Battlecry:</b> Give a friendly Mech +1/+1.\n\t\t[x]<b>Grito de batalla:</b>\nOtorga +1/+1\na un robot amistoso.\n\t\t<b>Grito de batalla:</b> otorga +1/+1 a un Meca aliado.\n\t\t<b>Cri de guerre_:</b> donne_+1/+1 à\nun Méca allié.\n\t\t[x]<b>Grido di Battaglia:</b>\n+1/+1 a un tuo Robot.\n\t\t[x]<b>雄叫び:</b>\n味方のメカ1体に\n__+1/+1を付与する。\n\t\t<b>전투의 함성:</b>\n아군 기계에 +1/+1을\n부여합니다.\n\t\t<b>Okrzyk bojowy:</b> Daj przyjaznemu Mechowi +1/+1.\n\t\t<b>Grito de Guerra:</b> Conceda +1/+1 a um Mecanoide aliado.\n\t\t<b>Боевой клич:</b> ваш механизм получает +1/+1.\n\t\t<b>คำรามสู้ศึก:</b> มอบ +1/+1 ให้เครื่องจักรฝ่ายคุณหนึ่งตัว\n\t\t<b>战吼：</b>使一个友方机械获得+1/+1。\n\t\t<b>戰吼：</b>賦予一個友方機械+1/+1\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Es ist keine große Leuchte, aber bei den anderen Mechs ist es sehr beliebt."
+          },
+          "enUS": {
+            "present": true,
+            "value": "They're a little light-headed."
+          },
+          "esES": {
+            "present": true,
+            "value": "Es superocurrente; cada dos por tres, se le ilumina la bombilla."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Sin dudas, una iluminada."
+          },
+          "frFR": {
+            "present": true,
+            "value": "C’est une tête d’ampoule."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Sono dei tipi un po' allampati!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "こいつの存在は、周囲を明るくしてくれる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "이렇게 앙증맞은 녀석을 거대한 기계식 최첨단 고릴라 로봇 팔로 부숴 버리다니..."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Ile żarników potrzeba, żeby wkręcić żarówkę?"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Eles são meio cabeça oca."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Светлая голова, хоть и робот!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "พวกนี้ออกจะหัวใสนิดหน่อย"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "小小灯泡，脑门锃亮；左摇右摆，晕头转向。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "頭會發光的代價是‧‧‧頭昏眼花。"
+          }
+        },
+        "textContent": "\n\t\tEs ist keine große Leuchte, aber bei den anderen Mechs ist es sehr beliebt.\n\t\tThey're a little light-headed.\n\t\tEs superocurrente; cada dos por tres, se le ilumina la bombilla.\n\t\tSin dudas, una iluminada.\n\t\tC’est une tête d’ampoule.\n\t\tSono dei tipi un po' allampati!\n\t\tこいつの存在は、周囲を明るくしてくれる。\n\t\t이렇게 앙증맞은 녀석을 거대한 기계식 최첨단 고릴라 로봇 팔로 부숴 버리다니...\n\t\tIle żarników potrzeba, żeby wkręcić żarówkę?\n\t\tEles são meio cabeça oca.\n\t\tСветлая голова, хоть и робот!\n\t\tพวกนี้ออกจะหัวใสนิดหน่อย\n\t\t小小灯泡，脑门锃亮；左摇右摆，晕头转向。\n\t\t頭會發光的代價是‧‧‧頭昏眼花。\n\t"
+      },
+      "325": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verleiht +1/+1."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Give +1/+1."
+          },
+          "esES": {
+            "present": true,
+            "value": "Otorga +1/+1."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Otorga +1/+1."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Donne_+1/+1."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Fornisce +1/+1."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "+1/+1を付与する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "+1/+1"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Daj +1/+1."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Conceda +1/+1."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Добавить +1/+1."
+          },
+          "thTH": {
+            "present": true,
+            "value": "มอบ +1/+1"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "获得+1/+1。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "賦予+1/+1"
+          }
+        },
+        "textContent": "\n\t\tVerleiht +1/+1.\n\t\tGive +1/+1.\n\t\tOtorga +1/+1.\n\t\tOtorga +1/+1.\n\t\tDonne_+1/+1.\n\t\tFornisce +1/+1.\n\t\t+1/+1を付与する。\n\t\t+1/+1\n\t\tDaj +1/+1.\n\t\tConceda +1/+1.\n\t\tДобавить +1/+1.\n\t\tมอบ +1/+1\n\t\t获得+1/+1。\n\t\t賦予+1/+1\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Zero"
+      }
     }
   },
   "_current": {

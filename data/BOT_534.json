@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Planierstier"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Bull Dozer"
+          },
+          "esES": {
+            "present": true,
+            "value": "Toro mecánico"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Tractoro"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Bulldozer"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Toro Carenato"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ブル・ドーザー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "뿔도저"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Byczy buldożer"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Tratouro"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Буйвольдозер"
+          },
+          "thTH": {
+            "present": true,
+            "value": "บูลโดเซอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "机械推土牛"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "推土機牛"
+          }
+        },
+        "textContent": "\n\t\t\tPlanierstier\n\t\t\tBull Dozer\n\t\t\tToro mecánico\n\t\t\tTractoro\n\t\t\tBulldozer\n\t\t\tToro Carenato\n\t\t\tブル・ドーザー\n\t\t\t뿔도저\n\t\t\tByczy buldożer\n\t\t\tTratouro\n\t\t\tБуйвольдозер\n\t\t\tบูลโดเซอร์\n\t\t\t机械推土牛\n\t\t\t推土機牛\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Gottesschild</b>"
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Divine Shield</b>"
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Escudo divino</b>"
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Escudo divino</b>"
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Bouclier divin</b>"
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>Scudo Divino</b>"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>聖なる盾</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>천상의 보호막</b>"
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Boska tarcza</b>"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Escudo Divino</b>"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Божественный щит</b>"
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>โล่ศักดิ์สิทธิ์</b>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>圣盾</b>"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>聖盾術</b>"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Gottesschild</b>\n\t\t\t<b>Divine Shield</b>\n\t\t\t<b>Escudo divino</b>\n\t\t\t<b>Escudo divino</b>\n\t\t\t<b>Bouclier divin</b>\n\t\t\t<b>Scudo Divino</b>\n\t\t\t<b>聖なる盾</b>\n\t\t\t<b>천상의 보호막</b>\n\t\t\t<b>Boska tarcza</b>\n\t\t\t<b>Escudo Divino</b>\n\t\t\t<b>Божественный щит</b>\n\t\t\t<b>โล่ศักดิ์สิทธิ์</b>\n\t\t\t<b>圣盾</b>\n\t\t\t<b>聖盾術</b>\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Bei unebenen Flächen sieht er rot."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Leave them alone for two minutes and they go right into sleep mode."
+          },
+          "esES": {
+            "present": true,
+            "value": "Esto... Vale, técnicamente es un toro mecánico, pero no es lo que uno se esperaría."
+          },
+          "esMX": {
+            "present": true,
+            "value": "El terror de los toreros en el mundo de la construcción."
+          },
+          "frFR": {
+            "present": true,
+            "value": "À force de racler la poussière, il a les yeux tout rouges."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Ha una grossa benna e non ha paura di utilizzarla."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ブル・ドーザー！メカンガルー！コメカンガルー！只今惨状（アチョー！ヒョヒョヒョヒョ）"
+          },
+          "koKR": {
+            "present": true,
+            "value": "2분 동안 내버려 두면 대기 상태에 돌입합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Dzięki temu wynalazkowi korrida stanie się humanitarna."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Se você não mexer com ele por dois minutos, ele entram no modo soneca."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Если оставить его в покое на пару минут, он сразу же переходит в режим сна."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เจ้าของเดียวกับผลิตภัณฑ์[b]การเกษตรตรา \"หัววัวรถไถ\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "放着不动两分钟后，会自动进入休眠模式。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "放著不動兩分鐘就會進入休眠模式。"
+          }
+        },
+        "textContent": "\n\t\t\tBei unebenen Flächen sieht er rot.\n\t\t\tLeave them alone for two minutes and they go right into sleep mode.\n\t\t\tEsto... Vale, técnicamente es un toro mecánico, pero no es lo que uno se esperaría.\n\t\t\tEl terror de los toreros en el mundo de la construcción.\n\t\t\tÀ force de racler la poussière, il a les yeux tout rouges.\n\t\t\tHa una grossa benna e non ha paura di utilizzarla.\n\t\t\tブル・ドーザー！メカンガルー！コメカンガルー！只今惨状（アチョー！ヒョヒョヒョヒョ）\n\t\t\t2분 동안 내버려 두면 대기 상태에 돌입합니다.\n\t\t\tDzięki temu wynalazkowi korrida stanie się humanitarna.\n\t\t\tSe você não mexer com ele por dois minutos, ele entram no modo soneca.\n\t\t\tЕсли оставить его в покое на пару минут, он сразу же переходит в режим сна.\n\t\t\tเจ้าของเดียวกับผลิตภัณฑ์[b]การเกษตรตรา \"หัววัวรถไถ\"\n\t\t\t放着不动两分钟后，会自动进入休眠模式。\n\t\t\t放著不動兩分鐘就會進入休眠模式。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Steve Prescott"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Planierstier"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Bull Dozer"
+          },
+          "esES": {
+            "present": true,
+            "value": "Toro mecánico"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Tractoro"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Bulldozer"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Toro Carenato"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ブル・ドーザー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "뿔도저"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Byczy buldożer"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Tratouro"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Буйвольдозер"
+          },
+          "thTH": {
+            "present": true,
+            "value": "บูลโดเซอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "机械推土牛"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "推土機牛"
+          }
+        },
+        "textContent": "\n\t\tPlanierstier\n\t\tBull Dozer\n\t\tToro mecánico\n\t\tTractoro\n\t\tBulldozer\n\t\tToro Carenato\n\t\tブル・ドーザー\n\t\t뿔도저\n\t\tByczy buldożer\n\t\tTratouro\n\t\tБуйвольдозер\n\t\tบูลโดเซอร์\n\t\t机械推土牛\n\t\t推土機牛\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Gottesschild</b>."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Divine Shield</b>"
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Escudo divino</b>"
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Escudo divino</b>"
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Bouclier divin</b>"
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>Scudo Divino</b>"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>聖なる盾</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>천상의 보호막</b>"
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Boska tarcza</b>"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Escudo Divino</b>"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Божественный щит</b>"
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>โล่ศักดิ์สิทธิ์</b>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>圣盾</b>"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>聖盾術</b>"
+          }
+        },
+        "textContent": "\n\t\t<b>Gottesschild</b>.\n\t\t<b>Divine Shield</b>\n\t\t<b>Escudo divino</b>\n\t\t<b>Escudo divino</b>\n\t\t<b>Bouclier divin</b>\n\t\t<b>Scudo Divino</b>\n\t\t<b>聖なる盾</b>\n\t\t<b>천상의 보호막</b>\n\t\t<b>Boska tarcza</b>\n\t\t<b>Escudo Divino</b>\n\t\t<b>Божественный щит</b>\n\t\t<b>โล่ศักดิ์สิทธิ์</b>\n\t\t<b>圣盾</b>\n\t\t<b>聖盾術</b>\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Bei unebenen Flächen sieht er rot."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Leave them alone for two minutes and they go right into sleep mode."
+          },
+          "esES": {
+            "present": true,
+            "value": "Esto... Vale, técnicamente es un toro mecánico, pero no es lo que uno se esperaría."
+          },
+          "esMX": {
+            "present": true,
+            "value": "El terror de los toreros en el mundo de la construcción."
+          },
+          "frFR": {
+            "present": true,
+            "value": "À force de racler la poussière, il a les yeux tout rouges."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Ha una grossa benna e non ha paura di utilizzarla."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ブル・ドーザー！メカンガルー！コメカンガルー！只今惨状（アチョー！ヒョヒョヒョヒョ）"
+          },
+          "koKR": {
+            "present": true,
+            "value": "2분 동안 내버려 두면 대기 상태에 돌입합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Dzięki temu wynalazkowi korrida stanie się humanitarna."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Se você não mexer com ele por dois minutos, ele entram no modo soneca."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Если оставить его в покое на пару минут, он сразу же переходит в режим сна."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เจ้าของเดียวกับผลิตภัณฑ์[b]การเกษตรตรา \"หัววัวรถไถ\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "放着不动两分钟后，会自动进入休眠模式。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "放著不動兩分鐘就會進入休眠模式。"
+          }
+        },
+        "textContent": "\n\t\tBei unebenen Flächen sieht er rot.\n\t\tLeave them alone for two minutes and they go right into sleep mode.\n\t\tEsto... Vale, técnicamente es un toro mecánico, pero no es lo que uno se esperaría.\n\t\tEl terror de los toreros en el mundo de la construcción.\n\t\tÀ force de racler la poussière, il a les yeux tout rouges.\n\t\tHa una grossa benna e non ha paura di utilizzarla.\n\t\tブル・ドーザー！メカンガルー！コメカンガルー！只今惨状（アチョー！ヒョヒョヒョヒョ）\n\t\t2분 동안 내버려 두면 대기 상태에 돌입합니다.\n\t\tDzięki temu wynalazkowi korrida stanie się humanitarna.\n\t\tSe você não mexer com ele por dois minutos, ele entram no modo soneca.\n\t\tЕсли оставить его в покое на пару минут, он сразу же переходит в режим сна.\n\t\tเจ้าของเดียวกับผลิตภัณฑ์[b]การเกษตรตรา \"หัววัวรถไถ\"\n\t\t放着不动两分钟后，会自动进入休眠模式。\n\t\t放著不動兩分鐘就會進入休眠模式。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Steve Prescott"
+      }
     }
   },
   "_current": {

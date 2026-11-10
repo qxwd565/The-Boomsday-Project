@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Kristallogie"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Crystology"
+          },
+          "esES": {
+            "present": true,
+            "value": "Cristalogía"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Cristalografía"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Cristallographie"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Cristallogia"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "クリスタル学"
+          },
+          "koKR": {
+            "present": true,
+            "value": "수정학"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Kryształologia"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Cristalografia"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Кристаллология"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ผลึกวิทยา"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "水晶学"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "水晶學"
+          }
+        },
+        "textContent": "\n\t\t\tKristallogie\n\t\t\tCrystology\n\t\t\tCristalogía\n\t\t\tCristalografía\n\t\t\tCristallographie\n\t\t\tCristallogia\n\t\t\tクリスタル学\n\t\t\t수정학\n\t\t\tKryształologia\n\t\t\tCristalografia\n\t\t\tКристаллология\n\t\t\tผลึกวิทยา\n\t\t\t水晶学\n\t\t\t水晶學\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Zieht 2 Diener\nmit 1 Angriff\naus Eurem Deck."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]Draw two 1-Attack\nminions from your deck."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Roba dos esbirros\ncon 1 p. de ataque\nde tu mazo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Roba dos esbirros con 1 de Ataque de tu mazo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Vous piochez deux serviteurs à 1_ATQ dans votre deck."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Pesca due servitori\ncon Attacco pari a 1\ndal tuo mazzo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]自分のデッキから\n攻撃力1のミニオンを\n__2体引く。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 덱에서 공격력이 1인 하수인을 둘 뽑습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Dobierz dwóch stronników z atakiem 1 z twojej talii."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Compre dois lacaios com 1 de Ataque do seu deck."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Вы берете из колоды двух существ с_атакой 1."
+          },
+          "thTH": {
+            "present": true,
+            "value": "จั่วมินเนี่ยนพลังโจมตี_1 สองใบจากเด็คคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "从你的牌库中抽两张攻击力为1的随从牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "從你的牌堆\n抽出兩個攻擊力為1的手下"
+          }
+        },
+        "textContent": "\n\t\t\tZieht 2 Diener\nmit 1 Angriff\naus Eurem Deck.\n\t\t\t[x]Draw two 1-Attack\nminions from your deck.\n\t\t\t[x]Roba dos esbirros\ncon 1 p. de ataque\nde tu mazo.\n\t\t\tRoba dos esbirros con 1 de Ataque de tu mazo.\n\t\t\tVous piochez deux serviteurs à 1_ATQ dans votre deck.\n\t\t\t[x]Pesca due servitori\ncon Attacco pari a 1\ndal tuo mazzo.\n\t\t\t[x]自分のデッキから\n攻撃力1のミニオンを\n__2体引く。\n\t\t\t내 덱에서 공격력이 1인 하수인을 둘 뽑습니다.\n\t\t\tDobierz dwóch stronników z atakiem 1 z twojej talii.\n\t\t\tCompre dois lacaios com 1 de Ataque do seu deck.\n\t\t\tВы берете из колоды двух существ с_атакой 1.\n\t\t\tจั่วมินเนี่ยนพลังโจมตี_1 สองใบจากเด็คคุณ\n\t\t\t从你的牌库中抽两张攻击力为1的随从牌。\n\t\t\t從你的牌堆\n抽出兩個攻擊力為1的手下\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "„Das Licht ist weder Welle noch Teilchen. Es ist mehr so eine Art Cocktail.”"
+          },
+          "enUS": {
+            "present": true,
+            "value": "\"The Light is neither a particle nor a wave. It's more of a juice, really.\""
+          },
+          "esES": {
+            "present": true,
+            "value": "«La Luz ni es onda ni es corpúsculo. Es más rollo... zumo, o algo así»."
+          },
+          "esMX": {
+            "present": true,
+            "value": "\"La Luz no es una partícula ni una onda. La verdad es que es más bien una especie de zumo\"."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Que dit un cristallisateur draenei quand il se cogne le petit orteil ? Chronakaï Kristal !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "\"La Luce non è semplicemente una particella o un'onda. È più una marmellata che va smarmellata.\""
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「光は粒子でも波でもない。むしろ、ガソリンみたいなものなのだ、本当に」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"빛은 입자도 아니고 파장도 아닙니다. 오히려 주스에 더 가깝죠.\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Światłość nie jest ani materią, ani falą. To raczej coś jakby sok”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "\"A luz não é nem partícula nem onda. Tá mais pra suco, na verdade.\""
+          },
+          "ruRU": {
+            "present": true,
+            "value": "«Свет – это не частица и не волна. Больше всего он похож на кисель»."
+          },
+          "thTH": {
+            "present": true,
+            "value": "\"แสงไม่ได้เป็นทั้งอนุภาคและคลื่น แต่เป็นเชื้อเพลิงต่างหาก\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "“光既不是波也不是粒子，它更像是一种流质，真的。”"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "「聖光既不是粒子也不是波。反而更像是一種汁液，真的。」"
+          }
+        },
+        "textContent": "\n\t\t\t„Das Licht ist weder Welle noch Teilchen. Es ist mehr so eine Art Cocktail.”\n\t\t\t\"The Light is neither a particle nor a wave. It's more of a juice, really.\"\n\t\t\t«La Luz ni es onda ni es corpúsculo. Es más rollo... zumo, o algo así».\n\t\t\t\"La Luz no es una partícula ni una onda. La verdad es que es más bien una especie de zumo\".\n\t\t\tQue dit un cristallisateur draenei quand il se cogne le petit orteil ? Chronakaï Kristal !\n\t\t\t\"La Luce non è semplicemente una particella o un'onda. È più una marmellata che va smarmellata.\"\n\t\t\t「光は粒子でも波でもない。むしろ、ガソリンみたいなものなのだ、本当に」\n\t\t\t\"빛은 입자도 아니고 파장도 아닙니다. 오히려 주스에 더 가깝죠.\"\n\t\t\t„Światłość nie jest ani materią, ani falą. To raczej coś jakby sok”.\n\t\t\t\"A luz não é nem partícula nem onda. Tá mais pra suco, na verdade.\"\n\t\t\t«Свет – это не частица и не волна. Больше всего он похож на кисель».\n\t\t\t\"แสงไม่ได้เป็นทั้งอนุภาคและคลื่น แต่เป็นเชื้อเพลิงต่างหาก\"\n\t\t\t“光既不是波也不是粒子，它更像是一种流质，真的。”\n\t\t\t「聖光既不是粒子也不是波。反而更像是一種汁液，真的。」\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Tyler West Studio"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Kristallogie"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Crystology"
+          },
+          "esES": {
+            "present": true,
+            "value": "Cristalogía"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Cristalografía"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Cristallographie"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Cristallogia"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "クリスタル学"
+          },
+          "koKR": {
+            "present": true,
+            "value": "수정학"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Kryształologia"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Cristalografia"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Кристаллология"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ผลึกวิทยา"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "水晶学"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "水晶學"
+          }
+        },
+        "textContent": "\n\t\tKristallogie\n\t\tCrystology\n\t\tCristalogía\n\t\tCristalografía\n\t\tCristallographie\n\t\tCristallogia\n\t\tクリスタル学\n\t\t수정학\n\t\tKryształologia\n\t\tCristalografia\n\t\tКристаллология\n\t\tผลึกวิทยา\n\t\t水晶学\n\t\t水晶學\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Zieht 2 Diener\nmit 1 Angriff\naus Eurem Deck."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]Draw two 1-Attack\nminions from your deck."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Roba dos esbirros\ncon 1 p. de ataque\nde tu mazo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Roba dos esbirros con 1 de Ataque de tu mazo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Vous piochez deux serviteurs à 1_ATQ dans votre deck."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Pesca due servitori\ncon Attacco pari a 1\ndal tuo mazzo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]自分のデッキから\n攻撃力1のミニオンを\n__2体引く。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 덱에서 공격력이 1인 하수인을 둘 뽑습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Dobierz dwóch stronników z atakiem 1 z twojej talii."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Compre dois lacaios com 1 de Ataque do seu deck."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Вы берете из колоды двух существ с_атакой 1."
+          },
+          "thTH": {
+            "present": true,
+            "value": "จั่วมินเนี่ยนพลังโจมตี_1 สองใบจากเด็คคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "从你的牌库中抽两张攻击力为1的随从牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "從你的牌堆\n抽出兩個攻擊力為1的手下"
+          }
+        },
+        "textContent": "\n\t\tZieht 2 Diener\nmit 1 Angriff\naus Eurem Deck.\n\t\t[x]Draw two 1-Attack\nminions from your deck.\n\t\t[x]Roba dos esbirros\ncon 1 p. de ataque\nde tu mazo.\n\t\tRoba dos esbirros con 1 de Ataque de tu mazo.\n\t\tVous piochez deux serviteurs à 1_ATQ dans votre deck.\n\t\t[x]Pesca due servitori\ncon Attacco pari a 1\ndal tuo mazzo.\n\t\t[x]自分のデッキから\n攻撃力1のミニオンを\n__2体引く。\n\t\t내 덱에서 공격력이 1인 하수인을 둘 뽑습니다.\n\t\tDobierz dwóch stronników z atakiem 1 z twojej talii.\n\t\tCompre dois lacaios com 1 de Ataque do seu deck.\n\t\tВы берете из колоды двух существ с_атакой 1.\n\t\tจั่วมินเนี่ยนพลังโจมตี_1 สองใบจากเด็คคุณ\n\t\t从你的牌库中抽两张攻击力为1的随从牌。\n\t\t從你的牌堆\n抽出兩個攻擊力為1的手下\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "„Das Licht ist weder Welle noch Teilchen. Es ist mehr so eine Art Cocktail.”"
+          },
+          "enUS": {
+            "present": true,
+            "value": "\"The Light is neither a particle nor a wave. It's more of a juice, really.\""
+          },
+          "esES": {
+            "present": true,
+            "value": "«La Luz ni es onda ni es corpúsculo. Es más rollo... zumo, o algo así»."
+          },
+          "esMX": {
+            "present": true,
+            "value": "\"La Luz no es una partícula ni una onda. La verdad es que es más bien una especie de zumo\"."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Que dit un cristallisateur draenei quand il se cogne le petit orteil ? Chronakaï Kristal !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "\"La Luce non è semplicemente una particella o un'onda. È più una marmellata che va smarmellata.\""
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「光は粒子でも波でもない。むしろ、ガソリンみたいなものなのだ、本当に」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"빛은 입자도 아니고 파장도 아닙니다. 오히려 주스에 더 가깝죠.\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Światłość nie jest ani materią, ani falą. To raczej coś jakby sok”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "\"A luz não é nem partícula nem onda. Tá mais pra suco, na verdade.\""
+          },
+          "ruRU": {
+            "present": true,
+            "value": "«Свет – это не частица и не волна. Больше всего он похож на кисель»."
+          },
+          "thTH": {
+            "present": true,
+            "value": "\"แสงไม่ได้เป็นทั้งอนุภาคและคลื่น แต่เป็นเชื้อเพลิงต่างหาก\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "“光既不是波也不是粒子，它更像是一种流质，真的。”"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "「聖光既不是粒子也不是波。反而更像是一種汁液，真的。」"
+          }
+        },
+        "textContent": "\n\t\t„Das Licht ist weder Welle noch Teilchen. Es ist mehr so eine Art Cocktail.”\n\t\t\"The Light is neither a particle nor a wave. It's more of a juice, really.\"\n\t\t«La Luz ni es onda ni es corpúsculo. Es más rollo... zumo, o algo así».\n\t\t\"La Luz no es una partícula ni una onda. La verdad es que es más bien una especie de zumo\".\n\t\tQue dit un cristallisateur draenei quand il se cogne le petit orteil ? Chronakaï Kristal !\n\t\t\"La Luce non è semplicemente una particella o un'onda. È più una marmellata che va smarmellata.\"\n\t\t「光は粒子でも波でもない。むしろ、ガソリンみたいなものなのだ、本当に」\n\t\t\"빛은 입자도 아니고 파장도 아닙니다. 오히려 주스에 더 가깝죠.\"\n\t\t„Światłość nie jest ani materią, ani falą. To raczej coś jakby sok”.\n\t\t\"A luz não é nem partícula nem onda. Tá mais pra suco, na verdade.\"\n\t\t«Свет – это не частица и не волна. Больше всего он похож на кисель».\n\t\t\"แสงไม่ได้เป็นทั้งอนุภาคและคลื่น แต่เป็นเชื้อเพลิงต่างหาก\"\n\t\t“光既不是波也不是粒子，它更像是一种流质，真的。”\n\t\t「聖光既不是粒子也不是波。反而更像是一種汁液，真的。」\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Tyler West Studio"
+      }
     }
   },
   "_current": {

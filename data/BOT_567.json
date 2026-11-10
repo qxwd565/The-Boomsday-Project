@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Zereks Klongalerie"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Zerek's Cloning Gallery"
+          },
+          "esES": {
+            "present": true,
+            "value": "Galería de clonación de Zerek"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Sala de clonación de Zerek"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Galerie de clones de Zerek"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Armata di Cloni di Zerek"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ゼレクのクローンギャラリー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "제레크의 복제품 전시관"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Kolekcja klonów Zereka"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Galeria de Clones de Zerek"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Клонодельня Зерека"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ห้องโคลนนิ่งของเซเรค"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "泽里克的克隆展"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "澤瑞克的複製收藏"
+          }
+        },
+        "textContent": "\n\t\t\tZereks Klongalerie\n\t\t\tZerek's Cloning Gallery\n\t\t\tGalería de clonación de Zerek\n\t\t\tSala de clonación de Zerek\n\t\t\tGalerie de clones de Zerek\n\t\t\tArmata di Cloni di Zerek\n\t\t\tゼレクのクローンギャラリー\n\t\t\t제레크의 복제품 전시관\n\t\t\tKolekcja klonów Zereka\n\t\t\tGaleria de Clones de Zerek\n\t\t\tКлонодельня Зерека\n\t\t\tห้องโคลนนิ่งของเซเรค\n\t\t\t泽里克的克隆展\n\t\t\t澤瑞克的複製收藏\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Ruft eine Kopie (1/1) von jedem Diener in Eurem Deck herbei."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Summon a 1/1 copy of_each minion in your_deck."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Invoca una copia 1/1\nde cada esbirro\nde tu mazo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Invoca una copia 1/1 de cada esbirro de tu mazo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Invoque une copie_1/1 de chaque serviteur dans votre deck."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Evoca una copia 1/1\ndi ogni servitore\nnel tuo mazzo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]自分のデッキの\n各ミニオンの\n1/1のコピーを\n1体ずつ召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 덱에서 모든\n하수인을 복사하여\n1/1 하수인으로 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Przyzwij kopię 1/1 każdego stronnika z_twojej talii."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Evoque uma cópia 1/1 de cada lacaio do seu deck."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Призывает 1/1_копии всех существ из колоды."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เรียกร่างก๊อปปี้ 1/1 ของมินเนี่ยนแต่ละตัว[b]ในเด็คคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "召唤你的牌库中每一个随从的1/1复制。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "從你的牌堆\n召喚每個手下的\n1/1分身"
+          }
+        },
+        "textContent": "\n\t\t\tRuft eine Kopie (1/1) von jedem Diener in Eurem Deck herbei.\n\t\t\tSummon a 1/1 copy of_each minion in your_deck.\n\t\t\t[x]Invoca una copia 1/1\nde cada esbirro\nde tu mazo.\n\t\t\tInvoca una copia 1/1 de cada esbirro de tu mazo.\n\t\t\tInvoque une copie_1/1 de chaque serviteur dans votre deck.\n\t\t\t[x]Evoca una copia 1/1\ndi ogni servitore\nnel tuo mazzo.\n\t\t\t[x]自分のデッキの\n各ミニオンの\n1/1のコピーを\n1体ずつ召喚する。\n\t\t\t내 덱에서 모든\n하수인을 복사하여\n1/1 하수인으로 소환합니다.\n\t\t\tPrzyzwij kopię 1/1 każdego stronnika z_twojej talii.\n\t\t\tEvoque uma cópia 1/1 de cada lacaio do seu deck.\n\t\t\tПризывает 1/1_копии всех существ из колоды.\n\t\t\tเรียกร่างก๊อปปี้ 1/1 ของมินเนี่ยนแต่ละตัว[b]ในเด็คคุณ\n\t\t\t召唤你的牌库中每一个随从的1/1复制。\n\t\t\t從你的牌堆\n召喚每個手下的\n1/1分身\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Das Klonen muss sich lohnen."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Cloning can be a jarring experience."
+          },
+          "esES": {
+            "present": true,
+            "value": "Clonar y rascar todo es empezar."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Nadie sabía hacer dulce. Así que decidimos usar los frascos para clonar."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Zerek met tout le monde en boîte."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Clonare può essere un'esperienza estenuante."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "クローン造りは苦労の絶えない作業だ。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "사실 복제하는 건 쉽습니다. 여러 복제품들을 동일한 크기의 시험관에 넣는 게 더 어렵죠."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Lokalni aktywiści szykują akcję wypuszczenia klonów na wolność."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "O segundo clone, a gente nunca esquece."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "У любого порядочного злодея должна быть армия клонов."
+          },
+          "thTH": {
+            "present": true,
+            "value": "การโคลนนิ่งทำให้รู้ว่า[b]เรามีอะไรหลายๆ อย่างที่เหมือนกัน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "挤在罐头里的感觉真是太糟糕了。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "複製完被裝在罐子裡，肯定很不舒服。"
+          }
+        },
+        "textContent": "\n\t\t\tDas Klonen muss sich lohnen.\n\t\t\tCloning can be a jarring experience.\n\t\t\tClonar y rascar todo es empezar.\n\t\t\tNadie sabía hacer dulce. Así que decidimos usar los frascos para clonar.\n\t\t\tZerek met tout le monde en boîte.\n\t\t\tClonare può essere un'esperienza estenuante.\n\t\t\tクローン造りは苦労の絶えない作業だ。\n\t\t\t사실 복제하는 건 쉽습니다. 여러 복제품들을 동일한 크기의 시험관에 넣는 게 더 어렵죠.\n\t\t\tLokalni aktywiści szykują akcję wypuszczenia klonów na wolność.\n\t\t\tO segundo clone, a gente nunca esquece.\n\t\t\tУ любого порядочного злодея должна быть армия клонов.\n\t\t\tการโคลนนิ่งทำให้รู้ว่า[b]เรามีอะไรหลายๆ อย่างที่เหมือนกัน\n\t\t\t挤在罐头里的感觉真是太糟糕了。\n\t\t\t複製完被裝在罐子裡，肯定很不舒服。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Slawomir Maniak"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Zereks Klongalerie"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Zerek's Cloning Gallery"
+          },
+          "esES": {
+            "present": true,
+            "value": "Galería de clonación de Zerek"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Sala de clonación de Zerek"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Galerie de clones de Zerek"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Armata di Cloni di Zerek"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ゼレクのクローンギャラリー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "제레크의 복제품 전시관"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Kolekcja klonów Zereka"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Galeria de Clones de Zerek"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Клонодельня Зерека"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ห้องโคลนนิ่งของเซเรค"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "泽里克的克隆展"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "澤瑞克的複製收藏"
+          }
+        },
+        "textContent": "\n\t\tZereks Klongalerie\n\t\tZerek's Cloning Gallery\n\t\tGalería de clonación de Zerek\n\t\tSala de clonación de Zerek\n\t\tGalerie de clones de Zerek\n\t\tArmata di Cloni di Zerek\n\t\tゼレクのクローンギャラリー\n\t\t제레크의 복제품 전시관\n\t\tKolekcja klonów Zereka\n\t\tGaleria de Clones de Zerek\n\t\tКлонодельня Зерека\n\t\tห้องโคลนนิ่งของเซเรค\n\t\t泽里克的克隆展\n\t\t澤瑞克的複製收藏\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Ruft eine Kopie (1/1) von jedem Diener in Eurem Deck herbei."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Summon a 1/1 copy of_each minion in your_deck."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Invoca una copia 1/1\nde cada esbirro\nde tu mazo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Invoca una copia 1/1 de cada esbirro de tu mazo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Invoque une copie_1/1 de chaque serviteur dans votre deck."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Evoca una copia 1/1\ndi ogni servitore\nnel tuo mazzo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]自分のデッキの\n各ミニオンの\n1/1のコピーを\n1体ずつ召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 덱에서 모든\n하수인을 복사하여\n1/1 하수인으로 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Przyzwij kopię 1/1 każdego stronnika z_twojej talii."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Evoque uma cópia 1/1 de cada lacaio do seu deck."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Призывает 1/1_копии всех существ из колоды."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เรียกร่างก๊อปปี้ 1/1 ของมินเนี่ยนแต่ละตัว[b]ในเด็คคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "召唤你的牌库中每一个随从的1/1复制。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "從你的牌堆\n召喚每個手下的\n1/1分身"
+          }
+        },
+        "textContent": "\n\t\tRuft eine Kopie (1/1) von jedem Diener in Eurem Deck herbei.\n\t\tSummon a 1/1 copy of_each minion in your_deck.\n\t\t[x]Invoca una copia 1/1\nde cada esbirro\nde tu mazo.\n\t\tInvoca una copia 1/1 de cada esbirro de tu mazo.\n\t\tInvoque une copie_1/1 de chaque serviteur dans votre deck.\n\t\t[x]Evoca una copia 1/1\ndi ogni servitore\nnel tuo mazzo.\n\t\t[x]自分のデッキの\n各ミニオンの\n1/1のコピーを\n1体ずつ召喚する。\n\t\t내 덱에서 모든\n하수인을 복사하여\n1/1 하수인으로 소환합니다.\n\t\tPrzyzwij kopię 1/1 każdego stronnika z_twojej talii.\n\t\tEvoque uma cópia 1/1 de cada lacaio do seu deck.\n\t\tПризывает 1/1_копии всех существ из колоды.\n\t\tเรียกร่างก๊อปปี้ 1/1 ของมินเนี่ยนแต่ละตัว[b]ในเด็คคุณ\n\t\t召唤你的牌库中每一个随从的1/1复制。\n\t\t從你的牌堆\n召喚每個手下的\n1/1分身\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Das Klonen muss sich lohnen."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Cloning can be a jarring experience."
+          },
+          "esES": {
+            "present": true,
+            "value": "Clonar y rascar todo es empezar."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Nadie sabía hacer dulce. Así que decidimos usar los frascos para clonar."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Zerek met tout le monde en boîte."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Clonare può essere un'esperienza estenuante."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "クローン造りは苦労の絶えない作業だ。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "사실 복제하는 건 쉽습니다. 여러 복제품들을 동일한 크기의 시험관에 넣는 게 더 어렵죠."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Lokalni aktywiści szykują akcję wypuszczenia klonów na wolność."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "O segundo clone, a gente nunca esquece."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "У любого порядочного злодея должна быть армия клонов."
+          },
+          "thTH": {
+            "present": true,
+            "value": "การโคลนนิ่งทำให้รู้ว่า[b]เรามีอะไรหลายๆ อย่างที่เหมือนกัน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "挤在罐头里的感觉真是太糟糕了。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "複製完被裝在罐子裡，肯定很不舒服。"
+          }
+        },
+        "textContent": "\n\t\tDas Klonen muss sich lohnen.\n\t\tCloning can be a jarring experience.\n\t\tClonar y rascar todo es empezar.\n\t\tNadie sabía hacer dulce. Así que decidimos usar los frascos para clonar.\n\t\tZerek met tout le monde en boîte.\n\t\tClonare può essere un'esperienza estenuante.\n\t\tクローン造りは苦労の絶えない作業だ。\n\t\t사실 복제하는 건 쉽습니다. 여러 복제품들을 동일한 크기의 시험관에 넣는 게 더 어렵죠.\n\t\tLokalni aktywiści szykują akcję wypuszczenia klonów na wolność.\n\t\tO segundo clone, a gente nunca esquece.\n\t\tУ любого порядочного злодея должна быть армия клонов.\n\t\tการโคลนนิ่งทำให้รู้ว่า[b]เรามีอะไรหลายๆ อย่างที่เหมือนกัน\n\t\t挤在罐头里的感觉真是太糟糕了。\n\t\t複製完被裝在罐子裡，肯定很不舒服。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Slawomir Maniak"
+      }
     }
   },
   "_current": {

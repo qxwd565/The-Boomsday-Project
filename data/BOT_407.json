@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Donnerhaupt"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Thunderhead"
+          },
+          "esES": {
+            "present": true,
+            "value": "Cumulonimbo"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Testarrayo"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Front-de-Foudre"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Imbrigliatuoni"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "雷雲"
+          },
+          "koKR": {
+            "present": true,
+            "value": "천둥불꽃"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Grzmotnica"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Cabeça-de-trovão"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Громоголов"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ธันเดอร์เฮด"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "雷云元素"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "雷雲元素"
+          }
+        },
+        "textContent": "\n\t\t\tDonnerhaupt\n\t\t\tThunderhead\n\t\t\tCumulonimbo\n\t\t\tTestarrayo\n\t\t\tFront-de-Foudre\n\t\t\tImbrigliatuoni\n\t\t\t雷雲\n\t\t\t천둥불꽃\n\t\t\tGrzmotnica\n\t\t\tCabeça-de-trovão\n\t\t\tГромоголов\n\t\t\tธันเดอร์เฮด\n\t\t\t雷云元素\n\t\t\t雷雲元素\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Ruft 2 Funken (1/1) mit <b>Eifer</b> herbei, nachdem Ihr eine Karte mit <b>Überladung</b> ausgespielt habt."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]After you play a card with\n<b>Overload</b>, summon two\n1/1 Sparks with <b>Rush</b>."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Cuando juegas una carta\ncon <b>Sobrecarga</b>, invoca\ndos chispas 1/1\ncon <b>Embestir</b>."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Después de jugar una carta con <b>Sobrecarga</b>, invoca dos Chispas 1/1 con <b>Acometida</b>."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Une fois que vous avez joué\nune carte avec <b>Surcharge</b>,\ninvoque deux étincelles_1/1\navec_<b>Ruée</b>."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Dopo che hai giocato una carta con <b>Sovraccarico</b>, evoca due Scintille 1/1 con <b>Assalto</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]自分が<b>オーバーロード</b>を持つ\nカードを手札から使用した後\n<b>急襲</b>を持つ1/1の\n「スパーク」を2体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "내가 <b>과부하</b> 카드를 낸 후에, <b>속공</b> 능력이 있는 1/1 불꽃을 둘 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Po zagraniu karty z_<b>Przeciążeniem</b> przyzwij_dwie Iskry 1/1 ze <b>Zrywem</b>."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Depois que você jogar um card com <b>Sobrecarga</b>, evoque duas Faíscas 1/1 com <b>Rapidez</b>."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "После того как вы разыгрываете карту с <b>«Перегрузкой»</b>, призывает две [x]искры 1/1 с_<b>«Натиском»</b>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "หลังจากคุณเล่นการ์ดที่มี <b>โอเวอร์โหลด</b> เรียกประกายไฟ 1/1 ที่มี <b>จู่โจม</b> สองตัว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "在你使用一张<b>过载</b>牌后，召唤两个1/1并具有<b>突袭</b>的“火花”。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "[x]在你打出有<b>超載</b>\n的牌後，召喚兩個\n有<b>衝刺</b>的1/1火花"
+          }
+        },
+        "textContent": "\n\t\t\tRuft 2 Funken (1/1) mit <b>Eifer</b> herbei, nachdem Ihr eine Karte mit <b>Überladung</b> ausgespielt habt.\n\t\t\t[x]After you play a card with\n<b>Overload</b>, summon two\n1/1 Sparks with <b>Rush</b>.\n\t\t\t[x]Cuando juegas una carta\ncon <b>Sobrecarga</b>, invoca\ndos chispas 1/1\ncon <b>Embestir</b>.\n\t\t\tDespués de jugar una carta con <b>Sobrecarga</b>, invoca dos Chispas 1/1 con <b>Acometida</b>.\n\t\t\tUne fois que vous avez joué\nune carte avec <b>Surcharge</b>,\ninvoque deux étincelles_1/1\navec_<b>Ruée</b>.\n\t\t\tDopo che hai giocato una carta con <b>Sovraccarico</b>, evoca due Scintille 1/1 con <b>Assalto</b>.\n\t\t\t[x]自分が<b>オーバーロード</b>を持つ\nカードを手札から使用した後\n<b>急襲</b>を持つ1/1の\n「スパーク」を2体召喚する。\n\t\t\t내가 <b>과부하</b> 카드를 낸 후에, <b>속공</b> 능력이 있는 1/1 불꽃을 둘 소환합니다.\n\t\t\tPo zagraniu karty z_<b>Przeciążeniem</b> przyzwij_dwie Iskry 1/1 ze <b>Zrywem</b>.\n\t\t\tDepois que você jogar um card com <b>Sobrecarga</b>, evoque duas Faíscas 1/1 com <b>Rapidez</b>.\n\t\t\tПосле того как вы разыгрываете карту с <b>«Перегрузкой»</b>, призывает две [x]искры 1/1 с_<b>«Натиском»</b>.\n\t\t\tหลังจากคุณเล่นการ์ดที่มี <b>โอเวอร์โหลด</b> เรียกประกายไฟ 1/1 ที่มี <b>จู่โจม</b> สองตัว\n\t\t\t在你使用一张<b>过载</b>牌后，召唤两个1/1并具有<b>突袭</b>的“火花”。\n\t\t\t[x]在你打出有<b>超載</b>\n的牌後，召喚兩個\n有<b>衝刺</b>的1/1火花\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Er mag Musik nur, wenn sie laut ist."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Most of his friends are still Metalheads."
+          },
+          "esES": {
+            "present": true,
+            "value": "Es más heavy que una tormenta de hachas."
+          },
+          "esMX": {
+            "present": true,
+            "value": "No le digas testarudo, es Testarrayo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "La plupart de ses amis n’ont pas évolué et sont restés des têtes de pioche."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Ecco cosa succede a sovraccaricare un tornado."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "狂気の科学者たちに非常に重用されている。エネルギー源として、あるいは夜空を背負って高笑いする際に。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"두 유 워너 빌드 어 스톰?\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "Porażenie piorunem spowodowało u niej trwałe zmiany."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Bem melhor do que ser cabeça de vento."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Его любимая песня – о том, как он оседлал молнию."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เพื่อนของเขาส่วนใหญ่[b]ยังเป็นเมทัลเฮดอยู่"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "他绝大多数的朋友是重金属元素。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "它大多數的朋友都是重金屬元素。"
+          }
+        },
+        "textContent": "\n\t\t\tEr mag Musik nur, wenn sie laut ist.\n\t\t\tMost of his friends are still Metalheads.\n\t\t\tEs más heavy que una tormenta de hachas.\n\t\t\tNo le digas testarudo, es Testarrayo.\n\t\t\tLa plupart de ses amis n’ont pas évolué et sont restés des têtes de pioche.\n\t\t\tEcco cosa succede a sovraccaricare un tornado.\n\t\t\t狂気の科学者たちに非常に重用されている。エネルギー源として、あるいは夜空を背負って高笑いする際に。\n\t\t\t\"두 유 워너 빌드 어 스톰?\"\n\t\t\tPorażenie piorunem spowodowało u niej trwałe zmiany.\n\t\t\tBem melhor do que ser cabeça de vento.\n\t\t\tЕго любимая песня – о том, как он оседлал молнию.\n\t\t\tเพื่อนของเขาส่วนใหญ่[b]ยังเป็นเมทัลเฮดอยู่\n\t\t\t他绝大多数的朋友是重金属元素。\n\t\t\t它大多數的朋友都是重金屬元素。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Mike Sass"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Donnerhaupt"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Thunderhead"
+          },
+          "esES": {
+            "present": true,
+            "value": "Cumulonimbo"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Testarrayo"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Front-de-Foudre"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Imbrigliatuoni"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "雷雲"
+          },
+          "koKR": {
+            "present": true,
+            "value": "천둥불꽃"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Grzmotnica"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Cabeça-de-trovão"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Громоголов"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ธันเดอร์เฮด"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "雷云元素"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "雷雲元素"
+          }
+        },
+        "textContent": "\n\t\tDonnerhaupt\n\t\tThunderhead\n\t\tCumulonimbo\n\t\tTestarrayo\n\t\tFront-de-Foudre\n\t\tImbrigliatuoni\n\t\t雷雲\n\t\t천둥불꽃\n\t\tGrzmotnica\n\t\tCabeça-de-trovão\n\t\tГромоголов\n\t\tธันเดอร์เฮด\n\t\t雷云元素\n\t\t雷雲元素\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Ruft 2 Funken (1/1) mit <b>Eifer</b> herbei, nachdem Ihr eine Karte mit <b>Überladung</b> ausgespielt habt."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]After you play a card with\n<b>Overload</b>, summon two\n1/1 Sparks with <b>Rush</b>."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Cuando juegas una carta\ncon <b>Sobrecarga</b>, invoca\ndos chispas 1/1\ncon <b>Embestir</b>."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Después de jugar una carta con <b>Sobrecarga</b>, invoca dos Chispas 1/1 con <b>Acometida</b>."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Une fois que vous avez joué\nune carte avec <b>Surcharge</b>,\ninvoque deux étincelles_1/1\navec_<b>Ruée</b>."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Dopo che hai giocato una carta con <b>Sovraccarico</b>, evoca due Scintille 1/1 con <b>Assalto</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]自分が<b>オーバーロード</b>を持つ\nカードを手札から使用した後\n<b>急襲</b>を持つ1/1の\n「スパーク」を2体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "내가 <b>과부하</b> 카드를 낸 후에, <b>속공</b> 능력이 있는 1/1 불꽃을 둘 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Po zagraniu karty z_<b>Przeciążeniem</b> przyzwij_dwie Iskry 1/1 ze <b>Zrywem</b>."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Depois que você jogar um card com <b>Sobrecarga</b>, evoque duas Faíscas 1/1 com <b>Rapidez</b>."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "После того как вы разыгрываете карту с <b>«Перегрузкой»</b>, призывает две [x]искры 1/1 с_<b>«Натиском»</b>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "หลังจากคุณเล่นการ์ดที่มี <b>โอเวอร์โหลด</b> เรียกประกายไฟ 1/1 ที่มี <b>จู่โจม</b> สองตัว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "在你使用一张<b>过载</b>牌后，召唤两个1/1并具有<b>突袭</b>的“火花”。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "[x]在你打出有<b>超載</b>\n的牌後，召喚兩個\n有<b>衝刺</b>的1/1火花"
+          }
+        },
+        "textContent": "\n\t\tRuft 2 Funken (1/1) mit <b>Eifer</b> herbei, nachdem Ihr eine Karte mit <b>Überladung</b> ausgespielt habt.\n\t\t[x]After you play a card with\n<b>Overload</b>, summon two\n1/1 Sparks with <b>Rush</b>.\n\t\t[x]Cuando juegas una carta\ncon <b>Sobrecarga</b>, invoca\ndos chispas 1/1\ncon <b>Embestir</b>.\n\t\tDespués de jugar una carta con <b>Sobrecarga</b>, invoca dos Chispas 1/1 con <b>Acometida</b>.\n\t\tUne fois que vous avez joué\nune carte avec <b>Surcharge</b>,\ninvoque deux étincelles_1/1\navec_<b>Ruée</b>.\n\t\tDopo che hai giocato una carta con <b>Sovraccarico</b>, evoca due Scintille 1/1 con <b>Assalto</b>.\n\t\t[x]自分が<b>オーバーロード</b>を持つ\nカードを手札から使用した後\n<b>急襲</b>を持つ1/1の\n「スパーク」を2体召喚する。\n\t\t내가 <b>과부하</b> 카드를 낸 후에, <b>속공</b> 능력이 있는 1/1 불꽃을 둘 소환합니다.\n\t\tPo zagraniu karty z_<b>Przeciążeniem</b> przyzwij_dwie Iskry 1/1 ze <b>Zrywem</b>.\n\t\tDepois que você jogar um card com <b>Sobrecarga</b>, evoque duas Faíscas 1/1 com <b>Rapidez</b>.\n\t\tПосле того как вы разыгрываете карту с <b>«Перегрузкой»</b>, призывает две [x]искры 1/1 с_<b>«Натиском»</b>.\n\t\tหลังจากคุณเล่นการ์ดที่มี <b>โอเวอร์โหลด</b> เรียกประกายไฟ 1/1 ที่มี <b>จู่โจม</b> สองตัว\n\t\t在你使用一张<b>过载</b>牌后，召唤两个1/1并具有<b>突袭</b>的“火花”。\n\t\t[x]在你打出有<b>超載</b>\n的牌後，召喚兩個\n有<b>衝刺</b>的1/1火花\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Er mag Musik nur, wenn sie laut ist."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Most of his friends are still Metalheads."
+          },
+          "esES": {
+            "present": true,
+            "value": "Es más heavy que una tormenta de hachas."
+          },
+          "esMX": {
+            "present": true,
+            "value": "No le digas testarudo, es Testarrayo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "La plupart de ses amis n’ont pas évolué et sont restés des têtes de pioche."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Ecco cosa succede a sovraccaricare un tornado."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "狂気の科学者たちに非常に重用されている。エネルギー源として、あるいは夜空を背負って高笑いする際に。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"두 유 워너 빌드 어 스톰?\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "Porażenie piorunem spowodowało u niej trwałe zmiany."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Bem melhor do que ser cabeça de vento."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Его любимая песня – о том, как он оседлал молнию."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เพื่อนของเขาส่วนใหญ่[b]ยังเป็นเมทัลเฮดอยู่"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "他绝大多数的朋友是重金属元素。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "它大多數的朋友都是重金屬元素。"
+          }
+        },
+        "textContent": "\n\t\tEr mag Musik nur, wenn sie laut ist.\n\t\tMost of his friends are still Metalheads.\n\t\tEs más heavy que una tormenta de hachas.\n\t\tNo le digas testarudo, es Testarrayo.\n\t\tLa plupart de ses amis n’ont pas évolué et sont restés des têtes de pioche.\n\t\tEcco cosa succede a sovraccaricare un tornado.\n\t\t狂気の科学者たちに非常に重用されている。エネルギー源として、あるいは夜空を背負って高笑いする際に。\n\t\t\"두 유 워너 빌드 어 스톰?\"\n\t\tPorażenie piorunem spowodowało u niej trwałe zmiany.\n\t\tBem melhor do que ser cabeça de vento.\n\t\tЕго любимая песня – о том, как он оседлал молнию.\n\t\tเพื่อนของเขาส่วนใหญ่[b]ยังเป็นเมทัลเฮดอยู่\n\t\t他绝大多数的朋友是重金属元素。\n\t\t它大多數的朋友都是重金屬元素。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Mike Sass"
+      }
     }
   },
   "_current": {

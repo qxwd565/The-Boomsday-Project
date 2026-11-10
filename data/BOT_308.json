@@ -83,6 +83,546 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Federgetriebene Rakete"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Spring Rocket"
+          },
+          "esES": {
+            "present": true,
+            "value": "Cohete de muelles"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Cohete resorte"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Fusée à ressort"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Missile a Molla"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "スプリング・ロケット"
+          },
+          "koKR": {
+            "present": true,
+            "value": "용수철 로켓"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Rakieta sprężynowa"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Fogueteiro Articulado"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Пружинная ракета"
+          },
+          "thTH": {
+            "present": true,
+            "value": "จรวดสปริง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "弹簧火箭犬"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "彈簧火箭犬"
+          }
+        },
+        "textContent": "\n\t\t\tFedergetriebene Rakete\n\t\t\tSpring Rocket\n\t\t\tCohete de muelles\n\t\t\tCohete resorte\n\t\t\tFusée à ressort\n\t\t\tMissile a Molla\n\t\t\tスプリング・ロケット\n\t\t\t용수철 로켓\n\t\t\tRakieta sprężynowa\n\t\t\tFogueteiro Articulado\n\t\t\tПружинная ракета\n\t\t\tจรวดสปริง\n\t\t\t弹簧火箭犬\n\t\t\t彈簧火箭犬\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b>\nVerursacht 2 Schaden."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Deal 2 damage."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b>\nInflige 2 p. de daño."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> inflige 2 de daño."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> inflige 2_points de dégâts."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\ninfligge 2 danni."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>雄叫び:</b>\n2ダメージを与える。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n피해를 2 줍니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Zadaj\n2 pkt. obrażeń."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b>\nCause 2 de dano."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b>\nнаносит 2 ед. урона."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> สร้างความเสียหาย_2_แต้ม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>造成2点伤害。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>造成2點傷害"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b>\nVerursacht 2 Schaden.\n\t\t\t<b>Battlecry:</b> Deal 2 damage.\n\t\t\t<b>Grito de batalla:</b>\nInflige 2 p. de daño.\n\t\t\t<b>Grito de batalla:</b> inflige 2 de daño.\n\t\t\t<b>Cri de guerre_:</b> inflige 2_points de dégâts.\n\t\t\t[x]<b>Grido di Battaglia:</b>\ninfligge 2 danni.\n\t\t\t<b>雄叫び:</b>\n2ダメージを与える。\n\t\t\t<b>전투의 함성:</b>\n피해를 2 줍니다.\n\t\t\t<b>Okrzyk bojowy:</b> Zadaj\n2 pkt. obrażeń.\n\t\t\t<b>Grito de Guerra:</b>\nCause 2 de dano.\n\t\t\t<b>Боевой клич:</b>\nнаносит 2 ед. урона.\n\t\t\t<b>คำรามสู้ศึก:</b> สร้างความเสียหาย_2_แต้ม\n\t\t\t<b>战吼：</b>造成2点伤害。\n\t\t\t<b>戰吼：</b>造成2點傷害\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Das Neueste in der Raketentechnologie: der Antrieb per Spannfeder!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Proper grammar would be \"sprung rocket.\""
+          },
+          "esES": {
+            "present": true,
+            "value": "Da gusto verlo bajar las escaleras."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Lo correcto sería \"cohete con resorte\"."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Il en a eu assez de ne descendre que les escaliers. Maintenant, il descend aussi ses adversaires !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Attenzione: caricare sempre in presenza di un adulto."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "階段の下にいるヤツを爆殺したい時に便利だが、とにかくよく絡まることで有名。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "잠깐, 로켓 용수철이 더 맞는 말일까요?"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Fajna rzecz, ale czy ma jakieś praktyczne zastosowanie?"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Não confundir com \"fogueteiro aloprado\"."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "На самом деле проект назывался «Ужиная ракета», но какие-то шутники накорябали в документации лишние буквы."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ยืดได้ หดได้ บางทีก็แข็ง บางทีก็อ่อน นี่เรากำลังพูดถึงสปริงอยู่นะ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "自从有了火箭做推进器，弹簧就成为了过去式。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "雖然彈簧都鬆了，但火箭又讓他重振雄風。"
+          }
+        },
+        "textContent": "\n\t\t\tDas Neueste in der Raketentechnologie: der Antrieb per Spannfeder!\n\t\t\tProper grammar would be \"sprung rocket.\"\n\t\t\tDa gusto verlo bajar las escaleras.\n\t\t\tLo correcto sería \"cohete con resorte\".\n\t\t\tIl en a eu assez de ne descendre que les escaliers. Maintenant, il descend aussi ses adversaires !\n\t\t\tAttenzione: caricare sempre in presenza di un adulto.\n\t\t\t階段の下にいるヤツを爆殺したい時に便利だが、とにかくよく絡まることで有名。\n\t\t\t잠깐, 로켓 용수철이 더 맞는 말일까요?\n\t\t\tFajna rzecz, ale czy ma jakieś praktyczne zastosowanie?\n\t\t\tNão confundir com \"fogueteiro aloprado\".\n\t\t\tНа самом деле проект назывался «Ужиная ракета», но какие-то шутники накорябали в документации лишние буквы.\n\t\t\tยืดได้ หดได้ บางทีก็แข็ง บางทีก็อ่อน นี่เรากำลังพูดถึงสปริงอยู่นะ\n\t\t\t自从有了火箭做推进器，弹簧就成为了过去式。\n\t\t\t雖然彈簧都鬆了，但火箭又讓他重振雄風。\n\t\t"
+      },
+      "325": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verursacht 2 Schaden."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Deal 2 damage."
+          },
+          "esES": {
+            "present": true,
+            "value": "Inflige 2 p. de daño."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Inflige 2 de daño."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Inflige 2_points de dégâts."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Infligge 2 danni."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "2ダメージを与える。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "피해 2"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zadaj 2 pkt. obrażeń."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Cause 2 de dano."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Нанести 2 ед. урона."
+          },
+          "thTH": {
+            "present": true,
+            "value": "สร้างความเสียหาย_2_แต้ม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "造成2点伤害。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "造成2點傷害"
+          }
+        },
+        "textContent": "\n\t\t\tVerursacht 2 Schaden.\n\t\t\tDeal 2 damage.\n\t\t\tInflige 2 p. de daño.\n\t\t\tInflige 2 de daño.\n\t\t\tInflige 2_points de dégâts.\n\t\t\tInfligge 2 danni.\n\t\t\t2ダメージを与える。\n\t\t\t피해 2\n\t\t\tZadaj 2 pkt. obrażeń.\n\t\t\tCause 2 de dano.\n\t\t\tНанести 2 ед. урона.\n\t\t\tสร้างความเสียหาย_2_แต้ม\n\t\t\t造成2点伤害。\n\t\t\t造成2點傷害\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "L. Lullabi & K. Turovec"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Federgetriebene Rakete"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Spring Rocket"
+          },
+          "esES": {
+            "present": true,
+            "value": "Cohete de muelles"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Cohete resorte"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Fusée à ressort"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Missile a Molla"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "スプリング・ロケット"
+          },
+          "koKR": {
+            "present": true,
+            "value": "용수철 로켓"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Rakieta sprężynowa"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Fogueteiro Articulado"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Пружинная ракета"
+          },
+          "thTH": {
+            "present": true,
+            "value": "จรวดสปริง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "弹簧火箭犬"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "彈簧火箭犬"
+          }
+        },
+        "textContent": "\n\t\tFedergetriebene Rakete\n\t\tSpring Rocket\n\t\tCohete de muelles\n\t\tCohete resorte\n\t\tFusée à ressort\n\t\tMissile a Molla\n\t\tスプリング・ロケット\n\t\t용수철 로켓\n\t\tRakieta sprężynowa\n\t\tFogueteiro Articulado\n\t\tПружинная ракета\n\t\tจรวดสปริง\n\t\t弹簧火箭犬\n\t\t彈簧火箭犬\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b>\nVerursacht 2 Schaden."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Deal 2 damage."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b>\nInflige 2 p. de daño."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> inflige 2 de daño."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> inflige 2_points de dégâts."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\ninfligge 2 danni."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>雄叫び:</b>\n2ダメージを与える。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n피해를 2 줍니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Zadaj\n2 pkt. obrażeń."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b>\nCause 2 de dano."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b>\nнаносит 2 ед. урона."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> สร้าง[b]ความเสียหาย_2_แต้ม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>造成2点伤害。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>造成2點傷害"
+          }
+        },
+        "textContent": "\n\t\t<b>Kampfschrei:</b>\nVerursacht 2 Schaden.\n\t\t<b>Battlecry:</b> Deal 2 damage.\n\t\t<b>Grito de batalla:</b>\nInflige 2 p. de daño.\n\t\t<b>Grito de batalla:</b> inflige 2 de daño.\n\t\t<b>Cri de guerre_:</b> inflige 2_points de dégâts.\n\t\t[x]<b>Grido di Battaglia:</b>\ninfligge 2 danni.\n\t\t<b>雄叫び:</b>\n2ダメージを与える。\n\t\t<b>전투의 함성:</b>\n피해를 2 줍니다.\n\t\t<b>Okrzyk bojowy:</b> Zadaj\n2 pkt. obrażeń.\n\t\t<b>Grito de Guerra:</b>\nCause 2 de dano.\n\t\t<b>Боевой клич:</b>\nнаносит 2 ед. урона.\n\t\t<b>คำรามสู้ศึก:</b> สร้าง[b]ความเสียหาย_2_แต้ม\n\t\t<b>战吼：</b>造成2点伤害。\n\t\t<b>戰吼：</b>造成2點傷害\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Das Neueste in der Raketentechnologie: der Antrieb per Spannfeder!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Proper grammar would be \"sprung rocket.\""
+          },
+          "esES": {
+            "present": true,
+            "value": "Da gusto verlo bajar las escaleras."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Lo correcto sería \"cohete con resorte\"."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Il en a eu assez de ne descendre que les escaliers. Maintenant, il descend aussi ses adversaires !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Attenzione: caricare sempre in presenza di un adulto."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "階段の下にいるヤツを爆殺したい時に便利だが、とにかくよく絡まることで有名。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "잠깐, 로켓 용수철이 더 맞는 말일까요?"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Fajna rzecz, ale czy ma jakieś praktyczne zastosowanie?"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Não confundir com \"fogueteiro aloprado\"."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "На самом деле проект назывался «Ужиная ракета», но какие-то шутники накорябали в документации лишние буквы."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ยืดได้ หดได้ บางทีก็แข็ง บางทีก็อ่อน นี่เรากำลังพูดถึงสปริงอยู่นะ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "自从有了火箭做推进器，弹簧就成为了过去式。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "雖然彈簧都鬆了，但火箭又讓他重振雄風。"
+          }
+        },
+        "textContent": "\n\t\tDas Neueste in der Raketentechnologie: der Antrieb per Spannfeder!\n\t\tProper grammar would be \"sprung rocket.\"\n\t\tDa gusto verlo bajar las escaleras.\n\t\tLo correcto sería \"cohete con resorte\".\n\t\tIl en a eu assez de ne descendre que les escaliers. Maintenant, il descend aussi ses adversaires !\n\t\tAttenzione: caricare sempre in presenza di un adulto.\n\t\t階段の下にいるヤツを爆殺したい時に便利だが、とにかくよく絡まることで有名。\n\t\t잠깐, 로켓 용수철이 더 맞는 말일까요?\n\t\tFajna rzecz, ale czy ma jakieś praktyczne zastosowanie?\n\t\tNão confundir com \"fogueteiro aloprado\".\n\t\tНа самом деле проект назывался «Ужиная ракета», но какие-то шутники накорябали в документации лишние буквы.\n\t\tยืดได้ หดได้ บางทีก็แข็ง บางทีก็อ่อน นี่เรากำลังพูดถึงสปริงอยู่นะ\n\t\t自从有了火箭做推进器，弹簧就成为了过去式。\n\t\t雖然彈簧都鬆了，但火箭又讓他重振雄風。\n\t"
+      },
+      "325": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verursacht 2 Schaden."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Deal 2 damage."
+          },
+          "esES": {
+            "present": true,
+            "value": "Inflige 2 p. de daño."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Inflige 2 de daño."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Inflige 2_points de dégâts."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Infligge 2 danni."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "2ダメージを与える。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "피해 2"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zadaj 2 pkt. obrażeń."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Cause 2 de dano."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Нанести 2 ед. урона."
+          },
+          "thTH": {
+            "present": true,
+            "value": "สร้างความเสียหาย_2_แต้ม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "造成2点伤害。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "造成2點傷害"
+          }
+        },
+        "textContent": "\n\t\tVerursacht 2 Schaden.\n\t\tDeal 2 damage.\n\t\tInflige 2 p. de daño.\n\t\tInflige 2 de daño.\n\t\tInflige 2_points de dégâts.\n\t\tInfligge 2 danni.\n\t\t2ダメージを与える。\n\t\t피해 2\n\t\tZadaj 2 pkt. obrażeń.\n\t\tCause 2 de dano.\n\t\tНанести 2 ед. урона.\n\t\tสร้างความเสียหาย_2_แต้ม\n\t\t造成2点伤害。\n\t\t造成2點傷害\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "L. Lullabi & K. Turovec"
+      }
     }
   },
   "_current": {

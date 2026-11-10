@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Traumblütenfloristin"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Dreampetal Florist"
+          },
+          "esES": {
+            "present": true,
+            "value": "Florista de oniripétalos"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Florista onírica"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Fleuriste Fronderêve"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Fioraia di Petalonirico"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ドリームペタル栽培師"
+          },
+          "koKR": {
+            "present": true,
+            "value": "꿈결꽃잎 원예가"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Gnomka florystka"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Florista Utopétala"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Культиватор мечтоцветов"
+          },
+          "thTH": {
+            "present": true,
+            "value": "นักปลูกดรีมเพทัล"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "梦境花栽种师"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "夢境花栽培師"
+          }
+        },
+        "textContent": "\n\t\t\tTraumblütenfloristin\n\t\t\tDreampetal Florist\n\t\t\tFlorista de oniripétalos\n\t\t\tFlorista onírica\n\t\t\tFleuriste Fronderêve\n\t\t\tFioraia di Petalonirico\n\t\t\tドリームペタル栽培師\n\t\t\t꿈결꽃잎 원예가\n\t\t\tGnomka florystka\n\t\t\tFlorista Utopétala\n\t\t\tКультиватор мечтоцветов\n\t\t\tนักปลูกดรีมเพทัล\n\t\t\t梦境花栽种师\n\t\t\t夢境花栽培師\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verringert am Ende Eures Zuges die Kosten eines zufälligen Dieners auf Eurer Hand um (7)."
+          },
+          "enUS": {
+            "present": true,
+            "value": "At the end of your turn, reduce the Cost of a random minion in your hand by (7)."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Al final de tu turno, reduce\nen (7) cristales el coste\nde un esbirro aleatorio\nde tu mano."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Al final de tu turno, reduce en (7) el costo de un esbirro aleatorio_de_tu_mano."
+          },
+          "frFR": {
+            "present": true,
+            "value": "À la fin de votre tour, réduit de (7)_|4(cristal,cristaux) le coût d’un serviteur aléatoire de votre main."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Alla fine del tuo turno,\nriduce di (7) il costo\ndi un servitore casuale\nnella tua mano."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]自分のターンの終了時\n自分の手札のランダムな\nミニオン1体のコストを\n（7）減らす。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 턴이 끝날 때, 내 손에 있는 무작위 하수인 하나의 비용이 (7) 감소합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Na koniec twojej tury zmniejsz koszt losowego stronnika w twojej ręce o (7)."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "No final do seu turno, reduza em (7) o custo de um lacaio aleatório na sua mão."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]В конце вашего хода\n уменьшает стоимость\n случайного существа\nв руке на (7)."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เมื่อจบเทิร์นของคุณ สุ่มลดค่าร่ายของมินเนี่ยน[b]หนึ่งใบในมือคุณลง (7)"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "在你的回合结束时，使你手牌中一张随机随从牌的法力值消耗减少（7）点。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "在你的回合結束時，使你手中一個隨機手下的消耗降低(7)點"
+          }
+        },
+        "textContent": "\n\t\t\tVerringert am Ende Eures Zuges die Kosten eines zufälligen Dieners auf Eurer Hand um (7).\n\t\t\tAt the end of your turn, reduce the Cost of a random minion in your hand by (7).\n\t\t\t[x]Al final de tu turno, reduce\nen (7) cristales el coste\nde un esbirro aleatorio\nde tu mano.\n\t\t\tAl final de tu turno, reduce en (7) el costo de un esbirro aleatorio_de_tu_mano.\n\t\t\tÀ la fin de votre tour, réduit de (7)_|4(cristal,cristaux) le coût d’un serviteur aléatoire de votre main.\n\t\t\t[x]Alla fine del tuo turno,\nriduce di (7) il costo\ndi un servitore casuale\nnella tua mano.\n\t\t\t[x]自分のターンの終了時\n自分の手札のランダムな\nミニオン1体のコストを\n（7）減らす。\n\t\t\t내 턴이 끝날 때, 내 손에 있는 무작위 하수인 하나의 비용이 (7) 감소합니다.\n\t\t\tNa koniec twojej tury zmniejsz koszt losowego stronnika w twojej ręce o (7).\n\t\t\tNo final do seu turno, reduza em (7) o custo de um lacaio aleatório na sua mão.\n\t\t\t[x]В конце вашего хода\n уменьшает стоимость\n случайного существа\nв руке на (7).\n\t\t\tเมื่อจบเทิร์นของคุณ สุ่มลดค่าร่ายของมินเนี่ยน[b]หนึ่งใบในมือคุณลง (7)\n\t\t\t在你的回合结束时，使你手牌中一张随机随从牌的法力值消耗减少（7）点。\n\t\t\t在你的回合結束時，使你手中一個隨機手下的消耗降低(7)點\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Im Gegensatz zu Gnomen können Traumblüten über einen Meter groß werden."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Unlike gnomes, dreampetals grow more than 3 feet tall."
+          },
+          "esES": {
+            "present": true,
+            "value": "Los oniripétalos pueden alcanzar el metro de altura, al contrario que los gnomos."
+          },
+          "esMX": {
+            "present": true,
+            "value": "A diferencia de los gnomos, muchas de las plantas que cuidan superan el metro de altura."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Contrairement aux Gnomes, les fronderêves peuvent atteindre plus d’un mètre de haut."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Diversamente dagli Gnomi, le piante di petalonirico raggiungono il metro d'altezza."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ノームとは違って、ドリームペタルは1メートル以上に生長できる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "붐바람 휘날리며 흩날리는 꿈결꽃잎이 울려 퍼질 이 연구소를 둘이 걸어요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "W tym sezonie poleca bukiety z oniropłatków."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Diferente dos gnomos, as utopétalas podem chegar a mais de 1 metro de altura."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "В отличие от гномов, мечтоцветы вымахивают больше чем на метр."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ดรีมเพทัลสามารถเติบโต[b]ได้สูงกว่า 3 ฟุต โนมคงอิจฉาน่าดู"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "这些梦境花往往长得比栽种师还高。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "和地精不一樣，這些夢境花可以長到90多公分高。"
+          }
+        },
+        "textContent": "\n\t\t\tIm Gegensatz zu Gnomen können Traumblüten über einen Meter groß werden.\n\t\t\tUnlike gnomes, dreampetals grow more than 3 feet tall.\n\t\t\tLos oniripétalos pueden alcanzar el metro de altura, al contrario que los gnomos.\n\t\t\tA diferencia de los gnomos, muchas de las plantas que cuidan superan el metro de altura.\n\t\t\tContrairement aux Gnomes, les fronderêves peuvent atteindre plus d’un mètre de haut.\n\t\t\tDiversamente dagli Gnomi, le piante di petalonirico raggiungono il metro d'altezza.\n\t\t\tノームとは違って、ドリームペタルは1メートル以上に生長できる。\n\t\t\t붐바람 휘날리며 흩날리는 꿈결꽃잎이 울려 퍼질 이 연구소를 둘이 걸어요.\n\t\t\tW tym sezonie poleca bukiety z oniropłatków.\n\t\t\tDiferente dos gnomos, as utopétalas podem chegar a mais de 1 metro de altura.\n\t\t\tВ отличие от гномов, мечтоцветы вымахивают больше чем на метр.\n\t\t\tดรีมเพทัลสามารถเติบโต[b]ได้สูงกว่า 3 ฟุต โนมคงอิจฉาน่าดู\n\t\t\t这些梦境花往往长得比栽种师还高。\n\t\t\t和地精不一樣，這些夢境花可以長到90多公分高。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Adam Byrne"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Traumblütenfloristin"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Dreampetal Florist"
+          },
+          "esES": {
+            "present": true,
+            "value": "Florista de oniripétalos"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Florista onírica"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Fleuriste Fronderêve"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Fioraia di Petalonirico"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ドリームペタル栽培師"
+          },
+          "koKR": {
+            "present": true,
+            "value": "꿈결꽃잎 원예가"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Gnomka florystka"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Florista Utopétala"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Культиватор мечтоцветов"
+          },
+          "thTH": {
+            "present": true,
+            "value": "นักปลูกดรีมเพทัล"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "梦境花栽种师"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "夢境花栽培師"
+          }
+        },
+        "textContent": "\n\t\tTraumblütenfloristin\n\t\tDreampetal Florist\n\t\tFlorista de oniripétalos\n\t\tFlorista onírica\n\t\tFleuriste Fronderêve\n\t\tFioraia di Petalonirico\n\t\tドリームペタル栽培師\n\t\t꿈결꽃잎 원예가\n\t\tGnomka florystka\n\t\tFlorista Utopétala\n\t\tКультиватор мечтоцветов\n\t\tนักปลูกดรีมเพทัล\n\t\t梦境花栽种师\n\t\t夢境花栽培師\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verringert am Ende Eures Zuges die Kosten eines zufälligen Dieners auf Eurer Hand um (7)."
+          },
+          "enUS": {
+            "present": true,
+            "value": "At the end of your turn, reduce the Cost of a random minion in your hand by (7)."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Al final de tu turno, reduce\nen (7) cristales el coste\nde un esbirro aleatorio\nde tu mano."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Al final de tu turno, reduce en (7) el costo de un esbirro aleatorio_de_tu_mano."
+          },
+          "frFR": {
+            "present": true,
+            "value": "À la fin de votre tour, réduit de (7)_|4(cristal,cristaux) le coût d’un serviteur aléatoire de votre main."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Alla fine del tuo turno,\nriduce di (7) il costo\ndi un servitore casuale\nnella tua mano."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]自分のターンの終了時\n自分の手札のランダムな\nミニオン1体のコストを\n（7）減らす。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 턴이 끝날 때, 내 손에 있는 무작위 하수인의 비용이 (7) 감소합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Na koniec twojej tury zmniejsz koszt losowego stronnika w twojej ręce o (7)."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "No final do seu turno, reduza em (7) o Custo de um lacaio aleatório na sua mão."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]В конце вашего хода\n уменьшает стоимость\n случайного существа\nв руке на (7)."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เมื่อจบเทิร์นของคุณ สุ่มลดค่าร่ายของมินเนี่ยน[b]_หนึ่งใบในมือคุณลง_(7)"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "在你的回合结束时，随机使你手牌中一张随从牌的法力值消耗减少（7）点。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "在你的回合結束時，使你手中一個隨機手下的消耗降低(7)點"
+          }
+        },
+        "textContent": "\n\t\tVerringert am Ende Eures Zuges die Kosten eines zufälligen Dieners auf Eurer Hand um (7).\n\t\tAt the end of your turn, reduce the Cost of a random minion in your hand by (7).\n\t\t[x]Al final de tu turno, reduce\nen (7) cristales el coste\nde un esbirro aleatorio\nde tu mano.\n\t\tAl final de tu turno, reduce en (7) el costo de un esbirro aleatorio_de_tu_mano.\n\t\tÀ la fin de votre tour, réduit de (7)_|4(cristal,cristaux) le coût d’un serviteur aléatoire de votre main.\n\t\t[x]Alla fine del tuo turno,\nriduce di (7) il costo\ndi un servitore casuale\nnella tua mano.\n\t\t[x]自分のターンの終了時\n自分の手札のランダムな\nミニオン1体のコストを\n（7）減らす。\n\t\t내 턴이 끝날 때, 내 손에 있는 무작위 하수인의 비용이 (7) 감소합니다.\n\t\tNa koniec twojej tury zmniejsz koszt losowego stronnika w twojej ręce o (7).\n\t\tNo final do seu turno, reduza em (7) o Custo de um lacaio aleatório na sua mão.\n\t\t[x]В конце вашего хода\n уменьшает стоимость\n случайного существа\nв руке на (7).\n\t\tเมื่อจบเทิร์นของคุณ สุ่มลดค่าร่ายของมินเนี่ยน[b]_หนึ่งใบในมือคุณลง_(7)\n\t\t在你的回合结束时，随机使你手牌中一张随从牌的法力值消耗减少（7）点。\n\t\t在你的回合結束時，使你手中一個隨機手下的消耗降低(7)點\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Im Gegensatz zu Gnomen können Traumblüten über einen Meter groß werden."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Unlike gnomes, dreampetals grow more than 3 feet tall."
+          },
+          "esES": {
+            "present": true,
+            "value": "Los oniripétalos pueden alcanzar el metro de altura, al contrario que los gnomos."
+          },
+          "esMX": {
+            "present": true,
+            "value": "A diferencia de los gnomos, muchas de las plantas que cuidan superan el metro de altura."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Contrairement aux Gnomes, les fronderêves peuvent atteindre plus d’un mètre de haut."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Diversamente dagli Gnomi, le piante di petalonirico raggiungono il metro d'altezza."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ノームとは違って、ドリームペタルは1メートル以上に生長できる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "붐바람 휘날리며 흩날리는 꿈결꽃잎이 울려 퍼질 이 연구소를 둘이 걸어요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "W tym sezonie poleca bukiety z oniropłatków."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Diferente dos gnomos, as utopétalas podem chegar a mais de 1 metro de altura."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "В отличие от гномов, мечтоцветы вымахивают больше чем на метр."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ดรีมเพทัลสามารถเติบโต[b]ได้สูงกว่า 3 ฟุต โนมคงอิจฉาน่าดู"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "这些梦境花往往长得比栽种师还高。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "和地精不一樣，這些夢境花可以長到90多公分高。"
+          }
+        },
+        "textContent": "\n\t\tIm Gegensatz zu Gnomen können Traumblüten über einen Meter groß werden.\n\t\tUnlike gnomes, dreampetals grow more than 3 feet tall.\n\t\tLos oniripétalos pueden alcanzar el metro de altura, al contrario que los gnomos.\n\t\tA diferencia de los gnomos, muchas de las plantas que cuidan superan el metro de altura.\n\t\tContrairement aux Gnomes, les fronderêves peuvent atteindre plus d’un mètre de haut.\n\t\tDiversamente dagli Gnomi, le piante di petalonirico raggiungono il metro d'altezza.\n\t\tノームとは違って、ドリームペタルは1メートル以上に生長できる。\n\t\t붐바람 휘날리며 흩날리는 꿈결꽃잎이 울려 퍼질 이 연구소를 둘이 걸어요.\n\t\tW tym sezonie poleca bukiety z oniropłatków.\n\t\tDiferente dos gnomos, as utopétalas podem chegar a mais de 1 metro de altura.\n\t\tВ отличие от гномов, мечтоцветы вымахивают больше чем на метр.\n\t\tดรีมเพทัลสามารถเติบโต[b]ได้สูงกว่า 3 ฟุต โนมคงอิจฉาน่าดู\n\t\t这些梦境花往往长得比栽种师还高。\n\t\t和地精不一樣，這些夢境花可以長到90多公分高。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Adam Byrne"
+      }
     }
   },
   "_current": {

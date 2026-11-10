@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mulchmampfer"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Mulchmuncher"
+          },
+          "esES": {
+            "present": true,
+            "value": "Trituradora de abono"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Masticabono"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Mâche-écorce"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Concimatron"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "マルチマンチャー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "우걱전차"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Ściółkożerca"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Masca-Musgo"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Дробилка"
+          },
+          "thTH": {
+            "present": true,
+            "value": "มัลช์มันเชอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "植被破碎机"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "堆肥吞食者"
+          }
+        },
+        "textContent": "\n\t\t\tMulchmampfer\n\t\t\tMulchmuncher\n\t\t\tTrituradora de abono\n\t\t\tMasticabono\n\t\t\tMâche-écorce\n\t\t\tConcimatron\n\t\t\tマルチマンチャー\n\t\t\t우걱전차\n\t\t\tŚciółkożerca\n\t\t\tMasca-Musgo\n\t\t\tДробилка\n\t\t\tมัลช์มันเชอร์\n\t\t\t植被破碎机\n\t\t\t堆肥吞食者\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Eifer</b>. Kostet (1) weniger für jeden befreundeten Treant, der in diesem Spiel gestorben ist."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Rush</b>. Costs (1) less for each friendly Treant that died this game."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Embestir</b>\nCuesta (1) cristal menos\npor cada antárbol amistoso\nque haya muerto\nen esta partida."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Acometida</b>. Cuesta (1) menos por cada Antárbol aliado que haya muerto en esta partida."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Ruée</b>\nCoûte (1)_|4(cristal,cristaux) de moins pour chaque tréant allié mort pendant cette partie."
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>Assalto</b>. Costa (1) in meno per ogni tuo Treant morto in questa partita."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>急襲</b>\nこの対戦で死亡した\n味方の「トレント」\n1体につきコストが\n（1）減る。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>속공</b>, 이번 게임에서 죽은 아군 나무정령 하나당 비용이 (1)씩 감소합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Zryw</b>\nKosztuje (1) mniej za każdego przyjaznego Drzewca, który zginął w tej grze."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Rapidez</b>. Custa (1) a menos para cada Arvoroso aliado morto nesta partida."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Натиск</b>. Стоит на (1) меньше за каждого [x]вашего древня, погибшего\nв этом матче."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>จู่โจม</b> ค่าร่ายลดลง (1) ต่อทรีแอนท์ฝ่ายคุณ[b]แต่ละตัวที่ตายในเกมนี้"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>突袭</b>\n在本局对战中，每有一个友方树人死亡，该牌的法力值消耗便减少（1）点。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>衝刺</b>。本賽局中\n死亡的每個友方樹人使消耗減少(1)"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Eifer</b>. Kostet (1) weniger für jeden befreundeten Treant, der in diesem Spiel gestorben ist.\n\t\t\t<b>Rush</b>. Costs (1) less for each friendly Treant that died this game.\n\t\t\t[x]<b>Embestir</b>\nCuesta (1) cristal menos\npor cada antárbol amistoso\nque haya muerto\nen esta partida.\n\t\t\t<b>Acometida</b>. Cuesta (1) menos por cada Antárbol aliado que haya muerto en esta partida.\n\t\t\t<b>Ruée</b>\nCoûte (1)_|4(cristal,cristaux) de moins pour chaque tréant allié mort pendant cette partie.\n\t\t\t<b>Assalto</b>. Costa (1) in meno per ogni tuo Treant morto in questa partita.\n\t\t\t[x]<b>急襲</b>\nこの対戦で死亡した\n味方の「トレント」\n1体につきコストが\n（1）減る。\n\t\t\t<b>속공</b>, 이번 게임에서 죽은 아군 나무정령 하나당 비용이 (1)씩 감소합니다.\n\t\t\t<b>Zryw</b>\nKosztuje (1) mniej za każdego przyjaznego Drzewca, który zginął w tej grze.\n\t\t\t<b>Rapidez</b>. Custa (1) a menos para cada Arvoroso aliado morto nesta partida.\n\t\t\t<b>Натиск</b>. Стоит на (1) меньше за каждого [x]вашего древня, погибшего\nв этом матче.\n\t\t\t<b>จู่โจม</b> ค่าร่ายลดลง (1) ต่อทรีแอนท์ฝ่ายคุณ[b]แต่ละตัวที่ตายในเกมนี้\n\t\t\t<b>突袭</b>\n在本局对战中，每有一个友方树人死亡，该牌的法力值消耗便减少（1）点。\n\t\t\t<b>衝刺</b>。本賽局中\n死亡的每個友方樹人使消耗減少(1)\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "„Was ist das?“ – „Ein Mulchmampfer.“ – „Und was macht er?“ – „Er mampft Mulch.“"
+          },
+          "enUS": {
+            "present": true,
+            "value": "The latest advancement in\nhippo-botany."
+          },
+          "esES": {
+            "present": true,
+            "value": "Tecnología punta de la hipobotánica."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Lo último en hipopobotánica."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Hippo-hippo glouton, mâchez pour gagner !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "I Treant non sono mai tranquilli quando questa carta è nel tuo mazzo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "最新のカバ植物学の結晶。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "예전에는 나무를 뽑아서 나무정령을 만들더니 이젠 그 나무정령을 먹는 기계를 만드는군요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Nowoczesna alternatywa dla kompostownika."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "A mais recente invenção no campo da hipopobotânica."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Последнее слово в гиппоботанике."
+          },
+          "thTH": {
+            "present": true,
+            "value": "นวัตกรรมล่าสุดจาก[b]สาขาพฤกษศาสตร์ฮิปโป"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "仿生科技的最新成果。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "河馬與植物學研究的最新成果。"
+          }
+        },
+        "textContent": "\n\t\t\t„Was ist das?“ – „Ein Mulchmampfer.“ – „Und was macht er?“ – „Er mampft Mulch.“\n\t\t\tThe latest advancement in\nhippo-botany.\n\t\t\tTecnología punta de la hipobotánica.\n\t\t\tLo último en hipopobotánica.\n\t\t\tHippo-hippo glouton, mâchez pour gagner !\n\t\t\tI Treant non sono mai tranquilli quando questa carta è nel tuo mazzo.\n\t\t\t最新のカバ植物学の結晶。\n\t\t\t예전에는 나무를 뽑아서 나무정령을 만들더니 이젠 그 나무정령을 먹는 기계를 만드는군요.\n\t\t\tNowoczesna alternatywa dla kompostownika.\n\t\t\tA mais recente invenção no campo da hipopobotânica.\n\t\t\tПоследнее слово в гиппоботанике.\n\t\t\tนวัตกรรมล่าสุดจาก[b]สาขาพฤกษศาสตร์ฮิปโป\n\t\t\t仿生科技的最新成果。\n\t\t\t河馬與植物學研究的最新成果。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Mike Sass"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mulchmampfer"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Mulchmuncher"
+          },
+          "esES": {
+            "present": true,
+            "value": "Trituradora de abono"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Masticabono"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Mâche-écorce"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Concimatron"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "マルチマンチャー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "우걱전차"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Ściółkożerca"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Masca-Musgo"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Дробилка"
+          },
+          "thTH": {
+            "present": true,
+            "value": "มัลช์มันเชอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "植被破碎机"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "堆肥吞食者"
+          }
+        },
+        "textContent": "\n\t\tMulchmampfer\n\t\tMulchmuncher\n\t\tTrituradora de abono\n\t\tMasticabono\n\t\tMâche-écorce\n\t\tConcimatron\n\t\tマルチマンチャー\n\t\t우걱전차\n\t\tŚciółkożerca\n\t\tMasca-Musgo\n\t\tДробилка\n\t\tมัลช์มันเชอร์\n\t\t植被破碎机\n\t\t堆肥吞食者\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Eifer</b>. Kostet (1) weniger für jeden befreundeten Treant, der in diesem Spiel gestorben ist."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Rush</b>. Costs (1) less for each friendly Treant that died this game."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Embestir</b>\nCuesta (1) cristal menos\npor cada antárbol amistoso\nque haya muerto\nen esta partida."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Acometida</b>. Cuesta (1) menos por cada Antárbol aliado que haya muerto en esta partida."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Ruée</b>\nCoûte (1)_|4(cristal,cristaux) de moins pour chaque tréant allié mort pendant cette partie."
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>Assalto</b>. Costa (1) in meno per ogni tuo Treant morto in questa partita."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>急襲</b>\nこの対戦で死亡した\n味方の「トレント」\n1体につきコストが\n（1）減る。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>속공</b>, 이번 게임에서 죽은 아군 나무정령 하나당 비용이 (1)씩 감소합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Zryw</b>\nKosztuje (1) mniej za każdego przyjaznego Drzewca, który zginął w tej grze."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Rapidez</b>. Custa (1) a menos para cada Arvoroso aliado morto nesta partida."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Натиск</b>. Стоит на (1) меньше за каждого [x]вашего древня, погибшего\nв этом матче."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>จู่โจม</b>\nค่าร่ายลดลง (1) ต่อทรีแอนท์[b]ฝ่ายคุณแต่ละตัวที่ตายในเกมนี้"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>突袭</b>\n在本局对战中，每有一个友方树人死亡，本牌的法力值消耗便减少（1）点。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>衝刺</b>。本賽局中\n死亡的每個友方樹人使消耗減少(1)"
+          }
+        },
+        "textContent": "\n\t\t<b>Eifer</b>. Kostet (1) weniger für jeden befreundeten Treant, der in diesem Spiel gestorben ist.\n\t\t<b>Rush</b>. Costs (1) less for each friendly Treant that died this game.\n\t\t[x]<b>Embestir</b>\nCuesta (1) cristal menos\npor cada antárbol amistoso\nque haya muerto\nen esta partida.\n\t\t<b>Acometida</b>. Cuesta (1) menos por cada Antárbol aliado que haya muerto en esta partida.\n\t\t<b>Ruée</b>\nCoûte (1)_|4(cristal,cristaux) de moins pour chaque tréant allié mort pendant cette partie.\n\t\t<b>Assalto</b>. Costa (1) in meno per ogni tuo Treant morto in questa partita.\n\t\t[x]<b>急襲</b>\nこの対戦で死亡した\n味方の「トレント」\n1体につきコストが\n（1）減る。\n\t\t<b>속공</b>, 이번 게임에서 죽은 아군 나무정령 하나당 비용이 (1)씩 감소합니다.\n\t\t<b>Zryw</b>\nKosztuje (1) mniej za każdego przyjaznego Drzewca, który zginął w tej grze.\n\t\t<b>Rapidez</b>. Custa (1) a menos para cada Arvoroso aliado morto nesta partida.\n\t\t<b>Натиск</b>. Стоит на (1) меньше за каждого [x]вашего древня, погибшего\nв этом матче.\n\t\t<b>จู่โจม</b>\nค่าร่ายลดลง (1) ต่อทรีแอนท์[b]ฝ่ายคุณแต่ละตัวที่ตายในเกมนี้\n\t\t<b>突袭</b>\n在本局对战中，每有一个友方树人死亡，本牌的法力值消耗便减少（1）点。\n\t\t<b>衝刺</b>。本賽局中\n死亡的每個友方樹人使消耗減少(1)\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "„Was ist das?“ – „Ein Mulchmampfer.“ – „Und was macht er?“ – „Er mampft Mulch.“"
+          },
+          "enUS": {
+            "present": true,
+            "value": "The latest advancement in\nhippo-botany."
+          },
+          "esES": {
+            "present": true,
+            "value": "Tecnología punta de la hipobotánica."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Lo último en hipopobotánica."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Hippo-hippo glouton, mâchez pour gagner !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "I Treant non sono mai tranquilli quando questa carta è nel tuo mazzo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "最新のカバ植物学の結晶。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "예전에는 나무를 뽑아서 나무정령을 만들더니 이젠 그 나무정령을 먹는 기계를 만드는군요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Nowoczesna alternatywa dla kompostownika."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "A mais recente invenção no campo da hipopobotânica."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Последнее слово в гиппоботанике."
+          },
+          "thTH": {
+            "present": true,
+            "value": "นวัตกรรมล่าสุดจาก[b]สาขาพฤกษศาสตร์ฮิปโป"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "仿生科技的最新成果。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "河馬與植物學研究的最新成果。"
+          }
+        },
+        "textContent": "\n\t\t„Was ist das?“ – „Ein Mulchmampfer.“ – „Und was macht er?“ – „Er mampft Mulch.“\n\t\tThe latest advancement in\nhippo-botany.\n\t\tTecnología punta de la hipobotánica.\n\t\tLo último en hipopobotánica.\n\t\tHippo-hippo glouton, mâchez pour gagner !\n\t\tI Treant non sono mai tranquilli quando questa carta è nel tuo mazzo.\n\t\t最新のカバ植物学の結晶。\n\t\t예전에는 나무를 뽑아서 나무정령을 만들더니 이젠 그 나무정령을 먹는 기계를 만드는군요.\n\t\tNowoczesna alternatywa dla kompostownika.\n\t\tA mais recente invenção no campo da hipopobotânica.\n\t\tПоследнее слово в гиппоботанике.\n\t\tนวัตกรรมล่าสุดจาก[b]สาขาพฤกษศาสตร์ฮิปโป\n\t\t仿生科技的最新成果。\n\t\t河馬與植物學研究的最新成果。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Mike Sass"
+      }
     }
   },
   "_current": {

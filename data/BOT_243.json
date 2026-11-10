@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Myra Modertrank"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Myra Rotspring"
+          },
+          "esES": {
+            "present": true,
+            "value": "Myra Putregás"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Myra Poza Podrida"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Myra Sourcepus"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Myra Fontemarcia"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "マイラ・ロットスプリング"
+          },
+          "koKR": {
+            "present": true,
+            "value": "마이라 로트스프링"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Gnijąca Mira"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Myra Molapodre"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Мира Гниллинг"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ไมร่า ร็อตสปริง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "迈拉·腐泉"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "麥菈‧腐泉"
+          }
+        },
+        "textContent": "\n\t\t\tMyra Modertrank\n\t\t\tMyra Rotspring\n\t\t\tMyra Putregás\n\t\t\tMyra Poza Podrida\n\t\t\tMyra Sourcepus\n\t\t\tMyra Fontemarcia\n\t\t\tマイラ・ロットスプリング\n\t\t\t마이라 로트스프링\n\t\t\tGnijąca Mira\n\t\t\tMyra Molapodre\n\t\t\tМира Гниллинг\n\t\t\tไมร่า ร็อตสปริง\n\t\t\t迈拉·腐泉\n\t\t\t麥菈‧腐泉\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "[x]<b>Kampfschrei:</b> <b>Entdeckt</b>\neinen Diener mit\n<b>Todesröcheln</b> und erhält\ndessen <b>Todesröcheln</b>."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> <b>Discover</b> a\n<b>Deathrattle</b> minion. Also\ngain its <b>Deathrattle</b>."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b>\n<b>Descubre</b> un esbirro con\n<b>Último aliento</b> y copia\nese <b>Último aliento</b>\nen esta carta."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> <b>Devela</b> un esbirro con <b>Estertor</b>. También obtiene su <b>Estertor</b>."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> <b>découvre</b>\nun serviteur avec <b>Râle d’agonie</b>_et_gagne_son <b>Râle d’agonie</b>."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b> <b>Rinvieni</b>\nun servitore con <b>Rantolo di\nMorte</b>. Ne ottiene il\n<b>Rantolo di Morte</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n<b>断末魔</b>を持つミニオンを\n1体<b>発見</b>する。\nさらにそのミニオンの\n__<b>断末魔</b>を獲得する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b> <b>죽음의 메아리</b>\n하수인을 하나 <b>발견</b>합니다.\n그 하수인의 <b>죽음의 메아리</b>\n능력을 얻습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> <b>Odkryj</b> stronnika z <b>Agonią</b>. Dodatkowo Mira otrzyma jego <b>Agonię</b>."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> <b>Descubra</b> um lacaio com <b>Último Suspiro</b>. Receba também esse <b>Último Suspiro</b>."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> вы <b>раскапываете</b> существо с <b>«Предсмертным\nхрипом»</b>. Получает этот <b>«Предсмертный хрип»</b>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> <b>ค้นพบ</b> มินเนี่ยนที่มี_<b>เสียงสุดท้าย</b> พร้อมกับมอบ_<b>เสียงสุดท้าย</b> ของมันให้มินเนี่ยนตัวนี้"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>\n<b>发现</b>一张<b>亡语</b>随从牌，并获得其<b>亡语</b>。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b><b>發現</b>一個\n<b>死亡之聲</b>手下並獲得其<b>死亡之聲</b>效果"
+          }
+        },
+        "textContent": "\n\t\t\t[x]<b>Kampfschrei:</b> <b>Entdeckt</b>\neinen Diener mit\n<b>Todesröcheln</b> und erhält\ndessen <b>Todesröcheln</b>.\n\t\t\t[x]<b>Battlecry:</b> <b>Discover</b> a\n<b>Deathrattle</b> minion. Also\ngain its <b>Deathrattle</b>.\n\t\t\t<b>Grito de batalla:</b>\n<b>Descubre</b> un esbirro con\n<b>Último aliento</b> y copia\nese <b>Último aliento</b>\nen esta carta.\n\t\t\t<b>Grito de batalla:</b> <b>Devela</b> un esbirro con <b>Estertor</b>. También obtiene su <b>Estertor</b>.\n\t\t\t<b>Cri de guerre_:</b> <b>découvre</b>\nun serviteur avec <b>Râle d’agonie</b>_et_gagne_son <b>Râle d’agonie</b>.\n\t\t\t[x]<b>Grido di Battaglia:</b> <b>Rinvieni</b>\nun servitore con <b>Rantolo di\nMorte</b>. Ne ottiene il\n<b>Rantolo di Morte</b>.\n\t\t\t[x]<b>雄叫び:</b>\n<b>断末魔</b>を持つミニオンを\n1体<b>発見</b>する。\nさらにそのミニオンの\n__<b>断末魔</b>を獲得する。\n\t\t\t[x]<b>전투의 함성:</b> <b>죽음의 메아리</b>\n하수인을 하나 <b>발견</b>합니다.\n그 하수인의 <b>죽음의 메아리</b>\n능력을 얻습니다.\n\t\t\t<b>Okrzyk bojowy:</b> <b>Odkryj</b> stronnika z <b>Agonią</b>. Dodatkowo Mira otrzyma jego <b>Agonię</b>.\n\t\t\t<b>Grito de Guerra:</b> <b>Descubra</b> um lacaio com <b>Último Suspiro</b>. Receba também esse <b>Último Suspiro</b>.\n\t\t\t<b>Боевой клич:</b> вы <b>раскапываете</b> существо с <b>«Предсмертным\nхрипом»</b>. Получает этот <b>«Предсмертный хрип»</b>.\n\t\t\t<b>คำรามสู้ศึก:</b> <b>ค้นพบ</b> มินเนี่ยนที่มี_<b>เสียงสุดท้าย</b> พร้อมกับมอบ_<b>เสียงสุดท้าย</b> ของมันให้มินเนี่ยนตัวนี้\n\t\t\t<b>战吼：</b>\n<b>发现</b>一张<b>亡语</b>随从牌，并获得其<b>亡语</b>。\n\t\t\t<b>戰吼：</b><b>發現</b>一個\n<b>死亡之聲</b>手下並獲得其<b>死亡之聲</b>效果\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Gleich an ihrem ersten Arbeitstag hat sie alle Rauchmelder entfernen lassen."
+          },
+          "enUS": {
+            "present": true,
+            "value": "On her first day on the job, Myra removed the smoke detectors."
+          },
+          "esES": {
+            "present": true,
+            "value": "En su primer día de trabajo, Myra se dedicó a sabotear los detectores de humo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "En su primer día de trabajo, Myra quitó los detectores de humo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "La première chose qu’elle a faite en arrivant au labo, c’est retirer tous les détecteurs de fumée… et s’attacher les cheveux !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Al primo giorno di lavoro, Myra ha rimosso i rilevatori di fumo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "初出勤の日のうちに、マイラは煙感知器を撤去した。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "부임 첫 날, 마이라 로트스프링은 우선 연구실에 있는 화재 경보기를 모두 없앴습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Poszłaby za tobą\ndo samego piekła."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Já no primeiro dia de trabalho, Myra tirou todos os detectores de fumaça."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "В первый день на работе Мира убрала детекторы дыма из всех помещений."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ไมร่าถอดเครื่องตรวจจับควัน[b]ตั้งแต่วันแรกที่เข้าทำงาน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "她上班第一天，就把实验室的烟雾报警器给拆了。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "麥菈上班第一天的第一件事情，就是把煙霧偵測器給全拆了。"
+          }
+        },
+        "textContent": "\n\t\t\tGleich an ihrem ersten Arbeitstag hat sie alle Rauchmelder entfernen lassen.\n\t\t\tOn her first day on the job, Myra removed the smoke detectors.\n\t\t\tEn su primer día de trabajo, Myra se dedicó a sabotear los detectores de humo.\n\t\t\tEn su primer día de trabajo, Myra quitó los detectores de humo.\n\t\t\tLa première chose qu’elle a faite en arrivant au labo, c’est retirer tous les détecteurs de fumée… et s’attacher les cheveux !\n\t\t\tAl primo giorno di lavoro, Myra ha rimosso i rilevatori di fumo.\n\t\t\t初出勤の日のうちに、マイラは煙感知器を撤去した。\n\t\t\t부임 첫 날, 마이라 로트스프링은 우선 연구실에 있는 화재 경보기를 모두 없앴습니다.\n\t\t\tPoszłaby za tobą\ndo samego piekła.\n\t\t\tJá no primeiro dia de trabalho, Myra tirou todos os detectores de fumaça.\n\t\t\tВ первый день на работе Мира убрала детекторы дыма из всех помещений.\n\t\t\tไมร่าถอดเครื่องตรวจจับควัน[b]ตั้งแต่วันแรกที่เข้าทำงาน\n\t\t\t她上班第一天，就把实验室的烟雾报警器给拆了。\n\t\t\t麥菈上班第一天的第一件事情，就是把煙霧偵測器給全拆了。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Slawomir Maniak"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Myra Modertrank"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Myra Rotspring"
+          },
+          "esES": {
+            "present": true,
+            "value": "Myra Putregás"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Myra Poza Podrida"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Myra Sourcepus"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Myra Fontemarcia"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "マイラ・ロットスプリング"
+          },
+          "koKR": {
+            "present": true,
+            "value": "마이라 로트스프링"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Gnijąca Mira"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Myra Molapodre"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Мира Гниллинг"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ไมร่า ร็อตสปริง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "迈拉·腐泉"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "麥菈‧腐泉"
+          }
+        },
+        "textContent": "\n\t\tMyra Modertrank\n\t\tMyra Rotspring\n\t\tMyra Putregás\n\t\tMyra Poza Podrida\n\t\tMyra Sourcepus\n\t\tMyra Fontemarcia\n\t\tマイラ・ロットスプリング\n\t\t마이라 로트스프링\n\t\tGnijąca Mira\n\t\tMyra Molapodre\n\t\tМира Гниллинг\n\t\tไมร่า ร็อตสปริง\n\t\t迈拉·腐泉\n\t\t麥菈‧腐泉\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "[x]<b>Kampfschrei:</b> <b>Entdeckt</b>\neinen Diener mit\n<b>Todesröcheln</b> und erhält\ndessen <b>Todesröcheln</b>."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> <b>Discover</b> a\n<b>Deathrattle</b> minion. Also\ngain its <b>Deathrattle</b>."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b>\n<b>Descubre</b> un esbirro con\n<b>Último aliento</b> y copia\nese <b>Último aliento</b>\nen esta carta."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> <b>Devela</b> un esbirro con <b>Estertor</b>. También obtiene su <b>Estertor</b>."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> <b>découvre</b>\nun serviteur avec <b>Râle d’agonie</b>_et_gagne_son <b>Râle d’agonie</b>."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b> <b>Rinvieni</b>\nun servitore con <b>Rantolo di\nMorte</b>. Ne ottiene il\n<b>Rantolo di Morte</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n<b>断末魔</b>を持つミニオンを\n1体<b>発見</b>する。\nさらにそのミニオンの\n__<b>断末魔</b>を獲得する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b> <b>죽음의 메아리</b>\n하수인을 <b>발견</b>합니다.\n그 하수인의 <b>죽음의 메아리</b>\n능력도 얻습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> <b>Odkryj</b> stronnika z <b>Agonią</b>. Dodatkowo Mira otrzyma jego <b>Agonię</b>."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> <b>Descubra</b> um lacaio com <b>Último Suspiro</b>. Receba também esse <b>Último Suspiro</b>."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> вы <b>раскапываете</b> существо с <b>«Предсмертным\nхрипом»</b>. Получает этот <b>«Предсмертный хрип»</b>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> <b>ค้นพบ</b> มินเนี่ยนที่มี_<b>เสียงสุดท้าย</b> พร้อมกับมอบ_<b>เสียงสุดท้าย</b> ของมันให้มินเนี่ยนตัวนี้"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>\n<b>发现</b>一张<b>亡语</b>随从牌，并获得其<b>亡语</b>。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b><b>發現</b>一個\n<b>死亡之聲</b>手下並獲得其<b>死亡之聲</b>效果"
+          }
+        },
+        "textContent": "\n\t\t[x]<b>Kampfschrei:</b> <b>Entdeckt</b>\neinen Diener mit\n<b>Todesröcheln</b> und erhält\ndessen <b>Todesröcheln</b>.\n\t\t[x]<b>Battlecry:</b> <b>Discover</b> a\n<b>Deathrattle</b> minion. Also\ngain its <b>Deathrattle</b>.\n\t\t<b>Grito de batalla:</b>\n<b>Descubre</b> un esbirro con\n<b>Último aliento</b> y copia\nese <b>Último aliento</b>\nen esta carta.\n\t\t<b>Grito de batalla:</b> <b>Devela</b> un esbirro con <b>Estertor</b>. También obtiene su <b>Estertor</b>.\n\t\t<b>Cri de guerre_:</b> <b>découvre</b>\nun serviteur avec <b>Râle d’agonie</b>_et_gagne_son <b>Râle d’agonie</b>.\n\t\t[x]<b>Grido di Battaglia:</b> <b>Rinvieni</b>\nun servitore con <b>Rantolo di\nMorte</b>. Ne ottiene il\n<b>Rantolo di Morte</b>.\n\t\t[x]<b>雄叫び:</b>\n<b>断末魔</b>を持つミニオンを\n1体<b>発見</b>する。\nさらにそのミニオンの\n__<b>断末魔</b>を獲得する。\n\t\t[x]<b>전투의 함성:</b> <b>죽음의 메아리</b>\n하수인을 <b>발견</b>합니다.\n그 하수인의 <b>죽음의 메아리</b>\n능력도 얻습니다.\n\t\t<b>Okrzyk bojowy:</b> <b>Odkryj</b> stronnika z <b>Agonią</b>. Dodatkowo Mira otrzyma jego <b>Agonię</b>.\n\t\t<b>Grito de Guerra:</b> <b>Descubra</b> um lacaio com <b>Último Suspiro</b>. Receba também esse <b>Último Suspiro</b>.\n\t\t<b>Боевой клич:</b> вы <b>раскапываете</b> существо с <b>«Предсмертным\nхрипом»</b>. Получает этот <b>«Предсмертный хрип»</b>.\n\t\t<b>คำรามสู้ศึก:</b> <b>ค้นพบ</b> มินเนี่ยนที่มี_<b>เสียงสุดท้าย</b> พร้อมกับมอบ_<b>เสียงสุดท้าย</b> ของมันให้มินเนี่ยนตัวนี้\n\t\t<b>战吼：</b>\n<b>发现</b>一张<b>亡语</b>随从牌，并获得其<b>亡语</b>。\n\t\t<b>戰吼：</b><b>發現</b>一個\n<b>死亡之聲</b>手下並獲得其<b>死亡之聲</b>效果\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Gleich an ihrem ersten Arbeitstag hat sie alle Rauchmelder entfernen lassen."
+          },
+          "enUS": {
+            "present": true,
+            "value": "On her first day on the job, Myra removed the smoke detectors."
+          },
+          "esES": {
+            "present": true,
+            "value": "En su primer día de trabajo, Myra se dedicó a sabotear los detectores de humo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "En su primer día de trabajo, Myra quitó los detectores de humo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "La première chose qu’elle a faite en arrivant au labo, c’est retirer tous les détecteurs de fumée… et s’attacher les cheveux !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Al primo giorno di lavoro, Myra ha rimosso i rilevatori di fumo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "初出勤の日のうちに、マイラは煙感知器を撤去した。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "부임 첫 날, 마이라 로트스프링은 우선 연구실에 있는 화재 경보기를 모두 없앴습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Poszłaby za tobą\ndo samego piekła."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Já no primeiro dia de trabalho, Myra tirou todos os detectores de fumaça."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "В первый день на работе Мира убрала детекторы дыма из всех помещений."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ไมร่าถอดเครื่องตรวจจับควัน[b]ตั้งแต่วันแรกที่เข้าทำงาน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "她上班第一天，就把实验室的烟雾报警器给拆了。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "麥菈上班第一天的第一件事情，就是把煙霧偵測器給全拆了。"
+          }
+        },
+        "textContent": "\n\t\tGleich an ihrem ersten Arbeitstag hat sie alle Rauchmelder entfernen lassen.\n\t\tOn her first day on the job, Myra removed the smoke detectors.\n\t\tEn su primer día de trabajo, Myra se dedicó a sabotear los detectores de humo.\n\t\tEn su primer día de trabajo, Myra quitó los detectores de humo.\n\t\tLa première chose qu’elle a faite en arrivant au labo, c’est retirer tous les détecteurs de fumée… et s’attacher les cheveux !\n\t\tAl primo giorno di lavoro, Myra ha rimosso i rilevatori di fumo.\n\t\t初出勤の日のうちに、マイラは煙感知器を撤去した。\n\t\t부임 첫 날, 마이라 로트스프링은 우선 연구실에 있는 화재 경보기를 모두 없앴습니다.\n\t\tPoszłaby za tobą\ndo samego piekła.\n\t\tJá no primeiro dia de trabalho, Myra tirou todos os detectores de fumaça.\n\t\tВ первый день на работе Мира убрала детекторы дыма из всех помещений.\n\t\tไมร่าถอดเครื่องตรวจจับควัน[b]ตั้งแต่วันแรกที่เข้าทำงาน\n\t\t她上班第一天，就把实验室的烟雾报警器给拆了。\n\t\t麥菈上班第一天的第一件事情，就是把煙霧偵測器給全拆了。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Slawomir Maniak"
+      }
     }
   },
   "_current": {

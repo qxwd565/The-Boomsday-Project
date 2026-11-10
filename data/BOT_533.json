@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Drohender Nimbus"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Menacing Nimbus"
+          },
+          "esES": {
+            "present": true,
+            "value": "Nimbo amenazador"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Nimbo amenazante"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Nimbus menaçant"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Nembo Minaccioso"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "荒ぶる雨雲"
+          },
+          "koKR": {
+            "present": true,
+            "value": "성난 먹구름"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Mroczny nimbostratus"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Nimbo Ameaçador"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Грозовое облако"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เมฆนิมบัสคุกคาม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "凶恶的雨云"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "兇惡的雨雲"
+          }
+        },
+        "textContent": "\n\t\t\tDrohender Nimbus\n\t\t\tMenacing Nimbus\n\t\t\tNimbo amenazador\n\t\t\tNimbo amenazante\n\t\t\tNimbus menaçant\n\t\t\tNembo Minaccioso\n\t\t\t荒ぶる雨雲\n\t\t\t성난 먹구름\n\t\t\tMroczny nimbostratus\n\t\t\tNimbo Ameaçador\n\t\t\tГрозовое облако\n\t\t\tเมฆนิมบัสคุกคาม\n\t\t\t凶恶的雨云\n\t\t\t兇惡的雨雲\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Erhaltet\neinen zufälligen Elementar auf die Hand."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Add a random Elemental to your hand."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b> Añade\nun elemental aleatorio\na tu mano."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> agrega un Elemental aleatorio a tu mano."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> ajoute un élémentaire aléatoire dans votre main."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nmette nella tua mano un\nElementale casuale."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\nランダムなエレメンタル\n1体を自分の手札に\n追加する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n무작위 정령 하나를\n내 손으로 가져옵니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Dodaj losowego Żywiołaka\ndo twojej ręki."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Adicione um Elemental aleatório à sua mão."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> вы кладете в руку случайного элементаля."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> สุ่มเพิ่มการ์ดวิญญาณธาตุ[b]หนึ่งใบในมือคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>将一张随机元素牌置入你的手牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>放一個隨機\n元素到你的手中"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Erhaltet\neinen zufälligen Elementar auf die Hand.\n\t\t\t<b>Battlecry:</b> Add a random Elemental to your hand.\n\t\t\t[x]<b>Grito de batalla:</b> Añade\nun elemental aleatorio\na tu mano.\n\t\t\t<b>Grito de batalla:</b> agrega un Elemental aleatorio a tu mano.\n\t\t\t<b>Cri de guerre_:</b> ajoute un élémentaire aléatoire dans votre main.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nmette nella tua mano un\nElementale casuale.\n\t\t\t[x]<b>雄叫び:</b>\nランダムなエレメンタル\n1体を自分の手札に\n追加する。\n\t\t\t<b>전투의 함성:</b>\n무작위 정령 하나를\n내 손으로 가져옵니다.\n\t\t\t<b>Okrzyk bojowy:</b> Dodaj losowego Żywiołaka\ndo twojej ręki.\n\t\t\t<b>Grito de Guerra:</b> Adicione um Elemental aleatório à sua mão.\n\t\t\t<b>Боевой клич:</b> вы кладете в руку случайного элементаля.\n\t\t\t<b>คำรามสู้ศึก:</b> สุ่มเพิ่มการ์ดวิญญาณธาตุ[b]หนึ่งใบในมือคุณ\n\t\t\t<b>战吼：</b>将一张随机元素牌置入你的手牌。\n\t\t\t<b>戰吼：</b>放一個隨機\n元素到你的手中\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Er sorgt für Wirbel."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Electra stores her elementals in the cloud."
+          },
+          "esES": {
+            "present": true,
+            "value": "Electra almacena a sus elementales en la nube."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Electra guarda sus elementales en la nube."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Électra stocke ses élémentaires dans le nuage."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Elettra archivia i propri Elementali nel cloud."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "エレクトラはエレメンタル達を雲の中に囲っている。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "엘렉트라는 정령들을 구름 속에 숨겨두나보군요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Elektra przechowuje swoje żywiołaki w chmurze."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Electra armazena os elementais dela na nuvem."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Электра хранит своих элементалей в облаке."
+          },
+          "thTH": {
+            "present": true,
+            "value": "อีเล็กตร้าเก็บวิญญาณธาตุ[b]ของเธอไว้ในระบบคลาวด์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "伊莱克特拉把她的元素藏在了云端里。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "伊雷特拉把她的元素都放在雲端。"
+          }
+        },
+        "textContent": "\n\t\t\tEr sorgt für Wirbel.\n\t\t\tElectra stores her elementals in the cloud.\n\t\t\tElectra almacena a sus elementales en la nube.\n\t\t\tElectra guarda sus elementales en la nube.\n\t\t\tÉlectra stocke ses élémentaires dans le nuage.\n\t\t\tElettra archivia i propri Elementali nel cloud.\n\t\t\tエレクトラはエレメンタル達を雲の中に囲っている。\n\t\t\t엘렉트라는 정령들을 구름 속에 숨겨두나보군요.\n\t\t\tElektra przechowuje swoje żywiołaki w chmurze.\n\t\t\tElectra armazena os elementais dela na nuvem.\n\t\t\tЭлектра хранит своих элементалей в облаке.\n\t\t\tอีเล็กตร้าเก็บวิญญาณธาตุ[b]ของเธอไว้ในระบบคลาวด์\n\t\t\t伊莱克特拉把她的元素藏在了云端里。\n\t\t\t伊雷特拉把她的元素都放在雲端。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Daria Tuzova"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Drohender Nimbus"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Menacing Nimbus"
+          },
+          "esES": {
+            "present": true,
+            "value": "Nimbo amenazador"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Nimbo amenazante"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Nimbus menaçant"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Nembo Minaccioso"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "荒ぶる雨雲"
+          },
+          "koKR": {
+            "present": true,
+            "value": "성난 먹구름"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Mroczny nimbostratus"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Nimbo Ameaçador"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Грозовое облако"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เมฆนิมบัสคุกคาม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "凶恶的雨云"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "兇惡的雨雲"
+          }
+        },
+        "textContent": "\n\t\tDrohender Nimbus\n\t\tMenacing Nimbus\n\t\tNimbo amenazador\n\t\tNimbo amenazante\n\t\tNimbus menaçant\n\t\tNembo Minaccioso\n\t\t荒ぶる雨雲\n\t\t성난 먹구름\n\t\tMroczny nimbostratus\n\t\tNimbo Ameaçador\n\t\tГрозовое облако\n\t\tเมฆนิมบัสคุกคาม\n\t\t凶恶的雨云\n\t\t兇惡的雨雲\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Erhaltet\neinen zufälligen Elementar auf die Hand."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Add a random Elemental to your hand."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b> Añade\nun elemental aleatorio\na tu mano."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> agrega un Elemental aleatorio a tu mano."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> ajoute un Élémentaire aléatoire dans votre main."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nmette nella tua mano un\nElementale casuale."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\nランダムなエレメンタル\n1体を自分の手札に\n追加する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n무작위 정령을\n내 손으로 가져옵니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Dodaj losowego Żywiołaka\ndo twojej ręki."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Adicione um Elemental aleatório à sua mão."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> вы кладете в руку случайного элементаля."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> สุ่มเพิ่มวิญญาณธาตุ[b]หนึ่งใบในมือคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>随机将一张元素牌置入你的手牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>放一個隨機\n元素到你的手中"
+          }
+        },
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Erhaltet\neinen zufälligen Elementar auf die Hand.\n\t\t<b>Battlecry:</b> Add a random Elemental to your hand.\n\t\t[x]<b>Grito de batalla:</b> Añade\nun elemental aleatorio\na tu mano.\n\t\t<b>Grito de batalla:</b> agrega un Elemental aleatorio a tu mano.\n\t\t<b>Cri de guerre_:</b> ajoute un Élémentaire aléatoire dans votre main.\n\t\t[x]<b>Grido di Battaglia:</b>\nmette nella tua mano un\nElementale casuale.\n\t\t[x]<b>雄叫び:</b>\nランダムなエレメンタル\n1体を自分の手札に\n追加する。\n\t\t<b>전투의 함성:</b>\n무작위 정령을\n내 손으로 가져옵니다.\n\t\t<b>Okrzyk bojowy:</b> Dodaj losowego Żywiołaka\ndo twojej ręki.\n\t\t<b>Grito de Guerra:</b> Adicione um Elemental aleatório à sua mão.\n\t\t<b>Боевой клич:</b> вы кладете в руку случайного элементаля.\n\t\t<b>คำรามสู้ศึก:</b> สุ่มเพิ่มวิญญาณธาตุ[b]หนึ่งใบในมือคุณ\n\t\t<b>战吼：</b>随机将一张元素牌置入你的手牌。\n\t\t<b>戰吼：</b>放一個隨機\n元素到你的手中\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Er sorgt für Wirbel."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Electra stores her elementals in the cloud."
+          },
+          "esES": {
+            "present": true,
+            "value": "Electra almacena a sus elementales en la nube."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Electra guarda sus elementales en la nube."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Électra stocke ses élémentaires dans le nuage."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Elettra archivia i propri Elementali nel cloud."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "エレクトラはエレメンタル達を雲の中に囲っている。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "엘렉트라는 정령들을 구름 속에 숨겨두나보군요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Elektra przechowuje swoje żywiołaki w chmurze."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Electra armazena os elementais dela na nuvem."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Электра хранит своих элементалей в облаке."
+          },
+          "thTH": {
+            "present": true,
+            "value": "อีเล็กตร้าเก็บวิญญาณธาตุ[b]ของเธอไว้ในระบบคลาวด์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "伊莱克特拉把她的元素藏在了云端里。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "伊雷特拉把她的元素都放在雲端。"
+          }
+        },
+        "textContent": "\n\t\tEr sorgt für Wirbel.\n\t\tElectra stores her elementals in the cloud.\n\t\tElectra almacena a sus elementales en la nube.\n\t\tElectra guarda sus elementales en la nube.\n\t\tÉlectra stocke ses élémentaires dans le nuage.\n\t\tElettra archivia i propri Elementali nel cloud.\n\t\tエレクトラはエレメンタル達を雲の中に囲っている。\n\t\t엘렉트라는 정령들을 구름 속에 숨겨두나보군요.\n\t\tElektra przechowuje swoje żywiołaki w chmurze.\n\t\tElectra armazena os elementais dela na nuvem.\n\t\tЭлектра хранит своих элементалей в облаке.\n\t\tอีเล็กตร้าเก็บวิญญาณธาตุ[b]ของเธอไว้ในระบบคลาวด์\n\t\t伊莱克特拉把她的元素藏在了云端里。\n\t\t伊雷特拉把她的元素都放在雲端。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Daria Tuzova"
+      }
     }
   },
   "_current": {

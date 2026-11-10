@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Goblinbombe"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Goblin Bomb"
+          },
+          "esES": {
+            "present": true,
+            "value": "Bomba goblin"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Bomba goblin"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Bombe gobeline"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Bomba Goblin"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ゴブリン爆弾"
+          },
+          "koKR": {
+            "present": true,
+            "value": "고블린 폭탄"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Goblińska bomba"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Bomba Goblínica"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Гоблинская бомба"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ระเบิดก็อบลิน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "地精炸弹"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "哥布林炸彈"
+          }
+        },
+        "textContent": "\n\t\t\tGoblinbombe\n\t\t\tGoblin Bomb\n\t\t\tBomba goblin\n\t\t\tBomba goblin\n\t\t\tBombe gobeline\n\t\t\tBomba Goblin\n\t\t\tゴブリン爆弾\n\t\t\t고블린 폭탄\n\t\t\tGoblińska bomba\n\t\t\tBomba Goblínica\n\t\t\tГоблинская бомба\n\t\t\tระเบิดก็อบลิน\n\t\t\t地精炸弹\n\t\t\t哥布林炸彈\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Todesröcheln:</b> Fügt dem feindlichen Helden 2_Schaden zu."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Deathrattle:</b> Deal 2 damage\nto the enemy hero."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Último aliento:</b>\nInflige 2 p. de daño\nal héroe enemigo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Estertor:</b> inflige 2 de daño al héroe enemigo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Râle d’agonie_:</b> inflige 2_points de dégâts au héros adverse."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Rantolo di Morte:</b>\ninfligge 2 danni\nall'eroe nemico."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>断末魔:</b>\n敵のヒーローに\n___2ダメージを与える。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b>\n적 영웅에게\n피해를 2 줍니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Agonia:</b> Zadaj 2 pkt. obrażeń wrogiemu bohaterowi."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Último Suspiro:</b> Cause 2 de dano ao herói inimigo."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Предсмертный хрип:</b> наносит 2 ед. урона герою_противника."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>เสียงสุดท้าย:</b> สร้างความเสียหาย 2_แต้มให้ฮีโร่ศัตรู"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>亡语：</b>对敌方英雄造成2点伤害。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>死亡之聲：</b>對敵方\n英雄造成2點傷害"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Todesröcheln:</b> Fügt dem feindlichen Helden 2_Schaden zu.\n\t\t\t[x]<b>Deathrattle:</b> Deal 2 damage\nto the enemy hero.\n\t\t\t[x]<b>Último aliento:</b>\nInflige 2 p. de daño\nal héroe enemigo.\n\t\t\t<b>Estertor:</b> inflige 2 de daño al héroe enemigo.\n\t\t\t<b>Râle d’agonie_:</b> inflige 2_points de dégâts au héros adverse.\n\t\t\t[x]<b>Rantolo di Morte:</b>\ninfligge 2 danni\nall'eroe nemico.\n\t\t\t[x]<b>断末魔:</b>\n敵のヒーローに\n___2ダメージを与える。\n\t\t\t<b>죽음의 메아리:</b>\n적 영웅에게\n피해를 2 줍니다.\n\t\t\t<b>Agonia:</b> Zadaj 2 pkt. obrażeń wrogiemu bohaterowi.\n\t\t\t<b>Último Suspiro:</b> Cause 2 de dano ao herói inimigo.\n\t\t\t<b>Предсмертный хрип:</b> наносит 2 ед. урона герою_противника.\n\t\t\t<b>เสียงสุดท้าย:</b> สร้างความเสียหาย 2_แต้มให้ฮีโร่ศัตรู\n\t\t\t<b>亡语：</b>对敌方英雄造成2点伤害。\n\t\t\t<b>死亡之聲：</b>對敵方\n英雄造成2點傷害\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Warum denn so ernst?"
+          },
+          "enUS": {
+            "present": true,
+            "value": "They're Dr. Boom's babies. His baby boomers."
+          },
+          "esES": {
+            "present": true,
+            "value": "Es como el hijo del Dr. Bum. Es... el <i>baby bum</i>."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Son los bebés del Dr. Bum. Sus \"baby bumers\"."
+          },
+          "frFR": {
+            "present": true,
+            "value": "L’horreur a un visage."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Sono i cuccioli del Dott. Boom. I suoi piccoli boombini!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "何だと思う？これね、ドクター・ブームの爆弾。あっ！つまり…ベビーブーム。わかる？"
+          },
+          "koKR": {
+            "present": true,
+            "value": "박사 붐의 자식들이라고 할 수 있습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Gość od marketingu Doktora Huka płakał jak to projektował."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Elas são a cara do Dr. Cabum."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Малышки доктора Бума всегда готовы показать, что на самом деле значит слово «бэби-бум»."
+          },
+          "thTH": {
+            "present": true,
+            "value": "พวกมันคือลูกของ[b]ด็อกเตอร์บูม เกิดในยุคเบบี้บูมเมอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "这些婴儿潮时期出产的小家伙们是导致人口爆炸的一个重要原因。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "這是爆爆博士的爆爆寶貝。給我個爆爆好嗎，寶貝！"
+          }
+        },
+        "textContent": "\n\t\t\tWarum denn so ernst?\n\t\t\tThey're Dr. Boom's babies. His baby boomers.\n\t\t\tEs como el hijo del Dr. Bum. Es... el <i>baby bum</i>.\n\t\t\tSon los bebés del Dr. Bum. Sus \"baby bumers\".\n\t\t\tL’horreur a un visage.\n\t\t\tSono i cuccioli del Dott. Boom. I suoi piccoli boombini!\n\t\t\t何だと思う？これね、ドクター・ブームの爆弾。あっ！つまり…ベビーブーム。わかる？\n\t\t\t박사 붐의 자식들이라고 할 수 있습니다.\n\t\t\tGość od marketingu Doktora Huka płakał jak to projektował.\n\t\t\tElas são a cara do Dr. Cabum.\n\t\t\tМалышки доктора Бума всегда готовы показать, что на самом деле значит слово «бэби-бум».\n\t\t\tพวกมันคือลูกของ[b]ด็อกเตอร์บูม เกิดในยุคเบบี้บูมเมอร์\n\t\t\t这些婴儿潮时期出产的小家伙们是导致人口爆炸的一个重要原因。\n\t\t\t這是爆爆博士的爆爆寶貝。給我個爆爆好嗎，寶貝！\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Matt Dixon"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Goblinbombe"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Goblin Bomb"
+          },
+          "esES": {
+            "present": true,
+            "value": "Bomba goblin"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Bomba goblin"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Bombe gobeline"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Bomba Goblin"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ゴブリン爆弾"
+          },
+          "koKR": {
+            "present": true,
+            "value": "고블린 폭탄"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Goblińska bomba"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Bomba Goblínica"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Гоблинская бомба"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ระเบิดก็อบลิน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "地精炸弹"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "哥布林炸彈"
+          }
+        },
+        "textContent": "\n\t\tGoblinbombe\n\t\tGoblin Bomb\n\t\tBomba goblin\n\t\tBomba goblin\n\t\tBombe gobeline\n\t\tBomba Goblin\n\t\tゴブリン爆弾\n\t\t고블린 폭탄\n\t\tGoblińska bomba\n\t\tBomba Goblínica\n\t\tГоблинская бомба\n\t\tระเบิดก็อบลิน\n\t\t地精炸弹\n\t\t哥布林炸彈\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Todesröcheln:</b> Fügt dem feindlichen Helden 2_Schaden zu."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Deathrattle:</b> Deal 2 damage\nto the enemy hero."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Último aliento:</b>\nInflige 2 p. de daño\nal héroe enemigo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Estertor:</b> inflige 2 de daño al héroe enemigo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Râle d’agonie_:</b> inflige 2_points de dégâts au héros adverse."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Rantolo di Morte:</b>\ninfligge 2 danni\nall'eroe nemico."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>断末魔:</b>\n敵のヒーローに\n___2ダメージを与える。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b>\n적 영웅에게\n피해를 2 줍니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Agonia:</b> Zadaj 2 pkt. obrażeń wrogiemu bohaterowi."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Último Suspiro:</b> Cause 2 de dano ao herói inimigo."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Предсмертный хрип:</b> наносит 2 ед. урона герою_противника."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>เสียงสุดท้าย:</b> สร้างความเสียหาย 2_แต้มให้ฮีโร่ศัตรู"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>亡语：</b>对敌方英雄造成2点伤害。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>死亡之聲：</b>對敵方\n英雄造成2點傷害"
+          }
+        },
+        "textContent": "\n\t\t<b>Todesröcheln:</b> Fügt dem feindlichen Helden 2_Schaden zu.\n\t\t[x]<b>Deathrattle:</b> Deal 2 damage\nto the enemy hero.\n\t\t[x]<b>Último aliento:</b>\nInflige 2 p. de daño\nal héroe enemigo.\n\t\t<b>Estertor:</b> inflige 2 de daño al héroe enemigo.\n\t\t<b>Râle d’agonie_:</b> inflige 2_points de dégâts au héros adverse.\n\t\t[x]<b>Rantolo di Morte:</b>\ninfligge 2 danni\nall'eroe nemico.\n\t\t[x]<b>断末魔:</b>\n敵のヒーローに\n___2ダメージを与える。\n\t\t<b>죽음의 메아리:</b>\n적 영웅에게\n피해를 2 줍니다.\n\t\t<b>Agonia:</b> Zadaj 2 pkt. obrażeń wrogiemu bohaterowi.\n\t\t<b>Último Suspiro:</b> Cause 2 de dano ao herói inimigo.\n\t\t<b>Предсмертный хрип:</b> наносит 2 ед. урона герою_противника.\n\t\t<b>เสียงสุดท้าย:</b> สร้างความเสียหาย 2_แต้มให้ฮีโร่ศัตรู\n\t\t<b>亡语：</b>对敌方英雄造成2点伤害。\n\t\t<b>死亡之聲：</b>對敵方\n英雄造成2點傷害\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Warum denn so ernst?"
+          },
+          "enUS": {
+            "present": true,
+            "value": "They're Dr. Boom's babies. His baby boomers."
+          },
+          "esES": {
+            "present": true,
+            "value": "Es como el hijo del Dr. Bum. Es... el <i>baby bum</i>."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Son los bebés del Dr. Bum. Sus \"baby bumers\"."
+          },
+          "frFR": {
+            "present": true,
+            "value": "L’horreur a un visage."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Sono i cuccioli del Dott. Boom. I suoi piccoli boombini!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "何だと思う？これね、ドクター・ブームの爆弾。あっ！つまり…ベビーブーム。わかる？"
+          },
+          "koKR": {
+            "present": true,
+            "value": "박사 붐의 자식들이라고 할 수 있습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Gość od marketingu Doktora Huka płakał jak to projektował."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Elas são a cara do Dr. Cabum."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Малышки доктора Бума всегда готовы показать, что на самом деле значит слово «бэби-бум»."
+          },
+          "thTH": {
+            "present": true,
+            "value": "พวกมันคือลูกของ[b]ด็อกเตอร์บูม เกิดในยุคเบบี้บูมเมอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "这些婴儿潮时期出产的小家伙们是导致人口爆炸的一个重要原因。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "這是爆爆博士的爆爆寶貝。給我個爆爆好嗎，寶貝！"
+          }
+        },
+        "textContent": "\n\t\tWarum denn so ernst?\n\t\tThey're Dr. Boom's babies. His baby boomers.\n\t\tEs como el hijo del Dr. Bum. Es... el <i>baby bum</i>.\n\t\tSon los bebés del Dr. Bum. Sus \"baby bumers\".\n\t\tL’horreur a un visage.\n\t\tSono i cuccioli del Dott. Boom. I suoi piccoli boombini!\n\t\t何だと思う？これね、ドクター・ブームの爆弾。あっ！つまり…ベビーブーム。わかる？\n\t\t박사 붐의 자식들이라고 할 수 있습니다.\n\t\tGość od marketingu Doktora Huka płakał jak to projektował.\n\t\tElas são a cara do Dr. Cabum.\n\t\tМалышки доктора Бума всегда готовы показать, что на самом деле значит слово «бэби-бум».\n\t\tพวกมันคือลูกของ[b]ด็อกเตอร์บูม เกิดในยุคเบบี้บูมเมอร์\n\t\t这些婴儿潮时期出产的小家伙们是导致人口爆炸的一个重要原因。\n\t\t這是爆爆博士的爆爆寶貝。給我個爆爆好嗎，寶貝！\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Matt Dixon"
+      }
     }
   },
   "_current": {

@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mechanoei"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Mechano-Egg"
+          },
+          "esES": {
+            "present": true,
+            "value": "Mecahuevo"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Huevo mecánico"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Mécanœuf"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Robouovo"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "メカーノ・エッグ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "기계 알"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Mechaniczne jajo"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Ovo Mecânico"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Механояйцо"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เมคาโน-เอ้ก"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "机械蛋"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "機械蛋"
+          }
+        },
+        "textContent": "\n\t\t\tMechanoei\n\t\t\tMechano-Egg\n\t\t\tMecahuevo\n\t\t\tHuevo mecánico\n\t\t\tMécanœuf\n\t\t\tRobouovo\n\t\t\tメカーノ・エッグ\n\t\t\t기계 알\n\t\t\tMechaniczne jajo\n\t\t\tOvo Mecânico\n\t\t\tМеханояйцо\n\t\t\tเมคาโน-เอ้ก\n\t\t\t机械蛋\n\t\t\t機械蛋\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Todesröcheln:</b> Ruft einen Robosaurus (8/8) herbei."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Summon an 8/8 Robosaur."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Último aliento:</b>\nInvoca un robosaurio 8/8."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Estertor:</b> invoca un Robosaurio 8/8."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Râle d’agonie_:</b> invoque un robosaure_8/8."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Rantolo di Morte:</b>\nevoca un Robosauro 8/8."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>断末魔:</b>\n8/8の\n「ロボザウルス」を\n__1体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b>\n8/8 공룡로봇을\n하나 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Agonia:</b> Przyzwij Robozaura 8/8."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Último Suspiro:</b> Evoque um Robossauro 8/8."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Предсмертный хрип:</b> призывает робозавра_8/8."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>เสียงสุดท้าย:</b> เรียกโรโบซอร์ 8/8"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>亡语：</b>召唤一个8/8的机械暴龙。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>死亡之聲：</b>召喚一個\n8/8機械暴龍"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Todesröcheln:</b> Ruft einen Robosaurus (8/8) herbei.\n\t\t\t<b>Deathrattle:</b> Summon an 8/8 Robosaur.\n\t\t\t<b>Último aliento:</b>\nInvoca un robosaurio 8/8.\n\t\t\t<b>Estertor:</b> invoca un Robosaurio 8/8.\n\t\t\t<b>Râle d’agonie_:</b> invoque un robosaure_8/8.\n\t\t\t[x]<b>Rantolo di Morte:</b>\nevoca un Robosauro 8/8.\n\t\t\t[x]<b>断末魔:</b>\n8/8の\n「ロボザウルス」を\n__1体召喚する。\n\t\t\t<b>죽음의 메아리:</b>\n8/8 공룡로봇을\n하나 소환합니다.\n\t\t\t<b>Agonia:</b> Przyzwij Robozaura 8/8.\n\t\t\t<b>Último Suspiro:</b> Evoque um Robossauro 8/8.\n\t\t\t<b>Предсмертный хрип:</b> призывает робозавра_8/8.\n\t\t\t<b>เสียงสุดท้าย:</b> เรียกโรโบซอร์ 8/8\n\t\t\t<b>亡语：</b>召唤一个8/8的机械暴龙。\n\t\t\t<b>死亡之聲：</b>召喚一個\n8/8機械暴龍\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Für alle, denen der Arzt zu mehr Eisen rät."
+          },
+          "enUS": {
+            "present": true,
+            "value": "When you need more iron in your diet."
+          },
+          "esES": {
+            "present": true,
+            "value": "Para esos momentos en los que necesitas más hierro en tu dieta."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Para cuando necesitas incorporar más hierro en tu dieta."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Boum crée des robots. Boum fusionne avec les robots. Boum invoque des dinosaures. Les dinosaures fusionnent avec les robots. Boum crée le robosaure…"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Quando serve più ferro nella propria dieta."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "鉄分が不足しがちな食生活に。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "식단에 철분이 더 필요할 때 안성맞춤입니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Jedz je trzy razy w tygodniu, a wzbogacisz dietę w żelazo."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Para o caso de você precisar de mais ferro na sua dieta."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Обогатите свой рацион железом!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "สำหรับเวลาที่คุณอยาก[b]เพิ่มธาตุเหล็กให้ร่างกาย"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "补铁补血，健康之选。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "需要攝取更多鐵的話，這是最佳來源。"
+          }
+        },
+        "textContent": "\n\t\t\tFür alle, denen der Arzt zu mehr Eisen rät.\n\t\t\tWhen you need more iron in your diet.\n\t\t\tPara esos momentos en los que necesitas más hierro en tu dieta.\n\t\t\tPara cuando necesitas incorporar más hierro en tu dieta.\n\t\t\tBoum crée des robots. Boum fusionne avec les robots. Boum invoque des dinosaures. Les dinosaures fusionnent avec les robots. Boum crée le robosaure…\n\t\t\tQuando serve più ferro nella propria dieta.\n\t\t\t鉄分が不足しがちな食生活に。\n\t\t\t식단에 철분이 더 필요할 때 안성맞춤입니다.\n\t\t\tJedz je trzy razy w tygodniu, a wzbogacisz dietę w żelazo.\n\t\t\tPara o caso de você precisar de mais ferro na sua dieta.\n\t\t\tОбогатите свой рацион железом!\n\t\t\tสำหรับเวลาที่คุณอยาก[b]เพิ่มธาตุเหล็กให้ร่างกาย\n\t\t\t补铁补血，健康之选。\n\t\t\t需要攝取更多鐵的話，這是最佳來源。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Hideaki Takamura"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mechanoei"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Mechano-Egg"
+          },
+          "esES": {
+            "present": true,
+            "value": "Mecahuevo"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Huevo mecánico"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Mécanœuf"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Robouovo"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "メカーノ・エッグ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "기계 알"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Mechaniczne jajo"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Ovo Mecânico"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Механояйцо"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เมคาโน-เอ้ก"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "机械蛋"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "機械蛋"
+          }
+        },
+        "textContent": "\n\t\tMechanoei\n\t\tMechano-Egg\n\t\tMecahuevo\n\t\tHuevo mecánico\n\t\tMécanœuf\n\t\tRobouovo\n\t\tメカーノ・エッグ\n\t\t기계 알\n\t\tMechaniczne jajo\n\t\tOvo Mecânico\n\t\tМеханояйцо\n\t\tเมคาโน-เอ้ก\n\t\t机械蛋\n\t\t機械蛋\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Todesröcheln:</b> Ruft einen Robosaurus (8/8) herbei."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Summon an 8/8 Robosaur."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Último aliento:</b>\nInvoca un robosaurio 8/8."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Estertor:</b> invoca un Robosaurio 8/8."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Râle d’agonie_:</b> invoque un robosaure_8/8."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Rantolo di Morte:</b>\nevoca un Robosauro 8/8."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>断末魔:</b>\n8/8の\n「ロボザウルス」を\n__1体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b>\n8/8 공룡로봇을 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Agonia:</b> Przyzwij Robozaura 8/8."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Último Suspiro:</b> Evoque um Robossauro 8/8."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Предсмертный хрип:</b> призывает робозавра_8/8."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>เสียงสุดท้าย:</b> เรียกโรโบซอร์ 8/8"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>亡语：</b>召唤一个8/8的机械暴龙。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>死亡之聲：</b>召喚一個\n8/8機械暴龍"
+          }
+        },
+        "textContent": "\n\t\t<b>Todesröcheln:</b> Ruft einen Robosaurus (8/8) herbei.\n\t\t<b>Deathrattle:</b> Summon an 8/8 Robosaur.\n\t\t<b>Último aliento:</b>\nInvoca un robosaurio 8/8.\n\t\t<b>Estertor:</b> invoca un Robosaurio 8/8.\n\t\t<b>Râle d’agonie_:</b> invoque un robosaure_8/8.\n\t\t[x]<b>Rantolo di Morte:</b>\nevoca un Robosauro 8/8.\n\t\t[x]<b>断末魔:</b>\n8/8の\n「ロボザウルス」を\n__1体召喚する。\n\t\t<b>죽음의 메아리:</b>\n8/8 공룡로봇을 소환합니다.\n\t\t<b>Agonia:</b> Przyzwij Robozaura 8/8.\n\t\t<b>Último Suspiro:</b> Evoque um Robossauro 8/8.\n\t\t<b>Предсмертный хрип:</b> призывает робозавра_8/8.\n\t\t<b>เสียงสุดท้าย:</b> เรียกโรโบซอร์ 8/8\n\t\t<b>亡语：</b>召唤一个8/8的机械暴龙。\n\t\t<b>死亡之聲：</b>召喚一個\n8/8機械暴龍\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Für alle, denen der Arzt zu mehr Eisen rät."
+          },
+          "enUS": {
+            "present": true,
+            "value": "When you need more iron in your diet."
+          },
+          "esES": {
+            "present": true,
+            "value": "Para esos momentos en los que necesitas más hierro en tu dieta."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Para cuando necesitas incorporar más hierro en tu dieta."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Boum crée des robots. Boum fusionne avec les robots. Boum invoque des dinosaures. Les dinosaures fusionnent avec les robots. Boum crée le robosaure…"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Quando serve più ferro nella propria dieta."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "鉄分が不足しがちな食生活に。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "식단에 철분이 더 필요할 때 안성맞춤입니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Jedz je trzy razy w tygodniu, a wzbogacisz dietę w żelazo."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Para o caso de você precisar de mais ferro na sua dieta."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Обогатите свой рацион железом!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "สำหรับเวลาที่คุณอยาก[b]เพิ่มธาตุเหล็กให้ร่างกาย"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "补铁补血，健康之选。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "需要攝取更多鐵的話，這是最佳來源。"
+          }
+        },
+        "textContent": "\n\t\tFür alle, denen der Arzt zu mehr Eisen rät.\n\t\tWhen you need more iron in your diet.\n\t\tPara esos momentos en los que necesitas más hierro en tu dieta.\n\t\tPara cuando necesitas incorporar más hierro en tu dieta.\n\t\tBoum crée des robots. Boum fusionne avec les robots. Boum invoque des dinosaures. Les dinosaures fusionnent avec les robots. Boum crée le robosaure…\n\t\tQuando serve più ferro nella propria dieta.\n\t\t鉄分が不足しがちな食生活に。\n\t\t식단에 철분이 더 필요할 때 안성맞춤입니다.\n\t\tJedz je trzy razy w tygodniu, a wzbogacisz dietę w żelazo.\n\t\tPara o caso de você precisar de mais ferro na sua dieta.\n\t\tОбогатите свой рацион железом!\n\t\tสำหรับเวลาที่คุณอยาก[b]เพิ่มธาตุเหล็กให้ร่างกาย\n\t\t补铁补血，健康之选。\n\t\t需要攝取更多鐵的話，這是最佳來源。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Hideaki Takamura"
+      }
     }
   },
   "_current": {

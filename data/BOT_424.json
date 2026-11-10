@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mecha'thun"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Mecha'thun"
+          },
+          "esES": {
+            "present": true,
+            "value": "Meca'thun"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Meca'thun"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Méc’Thun"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Robo'thun"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "メックトゥーン"
+          },
+          "koKR": {
+            "present": true,
+            "value": "메카툰"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Mecha'thun"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Meca'thun"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Меха-К'Тун"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เมคาธูน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "机械克苏恩"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "機神克蘇恩"
+          }
+        },
+        "textContent": "\n\t\t\tMecha'thun\n\t\t\tMecha'thun\n\t\t\tMeca'thun\n\t\t\tMeca'thun\n\t\t\tMéc’Thun\n\t\t\tRobo'thun\n\t\t\tメックトゥーン\n\t\t\t메카툰\n\t\t\tMecha'thun\n\t\t\tMeca'thun\n\t\t\tМеха-К'Тун\n\t\t\tเมคาธูน\n\t\t\t机械克苏恩\n\t\t\t機神克蘇恩\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "[x]<b>Todesröcheln:</b> Vernichtet den\nfeindlichen Helden, wenn Ihr im\nDeck, auf der Hand und auf\ndem Schlachtfeld keine\nKarten habt."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Deathrattle:</b> If you have no\ncards in your deck, hand,\nand battlefield, destroy\nthe enemy hero."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Último aliento:</b> Si no tienes\ncartas en tu mazo, en tu mano,\nni en el campo de batalla,\n   destruye al héroe enemigo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Estertor:</b> si no tienes cartas en tu mazo, en tu mano ni en el campo de batalla, destruye al héroe enemigo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Râle d’agonie_:</b> si vous n’avez plus de cartes dans votre deck, votre main et sur le champ de bataille, détruit le héros adverse."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Rantolo di Morte:</b> se non\ncontrolli servitori e non hai\ncarte nel tuo mazzo o in mano,\ndistrugge l'eroe nemico."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>断末魔:</b>\n自分のデッキ、手札、陣地に\nカードがない場合\n_____敵のヒーローを破壊する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b> 내 덱과 손과 전장에 카드가 하나도 없으면, 적 영웅을 파괴합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Agonia:</b> Jeśli nie masz\nkart w talii, w ręce\ni na polu bitwy, zniszcz wrogiego bohatera."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Último Suspiro:</b> Se não tiver cards no seu deck, na sua mão e no campo de batalha, destrua o herói inimigo."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]<b>Предсмертный хрип:</b> если\nу вас не осталось карт в колоде,\nв руке и в игре, уничтожает\nгероя противника."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>เสียงสุดท้าย:</b> ถ้าคุณ[b]ไม่มีการ์ดในเด็ค บนมือ_และ ในสนาม_ทำลายฮีโร่ศัตรู"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>亡语：</b>\n如果你的牌库、手牌和战场没有任何牌，消灭敌方英雄。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "[x]<b>死亡之聲：</b>若你\n牌堆、手中和戰場上\n沒有任何卡牌，摧毀\n敵方英雄"
+          }
+        },
+        "textContent": "\n\t\t\t[x]<b>Todesröcheln:</b> Vernichtet den\nfeindlichen Helden, wenn Ihr im\nDeck, auf der Hand und auf\ndem Schlachtfeld keine\nKarten habt.\n\t\t\t[x]<b>Deathrattle:</b> If you have no\ncards in your deck, hand,\nand battlefield, destroy\nthe enemy hero.\n\t\t\t[x]<b>Último aliento:</b> Si no tienes\ncartas en tu mazo, en tu mano,\nni en el campo de batalla,\n   destruye al héroe enemigo.\n\t\t\t<b>Estertor:</b> si no tienes cartas en tu mazo, en tu mano ni en el campo de batalla, destruye al héroe enemigo.\n\t\t\t<b>Râle d’agonie_:</b> si vous n’avez plus de cartes dans votre deck, votre main et sur le champ de bataille, détruit le héros adverse.\n\t\t\t[x]<b>Rantolo di Morte:</b> se non\ncontrolli servitori e non hai\ncarte nel tuo mazzo o in mano,\ndistrugge l'eroe nemico.\n\t\t\t[x]<b>断末魔:</b>\n自分のデッキ、手札、陣地に\nカードがない場合\n_____敵のヒーローを破壊する。\n\t\t\t<b>죽음의 메아리:</b> 내 덱과 손과 전장에 카드가 하나도 없으면, 적 영웅을 파괴합니다.\n\t\t\t<b>Agonia:</b> Jeśli nie masz\nkart w talii, w ręce\ni na polu bitwy, zniszcz wrogiego bohatera.\n\t\t\t<b>Último Suspiro:</b> Se não tiver cards no seu deck, na sua mão e no campo de batalha, destrua o herói inimigo.\n\t\t\t[x]<b>Предсмертный хрип:</b> если\nу вас не осталось карт в колоде,\nв руке и в игре, уничтожает\nгероя противника.\n\t\t\t<b>เสียงสุดท้าย:</b> ถ้าคุณ[b]ไม่มีการ์ดในเด็ค บนมือ_และ ในสนาม_ทำลายฮีโร่ศัตรู\n\t\t\t<b>亡语：</b>\n如果你的牌库、手牌和战场没有任何牌，消灭敌方英雄。\n\t\t\t[x]<b>死亡之聲：</b>若你\n牌堆、手中和戰場上\n沒有任何卡牌，摧毀\n敵方英雄\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "„Eure Software wird versagen. Eure Benutzer werden sich von Euch abwenden. Ihr seid bereits überholt.“"
+          },
+          "enUS": {
+            "present": true,
+            "value": "\"Your software will fail. Your users will abandon you. You are already obsolete.\""
+          },
+          "esES": {
+            "present": true,
+            "value": "«Tu software flaqueará. Tus usuarios te abandonarán. Ya estás obsoleto»."
+          },
+          "esMX": {
+            "present": true,
+            "value": "\"Tu software fallará. Tus usuarios te abandonarán. Ya estás obsoleto\"."
+          },
+          "frFR": {
+            "present": true,
+            "value": "« Votre logiciel tombera en panne.\nVos utilisateurs vous abandonneront.\nVous êtes déjà obsolète. »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "\"Il tuo software fallirà. I tuoi utenti ti abbandoneranno. Diventerai obsoleto.\""
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「お前はソフトウェアに裏切られた。お前はユーザーどもに見捨てられるであろう。お前はもう陳腐化している」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"그 판단 때문에 네 하드는 터지리라. 네 유저들은 널 버릴 것이다. 넌 이미 삭제된 목숨이다.\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Twoje oprogramowanie zawiedzie. Użytkownicy opuszczą cię. Już teraz jesteś przestarzałym modelem”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "\"Seu sistema vai falhar. Seus usuários abandonarão você. Você já está obsoleto.\""
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Антивирус вам не поможет.\nПользователи отвернутся от вас.\nВы уже устарели."
+          },
+          "thTH": {
+            "present": true,
+            "value": "\"ซอฟต์แวร์ของเจ้าจะล้มเหลว ผู้ใช้จะละทิ้งเจ้า เจ้าตกรุ่นไปแล้ว\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "“所有用户都将弃你而去……连你的软件都背叛了你……我苏醒之日，便是你过气之时。”"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "「你只是個軟體。你的使用者會拋棄你。你已經過時了。」"
+          }
+        },
+        "textContent": "\n\t\t\t„Eure Software wird versagen. Eure Benutzer werden sich von Euch abwenden. Ihr seid bereits überholt.“\n\t\t\t\"Your software will fail. Your users will abandon you. You are already obsolete.\"\n\t\t\t«Tu software flaqueará. Tus usuarios te abandonarán. Ya estás obsoleto».\n\t\t\t\"Tu software fallará. Tus usuarios te abandonarán. Ya estás obsoleto\".\n\t\t\t« Votre logiciel tombera en panne.\nVos utilisateurs vous abandonneront.\nVous êtes déjà obsolète. »\n\t\t\t\"Il tuo software fallirà. I tuoi utenti ti abbandoneranno. Diventerai obsoleto.\"\n\t\t\t「お前はソフトウェアに裏切られた。お前はユーザーどもに見捨てられるであろう。お前はもう陳腐化している」\n\t\t\t\"그 판단 때문에 네 하드는 터지리라. 네 유저들은 널 버릴 것이다. 넌 이미 삭제된 목숨이다.\"\n\t\t\t„Twoje oprogramowanie zawiedzie. Użytkownicy opuszczą cię. Już teraz jesteś przestarzałym modelem”.\n\t\t\t\"Seu sistema vai falhar. Seus usuários abandonarão você. Você já está obsoleto.\"\n\t\t\tАнтивирус вам не поможет.\nПользователи отвернутся от вас.\nВы уже устарели.\n\t\t\t\"ซอฟต์แวร์ของเจ้าจะล้มเหลว ผู้ใช้จะละทิ้งเจ้า เจ้าตกรุ่นไปแล้ว\"\n\t\t\t“所有用户都将弃你而去……连你的软件都背叛了你……我苏醒之日，便是你过气之时。”\n\t\t\t「你只是個軟體。你的使用者會拋棄你。你已經過時了。」\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "James Ryman"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mecha’thun"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Mecha'thun"
+          },
+          "esES": {
+            "present": true,
+            "value": "Meca'thun"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Meca'thun"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Méc’Thun"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Robo'thun"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "メックトゥーン"
+          },
+          "koKR": {
+            "present": true,
+            "value": "메카툰"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Mecha'thun"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Meca'thun"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Меха-К'Тун"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เมคาธูน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "机械克苏恩"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "機神克蘇恩"
+          }
+        },
+        "textContent": "\n\t\tMecha’thun\n\t\tMecha'thun\n\t\tMeca'thun\n\t\tMeca'thun\n\t\tMéc’Thun\n\t\tRobo'thun\n\t\tメックトゥーン\n\t\t메카툰\n\t\tMecha'thun\n\t\tMeca'thun\n\t\tМеха-К'Тун\n\t\tเมคาธูน\n\t\t机械克苏恩\n\t\t機神克蘇恩\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "[x]<b>Todesröcheln:</b> Vernichtet den\nfeindlichen Helden, wenn Ihr im\nDeck, auf der Hand und auf\ndem Schlachtfeld keine\nKarten habt."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Deathrattle:</b> If you have no\ncards in your deck, hand,\nand battlefield, destroy\nthe enemy hero."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Último aliento:</b> Si no tienes\ncartas en tu mazo, en tu mano,\nni en el campo de batalla,\n   destruye al héroe enemigo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Estertor:</b> si no tienes cartas en tu mazo, en tu mano ni en el campo de batalla, destruye al héroe enemigo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Râle d’agonie_:</b> si vous n’avez plus de cartes dans votre deck, votre main et sur le champ de bataille, détruit le héros adverse."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Rantolo di Morte:</b> se non hai\ncarte nel tuo mazzo, in mano\ne sul campo, distrugge\nl'eroe nemico."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>断末魔:</b>\n自分のデッキ、手札、陣地に\nカードがない場合\n_____敵のヒーローを破壊する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b> 내 덱과 손과 전장에 카드가 없으면, 적 영웅을 파괴합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Agonia:</b> Jeśli nie masz\nkart w talii, w ręce\ni na polu bitwy, zniszcz wrogiego bohatera."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Último Suspiro:</b> Se você não tiver cards no deck, na mão e no campo de batalha, destrua o herói inimigo."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]<b>Предсмертный хрип:</b> если\nу вас не осталось карт в колоде,\nв руке и в игре, уничтожает\nгероя противника."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>เสียงสุดท้าย:</b> ถ้าคุณ[b]ไม่มีการ์ดในเด็ค บนมือ_และ ในสนาม_ทำลายฮีโร่ศัตรู"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>亡语：</b>\n如果你的牌库、手牌和战场没有任何牌，消灭敌方英雄。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "[x]<b>死亡之聲：</b>若你\n牌堆、手中和戰場上\n沒有任何卡牌，摧毀\n敵方英雄"
+          }
+        },
+        "textContent": "\n\t\t[x]<b>Todesröcheln:</b> Vernichtet den\nfeindlichen Helden, wenn Ihr im\nDeck, auf der Hand und auf\ndem Schlachtfeld keine\nKarten habt.\n\t\t[x]<b>Deathrattle:</b> If you have no\ncards in your deck, hand,\nand battlefield, destroy\nthe enemy hero.\n\t\t[x]<b>Último aliento:</b> Si no tienes\ncartas en tu mazo, en tu mano,\nni en el campo de batalla,\n   destruye al héroe enemigo.\n\t\t<b>Estertor:</b> si no tienes cartas en tu mazo, en tu mano ni en el campo de batalla, destruye al héroe enemigo.\n\t\t<b>Râle d’agonie_:</b> si vous n’avez plus de cartes dans votre deck, votre main et sur le champ de bataille, détruit le héros adverse.\n\t\t[x]<b>Rantolo di Morte:</b> se non hai\ncarte nel tuo mazzo, in mano\ne sul campo, distrugge\nl'eroe nemico.\n\t\t[x]<b>断末魔:</b>\n自分のデッキ、手札、陣地に\nカードがない場合\n_____敵のヒーローを破壊する。\n\t\t<b>죽음의 메아리:</b> 내 덱과 손과 전장에 카드가 없으면, 적 영웅을 파괴합니다.\n\t\t<b>Agonia:</b> Jeśli nie masz\nkart w talii, w ręce\ni na polu bitwy, zniszcz wrogiego bohatera.\n\t\t<b>Último Suspiro:</b> Se você não tiver cards no deck, na mão e no campo de batalha, destrua o herói inimigo.\n\t\t[x]<b>Предсмертный хрип:</b> если\nу вас не осталось карт в колоде,\nв руке и в игре, уничтожает\nгероя противника.\n\t\t<b>เสียงสุดท้าย:</b> ถ้าคุณ[b]ไม่มีการ์ดในเด็ค บนมือ_และ ในสนาม_ทำลายฮีโร่ศัตรู\n\t\t<b>亡语：</b>\n如果你的牌库、手牌和战场没有任何牌，消灭敌方英雄。\n\t\t[x]<b>死亡之聲：</b>若你\n牌堆、手中和戰場上\n沒有任何卡牌，摧毀\n敵方英雄\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "„Eure Software wird versagen. Eure Benutzer werden sich von Euch abwenden. Ihr seid bereits überholt.“"
+          },
+          "enUS": {
+            "present": true,
+            "value": "\"Your software will fail. Your users will abandon you. You are already obsolete.\""
+          },
+          "esES": {
+            "present": true,
+            "value": "«Tu software flaqueará. Tus usuarios te abandonarán. Ya estás obsoleto»."
+          },
+          "esMX": {
+            "present": true,
+            "value": "\"Tu software fallará. Tus usuarios te abandonarán. Ya estás obsoleto\"."
+          },
+          "frFR": {
+            "present": true,
+            "value": "« Votre logiciel tombera en panne.\nVos utilisateurs vous abandonneront.\nVous êtes déjà obsolète. »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "\"Il tuo software fallirà. I tuoi utenti ti abbandoneranno. Diventerai obsoleto.\""
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「お前はソフトウェアに裏切られた。お前はユーザーどもに見捨てられるであろう。お前はもう陳腐化している」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"그 판단 때문에 네 하드는 터지리라. 네 유저들은 널 버릴 것이다. 넌 이미 삭제된 목숨이다.\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Twoje oprogramowanie zawiedzie. Użytkownicy opuszczą cię. Już teraz jesteś przestarzałym modelem”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "\"Seu sistema vai falhar. Seus usuários abandonarão você. Você já está obsoleto.\""
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Антивирус вам не поможет.\nПользователи отвернутся от вас.\nВы уже устарели."
+          },
+          "thTH": {
+            "present": true,
+            "value": "\"ซอฟต์แวร์ของเจ้าจะล้มเหลว ผู้ใช้จะละทิ้งเจ้า เจ้าตกรุ่นไปแล้ว\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "“所有用户都将弃你而去……连你的软件都背叛了你……我苏醒之日，便是你过气之时。”"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "「你只是個軟體。你的使用者會拋棄你。你已經過時了。」"
+          }
+        },
+        "textContent": "\n\t\t„Eure Software wird versagen. Eure Benutzer werden sich von Euch abwenden. Ihr seid bereits überholt.“\n\t\t\"Your software will fail. Your users will abandon you. You are already obsolete.\"\n\t\t«Tu software flaqueará. Tus usuarios te abandonarán. Ya estás obsoleto».\n\t\t\"Tu software fallará. Tus usuarios te abandonarán. Ya estás obsoleto\".\n\t\t« Votre logiciel tombera en panne.\nVos utilisateurs vous abandonneront.\nVous êtes déjà obsolète. »\n\t\t\"Il tuo software fallirà. I tuoi utenti ti abbandoneranno. Diventerai obsoleto.\"\n\t\t「お前はソフトウェアに裏切られた。お前はユーザーどもに見捨てられるであろう。お前はもう陳腐化している」\n\t\t\"그 판단 때문에 네 하드는 터지리라. 네 유저들은 널 버릴 것이다. 넌 이미 삭제된 목숨이다.\"\n\t\t„Twoje oprogramowanie zawiedzie. Użytkownicy opuszczą cię. Już teraz jesteś przestarzałym modelem”.\n\t\t\"Seu sistema vai falhar. Seus usuários abandonarão você. Você já está obsoleto.\"\n\t\tАнтивирус вам не поможет.\nПользователи отвернутся от вас.\nВы уже устарели.\n\t\t\"ซอฟต์แวร์ของเจ้าจะล้มเหลว ผู้ใช้จะละทิ้งเจ้า เจ้าตกรุ่นไปแล้ว\"\n\t\t“所有用户都将弃你而去……连你的软件都背叛了你……我苏醒之日，便是你过气之时。”\n\t\t「你只是個軟體。你的使用者會拋棄你。你已經過時了。」\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "James Ryman"
+      }
     }
   },
   "_current": {

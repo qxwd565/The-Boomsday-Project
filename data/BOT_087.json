@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Wissensklau"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Academic Espionage"
+          },
+          "esES": {
+            "present": true,
+            "value": "Espionaje académico"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Espionaje académico"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Espionnage académique"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Spionaggio Accademico"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "学術スパイ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "학술적 첩보"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Szpiegostwo naukowe"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Espionagem Acadêmica"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Научный шпионаж"
+          },
+          "thTH": {
+            "present": true,
+            "value": "จารกรรมข้อมูล"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "学术剽窃"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "學術間諜"
+          }
+        },
+        "textContent": "\n\t\t\tWissensklau\n\t\t\tAcademic Espionage\n\t\t\tEspionaje académico\n\t\t\tEspionaje académico\n\t\t\tEspionnage académique\n\t\t\tSpionaggio Accademico\n\t\t\t学術スパイ\n\t\t\t학술적 첩보\n\t\t\tSzpiegostwo naukowe\n\t\t\tEspionagem Acadêmica\n\t\t\tНаучный шпионаж\n\t\t\tจารกรรมข้อมูล\n\t\t\t学术剽窃\n\t\t\t學術間諜\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mischt 10 Karten von der Klasse Eures Gegners in Euer Deck. Sie kosten (1)."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Shuffle 10 cards from your opponent's class into your deck. They_cost (1)."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Mete 10 cartas\nde la clase de tu oponente\nen tu mazo.\nCuestan (1) cristal."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Coloca 10 cartas de la clase de tu adversario en tu mazo. Cuestan (1)."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Place_10_cartes_de_la_classe de votre adversaire dans votre deck. Elles coûtent (1)_|4(cristal,cristaux) de mana."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Mette 10 carte della\nclasse dell'avversario nel\ntuo mazzo. Costano (1)."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]相手のクラスの\nカード10枚を\n__自分のデッキに混ぜる。\nそれらのコストは\n（1）になる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<i>상대편 직업</i>의 무작위\n카드 10장을 내 덱에 섞어\n넣습니다. 그 카드들의\n비용이 (1)이 됩니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Wtasuj 10 kart z klasy przeciwnika do twojej talii. Kosztują (1)."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Coloque 10 cards da classe do oponente no seu deck. \nEles custam (1)."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Замешивает в_колоду 10 карт класса противника. Эти карты стоят (1)."
+          },
+          "thTH": {
+            "present": true,
+            "value": "สับการ์ดจากคลาสของ[b]คู่ต่อสู้ 10 ใบเข้าเด็คคุณ พวกมันมีค่าร่ายเป็น (1)"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "将十张你对手的职业牌洗入你的牌库，其法力值消耗为\n（1）点。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "將10張對手\n職業牌洗入你的牌堆，且消耗改為(1)"
+          }
+        },
+        "textContent": "\n\t\t\tMischt 10 Karten von der Klasse Eures Gegners in Euer Deck. Sie kosten (1).\n\t\t\tShuffle 10 cards from your opponent's class into your deck. They_cost (1).\n\t\t\t[x]Mete 10 cartas\nde la clase de tu oponente\nen tu mazo.\nCuestan (1) cristal.\n\t\t\tColoca 10 cartas de la clase de tu adversario en tu mazo. Cuestan (1).\n\t\t\tPlace_10_cartes_de_la_classe de votre adversaire dans votre deck. Elles coûtent (1)_|4(cristal,cristaux) de mana.\n\t\t\t[x]Mette 10 carte della\nclasse dell'avversario nel\ntuo mazzo. Costano (1).\n\t\t\t[x]相手のクラスの\nカード10枚を\n__自分のデッキに混ぜる。\nそれらのコストは\n（1）になる。\n\t\t\t[x]<i>상대편 직업</i>의 무작위\n카드 10장을 내 덱에 섞어\n넣습니다. 그 카드들의\n비용이 (1)이 됩니다.\n\t\t\tWtasuj 10 kart z klasy przeciwnika do twojej talii. Kosztują (1).\n\t\t\tColoque 10 cards da classe do oponente no seu deck. \nEles custam (1).\n\t\t\tЗамешивает в_колоду 10 карт класса противника. Эти карты стоят (1).\n\t\t\tสับการ์ดจากคลาสของ[b]คู่ต่อสู้ 10 ใบเข้าเด็คคุณ พวกมันมีค่าร่ายเป็น (1)\n\t\t\t将十张你对手的职业牌洗入你的牌库，其法力值消耗为\n（1）点。\n\t\t\t將10張對手\n職業牌洗入你的牌堆，且消耗改為(1)\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Dieser Moment, wenn du deinen zehnten Pyroschlag ziehst und er kostet nur ein Mana."
+          },
+          "enUS": {
+            "present": true,
+            "value": "The tenth Pyroblast really felt like overkill."
+          },
+          "esES": {
+            "present": true,
+            "value": "La décima Piroexplosión ha sido demasiado, ¿no?"
+          },
+          "esMX": {
+            "present": true,
+            "value": "La décima Piroexplosión ya fue demasiado."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Pas vraiment académique, mais efficace !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Dieci Pirosfere per me!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "10枚目の「パイロブラスト」は何ともオーバーキルな気がした。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "열 번째 불덩이 작렬을 썼을 때는 저 자신이 생각해도 좀 너무하다는 생각이 들었습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Dziesiąty pirowybuch to już chyba lekka przesada."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Aquele décimo Ignimpacto realmente foi um pouco demais."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Десять огненных глыб подряд – все-таки перебор, нет?"
+          },
+          "thTH": {
+            "present": true,
+            "value": "กว่าจะรู้ตัวว่าทำเกินไป[b]ก็ใช้ลูกไฟยักษ์ไปสิบใบแล้ว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "十个炎爆术下去，你还欠我70血。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "放到第十顆炎爆的時候，感覺好像真的太過分了。"
+          }
+        },
+        "textContent": "\n\t\t\tDieser Moment, wenn du deinen zehnten Pyroschlag ziehst und er kostet nur ein Mana.\n\t\t\tThe tenth Pyroblast really felt like overkill.\n\t\t\tLa décima Piroexplosión ha sido demasiado, ¿no?\n\t\t\tLa décima Piroexplosión ya fue demasiado.\n\t\t\tPas vraiment académique, mais efficace !\n\t\t\tDieci Pirosfere per me!\n\t\t\t10枚目の「パイロブラスト」は何ともオーバーキルな気がした。\n\t\t\t열 번째 불덩이 작렬을 썼을 때는 저 자신이 생각해도 좀 너무하다는 생각이 들었습니다.\n\t\t\tDziesiąty pirowybuch to już chyba lekka przesada.\n\t\t\tAquele décimo Ignimpacto realmente foi um pouco demais.\n\t\t\tДесять огненных глыб подряд – все-таки перебор, нет?\n\t\t\tกว่าจะรู้ตัวว่าทำเกินไป[b]ก็ใช้ลูกไฟยักษ์ไปสิบใบแล้ว\n\t\t\t十个炎爆术下去，你还欠我70血。\n\t\t\t放到第十顆炎爆的時候，感覺好像真的太過分了。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Konstantin Turovec"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Wissensklau"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Academic Espionage"
+          },
+          "esES": {
+            "present": true,
+            "value": "Espionaje académico"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Espionaje académico"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Espionnage académique"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Spionaggio Accademico"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "学術スパイ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "학술적 첩보"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Szpiegostwo naukowe"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Espionagem Acadêmica"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Научный шпионаж"
+          },
+          "thTH": {
+            "present": true,
+            "value": "จารกรรมข้อมูล"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "学术剽窃"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "學術間諜"
+          }
+        },
+        "textContent": "\n\t\tWissensklau\n\t\tAcademic Espionage\n\t\tEspionaje académico\n\t\tEspionaje académico\n\t\tEspionnage académique\n\t\tSpionaggio Accademico\n\t\t学術スパイ\n\t\t학술적 첩보\n\t\tSzpiegostwo naukowe\n\t\tEspionagem Acadêmica\n\t\tНаучный шпионаж\n\t\tจารกรรมข้อมูล\n\t\t学术剽窃\n\t\t學術間諜\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mischt 10 Karten von der Klasse Eures Gegners in Euer Deck. Sie kosten (1)."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Shuffle 10 cards from your opponent's class into your deck. They_cost (1)."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Mete 10 cartas\nde la clase de tu oponente\nen tu mazo.\nCuestan (1) cristal."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Coloca 10 cartas de la clase de tu adversario en tu mazo. Cuestan (1)."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Place_10_cartes_de_la_classe de votre adversaire dans votre deck. Elles coûtent (1)_|4(cristal,cristaux) de mana."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Mette 10 carte della\nclasse dell'avversario nel\ntuo mazzo. Costano (1)."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]相手のクラスの\nカード10枚を\n__自分のデッキに混ぜる。\nそれらのコストは\n（1）になる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<i>상대편 직업</i>의 무작위\n카드 10장을 내 덱에 섞어\n넣습니다. 그 카드들의\n비용이 (1)이 됩니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Wtasuj 10 kart z klasy przeciwnika do twojej talii. Kosztują (1)."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Coloque 10 cards da classe do oponente no seu deck. \nEles custam (1)."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Замешивает в_колоду 10 карт класса противника. Эти карты стоят (1)."
+          },
+          "thTH": {
+            "present": true,
+            "value": "สับการ์ดจากคลาสของ[b]คู่ต่อสู้ 10 ใบเข้าเด็คคุณ พวกมันมีค่าร่ายเป็น (1)"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "将十张你对手职业的卡牌洗入你的牌库，其法力值消耗为（1）点。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "將10張對手\n職業牌洗入你的牌堆，且消耗改為(1)"
+          }
+        },
+        "textContent": "\n\t\tMischt 10 Karten von der Klasse Eures Gegners in Euer Deck. Sie kosten (1).\n\t\tShuffle 10 cards from your opponent's class into your deck. They_cost (1).\n\t\t[x]Mete 10 cartas\nde la clase de tu oponente\nen tu mazo.\nCuestan (1) cristal.\n\t\tColoca 10 cartas de la clase de tu adversario en tu mazo. Cuestan (1).\n\t\tPlace_10_cartes_de_la_classe de votre adversaire dans votre deck. Elles coûtent (1)_|4(cristal,cristaux) de mana.\n\t\t[x]Mette 10 carte della\nclasse dell'avversario nel\ntuo mazzo. Costano (1).\n\t\t[x]相手のクラスの\nカード10枚を\n__自分のデッキに混ぜる。\nそれらのコストは\n（1）になる。\n\t\t[x]<i>상대편 직업</i>의 무작위\n카드 10장을 내 덱에 섞어\n넣습니다. 그 카드들의\n비용이 (1)이 됩니다.\n\t\tWtasuj 10 kart z klasy przeciwnika do twojej talii. Kosztują (1).\n\t\tColoque 10 cards da classe do oponente no seu deck. \nEles custam (1).\n\t\tЗамешивает в_колоду 10 карт класса противника. Эти карты стоят (1).\n\t\tสับการ์ดจากคลาสของ[b]คู่ต่อสู้ 10 ใบเข้าเด็คคุณ พวกมันมีค่าร่ายเป็น (1)\n\t\t将十张你对手职业的卡牌洗入你的牌库，其法力值消耗为（1）点。\n\t\t將10張對手\n職業牌洗入你的牌堆，且消耗改為(1)\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Dieser Moment, wenn du deinen zehnten Pyroschlag ziehst und er kostet nur ein Mana."
+          },
+          "enUS": {
+            "present": true,
+            "value": "The tenth Pyroblast really felt like overkill."
+          },
+          "esES": {
+            "present": true,
+            "value": "La décima Piroexplosión ha sido demasiado, ¿no?"
+          },
+          "esMX": {
+            "present": true,
+            "value": "La décima Piroexplosión ya fue demasiado."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Pas vraiment académique, mais efficace !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Dieci Pirosfere per me!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "10枚目の「パイロブラスト」は何ともオーバーキルな気がした。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "열 번째 불덩이 작렬을 썼을 때는 저 자신이 생각해도 좀 너무하다는 생각이 들었습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Dziesiąty pirowybuch to już chyba lekka przesada."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Aquele décimo Ignimpacto realmente foi um pouco demais."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Десять огненных глыб подряд – все-таки перебор, нет?"
+          },
+          "thTH": {
+            "present": true,
+            "value": "กว่าจะรู้ตัวว่าทำเกินไป[b]ก็ใช้ลูกไฟยักษ์ไปสิบใบแล้ว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "十个炎爆术下去，你还欠我70血。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "放到第十顆炎爆的時候，感覺好像真的太過分了。"
+          }
+        },
+        "textContent": "\n\t\tDieser Moment, wenn du deinen zehnten Pyroschlag ziehst und er kostet nur ein Mana.\n\t\tThe tenth Pyroblast really felt like overkill.\n\t\tLa décima Piroexplosión ha sido demasiado, ¿no?\n\t\tLa décima Piroexplosión ya fue demasiado.\n\t\tPas vraiment académique, mais efficace !\n\t\tDieci Pirosfere per me!\n\t\t10枚目の「パイロブラスト」は何ともオーバーキルな気がした。\n\t\t열 번째 불덩이 작렬을 썼을 때는 저 자신이 생각해도 좀 너무하다는 생각이 들었습니다.\n\t\tDziesiąty pirowybuch to już chyba lekka przesada.\n\t\tAquele décimo Ignimpacto realmente foi um pouco demais.\n\t\tДесять огненных глыб подряд – все-таки перебор, нет?\n\t\tกว่าจะรู้ตัวว่าทำเกินไป[b]ก็ใช้ลูกไฟยักษ์ไปสิบใบแล้ว\n\t\t十个炎爆术下去，你还欠我70血。\n\t\t放到第十顆炎爆的時候，感覺好像真的太過分了。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Konstantin Turovec"
+      }
     }
   },
   "_current": {

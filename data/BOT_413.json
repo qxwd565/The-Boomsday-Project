@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Superhirn"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Brainstormer"
+          },
+          "esES": {
+            "present": true,
+            "value": "Electromaníaca"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Atormentadora mental"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Neurovolt"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Cervellona"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ブレインストーマー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "폭풍머리 과학자"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Burzgownica"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Tempestífera Cerebrina"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Психопатка"
+          },
+          "thTH": {
+            "present": true,
+            "value": "นักระดมสมอง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "脑力激荡者"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "超腦技師"
+          }
+        },
+        "textContent": "\n\t\t\tSuperhirn\n\t\t\tBrainstormer\n\t\t\tElectromaníaca\n\t\t\tAtormentadora mental\n\t\t\tNeurovolt\n\t\t\tCervellona\n\t\t\tブレインストーマー\n\t\t\t폭풍머리 과학자\n\t\t\tBurzgownica\n\t\t\tTempestífera Cerebrina\n\t\t\tПсихопатка\n\t\t\tนักระดมสมอง\n\t\t\t脑力激荡者\n\t\t\t超腦技師\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Erhält\n+1 Leben für jeden Zauber auf Eurer Hand."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> Gain +1 Health\nfor each spell in your hand."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b> Obtiene\n+1 p. de salud por cada\nhechizo que tengas\nen tu mano."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> obtiene +1 de Salud por cada hechizo de tu mano."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> gagne +1_PV pour chaque sort dans votre main."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nottiene +1 Salute per ogni\nMagia nella tua mano."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n自分の手札の\n呪文1枚につき\n_____体力+1を獲得する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b>\n내 손에 있는 주문 하나당\n생명력을 +1 얻습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b>\nOtrzymuje +1 do zdrowia za_każde zaklęcie w_twojej ręce."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Receba +1 de Vida para cada feitiço na sua mão."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> получает\n+1 к здоровью за каждое заклинание в_руке."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> ได้รับพลังชีวิต_+1 ต่อการ์ด[b]_เวทมนตร์แต่ละใบในมือคุณ_"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>你手牌中每有一张法术牌，便获得+1生命值。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "[x]<b>戰吼：</b>你手中的\n每張法術使其獲得\n+1生命值"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Erhält\n+1 Leben für jeden Zauber auf Eurer Hand.\n\t\t\t[x]<b>Battlecry:</b> Gain +1 Health\nfor each spell in your hand.\n\t\t\t[x]<b>Grito de batalla:</b> Obtiene\n+1 p. de salud por cada\nhechizo que tengas\nen tu mano.\n\t\t\t<b>Grito de batalla:</b> obtiene +1 de Salud por cada hechizo de tu mano.\n\t\t\t<b>Cri de guerre_:</b> gagne +1_PV pour chaque sort dans votre main.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nottiene +1 Salute per ogni\nMagia nella tua mano.\n\t\t\t[x]<b>雄叫び:</b>\n自分の手札の\n呪文1枚につき\n_____体力+1を獲得する。\n\t\t\t[x]<b>전투의 함성:</b>\n내 손에 있는 주문 하나당\n생명력을 +1 얻습니다.\n\t\t\t<b>Okrzyk bojowy:</b>\nOtrzymuje +1 do zdrowia za_każde zaklęcie w_twojej ręce.\n\t\t\t<b>Grito de Guerra:</b> Receba +1 de Vida para cada feitiço na sua mão.\n\t\t\t<b>Боевой клич:</b> получает\n+1 к здоровью за каждое заклинание в_руке.\n\t\t\t<b>คำรามสู้ศึก:</b> ได้รับพลังชีวิต_+1 ต่อการ์ด[b]_เวทมนตร์แต่ละใบในมือคุณ_\n\t\t\t<b>战吼：</b>你手牌中每有一张法术牌，便获得+1生命值。\n\t\t\t[x]<b>戰吼：</b>你手中的\n每張法術使其獲得\n+1生命值\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Das Haar steht ihr nicht zu Berge. Das ist ihre Frisur."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Her hair was always like that."
+          },
+          "esES": {
+            "present": true,
+            "value": "Electromaniacos, un electroconsejo: no metáis los dedos en el enchufe."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Siempre tuvo el cabello así."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Ses cheveux ont toujours été comme ça, d’après elle."
+          },
+          "itIT": {
+            "present": true,
+            "value": "I suoi capelli sono così sin dalla nascita."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "いや、彼女のヘアスタイルは普段からあんな感じなんだ。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "사실 원래 머리가 저렇습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Fryzura na „szalonego naukowca” nigdy nie wychodzi z mody w Laboratorium Huka."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "O cabelo dela sempre foi assim."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Эта прическа у нее с самого рождения."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ทรงผมเธอเป็นแบบนั้น[b]ตลอดเวลา"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "她天生一副爆炸头。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "別問啦，這個髮型是天生的。"
+          }
+        },
+        "textContent": "\n\t\t\tDas Haar steht ihr nicht zu Berge. Das ist ihre Frisur.\n\t\t\tHer hair was always like that.\n\t\t\tElectromaniacos, un electroconsejo: no metáis los dedos en el enchufe.\n\t\t\tSiempre tuvo el cabello así.\n\t\t\tSes cheveux ont toujours été comme ça, d’après elle.\n\t\t\tI suoi capelli sono così sin dalla nascita.\n\t\t\tいや、彼女のヘアスタイルは普段からあんな感じなんだ。\n\t\t\t사실 원래 머리가 저렇습니다.\n\t\t\tFryzura na „szalonego naukowca” nigdy nie wychodzi z mody w Laboratorium Huka.\n\t\t\tO cabelo dela sempre foi assim.\n\t\t\tЭта прическа у нее с самого рождения.\n\t\t\tทรงผมเธอเป็นแบบนั้น[b]ตลอดเวลา\n\t\t\t她天生一副爆炸头。\n\t\t\t別問啦，這個髮型是天生的。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Alex Horley Orlandelli"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Superhirn"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Brainstormer"
+          },
+          "esES": {
+            "present": true,
+            "value": "Electromaníaca"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Atormentadora mental"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Neurovolt"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Cervellona"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ブレインストーマー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "폭풍머리 과학자"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Burzgownica"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Tempestífera Cerebrina"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Психопатка"
+          },
+          "thTH": {
+            "present": true,
+            "value": "นักระดมสมอง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "脑力激荡者"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "超腦技師"
+          }
+        },
+        "textContent": "\n\t\tSuperhirn\n\t\tBrainstormer\n\t\tElectromaníaca\n\t\tAtormentadora mental\n\t\tNeurovolt\n\t\tCervellona\n\t\tブレインストーマー\n\t\t폭풍머리 과학자\n\t\tBurzgownica\n\t\tTempestífera Cerebrina\n\t\tПсихопатка\n\t\tนักระดมสมอง\n\t\t脑力激荡者\n\t\t超腦技師\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Erhält\n+1 Leben für jeden Zauber auf Eurer Hand."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> Gain +1 Health\nfor each spell in your hand."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b> Obtiene\n+1 p. de salud por cada\nhechizo que tengas\nen tu mano."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> obtiene +1 de Salud por cada hechizo de tu mano."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> gagne +1_PV pour chaque sort dans votre main."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nottiene +1 Salute per ogni\nMagia nella tua mano."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n自分の手札の\n呪文1枚につき\n_____体力+1を獲得する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b>\n내 손에 있는 주문 하나당\n생명력을 +1 얻습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b>\nOtrzymuje +1 do zdrowia za_każde zaklęcie w_twojej ręce."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Receba +1 de Vida para cada feitiço na sua mão."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> получает\n+1 к здоровью за каждое заклинание в_руке."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> ได้รับ[b]พลังชีวิต_+1_ต่อเวทมนตร์[b]แต่ละใบในมือคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>你手牌中每有一张法术牌，便获得+1生命值。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "[x]<b>戰吼：</b>你手中的\n每張法術使其獲得\n+1生命值"
+          }
+        },
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Erhält\n+1 Leben für jeden Zauber auf Eurer Hand.\n\t\t[x]<b>Battlecry:</b> Gain +1 Health\nfor each spell in your hand.\n\t\t[x]<b>Grito de batalla:</b> Obtiene\n+1 p. de salud por cada\nhechizo que tengas\nen tu mano.\n\t\t<b>Grito de batalla:</b> obtiene +1 de Salud por cada hechizo de tu mano.\n\t\t<b>Cri de guerre_:</b> gagne +1_PV pour chaque sort dans votre main.\n\t\t[x]<b>Grido di Battaglia:</b>\nottiene +1 Salute per ogni\nMagia nella tua mano.\n\t\t[x]<b>雄叫び:</b>\n自分の手札の\n呪文1枚につき\n_____体力+1を獲得する。\n\t\t[x]<b>전투의 함성:</b>\n내 손에 있는 주문 하나당\n생명력을 +1 얻습니다.\n\t\t<b>Okrzyk bojowy:</b>\nOtrzymuje +1 do zdrowia za_każde zaklęcie w_twojej ręce.\n\t\t<b>Grito de Guerra:</b> Receba +1 de Vida para cada feitiço na sua mão.\n\t\t<b>Боевой клич:</b> получает\n+1 к здоровью за каждое заклинание в_руке.\n\t\t<b>คำรามสู้ศึก:</b> ได้รับ[b]พลังชีวิต_+1_ต่อเวทมนตร์[b]แต่ละใบในมือคุณ\n\t\t<b>战吼：</b>你手牌中每有一张法术牌，便获得+1生命值。\n\t\t[x]<b>戰吼：</b>你手中的\n每張法術使其獲得\n+1生命值\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Das Haar steht ihr nicht zu Berge. Das ist ihre Frisur."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Her hair was always like that."
+          },
+          "esES": {
+            "present": true,
+            "value": "Electromaniacos, un electroconsejo: no metáis los dedos en el enchufe."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Siempre tuvo el cabello así."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Ses cheveux ont toujours été comme ça, d’après elle."
+          },
+          "itIT": {
+            "present": true,
+            "value": "I suoi capelli sono così sin dalla nascita."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "いや、彼女のヘアスタイルは普段からあんな感じなんだ。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "사실 원래 머리가 저렇습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Fryzura na „szalonego naukowca” nigdy nie wychodzi z mody w Laboratorium Huka."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "O cabelo dela sempre foi assim."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Эта прическа у нее с самого рождения."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ทรงผมเธอเป็นแบบนั้น[b]ตลอดเวลา"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "她天生一副爆炸头。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "別問啦，這個髮型是天生的。"
+          }
+        },
+        "textContent": "\n\t\tDas Haar steht ihr nicht zu Berge. Das ist ihre Frisur.\n\t\tHer hair was always like that.\n\t\tElectromaniacos, un electroconsejo: no metáis los dedos en el enchufe.\n\t\tSiempre tuvo el cabello así.\n\t\tSes cheveux ont toujours été comme ça, d’après elle.\n\t\tI suoi capelli sono così sin dalla nascita.\n\t\tいや、彼女のヘアスタイルは普段からあんな感じなんだ。\n\t\t사실 원래 머리가 저렇습니다.\n\t\tFryzura na „szalonego naukowca” nigdy nie wychodzi z mody w Laboratorium Huka.\n\t\tO cabelo dela sempre foi assim.\n\t\tЭта прическа у нее с самого рождения.\n\t\tทรงผมเธอเป็นแบบนั้น[b]ตลอดเวลา\n\t\t她天生一副爆炸头。\n\t\t別問啦，這個髮型是天生的。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Alex Horley Orlandelli"
+      }
     }
   },
   "_current": {

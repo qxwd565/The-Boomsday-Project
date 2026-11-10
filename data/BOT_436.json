@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Prismatische Linse"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Prismatic Lens"
+          },
+          "esES": {
+            "present": true,
+            "value": "Lente prismática"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Lente prismático"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Lentille prismatique"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Lente Prismatica"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "プリズムレンズ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "분광 렌즈"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Soczewka pryzmatyczna"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Lentes Prismáticas"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Призматическая линза"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เลนส์ปริซึม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "棱彩透镜"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "稜彩鏡片"
+          }
+        },
+        "textContent": "\n\t\t\tPrismatische Linse\n\t\t\tPrismatic Lens\n\t\t\tLente prismática\n\t\t\tLente prismático\n\t\t\tLentille prismatique\n\t\t\tLente Prismatica\n\t\t\tプリズムレンズ\n\t\t\t분광 렌즈\n\t\t\tSoczewka pryzmatyczna\n\t\t\tLentes Prismáticas\n\t\t\tПризматическая линза\n\t\t\tเลนส์ปริซึม\n\t\t\t棱彩透镜\n\t\t\t稜彩鏡片\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Zieht einen Diener und einen Zauber aus Eurem Deck. Vertauscht ihre Kosten."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Draw a minion and a spell from your deck. Swap their Costs."
+          },
+          "esES": {
+            "present": true,
+            "value": "Roba un esbirro\ny un hechizo de tu\nmazo. Intercambia\nsus costes."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Roba un esbirro y un hechizo de tu mazo. Intercambia su costo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Vous_piochez_un_serviteur et un sort de votre deck.\nÉchange leur coût."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Pesca un servitore e una Magia dal tuo mazzo. Scambia il loro costo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]自分のデッキから\nミニオン1体と呪文1枚を\n引き、それらのコストを\n入れ替える。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 덱에서 하수인과\n주문을 하나씩 뽑습니다. 두 카드의 비용을 바꿉니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Dobierz stronnika i_zaklęcie z twojej talii. Zamień ich koszt."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Compre um lacaio e um feitiço do seu deck. Troque o custo de um pelo do outro."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]Вы берете из колоды\nсущество и заклинание.\nИх стоимость\nменяется местами."
+          },
+          "thTH": {
+            "present": true,
+            "value": "จั่วการ์ดมินเนี่ยนและการ์ด[b]เวทมนตร์จากเด็คของคุณ สลับค่าร่ายของทั้งสองใบ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "从你的牌库中抽一张随从牌和一张法术牌，并使其法力值消耗互换。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "從你的牌堆抽出一個手下和法術，並對調其消耗"
+          }
+        },
+        "textContent": "\n\t\t\tZieht einen Diener und einen Zauber aus Eurem Deck. Vertauscht ihre Kosten.\n\t\t\tDraw a minion and a spell from your deck. Swap their Costs.\n\t\t\tRoba un esbirro\ny un hechizo de tu\nmazo. Intercambia\nsus costes.\n\t\t\tRoba un esbirro y un hechizo de tu mazo. Intercambia su costo.\n\t\t\tVous_piochez_un_serviteur et un sort de votre deck.\nÉchange leur coût.\n\t\t\tPesca un servitore e una Magia dal tuo mazzo. Scambia il loro costo.\n\t\t\t[x]自分のデッキから\nミニオン1体と呪文1枚を\n引き、それらのコストを\n入れ替える。\n\t\t\t내 덱에서 하수인과\n주문을 하나씩 뽑습니다. 두 카드의 비용을 바꿉니다.\n\t\t\tDobierz stronnika i_zaklęcie z twojej talii. Zamień ich koszt.\n\t\t\tCompre um lacaio e um feitiço do seu deck. Troque o custo de um pelo do outro.\n\t\t\t[x]Вы берете из колоды\nсущество и заклинание.\nИх стоимость\nменяется местами.\n\t\t\tจั่วการ์ดมินเนี่ยนและการ์ด[b]เวทมนตร์จากเด็คของคุณ สลับค่าร่ายของทั้งสองใบ\n\t\t\t从你的牌库中抽一张随从牌和一张法术牌，并使其法力值消耗互换。\n\t\t\t從你的牌堆抽出一個手下和法術，並對調其消耗\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Wow, ein Pyroschlag zum Preis eines Bergriesen – ein echtes Schnäppchen!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Mined exclusively from the dark side of the moon."
+          },
+          "esES": {
+            "present": true,
+            "value": "Se extrae exclusivamente del lado oscuro de la Luna."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Obtenido exclusivamente del lado oscuro de la luna."
+          },
+          "frFR": {
+            "present": true,
+            "value": "On trouve ce type de cristaux uniquement sur la face cachée de la lune."
+          },
+          "itIT": {
+            "present": true,
+            "value": "I cristalli vengono estratti direttamente dal lato oscuro della luna."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "月の裏側から特別に採掘されたものだが、ピンクの光を長時間見つめ続けると狂気にハマる恐れがあるという。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "달의 반대편에서 캐 온 광물입니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Ten wyjątkowy kryształ pozyskano po ciemnej stronie Księżyca."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Encontrado exclusivamente no lado escuro da lua."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Материалы для нее добываются исключительно на темной стороне Луны."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ขุดได้จากด้านมืด[b]ของดวงจันทร์เท่านั้น"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "以来自月之暗面的稀有矿藏打磨而成。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "這種稜彩在月之暗面上也看得到。"
+          }
+        },
+        "textContent": "\n\t\t\tWow, ein Pyroschlag zum Preis eines Bergriesen – ein echtes Schnäppchen!\n\t\t\tMined exclusively from the dark side of the moon.\n\t\t\tSe extrae exclusivamente del lado oscuro de la Luna.\n\t\t\tObtenido exclusivamente del lado oscuro de la luna.\n\t\t\tOn trouve ce type de cristaux uniquement sur la face cachée de la lune.\n\t\t\tI cristalli vengono estratti direttamente dal lato oscuro della luna.\n\t\t\t月の裏側から特別に採掘されたものだが、ピンクの光を長時間見つめ続けると狂気にハマる恐れがあるという。\n\t\t\t달의 반대편에서 캐 온 광물입니다.\n\t\t\tTen wyjątkowy kryształ pozyskano po ciemnej stronie Księżyca.\n\t\t\tEncontrado exclusivamente no lado escuro da lua.\n\t\t\tМатериалы для нее добываются исключительно на темной стороне Луны.\n\t\t\tขุดได้จากด้านมืด[b]ของดวงจันทร์เท่านั้น\n\t\t\t以来自月之暗面的稀有矿藏打磨而成。\n\t\t\t這種稜彩在月之暗面上也看得到。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Cicily He"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Prismatische Linse"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Prismatic Lens"
+          },
+          "esES": {
+            "present": true,
+            "value": "Lente prismática"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Lente prismático"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Lentille prismatique"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Lente Prismatica"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "プリズムレンズ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "분광 렌즈"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Soczewka pryzmatyczna"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Lentes Prismáticas"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Призматическая линза"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เลนส์ปริซึม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "棱彩透镜"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "稜彩鏡片"
+          }
+        },
+        "textContent": "\n\t\tPrismatische Linse\n\t\tPrismatic Lens\n\t\tLente prismática\n\t\tLente prismático\n\t\tLentille prismatique\n\t\tLente Prismatica\n\t\tプリズムレンズ\n\t\t분광 렌즈\n\t\tSoczewka pryzmatyczna\n\t\tLentes Prismáticas\n\t\tПризматическая линза\n\t\tเลนส์ปริซึม\n\t\t棱彩透镜\n\t\t稜彩鏡片\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Zieht einen Diener und einen Zauber aus Eurem Deck. Vertauscht ihre Kosten."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Draw a minion and a spell from your deck. Swap their Costs."
+          },
+          "esES": {
+            "present": true,
+            "value": "Roba un esbirro\ny un hechizo de tu\nmazo. Intercambia\nsus costes."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Roba un esbirro y un hechizo de tu mazo. Intercambia su costo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Vous_piochez_un_serviteur et un sort de votre deck.\nÉchange leur coût."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Pesca un servitore e una Magia dal tuo mazzo. Scambia il loro costo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]自分のデッキから\nミニオン1体と呪文1枚を\n引き、それらのコストを\n入れ替える。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 덱에서 하수인과 주문을 뽑습니다. 두 카드의 비용을 바꿉니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Dobierz stronnika i_zaklęcie z twojej talii. Zamień ich koszt."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Compre um lacaio e um feitiço do seu deck. Troque o Custo de um pelo do outro."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]Вы берете из колоды\nсущество и заклинание.\nИх стоимость\nменяется местами."
+          },
+          "thTH": {
+            "present": true,
+            "value": "จั่วมินเนี่ยนและเวทมนตร์[b]อย่างละใบจากเด็คคุณ สลับค่าร่ายของพวกมัน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "从你的牌库中抽一张随从牌和一张法术牌，交换其法力值消耗。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "從你的牌堆抽出一個手下和法術，並對調其消耗"
+          }
+        },
+        "textContent": "\n\t\tZieht einen Diener und einen Zauber aus Eurem Deck. Vertauscht ihre Kosten.\n\t\tDraw a minion and a spell from your deck. Swap their Costs.\n\t\tRoba un esbirro\ny un hechizo de tu\nmazo. Intercambia\nsus costes.\n\t\tRoba un esbirro y un hechizo de tu mazo. Intercambia su costo.\n\t\tVous_piochez_un_serviteur et un sort de votre deck.\nÉchange leur coût.\n\t\tPesca un servitore e una Magia dal tuo mazzo. Scambia il loro costo.\n\t\t[x]自分のデッキから\nミニオン1体と呪文1枚を\n引き、それらのコストを\n入れ替える。\n\t\t내 덱에서 하수인과 주문을 뽑습니다. 두 카드의 비용을 바꿉니다.\n\t\tDobierz stronnika i_zaklęcie z twojej talii. Zamień ich koszt.\n\t\tCompre um lacaio e um feitiço do seu deck. Troque o Custo de um pelo do outro.\n\t\t[x]Вы берете из колоды\nсущество и заклинание.\nИх стоимость\nменяется местами.\n\t\tจั่วมินเนี่ยนและเวทมนตร์[b]อย่างละใบจากเด็คคุณ สลับค่าร่ายของพวกมัน\n\t\t从你的牌库中抽一张随从牌和一张法术牌，交换其法力值消耗。\n\t\t從你的牌堆抽出一個手下和法術，並對調其消耗\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Wow, ein Pyroschlag zum Preis eines Bergriesen – ein echtes Schnäppchen!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Mined exclusively from the dark side of the moon."
+          },
+          "esES": {
+            "present": true,
+            "value": "Se extrae exclusivamente del lado oscuro de la Luna."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Obtenido exclusivamente del lado oscuro de la luna."
+          },
+          "frFR": {
+            "present": true,
+            "value": "On trouve ce type de cristaux uniquement sur la face cachée de la lune."
+          },
+          "itIT": {
+            "present": true,
+            "value": "I cristalli vengono estratti direttamente dal lato oscuro della luna."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "月の裏側から特別に採掘されたものだが、ピンクの光を長時間見つめ続けると狂気にハマる恐れがあるという。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "달의 반대편에서 캐 온 광물입니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Ten wyjątkowy kryształ pozyskano po ciemnej stronie Księżyca."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Encontrado exclusivamente no lado escuro da lua."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Материалы для нее добываются исключительно на темной стороне Луны."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ขุดได้จากด้านมืด[b]ของดวงจันทร์เท่านั้น"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "以来自月之暗面的稀有矿藏打磨而成。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "這種稜彩在月之暗面上也看得到。"
+          }
+        },
+        "textContent": "\n\t\tWow, ein Pyroschlag zum Preis eines Bergriesen – ein echtes Schnäppchen!\n\t\tMined exclusively from the dark side of the moon.\n\t\tSe extrae exclusivamente del lado oscuro de la Luna.\n\t\tObtenido exclusivamente del lado oscuro de la luna.\n\t\tOn trouve ce type de cristaux uniquement sur la face cachée de la lune.\n\t\tI cristalli vengono estratti direttamente dal lato oscuro della luna.\n\t\t月の裏側から特別に採掘されたものだが、ピンクの光を長時間見つめ続けると狂気にハマる恐れがあるという。\n\t\t달의 반대편에서 캐 온 광물입니다.\n\t\tTen wyjątkowy kryształ pozyskano po ciemnej stronie Księżyca.\n\t\tEncontrado exclusivamente no lado escuro da lua.\n\t\tМатериалы для нее добываются исключительно на темной стороне Луны.\n\t\tขุดได้จากด้านมืด[b]ของดวงจันทร์เท่านั้น\n\t\t以来自月之暗面的稀有矿藏打磨而成。\n\t\t這種稜彩在月之暗面上也看得到。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Cicily He"
+      }
     }
   },
   "_current": {

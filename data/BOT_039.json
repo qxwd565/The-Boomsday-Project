@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Nekromechanikerin"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Necromechanic"
+          },
+          "esES": {
+            "present": true,
+            "value": "Necromecánica"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Necromecánica"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Nécromécanicienne"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Necromeccanica"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ネクロメカニック"
+          },
+          "koKR": {
+            "present": true,
+            "value": "강령기계공"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Nekrotechniczka"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Necromecânica"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Некромеханик"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ช่างประกอบศพ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "死灵机械师"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "死靈技師"
+          }
+        },
+        "textContent": "\n\t\t\tNekromechanikerin\n\t\t\tNecromechanic\n\t\t\tNecromecánica\n\t\t\tNecromecánica\n\t\t\tNécromécanicienne\n\t\t\tNecromeccanica\n\t\t\tネクロメカニック\n\t\t\t강령기계공\n\t\t\tNekrotechniczka\n\t\t\tNecromecânica\n\t\t\tНекромеханик\n\t\t\tช่างประกอบศพ\n\t\t\t死灵机械师\n\t\t\t死靈技師\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Eure <b>Todesröcheln</b>-Effekte werden zweimal ausgelöst."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Your <b>Deathrattles</b> trigger twice."
+          },
+          "esES": {
+            "present": true,
+            "value": "Tus <b>Últimos alientos</b>\nse activan dos veces."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Tus <b>Estertores</b> se activan dos veces."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Vos <b>Râles d’agonie</b> se déclenchent deux fois."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Le tue carte attivano\ndue volte il proprio\n<b>Rantolo di Morte</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "味方の<b>断末魔</b>は\n2回発動する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 <b>죽음의 메아리</b> 능력이 2번 발동합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Twoje <b>Agonie</b> aktywowane są dwukrotnie."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Seus <b>Últimos Suspiros</b> são ativados duas vezes."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Ваши\n<b>«Предсмертные хрипы»</b> срабатывают_дважды."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>เสียงสุดท้าย</b> ทั้งหมด[b]ของคุณมีผลสองครั้ง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "你的<b>亡语</b>会触发\n两次。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "你的<b>死亡之聲</b>\n會觸發兩次"
+          }
+        },
+        "textContent": "\n\t\t\tEure <b>Todesröcheln</b>-Effekte werden zweimal ausgelöst.\n\t\t\tYour <b>Deathrattles</b> trigger twice.\n\t\t\tTus <b>Últimos alientos</b>\nse activan dos veces.\n\t\t\tTus <b>Estertores</b> se activan dos veces.\n\t\t\tVos <b>Râles d’agonie</b> se déclenchent deux fois.\n\t\t\t[x]Le tue carte attivano\ndue volte il proprio\n<b>Rantolo di Morte</b>.\n\t\t\t味方の<b>断末魔</b>は\n2回発動する。\n\t\t\t내 <b>죽음의 메아리</b> 능력이 2번 발동합니다.\n\t\t\tTwoje <b>Agonie</b> aktywowane są dwukrotnie.\n\t\t\tSeus <b>Últimos Suspiros</b> são ativados duas vezes.\n\t\t\tВаши\n<b>«Предсмертные хрипы»</b> срабатывают_дважды.\n\t\t\t<b>เสียงสุดท้าย</b> ทั้งหมด[b]ของคุณมีผลสองครั้ง\n\t\t\t你的<b>亡语</b>会触发\n两次。\n\t\t\t你的<b>死亡之聲</b>\n會觸發兩次\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "„Zu meiner Zeit musste man für sowas noch ein legendärer Diener sein.“ – Baron Totenschwur"
+          },
+          "enUS": {
+            "present": true,
+            "value": "If at first you don't succeed, die, die again."
+          },
+          "esES": {
+            "present": true,
+            "value": "Si no tienes éxito, pálmala. Si sigues sin tener éxito, pálmala otra vez."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Si al principio no tienes éxito, muere. Y muere otra vez."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Pour elle, la mort n’est pas une fin, ce n’est que le commencement."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Se alla prima non ci riesci, muori e muori ancora."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "最初は失敗だったとしても、死に続けなさい。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "연구소에 끌려가는 어린 기계로다!"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Umiera się tylko dwa razy."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Se da primeira vez não der, morra mais uma vez."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Затверди простой закон:\nКто сглупил, несет урон.\nВновь ошибку повтори\nИ умри, умри, умри!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ถ้าครั้งแรกไม่สำเร็จ ให้พยายามไปเรื่อยๆ จนกว่าจะมีคนตาย"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "一回生，二回死，三回就……熟练了。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "死一次不夠的話，那就再死一次。"
+          }
+        },
+        "textContent": "\n\t\t\t„Zu meiner Zeit musste man für sowas noch ein legendärer Diener sein.“ – Baron Totenschwur\n\t\t\tIf at first you don't succeed, die, die again.\n\t\t\tSi no tienes éxito, pálmala. Si sigues sin tener éxito, pálmala otra vez.\n\t\t\tSi al principio no tienes éxito, muere. Y muere otra vez.\n\t\t\tPour elle, la mort n’est pas une fin, ce n’est que le commencement.\n\t\t\tSe alla prima non ci riesci, muori e muori ancora.\n\t\t\t最初は失敗だったとしても、死に続けなさい。\n\t\t\t연구소에 끌려가는 어린 기계로다!\n\t\t\tUmiera się tylko dwa razy.\n\t\t\tSe da primeira vez não der, morra mais uma vez.\n\t\t\tЗатверди простой закон:\nКто сглупил, несет урон.\nВновь ошибку повтори\nИ умри, умри, умри!\n\t\t\tถ้าครั้งแรกไม่สำเร็จ ให้พยายามไปเรื่อยๆ จนกว่าจะมีคนตาย\n\t\t\t一回生，二回死，三回就……熟练了。\n\t\t\t死一次不夠的話，那就再死一次。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Dany Orizio"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Nekromechanikerin"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Necromechanic"
+          },
+          "esES": {
+            "present": true,
+            "value": "Necromecánica"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Necromecánica"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Nécromécanicienne"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Necromeccanica"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ネクロメカニック"
+          },
+          "koKR": {
+            "present": true,
+            "value": "강령기계공"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Nekrotechniczka"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Necromecânica"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Некромеханик"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ช่างประกอบศพ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "死灵机械师"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "死靈技師"
+          }
+        },
+        "textContent": "\n\t\tNekromechanikerin\n\t\tNecromechanic\n\t\tNecromecánica\n\t\tNecromecánica\n\t\tNécromécanicienne\n\t\tNecromeccanica\n\t\tネクロメカニック\n\t\t강령기계공\n\t\tNekrotechniczka\n\t\tNecromecânica\n\t\tНекромеханик\n\t\tช่างประกอบศพ\n\t\t死灵机械师\n\t\t死靈技師\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Eure <b>Todesröcheln</b>-Effekte werden zweimal ausgelöst."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Your <b>Deathrattles</b> trigger twice."
+          },
+          "esES": {
+            "present": true,
+            "value": "Tus <b>Últimos alientos</b>\nse activan dos veces."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Tus <b>Estertores</b> se activan dos veces."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Vos <b>Râles d’agonie</b> se déclenchent deux fois."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Le tue carte attivano\ndue volte il proprio\n<b>Rantolo di Morte</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "味方の<b>断末魔</b>は\n2回発動する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 <b>죽음의 메아리</b> 능력이 2번 발동합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Twoje <b>Agonie</b> aktywowane są dwukrotnie."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Seus <b>Últimos Suspiros</b> são ativados duas vezes."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Ваши\n<b>«Предсмертные хрипы»</b> срабатывают_дважды."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>เสียงสุดท้าย</b> ทั้งหมด[b]ของคุณมีผลสองครั้ง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "你的<b>亡语</b>会触发\n两次。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "你的<b>死亡之聲</b>\n會觸發兩次"
+          }
+        },
+        "textContent": "\n\t\tEure <b>Todesröcheln</b>-Effekte werden zweimal ausgelöst.\n\t\tYour <b>Deathrattles</b> trigger twice.\n\t\tTus <b>Últimos alientos</b>\nse activan dos veces.\n\t\tTus <b>Estertores</b> se activan dos veces.\n\t\tVos <b>Râles d’agonie</b> se déclenchent deux fois.\n\t\t[x]Le tue carte attivano\ndue volte il proprio\n<b>Rantolo di Morte</b>.\n\t\t味方の<b>断末魔</b>は\n2回発動する。\n\t\t내 <b>죽음의 메아리</b> 능력이 2번 발동합니다.\n\t\tTwoje <b>Agonie</b> aktywowane są dwukrotnie.\n\t\tSeus <b>Últimos Suspiros</b> são ativados duas vezes.\n\t\tВаши\n<b>«Предсмертные хрипы»</b> срабатывают_дважды.\n\t\t<b>เสียงสุดท้าย</b> ทั้งหมด[b]ของคุณมีผลสองครั้ง\n\t\t你的<b>亡语</b>会触发\n两次。\n\t\t你的<b>死亡之聲</b>\n會觸發兩次\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "„Zu meiner Zeit musste man für sowas noch ein legendärer Diener sein.“ – Baron Totenschwur"
+          },
+          "enUS": {
+            "present": true,
+            "value": "If at first you don't succeed, die, die again."
+          },
+          "esES": {
+            "present": true,
+            "value": "Si no tienes éxito, pálmala. Si sigues sin tener éxito, pálmala otra vez."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Si al principio no tienes éxito, muere. Y muere otra vez."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Pour elle, la mort n’est pas une fin, ce n’est que le commencement."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Se alla prima non ci riesci, muori e muori ancora."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "最初は失敗だったとしても、死に続けなさい。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "연구소에 끌려가는 어린 기계로다!"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Umiera się tylko dwa razy."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Se da primeira vez não der, morra mais uma vez."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Затверди простой закон:\nКто сглупил, несет урон.\nВновь ошибку повтори\nИ умри, умри, умри!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ถ้าครั้งแรกไม่สำเร็จ ให้พยายามไปเรื่อยๆ จนกว่าจะมีคนตาย"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "一回生，二回死，三回就……熟练了。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "死一次不夠的話，那就再死一次。"
+          }
+        },
+        "textContent": "\n\t\t„Zu meiner Zeit musste man für sowas noch ein legendärer Diener sein.“ – Baron Totenschwur\n\t\tIf at first you don't succeed, die, die again.\n\t\tSi no tienes éxito, pálmala. Si sigues sin tener éxito, pálmala otra vez.\n\t\tSi al principio no tienes éxito, muere. Y muere otra vez.\n\t\tPour elle, la mort n’est pas une fin, ce n’est que le commencement.\n\t\tSe alla prima non ci riesci, muori e muori ancora.\n\t\t最初は失敗だったとしても、死に続けなさい。\n\t\t연구소에 끌려가는 어린 기계로다!\n\t\tUmiera się tylko dwa razy.\n\t\tSe da primeira vez não der, morra mais uma vez.\n\t\tЗатверди простой закон:\nКто сглупил, несет урон.\nВновь ошибку повтори\nИ умри, умри, умри!\n\t\tถ้าครั้งแรกไม่สำเร็จ ให้พยายามไปเรื่อยๆ จนกว่าจะมีคนตาย\n\t\t一回生，二回死，三回就……熟练了。\n\t\t死一次不夠的話，那就再死一次。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Dany Orizio"
+      }
     }
   },
   "_current": {

@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Sicherheitsbot"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Security Rover"
+          },
+          "esES": {
+            "present": true,
+            "value": "Guardia transportador"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Astromóvil de seguridad"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Rover de sécurité"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Robot di Sicurezza"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "警備ローバー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "순찰용 부릉이"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Łazik strażniczy"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Móbil de Segurança"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Охранный ровер"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โรเวอร์ลาดตระเวน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "安保巡游者"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "保全單輪機器人"
+          }
+        },
+        "textContent": "\n\t\t\tSicherheitsbot\n\t\t\tSecurity Rover\n\t\t\tGuardia transportador\n\t\t\tAstromóvil de seguridad\n\t\t\tRover de sécurité\n\t\t\tRobot di Sicurezza\n\t\t\t警備ローバー\n\t\t\t순찰용 부릉이\n\t\t\tŁazik strażniczy\n\t\t\tMóbil de Segurança\n\t\t\tОхранный ровер\n\t\t\tโรเวอร์ลาดตระเวน\n\t\t\t安保巡游者\n\t\t\t保全單輪機器人\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Ruft jedes Mal einen Mech (2/3) mit <b>Spott</b> herbei, wenn dieser Diener Schaden erleidet."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]Whenever this minion\ntakes damage, summon a\n2/3 Mech with <b>Taunt</b>."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Cada vez que este esbirro\n recibe daño, invoca un robot\n2/3 con <b>Provocar</b>."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Cada vez que este esbirro recibe daño, invoca un Meca 2/3 con <b>Provocación</b>."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Chaque fois que ce serviteur subit des dégâts, invoque un Méca_2/3 avec <b>Provocation</b>."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Quando subisce danni,\nevoca un Robot 2/3\ncon <b>Provocazione</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]このミニオンが\nダメージを受ける度\n<b>挑発</b>を持つ2/3の\n_____メカを1体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "이 하수인은 피해를 받을 때마다 <b>도발</b> 능력이 있는 2/3 기계를 하나 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Za każdym razem gdy ten stronnik otrzyma obrażenia, przyzwij Mecha 2/3 z <b>Prowokacją</b>."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Sempre que este lacaio receber dano, evoque um Mecanoide 2/3 com <b>Provocar</b>."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Когда это существо получает урон, призывает механизм 2/3 с_<b>«Провокацией»</b>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ทุกครั้งที่มินเนี่ยนตัวนี้ได้รับ[b]ความเสียหาย เรียกเครื่องจักร 2/3 ที่มี <b>ยั่วยุ</b>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "每当该随从受到伤害，召唤一个2/3并具有<b>嘲讽</b>的机械。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "[x]每當此手下\n受到傷害，召喚一個\n有<b>嘲諷</b>的2/3機械"
+          }
+        },
+        "textContent": "\n\t\t\tRuft jedes Mal einen Mech (2/3) mit <b>Spott</b> herbei, wenn dieser Diener Schaden erleidet.\n\t\t\t[x]Whenever this minion\ntakes damage, summon a\n2/3 Mech with <b>Taunt</b>.\n\t\t\t[x]Cada vez que este esbirro\n recibe daño, invoca un robot\n2/3 con <b>Provocar</b>.\n\t\t\tCada vez que este esbirro recibe daño, invoca un Meca 2/3 con <b>Provocación</b>.\n\t\t\tChaque fois que ce serviteur subit des dégâts, invoque un Méca_2/3 avec <b>Provocation</b>.\n\t\t\t[x]Quando subisce danni,\nevoca un Robot 2/3\ncon <b>Provocazione</b>.\n\t\t\t[x]このミニオンが\nダメージを受ける度\n<b>挑発</b>を持つ2/3の\n_____メカを1体召喚する。\n\t\t\t이 하수인은 피해를 받을 때마다 <b>도발</b> 능력이 있는 2/3 기계를 하나 소환합니다.\n\t\t\tZa każdym razem gdy ten stronnik otrzyma obrażenia, przyzwij Mecha 2/3 z <b>Prowokacją</b>.\n\t\t\tSempre que este lacaio receber dano, evoque um Mecanoide 2/3 com <b>Provocar</b>.\n\t\t\tКогда это существо получает урон, призывает механизм 2/3 с_<b>«Провокацией»</b>.\n\t\t\tทุกครั้งที่มินเนี่ยนตัวนี้ได้รับ[b]ความเสียหาย เรียกเครื่องจักร 2/3 ที่มี <b>ยั่วยุ</b>\n\t\t\t每当该随从受到伤害，召唤一个2/3并具有<b>嘲讽</b>的机械。\n\t\t\t[x]每當此手下\n受到傷害，召喚一個\n有<b>嘲諷</b>的2/3機械\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Nein, er ist nicht mit HAL verwandt."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Insecurity detected. Alerting hugbots."
+          },
+          "esES": {
+            "present": true,
+            "value": "Las reglas se hicieron para romperlas."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Inseguridad detectada. Activar abrazobots."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Ici le rover X-42, faille de sécurité, appel à toutes les unités, je répète, appel à toutes les unités, code Boum."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Insicurezza rivelata. Allertamento Abbracciabot."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「侵入者はロバに乗った高齢女性。非常に混乱している模様。施設への損害は軽微」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "침입자 감지. 안아주기 프로그램을 실행합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Uwaga, zły mech!”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Insegurança detectada. Alertando abraçobôs."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Обнаружена неуверенность в себе. Боты-обнимоты, на выезд!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ตรวจพบความรู้สึกไม่ปลอดภัย แจ้งเตือนหุ่นสวมกอด"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "侦测到危险源。呼叫警卫。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "偵測到不安全感。通知抱抱機器人處理。"
+          }
+        },
+        "textContent": "\n\t\t\tNein, er ist nicht mit HAL verwandt.\n\t\t\tInsecurity detected. Alerting hugbots.\n\t\t\tLas reglas se hicieron para romperlas.\n\t\t\tInseguridad detectada. Activar abrazobots.\n\t\t\tIci le rover X-42, faille de sécurité, appel à toutes les unités, je répète, appel à toutes les unités, code Boum.\n\t\t\tInsicurezza rivelata. Allertamento Abbracciabot.\n\t\t\t「侵入者はロバに乗った高齢女性。非常に混乱している模様。施設への損害は軽微」\n\t\t\t침입자 감지. 안아주기 프로그램을 실행합니다.\n\t\t\t„Uwaga, zły mech!”.\n\t\t\tInsegurança detectada. Alertando abraçobôs.\n\t\t\tОбнаружена неуверенность в себе. Боты-обнимоты, на выезд!\n\t\t\tตรวจพบความรู้สึกไม่ปลอดภัย แจ้งเตือนหุ่นสวมกอด\n\t\t\t侦测到危险源。呼叫警卫。\n\t\t\t偵測到不安全感。通知抱抱機器人處理。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Adam Byrne"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Sicherheitsbot"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Security Rover"
+          },
+          "esES": {
+            "present": true,
+            "value": "Guardia transportador"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Astromóvil de seguridad"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Rover de sécurité"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Robot di Sicurezza"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "警備ローバー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "순찰용 부릉이"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Łazik strażniczy"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Móbil de Segurança"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Охранный ровер"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โรเวอร์ลาดตระเวน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "安保巡游者"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "保全單輪機器人"
+          }
+        },
+        "textContent": "\n\t\tSicherheitsbot\n\t\tSecurity Rover\n\t\tGuardia transportador\n\t\tAstromóvil de seguridad\n\t\tRover de sécurité\n\t\tRobot di Sicurezza\n\t\t警備ローバー\n\t\t순찰용 부릉이\n\t\tŁazik strażniczy\n\t\tMóbil de Segurança\n\t\tОхранный ровер\n\t\tโรเวอร์ลาดตระเวน\n\t\t安保巡游者\n\t\t保全單輪機器人\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Ruft jedes Mal einen Mech (2/3) mit <b>Spott</b> herbei, wenn dieser Diener Schaden erleidet."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]Whenever this minion\ntakes damage, summon a\n2/3 Mech with <b>Taunt</b>."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Cada vez que este esbirro\n recibe daño, invoca un robot\n2/3 con <b>Provocar</b>."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Cada vez que este esbirro recibe daño, invoca un Meca 2/3 con <b>Provocación</b>."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Chaque fois que ce serviteur subit des dégâts, invoque un Méca_2/3 avec <b>Provocation</b>."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Quando subisce danni,\nevoca un Robot 2/3\ncon <b>Provocazione</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]このミニオンが\nダメージを受ける度\n<b>挑発</b>を持つ2/3の\n_____メカを1体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "이 하수인은 피해를 받을 때마다 <b>도발</b> 능력이 있는 2/3 기계를 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Za każdym razem gdy ten stronnik otrzyma obrażenia, przyzwij Mecha 2/3 z <b>Prowokacją</b>."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Sempre que este lacaio receber dano, evoque um Mecanoide 2/3 com <b>Provocar</b>."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Когда это существо получает урон, призывает механизм 2/3 с_<b>«Провокацией»</b>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ทุกครั้งที่มินเนี่ยนตัวนี้ได้รับ[b]ความเสียหาย เรียกเครื่องจักร 2/3 ที่มี <b>ยั่วยุ</b>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "每当本随从受到伤害，召唤一个2/3并具有<b>嘲讽</b>的机械。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "[x]每當此手下\n受到傷害，召喚一個\n有<b>嘲諷</b>的2/3機械"
+          }
+        },
+        "textContent": "\n\t\tRuft jedes Mal einen Mech (2/3) mit <b>Spott</b> herbei, wenn dieser Diener Schaden erleidet.\n\t\t[x]Whenever this minion\ntakes damage, summon a\n2/3 Mech with <b>Taunt</b>.\n\t\t[x]Cada vez que este esbirro\n recibe daño, invoca un robot\n2/3 con <b>Provocar</b>.\n\t\tCada vez que este esbirro recibe daño, invoca un Meca 2/3 con <b>Provocación</b>.\n\t\tChaque fois que ce serviteur subit des dégâts, invoque un Méca_2/3 avec <b>Provocation</b>.\n\t\t[x]Quando subisce danni,\nevoca un Robot 2/3\ncon <b>Provocazione</b>.\n\t\t[x]このミニオンが\nダメージを受ける度\n<b>挑発</b>を持つ2/3の\n_____メカを1体召喚する。\n\t\t이 하수인은 피해를 받을 때마다 <b>도발</b> 능력이 있는 2/3 기계를 소환합니다.\n\t\tZa każdym razem gdy ten stronnik otrzyma obrażenia, przyzwij Mecha 2/3 z <b>Prowokacją</b>.\n\t\tSempre que este lacaio receber dano, evoque um Mecanoide 2/3 com <b>Provocar</b>.\n\t\tКогда это существо получает урон, призывает механизм 2/3 с_<b>«Провокацией»</b>.\n\t\tทุกครั้งที่มินเนี่ยนตัวนี้ได้รับ[b]ความเสียหาย เรียกเครื่องจักร 2/3 ที่มี <b>ยั่วยุ</b>\n\t\t每当本随从受到伤害，召唤一个2/3并具有<b>嘲讽</b>的机械。\n\t\t[x]每當此手下\n受到傷害，召喚一個\n有<b>嘲諷</b>的2/3機械\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Nein, er ist nicht mit HAL verwandt."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Insecurity detected. Alerting hugbots."
+          },
+          "esES": {
+            "present": true,
+            "value": "Las reglas se hicieron para romperlas."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Inseguridad detectada. Activar abrazobots."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Ici le rover X-42, faille de sécurité, appel à toutes les unités, je répète, appel à toutes les unités, code Boum."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Insicurezza rivelata. Allertamento Abbracciabot."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「侵入者はロバに乗った高齢女性。非常に混乱している模様。施設への損害は軽微」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "침입자 감지. 안아주기 프로그램을 실행합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Uwaga, zły mech!”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Insegurança detectada. Alertando abraçobôs."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Обнаружена неуверенность в себе. Боты-обнимоты, на выезд!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ตรวจพบความรู้สึกไม่ปลอดภัย แจ้งเตือนหุ่นสวมกอด"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "侦测到危险源。呼叫警卫。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "偵測到不安全感。通知抱抱機器人處理。"
+          }
+        },
+        "textContent": "\n\t\tNein, er ist nicht mit HAL verwandt.\n\t\tInsecurity detected. Alerting hugbots.\n\t\tLas reglas se hicieron para romperlas.\n\t\tInseguridad detectada. Activar abrazobots.\n\t\tIci le rover X-42, faille de sécurité, appel à toutes les unités, je répète, appel à toutes les unités, code Boum.\n\t\tInsicurezza rivelata. Allertamento Abbracciabot.\n\t\t「侵入者はロバに乗った高齢女性。非常に混乱している模様。施設への損害は軽微」\n\t\t침입자 감지. 안아주기 프로그램을 실행합니다.\n\t\t„Uwaga, zły mech!”.\n\t\tInsegurança detectada. Alertando abraçobôs.\n\t\tОбнаружена неуверенность в себе. Боты-обнимоты, на выезд!\n\t\tตรวจพบความรู้สึกไม่ปลอดภัย แจ้งเตือนหุ่นสวมกอด\n\t\t侦测到危险源。呼叫警卫。\n\t\t偵測到不安全感。通知抱抱機器人處理。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Adam Byrne"
+      }
     }
   },
   "_current": {

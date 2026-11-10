@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Kosmische Anomalie"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Cosmic Anomaly"
+          },
+          "esES": {
+            "present": true,
+            "value": "Anomalía cósmica"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Anomalía cósmica"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Anomalie cosmique"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Anomalia Cosmica"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "宇宙異常体"
+          },
+          "koKR": {
+            "present": true,
+            "value": "우주 변형물"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Kosmiczna anomalia"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Anomalia Cósmica"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Космическая аномалия"
+          },
+          "thTH": {
+            "present": true,
+            "value": "คอสมิกอโนมาลี"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "宇宙异象"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "宇宙異常體"
+          }
+        },
+        "textContent": "\n\t\t\tKosmische Anomalie\n\t\t\tCosmic Anomaly\n\t\t\tAnomalía cósmica\n\t\t\tAnomalía cósmica\n\t\t\tAnomalie cosmique\n\t\t\tAnomalia Cosmica\n\t\t\t宇宙異常体\n\t\t\t우주 변형물\n\t\t\tKosmiczna anomalia\n\t\t\tAnomalia Cósmica\n\t\t\tКосмическая аномалия\n\t\t\tคอสมิกอโนมาลี\n\t\t\t宇宙异象\n\t\t\t宇宙異常體\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Zauberschaden +2</b>"
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Spell Damage +2</b>"
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>+2 p. de daño\ncon hechizos</b>"
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Daño de hechizo +2</b>"
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Dégâts des sorts_:_+2</b>"
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>+2 Danni Magici</b>"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>呪文ダメージ+2</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>주문 공격력 +2</b>"
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Obrażenia zaklęć +2</b>"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>+2 de Dano Mágico</b>"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Урон от заклинаний +2</b>"
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>ความเสียหายเวท +2</b>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>法术伤害+2</b>"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>法術傷害+2</b>"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Zauberschaden +2</b>\n\t\t\t<b>Spell Damage +2</b>\n\t\t\t[x]<b>+2 p. de daño\ncon hechizos</b>\n\t\t\t<b>Daño de hechizo +2</b>\n\t\t\t<b>Dégâts des sorts_:_+2</b>\n\t\t\t<b>+2 Danni Magici</b>\n\t\t\t<b>呪文ダメージ+2</b>\n\t\t\t<b>주문 공격력 +2</b>\n\t\t\t<b>Obrażenia zaklęć +2</b>\n\t\t\t<b>+2 de Dano Mágico</b>\n\t\t\t<b>Урон от заклинаний +2</b>\n\t\t\t<b>ความเสียหายเวท +2</b>\n\t\t\t<b>法术伤害+2</b>\n\t\t\t<b>法術傷害+2</b>\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Inhaltsstoffe: Sternen...zeugs, blaue Tinte #4169e1, natürliche und künstliche Aromen."
+          },
+          "enUS": {
+            "present": true,
+            "value": "INGREDIENTS: STAR-STUFF, \nBLUE #1, NATURAL AND ARTIFICIAL FLAVORS."
+          },
+          "esES": {
+            "present": true,
+            "value": "La anomalía cósmica podría haber consistido en, por ejemplo, un planeta hecho de piruletas. Pero no... Por supuesto que no."
+          },
+          "esMX": {
+            "present": true,
+            "value": "INGREDIENTES: COSAS ESTELARES, AZUL N.º 1, Y SABORIZANTES NATURALES Y ARTIFICIALES."
+          },
+          "frFR": {
+            "present": true,
+            "value": "INGRÉDIENTS : POUSSIÈRE STELLAIRE, COLORANT BLEU #1, ARÔMES NATURELS ET ARTIFICIELS."
+          },
+          "itIT": {
+            "present": true,
+            "value": "INGREDIENTI: MATERIA STELLARE, BLU N.1, AROMI NATURALI E ARTIFICIALI."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "原材料: 星の構成物、青色1号、天然および人工香料"
+          },
+          "koKR": {
+            "present": true,
+            "value": "성분: 별로 만들어진 무언가, 천연 및 인공 색소 (파랑)"
+          },
+          "plPL": {
+            "present": true,
+            "value": "SKŁADNIKI: GWIEZDNA MATERIA, BŁĘKIT NR 1, NATURALNE I SZTUCZNE AROMATY."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "INGREDIENTES: COISA ESTELAR, CORANTE AZUL Nº 1, AROMAS NATURAIS E ARTIFICIAIS."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "СОСТАВ: ЗВЕЗДНАЯ ВЗВЕСЬ, КРАСИТЕЛЬ «СИНИЙ №1», ИДЕНТИЧНЫЕ НАТУРАЛЬНЫМ ИСКУССТВЕННЫЕ ВКУСОВЫЕ ДОБАВКИ."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ส่วนผสม: ผลผลิตจากดวงดาว,  สีผสมอาหารสีน้ำเงิน, แต่งกลิ่นและรสสังเคราะห์เลียน[b]แบบธรรมชาติ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "配料表：星辰萃取物，蓝色一号色素，食用香精及防腐剂。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "成分：星星萃取物、藍色一號色素，以及天然香料與人工香料。"
+          }
+        },
+        "textContent": "\n\t\t\tInhaltsstoffe: Sternen...zeugs, blaue Tinte #4169e1, natürliche und künstliche Aromen.\n\t\t\tINGREDIENTS: STAR-STUFF, \nBLUE #1, NATURAL AND ARTIFICIAL FLAVORS.\n\t\t\tLa anomalía cósmica podría haber consistido en, por ejemplo, un planeta hecho de piruletas. Pero no... Por supuesto que no.\n\t\t\tINGREDIENTES: COSAS ESTELARES, AZUL N.º 1, Y SABORIZANTES NATURALES Y ARTIFICIALES.\n\t\t\tINGRÉDIENTS : POUSSIÈRE STELLAIRE, COLORANT BLEU #1, ARÔMES NATURELS ET ARTIFICIELS.\n\t\t\tINGREDIENTI: MATERIA STELLARE, BLU N.1, AROMI NATURALI E ARTIFICIALI.\n\t\t\t原材料: 星の構成物、青色1号、天然および人工香料\n\t\t\t성분: 별로 만들어진 무언가, 천연 및 인공 색소 (파랑)\n\t\t\tSKŁADNIKI: GWIEZDNA MATERIA, BŁĘKIT NR 1, NATURALNE I SZTUCZNE AROMATY.\n\t\t\tINGREDIENTES: COISA ESTELAR, CORANTE AZUL Nº 1, AROMAS NATURAIS E ARTIFICIAIS.\n\t\t\tСОСТАВ: ЗВЕЗДНАЯ ВЗВЕСЬ, КРАСИТЕЛЬ «СИНИЙ №1», ИДЕНТИЧНЫЕ НАТУРАЛЬНЫМ ИСКУССТВЕННЫЕ ВКУСОВЫЕ ДОБАВКИ.\n\t\t\tส่วนผสม: ผลผลิตจากดวงดาว,  สีผสมอาหารสีน้ำเงิน, แต่งกลิ่นและรสสังเคราะห์เลียน[b]แบบธรรมชาติ\n\t\t\t配料表：星辰萃取物，蓝色一号色素，食用香精及防腐剂。\n\t\t\t成分：星星萃取物、藍色一號色素，以及天然香料與人工香料。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Konstantin Turovec"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Kosmische Anomalie"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Cosmic Anomaly"
+          },
+          "esES": {
+            "present": true,
+            "value": "Anomalía cósmica"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Anomalía cósmica"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Anomalie cosmique"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Anomalia Cosmica"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "宇宙異常体"
+          },
+          "koKR": {
+            "present": true,
+            "value": "우주 변형물"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Kosmiczna anomalia"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Anomalia Cósmica"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Космическая аномалия"
+          },
+          "thTH": {
+            "present": true,
+            "value": "คอสมิกอโนมาลี"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "宇宙异象"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "宇宙異常體"
+          }
+        },
+        "textContent": "\n\t\tKosmische Anomalie\n\t\tCosmic Anomaly\n\t\tAnomalía cósmica\n\t\tAnomalía cósmica\n\t\tAnomalie cosmique\n\t\tAnomalia Cosmica\n\t\t宇宙異常体\n\t\t우주 변형물\n\t\tKosmiczna anomalia\n\t\tAnomalia Cósmica\n\t\tКосмическая аномалия\n\t\tคอสมิกอโนมาลี\n\t\t宇宙异象\n\t\t宇宙異常體\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Zauberschaden +2</b>"
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Spell Damage +2</b>"
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>+2 p. de daño\ncon hechizos</b>"
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Daño de hechizo +2</b>"
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Dégâts des sorts_:_+2</b>"
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>+2 Danni Magici</b>"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>呪文ダメージ+2</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>주문 공격력 +2</b>"
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Obrażenia zaklęć +2</b>"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>+2 de Dano Mágico</b>"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Урон от заклинаний +2</b>"
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>ความเสียหายเวท +2</b>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>法术伤害+2</b>"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>法術傷害+2</b>"
+          }
+        },
+        "textContent": "\n\t\t<b>Zauberschaden +2</b>\n\t\t<b>Spell Damage +2</b>\n\t\t[x]<b>+2 p. de daño\ncon hechizos</b>\n\t\t<b>Daño de hechizo +2</b>\n\t\t<b>Dégâts des sorts_:_+2</b>\n\t\t<b>+2 Danni Magici</b>\n\t\t<b>呪文ダメージ+2</b>\n\t\t<b>주문 공격력 +2</b>\n\t\t<b>Obrażenia zaklęć +2</b>\n\t\t<b>+2 de Dano Mágico</b>\n\t\t<b>Урон от заклинаний +2</b>\n\t\t<b>ความเสียหายเวท +2</b>\n\t\t<b>法术伤害+2</b>\n\t\t<b>法術傷害+2</b>\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Inhaltsstoffe: Sternen...zeugs, blaue Tinte #4169e1, natürliche und künstliche Aromen."
+          },
+          "enUS": {
+            "present": true,
+            "value": "INGREDIENTS: STAR-STUFF, \nBLUE #1, NATURAL AND ARTIFICIAL FLAVORS."
+          },
+          "esES": {
+            "present": true,
+            "value": "La anomalía cósmica podría haber consistido en, por ejemplo, un planeta hecho de piruletas. Pero no... Por supuesto que no."
+          },
+          "esMX": {
+            "present": true,
+            "value": "INGREDIENTES: COSAS ESTELARES, AZUL N.º 1, Y SABORIZANTES NATURALES Y ARTIFICIALES."
+          },
+          "frFR": {
+            "present": true,
+            "value": "INGRÉDIENTS : POUSSIÈRE STELLAIRE, COLORANT BLEU #1, ARÔMES NATURELS ET ARTIFICIELS."
+          },
+          "itIT": {
+            "present": true,
+            "value": "INGREDIENTI: MATERIA STELLARE, BLU N.1, AROMI NATURALI E ARTIFICIALI."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "原材料: 星の構成物、青色1号、天然および人工香料"
+          },
+          "koKR": {
+            "present": true,
+            "value": "성분: 별로 만들어진 무언가, 천연 및 인공 색소 (파랑)"
+          },
+          "plPL": {
+            "present": true,
+            "value": "SKŁADNIKI: GWIEZDNA MATERIA, BŁĘKIT NR 1, NATURALNE I SZTUCZNE AROMATY."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "INGREDIENTES: COISA ESTELAR, CORANTE AZUL Nº 1, AROMAS NATURAIS E ARTIFICIAIS."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "СОСТАВ: ЗВЕЗДНАЯ ВЗВЕСЬ, КРАСИТЕЛЬ «СИНИЙ №1», ИДЕНТИЧНЫЕ НАТУРАЛЬНЫМ ИСКУССТВЕННЫЕ ВКУСОВЫЕ ДОБАВКИ."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ส่วนผสม: ผลผลิตจากดวงดาว สีผสมอาหารสีน้ำเงิน แต่งกลิ่นและรสสังเคราะห์เลียน[b]แบบธรรมชาติ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "配料表：星辰萃取物，蓝色一号色素，食用香精及防腐剂。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "成分：星星萃取物、藍色一號色素，以及天然香料與人工香料。"
+          }
+        },
+        "textContent": "\n\t\tInhaltsstoffe: Sternen...zeugs, blaue Tinte #4169e1, natürliche und künstliche Aromen.\n\t\tINGREDIENTS: STAR-STUFF, \nBLUE #1, NATURAL AND ARTIFICIAL FLAVORS.\n\t\tLa anomalía cósmica podría haber consistido en, por ejemplo, un planeta hecho de piruletas. Pero no... Por supuesto que no.\n\t\tINGREDIENTES: COSAS ESTELARES, AZUL N.º 1, Y SABORIZANTES NATURALES Y ARTIFICIALES.\n\t\tINGRÉDIENTS : POUSSIÈRE STELLAIRE, COLORANT BLEU #1, ARÔMES NATURELS ET ARTIFICIELS.\n\t\tINGREDIENTI: MATERIA STELLARE, BLU N.1, AROMI NATURALI E ARTIFICIALI.\n\t\t原材料: 星の構成物、青色1号、天然および人工香料\n\t\t성분: 별로 만들어진 무언가, 천연 및 인공 색소 (파랑)\n\t\tSKŁADNIKI: GWIEZDNA MATERIA, BŁĘKIT NR 1, NATURALNE I SZTUCZNE AROMATY.\n\t\tINGREDIENTES: COISA ESTELAR, CORANTE AZUL Nº 1, AROMAS NATURAIS E ARTIFICIAIS.\n\t\tСОСТАВ: ЗВЕЗДНАЯ ВЗВЕСЬ, КРАСИТЕЛЬ «СИНИЙ №1», ИДЕНТИЧНЫЕ НАТУРАЛЬНЫМ ИСКУССТВЕННЫЕ ВКУСОВЫЕ ДОБАВКИ.\n\t\tส่วนผสม: ผลผลิตจากดวงดาว สีผสมอาหารสีน้ำเงิน แต่งกลิ่นและรสสังเคราะห์เลียน[b]แบบธรรมชาติ\n\t\t配料表：星辰萃取物，蓝色一号色素，食用香精及防腐剂。\n\t\t成分：星星萃取物、藍色一號色素，以及天然香料與人工香料。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Konstantin Turovec"
+      }
     }
   },
   "_current": {

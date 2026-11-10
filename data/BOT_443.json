@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Leerenanalystin"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Void Analyst"
+          },
+          "esES": {
+            "present": true,
+            "value": "Analista del Vacío"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Analista del Vacío"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Analyste du Vide"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Analista del Vuoto"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "虚無分析学者"
+          },
+          "koKR": {
+            "present": true,
+            "value": "공허 분석가"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Analityczka Pustki"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Analista do Caos"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Аналитик Бездны"
+          },
+          "thTH": {
+            "present": true,
+            "value": "นักวิเคราะห์วอยด์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "虚空分析师"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "虛無分析師"
+          }
+        },
+        "textContent": "\n\t\t\tLeerenanalystin\n\t\t\tVoid Analyst\n\t\t\tAnalista del Vacío\n\t\t\tAnalista del Vacío\n\t\t\tAnalyste du Vide\n\t\t\tAnalista del Vuoto\n\t\t\t虚無分析学者\n\t\t\t공허 분석가\n\t\t\tAnalityczka Pustki\n\t\t\tAnalista do Caos\n\t\t\tАналитик Бездны\n\t\t\tนักวิเคราะห์วอยด์\n\t\t\t虚空分析师\n\t\t\t虛無分析師\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Todesröcheln:</b> Verleiht allen Dämonen auf Eurer Hand +1/+1."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Give all Demons in your hand +1/+1."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Último aliento:</b>\nOtorga +1/+1 a todos\nlos demonios de tu mano."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Estertor:</b> otorga +1/+1 a todos los Demonios de tu mano."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Râle d’agonie_:</b> donne_+1/+1 à tous les démons_de_votre_main."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Rantolo di Morte:</b>\n+1/+1 ai Demoni\nnella tua mano."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>断末魔:</b>\n自分の手札の悪魔\n全てに+1/+1を\n付与する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b> 내 손에 있는 모든 악마에게 +1/+1을 부여합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Agonia:</b> Daj +1/+1 wszystkim Demonom w_twojej ręce."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Último Suspiro:</b> \nConceda +1/+1 \na todos os Demônios \nna sua mão."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Предсмертный хрип:</b> демоны у вас в руке получают +1/+1."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>เสียงสุดท้าย:</b> มอบ_+1/+1_ให้ปีศาจ[b]ทั้งหมดในมือคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>亡语：</b>使你手牌中的所有恶魔牌获得+1/+1。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>死亡之聲：</b>賦予你\n手中全部的惡魔+1/+1"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Todesröcheln:</b> Verleiht allen Dämonen auf Eurer Hand +1/+1.\n\t\t\t<b>Deathrattle:</b> Give all Demons in your hand +1/+1.\n\t\t\t<b>Último aliento:</b>\nOtorga +1/+1 a todos\nlos demonios de tu mano.\n\t\t\t<b>Estertor:</b> otorga +1/+1 a todos los Demonios de tu mano.\n\t\t\t<b>Râle d’agonie_:</b> donne_+1/+1 à tous les démons_de_votre_main.\n\t\t\t[x]<b>Rantolo di Morte:</b>\n+1/+1 ai Demoni\nnella tua mano.\n\t\t\t<b>断末魔:</b>\n自分の手札の悪魔\n全てに+1/+1を\n付与する。\n\t\t\t<b>죽음의 메아리:</b> 내 손에 있는 모든 악마에게 +1/+1을 부여합니다.\n\t\t\t<b>Agonia:</b> Daj +1/+1 wszystkim Demonom w_twojej ręce.\n\t\t\t<b>Último Suspiro:</b> \nConceda +1/+1 \na todos os Demônios \nna sua mão.\n\t\t\t<b>Предсмертный хрип:</b> демоны у вас в руке получают +1/+1.\n\t\t\t<b>เสียงสุดท้าย:</b> มอบ_+1/+1_ให้ปีศาจ[b]ทั้งหมดในมือคุณ\n\t\t\t<b>亡语：</b>使你手牌中的所有恶魔牌获得+1/+1。\n\t\t\t<b>死亡之聲：</b>賦予你\n手中全部的惡魔+1/+1\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "„Meine Hypothese: Die Leere besteht aus nichts.“"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Conclusion: Nothing there."
+          },
+          "esES": {
+            "present": true,
+            "value": "«Soy especialista en el interior de las bolsas de patatas fritas»."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Conclusión: No hay nada."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Suite à une analyse approfondie de plusieurs mois, elle a tiré la conclusion suivante : dans le Vide, il n’y a rien."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Conclusione: non c'è nulla."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "分析結果: 何もなし。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "결론: 아무 것도 없음."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Wnioski końcowe: nic tam nie ma."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Ela fez graduação em Luz Sagrada, mas achou entediante."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Заключение: дна в Бездне действительно нет."
+          },
+          "thTH": {
+            "present": true,
+            "value": "บทสรุป: ไม่มีอะไรเลยวอยด์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "分析结论：一片虚空。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "分析結果：那裡什麼都沒有。"
+          }
+        },
+        "textContent": "\n\t\t\t„Meine Hypothese: Die Leere besteht aus nichts.“\n\t\t\tConclusion: Nothing there.\n\t\t\t«Soy especialista en el interior de las bolsas de patatas fritas».\n\t\t\tConclusión: No hay nada.\n\t\t\tSuite à une analyse approfondie de plusieurs mois, elle a tiré la conclusion suivante : dans le Vide, il n’y a rien.\n\t\t\tConclusione: non c'è nulla.\n\t\t\t分析結果: 何もなし。\n\t\t\t결론: 아무 것도 없음.\n\t\t\tWnioski końcowe: nic tam nie ma.\n\t\t\tEla fez graduação em Luz Sagrada, mas achou entediante.\n\t\t\tЗаключение: дна в Бездне действительно нет.\n\t\t\tบทสรุป: ไม่มีอะไรเลยวอยด์\n\t\t\t分析结论：一片虚空。\n\t\t\t分析結果：那裡什麼都沒有。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Arthur Bozonnet"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Leerenanalystin"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Void Analyst"
+          },
+          "esES": {
+            "present": true,
+            "value": "Analista del Vacío"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Analista del Vacío"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Analyste du Vide"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Analista del Vuoto"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "虚無分析学者"
+          },
+          "koKR": {
+            "present": true,
+            "value": "공허 분석가"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Analityczka Pustki"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Analista do Caos"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Аналитик Бездны"
+          },
+          "thTH": {
+            "present": true,
+            "value": "นักวิเคราะห์วอยด์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "虚空分析师"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "虛無分析師"
+          }
+        },
+        "textContent": "\n\t\tLeerenanalystin\n\t\tVoid Analyst\n\t\tAnalista del Vacío\n\t\tAnalista del Vacío\n\t\tAnalyste du Vide\n\t\tAnalista del Vuoto\n\t\t虚無分析学者\n\t\t공허 분석가\n\t\tAnalityczka Pustki\n\t\tAnalista do Caos\n\t\tАналитик Бездны\n\t\tนักวิเคราะห์วอยด์\n\t\t虚空分析师\n\t\t虛無分析師\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Todesröcheln:</b> Verleiht allen Dämonen auf Eurer Hand +1/+1."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Give all Demons in your hand +1/+1."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Último aliento:</b>\nOtorga +1/+1 a todos\nlos demonios de tu mano."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Estertor:</b> otorga +1/+1 a todos los Demonios de tu mano."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Râle d’agonie_:</b> donne_+1/+1 à tous les Démons_de_votre_main."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Rantolo di Morte:</b>\n+1/+1 ai Demoni\nnella tua mano."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>断末魔:</b>\n自分の手札の悪魔\n全てに+1/+1を\n付与する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b> 내 손에 있는 모든 악마에게 +1/+1을 부여합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Agonia:</b> Daj +1/+1 wszystkim Demonom w_twojej ręce."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Último Suspiro:</b> \nConceda +1/+1 \na todos os Demônios \nna sua mão."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Предсмертный хрип:</b> демоны у вас в руке получают +1/+1."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>เสียงสุดท้าย:</b> มอบ_+1/+1_ให้ปีศาจ[b]ทั้งหมดในมือคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>亡语：</b>使你手牌中的所有恶魔牌获得+1/+1。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>死亡之聲：</b>賦予你\n手中全部的惡魔+1/+1"
+          }
+        },
+        "textContent": "\n\t\t<b>Todesröcheln:</b> Verleiht allen Dämonen auf Eurer Hand +1/+1.\n\t\t<b>Deathrattle:</b> Give all Demons in your hand +1/+1.\n\t\t<b>Último aliento:</b>\nOtorga +1/+1 a todos\nlos demonios de tu mano.\n\t\t<b>Estertor:</b> otorga +1/+1 a todos los Demonios de tu mano.\n\t\t<b>Râle d’agonie_:</b> donne_+1/+1 à tous les Démons_de_votre_main.\n\t\t[x]<b>Rantolo di Morte:</b>\n+1/+1 ai Demoni\nnella tua mano.\n\t\t<b>断末魔:</b>\n自分の手札の悪魔\n全てに+1/+1を\n付与する。\n\t\t<b>죽음의 메아리:</b> 내 손에 있는 모든 악마에게 +1/+1을 부여합니다.\n\t\t<b>Agonia:</b> Daj +1/+1 wszystkim Demonom w_twojej ręce.\n\t\t<b>Último Suspiro:</b> \nConceda +1/+1 \na todos os Demônios \nna sua mão.\n\t\t<b>Предсмертный хрип:</b> демоны у вас в руке получают +1/+1.\n\t\t<b>เสียงสุดท้าย:</b> มอบ_+1/+1_ให้ปีศาจ[b]ทั้งหมดในมือคุณ\n\t\t<b>亡语：</b>使你手牌中的所有恶魔牌获得+1/+1。\n\t\t<b>死亡之聲：</b>賦予你\n手中全部的惡魔+1/+1\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "„Meine Hypothese: Die Leere besteht aus nichts.“"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Conclusion: Nothing there."
+          },
+          "esES": {
+            "present": true,
+            "value": "«Soy especialista en el interior de las bolsas de patatas fritas»."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Conclusión: No hay nada."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Suite à une analyse approfondie de plusieurs mois, elle a tiré la conclusion suivante : dans le Vide, il n’y a rien."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Conclusione: non c'è nulla."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "分析結果: 何もなし。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "결론: 아무 것도 없음."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Wnioski końcowe: nic tam nie ma."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Ela fez graduação em Luz Sagrada, mas achou entediante."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Заключение: дна в Бездне действительно нет."
+          },
+          "thTH": {
+            "present": true,
+            "value": "บทสรุป: ไม่มีอะไรเลยวอยด์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "分析结论：一片虚空。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "分析結果：那裡什麼都沒有。"
+          }
+        },
+        "textContent": "\n\t\t„Meine Hypothese: Die Leere besteht aus nichts.“\n\t\tConclusion: Nothing there.\n\t\t«Soy especialista en el interior de las bolsas de patatas fritas».\n\t\tConclusión: No hay nada.\n\t\tSuite à une analyse approfondie de plusieurs mois, elle a tiré la conclusion suivante : dans le Vide, il n’y a rien.\n\t\tConclusione: non c'è nulla.\n\t\t分析結果: 何もなし。\n\t\t결론: 아무 것도 없음.\n\t\tWnioski końcowe: nic tam nie ma.\n\t\tEla fez graduação em Luz Sagrada, mas achou entediante.\n\t\tЗаключение: дна в Бездне действительно нет.\n\t\tบทสรุป: ไม่มีอะไรเลยวอยด์\n\t\t分析结论：一片虚空。\n\t\t分析結果：那裡什麼都沒有。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Arthur Bozonnet"
+      }
     }
   },
   "_current": {

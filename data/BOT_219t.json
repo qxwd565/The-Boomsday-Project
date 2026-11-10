@@ -83,6 +83,286 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mehr Arme!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "More Arms!"
+          },
+          "esES": {
+            "present": true,
+            "value": "¡Más brazos!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "¡Más brazos!"
+          },
+          "frFR": {
+            "present": true,
+            "value": "À tour de bras"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Più Braccia"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "増殖する腕"
+          },
+          "koKR": {
+            "present": true,
+            "value": "더 많은 팔!"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zręczność!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Mais Braços!"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Лишние руки"
+          },
+          "thTH": {
+            "present": true,
+            "value": "แขนงอกเพิ่ม!"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "更多手臂"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "更多手臂！"
+          }
+        },
+        "textContent": "\n\t\t\tMehr Arme!\n\t\t\tMore Arms!\n\t\t\t¡Más brazos!\n\t\t\t¡Más brazos!\n\t\t\tÀ tour de bras\n\t\t\tPiù Braccia\n\t\t\t増殖する腕\n\t\t\t더 많은 팔!\n\t\t\tZręczność!\n\t\t\tMais Braços!\n\t\t\tЛишние руки\n\t\t\tแขนงอกเพิ่ม!\n\t\t\t更多手臂\n\t\t\t更多手臂！\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verleiht einem Diener +2/+2."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Give a minion +2/+2."
+          },
+          "esES": {
+            "present": true,
+            "value": "Otorga +2/+2\na un esbirro."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Otorga +2/+2 a un esbirro."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Donne_+2/+2 à un serviteur."
+          },
+          "itIT": {
+            "present": true,
+            "value": "+2/+2 a un servitore."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]ミニオン1体に\n_+2/+2を付与する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "하수인 하나에게 +2/+2를 부여합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Daj stronnikowi +2/+2."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Conceda +2/+2 a um lacaio."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Выбранное существо получает +2/+2."
+          },
+          "thTH": {
+            "present": true,
+            "value": "มอบ +2/+2 ให้มินเนี่ยนหนึ่งตัว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "使一个随从获得+2/+2。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "賦予一個手下\n+2/+2"
+          }
+        },
+        "textContent": "\n\t\t\tVerleiht einem Diener +2/+2.\n\t\t\tGive a minion +2/+2.\n\t\t\tOtorga +2/+2\na un esbirro.\n\t\t\tOtorga +2/+2 a un esbirro.\n\t\t\tDonne_+2/+2 à un serviteur.\n\t\t\t+2/+2 a un servitore.\n\t\t\t[x]ミニオン1体に\n_+2/+2を付与する。\n\t\t\t하수인 하나에게 +2/+2를 부여합니다.\n\t\t\tDaj stronnikowi +2/+2.\n\t\t\tConceda +2/+2 a um lacaio.\n\t\t\tВыбранное существо получает +2/+2.\n\t\t\tมอบ +2/+2 ให้มินเนี่ยนหนึ่งตัว\n\t\t\t使一个随从获得+2/+2。\n\t\t\t賦予一個手下\n+2/+2\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Nicola Saviori"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mehr Arme!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "More Arms!"
+          },
+          "esES": {
+            "present": true,
+            "value": "¡Más brazos!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "¡Más brazos!"
+          },
+          "frFR": {
+            "present": true,
+            "value": "À tour de bras"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Più Braccia"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "増殖する腕"
+          },
+          "koKR": {
+            "present": true,
+            "value": "더 많은 팔!"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zręczność!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Mais Braços!"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Лишние руки"
+          },
+          "thTH": {
+            "present": true,
+            "value": "แขนงอกเพิ่ม!"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "更多手臂"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "更多手臂！"
+          }
+        },
+        "textContent": "\n\t\tMehr Arme!\n\t\tMore Arms!\n\t\t¡Más brazos!\n\t\t¡Más brazos!\n\t\tÀ tour de bras\n\t\tPiù Braccia\n\t\t増殖する腕\n\t\t더 많은 팔!\n\t\tZręczność!\n\t\tMais Braços!\n\t\tЛишние руки\n\t\tแขนงอกเพิ่ม!\n\t\t更多手臂\n\t\t更多手臂！\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verleiht einem Diener +2/+2."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Give a minion +2/+2."
+          },
+          "esES": {
+            "present": true,
+            "value": "Otorga +2/+2\na un esbirro."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Otorga +2/+2 a un esbirro."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Donne_+2/+2 à un serviteur."
+          },
+          "itIT": {
+            "present": true,
+            "value": "+2/+2 a un servitore."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]ミニオン1体に\n_+2/+2を付与する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]하수인에게\n+2/+2를 부여합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Daj stronnikowi +2/+2."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Conceda +2/+2 a um lacaio."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Существо получает +2/+2."
+          },
+          "thTH": {
+            "present": true,
+            "value": "มอบ +2/+2 ให้มินเนี่ยนหนึ่งตัว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "使一个随从获得+2/+2。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "賦予一個手下\n+2/+2"
+          }
+        },
+        "textContent": "\n\t\tVerleiht einem Diener +2/+2.\n\t\tGive a minion +2/+2.\n\t\tOtorga +2/+2\na un esbirro.\n\t\tOtorga +2/+2 a un esbirro.\n\t\tDonne_+2/+2 à un serviteur.\n\t\t+2/+2 a un servitore.\n\t\t[x]ミニオン1体に\n_+2/+2を付与する。\n\t\t[x]하수인에게\n+2/+2를 부여합니다.\n\t\tDaj stronnikowi +2/+2.\n\t\tConceda +2/+2 a um lacaio.\n\t\tСущество получает +2/+2.\n\t\tมอบ +2/+2 ให้มินเนี่ยนหนึ่งตัว\n\t\t使一个随从获得+2/+2。\n\t\t賦予一個手下\n+2/+2\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Nicola Saviori"
+      }
     }
   },
   "_current": {

@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Violetter Dunst"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Violet Haze"
+          },
+          "esES": {
+            "present": true,
+            "value": "Neblina violeta"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Neblina violeta"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Brume violette"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Foschia Violacea"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "紫の煙霧"
+          },
+          "koKR": {
+            "present": true,
+            "value": "보랏빛 연무"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Fioletowa mgła"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Névoa Violeta"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Лиловые пары"
+          },
+          "thTH": {
+            "present": true,
+            "value": "หมอกควันสีม่วง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "紫色烟雾"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "迷幻紫煙"
+          }
+        },
+        "textContent": "\n\t\t\tVioletter Dunst\n\t\t\tViolet Haze\n\t\t\tNeblina violeta\n\t\t\tNeblina violeta\n\t\t\tBrume violette\n\t\t\tFoschia Violacea\n\t\t\t紫の煙霧\n\t\t\t보랏빛 연무\n\t\t\tFioletowa mgła\n\t\t\tNévoa Violeta\n\t\t\tЛиловые пары\n\t\t\tหมอกควันสีม่วง\n\t\t\t紫色烟雾\n\t\t\t迷幻紫煙\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Erhaltet 2 zufällige <b>Todesröcheln</b>-Karten auf die Hand."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Add 2 random <b>Deathrattle</b> cards to_your hand."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Añade 2 cartas\ncon <b>Último aliento</b>\naleatorias a tu mano."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Agrega 2 cartas con <b>Estertor</b> aleatorias a tu mano."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Ajoute 2_cartes aléatoires avec <b>Râle d’agonie</b> dans votre main."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Mette nella tua mano due carte con <b>Rantolo di Morte</b> casuali."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>断末魔</b>を持つ\nランダムなカード2枚を\n自分の手札に追加する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "무작위 <b>죽음의_메아리</b> 카드 2장을 내 손으로 가져옵니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Dodaj dwie losowe karty z <b>Agonią</b> do twojej ręki."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Adicione 2 cards aleatórios com <b>Último Suspiro</b> à sua mão."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Вы кладете в руку 2 случайные карты с_<b>«Предсмертным хрипом»</b>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "สุ่มเพิ่มการ์ด_<b>เสียงสุดท้าย</b> 2_ใบในมือคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "随机将两张<b>亡语</b>牌置入你的\n手牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "放2張隨機\n<b>死亡之聲</b>牌到你的手中"
+          }
+        },
+        "textContent": "\n\t\t\tErhaltet 2 zufällige <b>Todesröcheln</b>-Karten auf die Hand.\n\t\t\tAdd 2 random <b>Deathrattle</b> cards to_your hand.\n\t\t\t[x]Añade 2 cartas\ncon <b>Último aliento</b>\naleatorias a tu mano.\n\t\t\tAgrega 2 cartas con <b>Estertor</b> aleatorias a tu mano.\n\t\t\tAjoute 2_cartes aléatoires avec <b>Râle d’agonie</b> dans votre main.\n\t\t\tMette nella tua mano due carte con <b>Rantolo di Morte</b> casuali.\n\t\t\t[x]<b>断末魔</b>を持つ\nランダムなカード2枚を\n自分の手札に追加する。\n\t\t\t무작위 <b>죽음의_메아리</b> 카드 2장을 내 손으로 가져옵니다.\n\t\t\tDodaj dwie losowe karty z <b>Agonią</b> do twojej ręki.\n\t\t\tAdicione 2 cards aleatórios com <b>Último Suspiro</b> à sua mão.\n\t\t\tВы кладете в руку 2 случайные карты с_<b>«Предсмертным хрипом»</b>.\n\t\t\tสุ่มเพิ่มการ์ด_<b>เสียงสุดท้าย</b> 2_ใบในมือคุณ\n\t\t\t随机将两张<b>亡语</b>牌置入你的\n手牌。\n\t\t\t放2張隨機\n<b>死亡之聲</b>牌到你的手中\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Wenn man keinen blauen Dunst hat."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Elite Tauren Chieftain's next hit single."
+          },
+          "esES": {
+            "present": true,
+            "value": "El último grito en bombas de humo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Si una neblina te obstruye la vista, que al menos tenga un color bonito."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Ce nouveau titre des Elite Tauren Chieftains va faire un malheur, je le sens !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Distribuita sotto banco nei peggiori night club di Meccania."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "エリート・トーレン・チーフテンのネクスト・ヒット・シングル。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "정예 타우렌 족장의 다음 싱글 앨범명입니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Włodarze Burzy Otchłani wydają krocie na fajerwerki i sztuczną mgłę. Mieszkańcy są zachwyceni!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "O próximo sucesso do Chefe Tauren Elite."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "...ветер северный..."
+          },
+          "thTH": {
+            "present": true,
+            "value": "แรงบันดาลใจในการ[b]แต่งเพลงซิงเกิ้ลใหม่ของอีลีต ทอเรน ชีฟเทน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "精英牛头人酋长的下一首热门单曲——紫色烟雾。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "精英牛頭大佬的下一首熱門單曲就叫這個名字。"
+          }
+        },
+        "textContent": "\n\t\t\tWenn man keinen blauen Dunst hat.\n\t\t\tElite Tauren Chieftain's next hit single.\n\t\t\tEl último grito en bombas de humo.\n\t\t\tSi una neblina te obstruye la vista, que al menos tenga un color bonito.\n\t\t\tCe nouveau titre des Elite Tauren Chieftains va faire un malheur, je le sens !\n\t\t\tDistribuita sotto banco nei peggiori night club di Meccania.\n\t\t\tエリート・トーレン・チーフテンのネクスト・ヒット・シングル。\n\t\t\t정예 타우렌 족장의 다음 싱글 앨범명입니다.\n\t\t\tWłodarze Burzy Otchłani wydają krocie na fajerwerki i sztuczną mgłę. Mieszkańcy są zachwyceni!\n\t\t\tO próximo sucesso do Chefe Tauren Elite.\n\t\t\t...ветер северный...\n\t\t\tแรงบันดาลใจในการ[b]แต่งเพลงซิงเกิ้ลใหม่ของอีลีต ทอเรน ชีฟเทน\n\t\t\t精英牛头人酋长的下一首热门单曲——紫色烟雾。\n\t\t\t精英牛頭大佬的下一首熱門單曲就叫這個名字。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Alex Horley Orlandelli"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Violetter Dunst"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Violet Haze"
+          },
+          "esES": {
+            "present": true,
+            "value": "Neblina violeta"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Neblina violeta"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Brume violette"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Foschia Violacea"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "紫の煙霧"
+          },
+          "koKR": {
+            "present": true,
+            "value": "보랏빛 연무"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Fioletowa mgła"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Névoa Violeta"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Лиловые пары"
+          },
+          "thTH": {
+            "present": true,
+            "value": "หมอกควันสีม่วง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "紫色烟雾"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "迷幻紫煙"
+          }
+        },
+        "textContent": "\n\t\tVioletter Dunst\n\t\tViolet Haze\n\t\tNeblina violeta\n\t\tNeblina violeta\n\t\tBrume violette\n\t\tFoschia Violacea\n\t\t紫の煙霧\n\t\t보랏빛 연무\n\t\tFioletowa mgła\n\t\tNévoa Violeta\n\t\tЛиловые пары\n\t\tหมอกควันสีม่วง\n\t\t紫色烟雾\n\t\t迷幻紫煙\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Erhaltet 2 zufällige <b>Todesröcheln</b>-Karten auf die Hand."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Add 2 random <b>Deathrattle</b> cards to_your hand."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Añade 2 cartas\ncon <b>Último aliento</b>\naleatorias a tu mano."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Agrega 2 cartas con <b>Estertor</b> aleatorias a tu mano."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Ajoute 2_cartes aléatoires avec <b>Râle d’agonie</b> dans votre main."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Mette nella tua mano due carte con <b>Rantolo di Morte</b> casuali."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>断末魔</b>を持つ\nランダムなカード2枚を\n自分の手札に追加する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "무작위 <b>죽음의_메아리</b> 카드 2장을 내 손으로 가져옵니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Dodaj dwie losowe karty z <b>Agonią</b> do twojej ręki."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Adicione 2 cards aleatórios com <b>Último Suspiro</b> à sua mão."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Вы кладете в руку 2 случайные карты с_<b>«Предсмертным хрипом»</b>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "สุ่มเพิ่มการ์ด <b>เสียงสุดท้าย</b>_2_ใบ[b]ในมือคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "随机将两张<b>亡语</b>牌置入你的\n手牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "放2張隨機\n<b>死亡之聲</b>牌到你的手中"
+          }
+        },
+        "textContent": "\n\t\tErhaltet 2 zufällige <b>Todesröcheln</b>-Karten auf die Hand.\n\t\tAdd 2 random <b>Deathrattle</b> cards to_your hand.\n\t\t[x]Añade 2 cartas\ncon <b>Último aliento</b>\naleatorias a tu mano.\n\t\tAgrega 2 cartas con <b>Estertor</b> aleatorias a tu mano.\n\t\tAjoute 2_cartes aléatoires avec <b>Râle d’agonie</b> dans votre main.\n\t\tMette nella tua mano due carte con <b>Rantolo di Morte</b> casuali.\n\t\t[x]<b>断末魔</b>を持つ\nランダムなカード2枚を\n自分の手札に追加する。\n\t\t무작위 <b>죽음의_메아리</b> 카드 2장을 내 손으로 가져옵니다.\n\t\tDodaj dwie losowe karty z <b>Agonią</b> do twojej ręki.\n\t\tAdicione 2 cards aleatórios com <b>Último Suspiro</b> à sua mão.\n\t\tВы кладете в руку 2 случайные карты с_<b>«Предсмертным хрипом»</b>.\n\t\tสุ่มเพิ่มการ์ด <b>เสียงสุดท้าย</b>_2_ใบ[b]ในมือคุณ\n\t\t随机将两张<b>亡语</b>牌置入你的\n手牌。\n\t\t放2張隨機\n<b>死亡之聲</b>牌到你的手中\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Wenn man keinen blauen Dunst hat."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Elite Tauren Chieftain's next hit single."
+          },
+          "esES": {
+            "present": true,
+            "value": "El último grito en bombas de humo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Si una neblina te obstruye la vista, que al menos tenga un color bonito."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Ce nouveau titre des Elite Tauren Chieftains va faire un malheur, je le sens !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Distribuita sotto banco nei peggiori night club di Meccania."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "エリート・トーレン・チーフテンのネクスト・ヒット・シングル。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "정예 타우렌 족장의 다음 싱글 앨범명입니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Włodarze Burzy Otchłani wydają krocie na fajerwerki i sztuczną mgłę. Mieszkańcy są zachwyceni!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "O próximo sucesso do Chefe Tauren Elite."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "...ветер северный..."
+          },
+          "thTH": {
+            "present": true,
+            "value": "แรงบันดาลใจในการ[b]แต่งเพลงซิงเกิ้ลใหม่ของอีลีต ทอเรน ชีฟเทน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "精英牛头人酋长的下一首热门单曲——紫色烟雾。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "精英牛頭大佬的下一首熱門單曲就叫這個名字。"
+          }
+        },
+        "textContent": "\n\t\tWenn man keinen blauen Dunst hat.\n\t\tElite Tauren Chieftain's next hit single.\n\t\tEl último grito en bombas de humo.\n\t\tSi una neblina te obstruye la vista, que al menos tenga un color bonito.\n\t\tCe nouveau titre des Elite Tauren Chieftains va faire un malheur, je le sens !\n\t\tDistribuita sotto banco nei peggiori night club di Meccania.\n\t\tエリート・トーレン・チーフテンのネクスト・ヒット・シングル。\n\t\t정예 타우렌 족장의 다음 싱글 앨범명입니다.\n\t\tWłodarze Burzy Otchłani wydają krocie na fajerwerki i sztuczną mgłę. Mieszkańcy są zachwyceni!\n\t\tO próximo sucesso do Chefe Tauren Elite.\n\t\t...ветер северный...\n\t\tแรงบันดาลใจในการ[b]แต่งเพลงซิงเกิ้ลใหม่ของอีลีต ทอเรน ชีฟเทน\n\t\t精英牛头人酋长的下一首热门单曲——紫色烟雾。\n\t\t精英牛頭大佬的下一首熱門單曲就叫這個名字。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Alex Horley Orlandelli"
+      }
     }
   },
   "_current": {

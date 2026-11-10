@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Kristallisiererin"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Crystallizer"
+          },
+          "esES": {
+            "present": true,
+            "value": "Cristalizadora"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Cristalizadora"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Cristallisatrice"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Cristallizzatrice"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "結晶術師"
+          },
+          "koKR": {
+            "present": true,
+            "value": "수정 연구원"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Krystalizatorka"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Cristalizadora"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Кристаллизатор"
+          },
+          "thTH": {
+            "present": true,
+            "value": "คริสตัลไลเซอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "晶化师"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "晶化師"
+          }
+        },
+        "textContent": "\n\t\t\tKristallisiererin\n\t\t\tCrystallizer\n\t\t\tCristalizadora\n\t\t\tCristalizadora\n\t\t\tCristallisatrice\n\t\t\tCristallizzatrice\n\t\t\t結晶術師\n\t\t\t수정 연구원\n\t\t\tKrystalizatorka\n\t\t\tCristalizadora\n\t\t\tКристаллизатор\n\t\t\tคริสตัลไลเซอร์\n\t\t\t晶化师\n\t\t\t晶化師\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Fügt Eurem Helden 5 Schaden zu. Erhaltet 5 Rüstung."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> Deal 5 damage\nto your hero. Gain 5 Armor."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b> Inflige\n5 p. de daño a tu héroe.\nObtienes 5 p.\nde armadura."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> inflige 5 de daño a tu héroe. Obtienes 5 de armadura."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> inflige 5_points de dégâts à votre héros. Vous gagnez 5_points d’armure."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\ninfligge 5 danni al tuo eroe.\nFornisce 5 Armatura."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n自分のヒーローに\n___5ダメージを与える。\n_____装甲を5獲得する。_"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b> 내 영웅에게 피해를 5 줍니다. 방어도를 +5 얻습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Zadaj\n5 pkt. obrażeń twojemu bohaterowi. Otrzymujesz 5 pkt. pancerza."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Cause 5 de dano ao seu herói. Receba 5 de Armadura."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> наносит 5 ед. урона вашему герою. Вы [x]получаете +5 к броне."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> สร้างความ[b]เสียหาย 5_แต้ม[b]ให้ฮีโร่คุณ ได้รับเกราะ 5 แต้ม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>对你的英雄造成5点伤害。获得5点护甲值。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "[x]<b>戰吼：</b>對你的英雄\n造成5點傷害。獲得\n5點護甲值"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Fügt Eurem Helden 5 Schaden zu. Erhaltet 5 Rüstung.\n\t\t\t[x]<b>Battlecry:</b> Deal 5 damage\nto your hero. Gain 5 Armor.\n\t\t\t[x]<b>Grito de batalla:</b> Inflige\n5 p. de daño a tu héroe.\nObtienes 5 p.\nde armadura.\n\t\t\t<b>Grito de batalla:</b> inflige 5 de daño a tu héroe. Obtienes 5 de armadura.\n\t\t\t<b>Cri de guerre_:</b> inflige 5_points de dégâts à votre héros. Vous gagnez 5_points d’armure.\n\t\t\t[x]<b>Grido di Battaglia:</b>\ninfligge 5 danni al tuo eroe.\nFornisce 5 Armatura.\n\t\t\t[x]<b>雄叫び:</b>\n自分のヒーローに\n___5ダメージを与える。\n_____装甲を5獲得する。_\n\t\t\t<b>전투의 함성:</b> 내 영웅에게 피해를 5 줍니다. 방어도를 +5 얻습니다.\n\t\t\t<b>Okrzyk bojowy:</b> Zadaj\n5 pkt. obrażeń twojemu bohaterowi. Otrzymujesz 5 pkt. pancerza.\n\t\t\t<b>Grito de Guerra:</b> Cause 5 de dano ao seu herói. Receba 5 de Armadura.\n\t\t\t<b>Боевой клич:</b> наносит 5 ед. урона вашему герою. Вы [x]получаете +5 к броне.\n\t\t\t<b>คำรามสู้ศึก:</b> สร้างความ[b]เสียหาย 5_แต้ม[b]ให้ฮีโร่คุณ ได้รับเกราะ 5 แต้ม\n\t\t\t<b>战吼：</b>对你的英雄造成5点伤害。获得5点护甲值。\n\t\t\t[x]<b>戰吼：</b>對你的英雄\n造成5點傷害。獲得\n5點護甲值\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mit dieser Elfe ist man für jedes Wettrüsten_... gerüstet."
+          },
+          "enUS": {
+            "present": true,
+            "value": "This elf's winning the arms race."
+          },
+          "esES": {
+            "present": true,
+            "value": "Quedó primera en el concurso nacional de brazos molones."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Al bracito de cristal, tris tras, no lo ves ni lo verás, tris tras."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Cette elfe cherchait un moyen d’obtenir davantage de cristaux de mana, mais son expérience n’a pas eu les effets escomptés. Au moins, elle peut briller en société !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Un ottimo modo per cominciare la giornata."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "結晶術師たちのトーナメントは全試合が事実上の決勝戦。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "조삼모사라고 생각하는 순간 초상화가 터질 수도 있습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Odkryła coś znacznie lepszego niż Żelazna Pięść."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Blindagem é melhor do que saúde."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Теперь этой эльфийке никто и руки не подаст."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เอลฟ์ผู้นี้พร้อมงัด(ข้อ)[b]กับทุกคน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "扳手腕时她总是能赢。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "如果是腕力大賽的話，他一定贏。"
+          }
+        },
+        "textContent": "\n\t\t\tMit dieser Elfe ist man für jedes Wettrüsten_... gerüstet.\n\t\t\tThis elf's winning the arms race.\n\t\t\tQuedó primera en el concurso nacional de brazos molones.\n\t\t\tAl bracito de cristal, tris tras, no lo ves ni lo verás, tris tras.\n\t\t\tCette elfe cherchait un moyen d’obtenir davantage de cristaux de mana, mais son expérience n’a pas eu les effets escomptés. Au moins, elle peut briller en société !\n\t\t\tUn ottimo modo per cominciare la giornata.\n\t\t\t結晶術師たちのトーナメントは全試合が事実上の決勝戦。\n\t\t\t조삼모사라고 생각하는 순간 초상화가 터질 수도 있습니다.\n\t\t\tOdkryła coś znacznie lepszego niż Żelazna Pięść.\n\t\t\tBlindagem é melhor do que saúde.\n\t\t\tТеперь этой эльфийке никто и руки не подаст.\n\t\t\tเอลฟ์ผู้นี้พร้อมงัด(ข้อ)[b]กับทุกคน\n\t\t\t扳手腕时她总是能赢。\n\t\t\t如果是腕力大賽的話，他一定贏。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "David Kegg"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Kristallisiererin"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Crystallizer"
+          },
+          "esES": {
+            "present": true,
+            "value": "Cristalizadora"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Cristalizadora"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Cristallisatrice"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Cristallizzatrice"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "結晶術師"
+          },
+          "koKR": {
+            "present": true,
+            "value": "수정 연구원"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Krystalizatorka"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Cristalizadora"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Кристаллизатор"
+          },
+          "thTH": {
+            "present": true,
+            "value": "คริสตัลไลเซอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "晶化师"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "晶化師"
+          }
+        },
+        "textContent": "\n\t\tKristallisiererin\n\t\tCrystallizer\n\t\tCristalizadora\n\t\tCristalizadora\n\t\tCristallisatrice\n\t\tCristallizzatrice\n\t\t結晶術師\n\t\t수정 연구원\n\t\tKrystalizatorka\n\t\tCristalizadora\n\t\tКристаллизатор\n\t\tคริสตัลไลเซอร์\n\t\t晶化师\n\t\t晶化師\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Fügt Eurem Helden 5 Schaden zu. Erhaltet 5 Rüstung."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> Deal 5 damage\nto your hero. Gain 5 Armor."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b> Inflige\n5 p. de daño a tu héroe.\nObtienes 5 p.\nde armadura."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> inflige 5 de daño a tu héroe. Obtienes 5 de armadura."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> inflige 5_points de dégâts à votre héros. Vous gagnez 5_points d’armure."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\ninfligge 5 danni al tuo eroe.\nFornisce 5 Armatura."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n自分のヒーローに\n___5ダメージを与える。\n_____装甲を5獲得する。_"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b> 내 영웅에게 피해를 5 줍니다. 방어도를 +5 얻습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Zadaj\n5 pkt. obrażeń twojemu bohaterowi. Otrzymujesz 5 pkt. pancerza."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Cause 5 de dano ao seu herói. Receba 5 de Armadura."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> наносит 5 ед. урона вашему герою. Вы [x]получаете +5 к броне."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> สร้างความ[b]เสียหาย 5_แต้ม[b]ให้ฮีโร่ของ[b]คุณ_ได้รับเกราะ_5_แต้ม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>对你的英雄造成5点伤害。获得5点护甲值。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "[x]<b>戰吼：</b>對你的英雄\n造成5點傷害。獲得\n5點護甲值"
+          }
+        },
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Fügt Eurem Helden 5 Schaden zu. Erhaltet 5 Rüstung.\n\t\t[x]<b>Battlecry:</b> Deal 5 damage\nto your hero. Gain 5 Armor.\n\t\t[x]<b>Grito de batalla:</b> Inflige\n5 p. de daño a tu héroe.\nObtienes 5 p.\nde armadura.\n\t\t<b>Grito de batalla:</b> inflige 5 de daño a tu héroe. Obtienes 5 de armadura.\n\t\t<b>Cri de guerre_:</b> inflige 5_points de dégâts à votre héros. Vous gagnez 5_points d’armure.\n\t\t[x]<b>Grido di Battaglia:</b>\ninfligge 5 danni al tuo eroe.\nFornisce 5 Armatura.\n\t\t[x]<b>雄叫び:</b>\n自分のヒーローに\n___5ダメージを与える。\n_____装甲を5獲得する。_\n\t\t<b>전투의 함성:</b> 내 영웅에게 피해를 5 줍니다. 방어도를 +5 얻습니다.\n\t\t<b>Okrzyk bojowy:</b> Zadaj\n5 pkt. obrażeń twojemu bohaterowi. Otrzymujesz 5 pkt. pancerza.\n\t\t<b>Grito de Guerra:</b> Cause 5 de dano ao seu herói. Receba 5 de Armadura.\n\t\t<b>Боевой клич:</b> наносит 5 ед. урона вашему герою. Вы [x]получаете +5 к броне.\n\t\t<b>คำรามสู้ศึก:</b> สร้างความ[b]เสียหาย 5_แต้ม[b]ให้ฮีโร่ของ[b]คุณ_ได้รับเกราะ_5_แต้ม\n\t\t<b>战吼：</b>对你的英雄造成5点伤害。获得5点护甲值。\n\t\t[x]<b>戰吼：</b>對你的英雄\n造成5點傷害。獲得\n5點護甲值\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mit dieser Elfe ist man für jedes Wettrüsten_... gerüstet."
+          },
+          "enUS": {
+            "present": true,
+            "value": "This elf's winning the arms race."
+          },
+          "esES": {
+            "present": true,
+            "value": "Quedó primera en el concurso nacional de brazos molones."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Al bracito de cristal, tris tras, no lo ves ni lo verás, tris tras."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Cette elfe cherchait un moyen d’obtenir davantage de cristaux de mana, mais son expérience n’a pas eu les effets escomptés. Au moins, elle peut briller en société !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Un ottimo modo per cominciare la giornata."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "結晶術師たちのトーナメントは全試合が事実上の決勝戦。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "조삼모사라고 생각하는 순간 초상화가 터질 수도 있습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Odkryła coś znacznie lepszego niż Żelazna Pięść."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Blindagem é melhor do que saúde."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Теперь этой эльфийке никто и руки не подаст."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เอลฟ์ผู้นี้พร้อมงัด(ข้อ)[b]กับทุกคน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "扳手腕时她总是能赢。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "如果是腕力大賽的話，他一定贏。"
+          }
+        },
+        "textContent": "\n\t\tMit dieser Elfe ist man für jedes Wettrüsten_... gerüstet.\n\t\tThis elf's winning the arms race.\n\t\tQuedó primera en el concurso nacional de brazos molones.\n\t\tAl bracito de cristal, tris tras, no lo ves ni lo verás, tris tras.\n\t\tCette elfe cherchait un moyen d’obtenir davantage de cristaux de mana, mais son expérience n’a pas eu les effets escomptés. Au moins, elle peut briller en société !\n\t\tUn ottimo modo per cominciare la giornata.\n\t\t結晶術師たちのトーナメントは全試合が事実上の決勝戦。\n\t\t조삼모사라고 생각하는 순간 초상화가 터질 수도 있습니다.\n\t\tOdkryła coś znacznie lepszego niż Żelazna Pięść.\n\t\tBlindagem é melhor do que saúde.\n\t\tТеперь этой эльфийке никто и руки не подаст.\n\t\tเอลฟ์ผู้นี้พร้อมงัด(ข้อ)[b]กับทุกคน\n\t\t扳手腕时她总是能赢。\n\t\t如果是腕力大賽的話，他一定贏。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "David Kegg"
+      }
     }
   },
   "_current": {

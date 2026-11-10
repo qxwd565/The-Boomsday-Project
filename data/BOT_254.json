@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Unerwartetes Ergebnis"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Unexpected Results"
+          },
+          "esES": {
+            "present": true,
+            "value": "Resultados inesperados"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Resultados inesperados"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Résultats inattendus"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Risultati Inaspettati"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "予想外の結果"
+          },
+          "koKR": {
+            "present": true,
+            "value": "뜻밖의 결과"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zaskakujące wyniki"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Resultados Inesperados"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Неожиданный эффект"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ผลลัพธ์ไม่คาดคิด"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "鲁莽试验"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "無法預期的成果"
+          }
+        },
+        "textContent": "\n\t\t\tUnerwartetes Ergebnis\n\t\t\tUnexpected Results\n\t\t\tResultados inesperados\n\t\t\tResultados inesperados\n\t\t\tRésultats inattendus\n\t\t\tRisultati Inaspettati\n\t\t\t予想外の結果\n\t\t\t뜻밖의 결과\n\t\t\tZaskakujące wyniki\n\t\t\tResultados Inesperados\n\t\t\tНеожиданный эффект\n\t\t\tผลลัพธ์ไม่คาดคิด\n\t\t\t鲁莽试验\n\t\t\t無法預期的成果\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "[x]Ruft 2 zufällige Diener\nherbei, die ($2) kosten\n<i>(wird durch <b>Zauberschaden</b>\nverbessert)</i>."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]Summon two random\n$2-Cost minions <i>(improved\nby <b>Spell Damage</b>)</i>."
+          },
+          "esES": {
+            "present": true,
+            "value": "Invoca a dos esbirros\n aleatorios de coste $2\n<i>(o superior, según tu <b>daño_con_hechizos</b>)</i>."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Invoca dos esbirros aleatorios de costo $2 <i>(mejora con <b>Daño de hechizo</b>)</i>."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Invoque deux serviteurs aléatoires coûtant $2_|4(cristal,cristaux) <i>(amélioré par les <b>dégâts des sorts</b>)</i>."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Evoca due servitori casuali\nda $2 Mana. <i>(Migliora\ncon i <b>Danni Magici</b>)</i>"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]ランダムなコスト（$2）の\nミニオンを2体召喚する\n<i>（<b>呪文ダメージ</b>によって\n__強化される）</i>。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "비용이 $2인 무작위 하수인을 둘 소환합니다.\n<i>(<b>주문_공격력</b>에 따라 더욱 높은 비용의 하수인 소환)</i>"
+          },
+          "plPL": {
+            "present": true,
+            "value": "[x]Przyzwij dwóch losowych\nstronników o_koszcie ($2).\n<i>(<b>Obrażenia zaklęć</b>\nulepszają tę kartę</i>)."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Evoque dois lacaios aleatórios de custo $2 <i>(aprimorado por <b>Dano Mágico</b>)</i>."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Вы призываете двух случайных существ за ($2) <i>(улучшается <b>уроном от заклинаний</b>)</i>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "สุ่มเรียกมินเนี่ยนค่าร่าย $2_สองตัว_<i>(ค่าร่ายของมัน[b]ปรับตาม_<b>ความเสียหายเวท</b>)</i>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "召唤两个法力值消耗为（$2）点的随机随从<i>（受<b>法术伤害</b>加成影响）</i>。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "召喚兩個消耗為$2的隨機手下\n<i>(隨<b>法術傷害</b>提升)</i>"
+          }
+        },
+        "textContent": "\n\t\t\t[x]Ruft 2 zufällige Diener\nherbei, die ($2) kosten\n<i>(wird durch <b>Zauberschaden</b>\nverbessert)</i>.\n\t\t\t[x]Summon two random\n$2-Cost minions <i>(improved\nby <b>Spell Damage</b>)</i>.\n\t\t\tInvoca a dos esbirros\n aleatorios de coste $2\n<i>(o superior, según tu <b>daño_con_hechizos</b>)</i>.\n\t\t\tInvoca dos esbirros aleatorios de costo $2 <i>(mejora con <b>Daño de hechizo</b>)</i>.\n\t\t\tInvoque deux serviteurs aléatoires coûtant $2_|4(cristal,cristaux) <i>(amélioré par les <b>dégâts des sorts</b>)</i>.\n\t\t\t[x]Evoca due servitori casuali\nda $2 Mana. <i>(Migliora\ncon i <b>Danni Magici</b>)</i>\n\t\t\t[x]ランダムなコスト（$2）の\nミニオンを2体召喚する\n<i>（<b>呪文ダメージ</b>によって\n__強化される）</i>。\n\t\t\t비용이 $2인 무작위 하수인을 둘 소환합니다.\n<i>(<b>주문_공격력</b>에 따라 더욱 높은 비용의 하수인 소환)</i>\n\t\t\t[x]Przyzwij dwóch losowych\nstronników o_koszcie ($2).\n<i>(<b>Obrażenia zaklęć</b>\nulepszają tę kartę</i>).\n\t\t\tEvoque dois lacaios aleatórios de custo $2 <i>(aprimorado por <b>Dano Mágico</b>)</i>.\n\t\t\tВы призываете двух случайных существ за ($2) <i>(улучшается <b>уроном от заклинаний</b>)</i>.\n\t\t\tสุ่มเรียกมินเนี่ยนค่าร่าย $2_สองตัว_<i>(ค่าร่ายของมัน[b]ปรับตาม_<b>ความเสียหายเวท</b>)</i>\n\t\t\t召唤两个法力值消耗为（$2）点的随机随从<i>（受<b>法术伤害</b>加成影响）</i>。\n\t\t\t召喚兩個消耗為$2的隨機手下\n<i>(隨<b>法術傷害</b>提升)</i>\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Manchmal ist die Wissenschaft eher Kunst als Wissenschaft. Viele Leute verstehen das nicht."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Sometimes science is more art than science. A lot of people don’t get that."
+          },
+          "esES": {
+            "present": true,
+            "value": "A veces la ciencia es más un arte que una ciencia. Muchos no lo entienden."
+          },
+          "esMX": {
+            "present": true,
+            "value": "A veces la ciencia es más arte que ciencia. Muchas personas no entienden eso."
+          },
+          "frFR": {
+            "present": true,
+            "value": "La science, ça tient parfois plus de l’art que d’autre chose. Peu de gens comprennent ça."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Ogni tanto la scienza ricorda molto l'arte. Un sacco di persone non la capiscono."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "時に科学は、サイエンスである以上にアートなのだ。多くの人間には理解できん。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "과학은 과학이라기보다 예술에 가깝습니다. 높으신 분들은 그걸 몰라요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Nauka ma w sobie coś ze sztuki. Nie każdy to rozumie."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Às vezes ciência é mais arte do que tudo. Tem gente que não entende isso."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Иногда наука – это то же самое, что искусство. Многие неспособны это понять."
+          },
+          "thTH": {
+            "present": true,
+            "value": "บางครั้งวิทยาศาสตร์ก็เป็นศิลปะ[b]มากกว่าเป็นวิทยาศาสตร์ หลายคนไม่เข้าใจจุดนี้"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "科学更是一门艺术，很多人意识不到这一点。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "有時候科學比較像藝術，不太像科學。很多人不懂這點。"
+          }
+        },
+        "textContent": "\n\t\t\tManchmal ist die Wissenschaft eher Kunst als Wissenschaft. Viele Leute verstehen das nicht.\n\t\t\tSometimes science is more art than science. A lot of people don’t get that.\n\t\t\tA veces la ciencia es más un arte que una ciencia. Muchos no lo entienden.\n\t\t\tA veces la ciencia es más arte que ciencia. Muchas personas no entienden eso.\n\t\t\tLa science, ça tient parfois plus de l’art que d’autre chose. Peu de gens comprennent ça.\n\t\t\tOgni tanto la scienza ricorda molto l'arte. Un sacco di persone non la capiscono.\n\t\t\t時に科学は、サイエンスである以上にアートなのだ。多くの人間には理解できん。\n\t\t\t과학은 과학이라기보다 예술에 가깝습니다. 높으신 분들은 그걸 몰라요.\n\t\t\tNauka ma w sobie coś ze sztuki. Nie każdy to rozumie.\n\t\t\tÀs vezes ciência é mais arte do que tudo. Tem gente que não entende isso.\n\t\t\tИногда наука – это то же самое, что искусство. Многие неспособны это понять.\n\t\t\tบางครั้งวิทยาศาสตร์ก็เป็นศิลปะ[b]มากกว่าเป็นวิทยาศาสตร์ หลายคนไม่เข้าใจจุดนี้\n\t\t\t科学更是一门艺术，很多人意识不到这一点。\n\t\t\t有時候科學比較像藝術，不太像科學。很多人不懂這點。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Jakub Kasper"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Unerwartetes Ergebnis"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Unexpected Results"
+          },
+          "esES": {
+            "present": true,
+            "value": "Resultados inesperados"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Resultados inesperados"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Résultats inattendus"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Risultati Inaspettati"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "予想外の結果"
+          },
+          "koKR": {
+            "present": true,
+            "value": "뜻밖의 결과"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zaskakujące wyniki"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Resultados Inesperados"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Неожиданный эффект"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ผลลัพธ์ไม่คาดคิด"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "鲁莽试验"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "無法預期的成果"
+          }
+        },
+        "textContent": "\n\t\tUnerwartetes Ergebnis\n\t\tUnexpected Results\n\t\tResultados inesperados\n\t\tResultados inesperados\n\t\tRésultats inattendus\n\t\tRisultati Inaspettati\n\t\t予想外の結果\n\t\t뜻밖의 결과\n\t\tZaskakujące wyniki\n\t\tResultados Inesperados\n\t\tНеожиданный эффект\n\t\tผลลัพธ์ไม่คาดคิด\n\t\t鲁莽试验\n\t\t無法預期的成果\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "[x]Ruft 2 zufällige Diener\nherbei, die ($2) kosten\n<i>(wird durch <b>Zauberschaden</b>\nverbessert)</i>."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]Summon two random\n$2-Cost minions <i>(improved\nby <b>Spell Damage</b>)</i>."
+          },
+          "esES": {
+            "present": true,
+            "value": "Invoca a dos esbirros\n aleatorios de coste $2\n<i>(o superior, según tu <b>daño_con_hechizos</b>)</i>."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Invoca dos esbirros aleatorios de costo $2 <i>(mejora con <b>Daño de hechizo</b>)</i>."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Invoque deux serviteurs aléatoires coûtant $2_|4(cristal,cristaux) <i>(amélioré par les <b>dégâts des sorts</b>)</i>."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Evoca due servitori casuali\nda $2 Mana. <i>(Migliora\ncon i <b>Danni Magici</b>)</i>"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]ランダムなコスト（$2）の\nミニオンを2体召喚する\n<i>（<b>呪文ダメージ</b>によって\n__強化される）</i>。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "비용이 $2인 무작위 하수인을 둘 소환합니다.\n<i>(<b>주문_공격력</b>에 따라 더욱 높은 비용의 하수인 소환)</i>"
+          },
+          "plPL": {
+            "present": true,
+            "value": "[x]Przyzwij dwóch losowych\nstronników o_koszcie ($2).\n<i>(<b>Obrażenia zaklęć</b>\nulepszają tę kartę</i>)."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Evoque dois lacaios aleatórios de Custo $2 <i>(aprimorado por <b>Dano Mágico</b>)</i>."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Вы призываете двух случайных существ за ($2) <i>(улучшается <b>«Уроном от заклинаний»</b>)</i>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "สุ่มเรียกมินเนี่ยนค่าร่าย $2_สองตัว_<i>(ค่าร่ายของมัน[b]ปรับตาม_<b>ความเสียหายเวท</b>)</i>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "随机召唤两个法力值消耗为（$2）的随从<i>（受<b>法术伤害</b>加成影响）</i>。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "召喚兩個消耗為$2的隨機手下\n<i>(隨<b>法術傷害</b>提升)</i>"
+          }
+        },
+        "textContent": "\n\t\t[x]Ruft 2 zufällige Diener\nherbei, die ($2) kosten\n<i>(wird durch <b>Zauberschaden</b>\nverbessert)</i>.\n\t\t[x]Summon two random\n$2-Cost minions <i>(improved\nby <b>Spell Damage</b>)</i>.\n\t\tInvoca a dos esbirros\n aleatorios de coste $2\n<i>(o superior, según tu <b>daño_con_hechizos</b>)</i>.\n\t\tInvoca dos esbirros aleatorios de costo $2 <i>(mejora con <b>Daño de hechizo</b>)</i>.\n\t\tInvoque deux serviteurs aléatoires coûtant $2_|4(cristal,cristaux) <i>(amélioré par les <b>dégâts des sorts</b>)</i>.\n\t\t[x]Evoca due servitori casuali\nda $2 Mana. <i>(Migliora\ncon i <b>Danni Magici</b>)</i>\n\t\t[x]ランダムなコスト（$2）の\nミニオンを2体召喚する\n<i>（<b>呪文ダメージ</b>によって\n__強化される）</i>。\n\t\t비용이 $2인 무작위 하수인을 둘 소환합니다.\n<i>(<b>주문_공격력</b>에 따라 더욱 높은 비용의 하수인 소환)</i>\n\t\t[x]Przyzwij dwóch losowych\nstronników o_koszcie ($2).\n<i>(<b>Obrażenia zaklęć</b>\nulepszają tę kartę</i>).\n\t\tEvoque dois lacaios aleatórios de Custo $2 <i>(aprimorado por <b>Dano Mágico</b>)</i>.\n\t\tВы призываете двух случайных существ за ($2) <i>(улучшается <b>«Уроном от заклинаний»</b>)</i>.\n\t\tสุ่มเรียกมินเนี่ยนค่าร่าย $2_สองตัว_<i>(ค่าร่ายของมัน[b]ปรับตาม_<b>ความเสียหายเวท</b>)</i>\n\t\t随机召唤两个法力值消耗为（$2）的随从<i>（受<b>法术伤害</b>加成影响）</i>。\n\t\t召喚兩個消耗為$2的隨機手下\n<i>(隨<b>法術傷害</b>提升)</i>\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Manchmal ist die Wissenschaft eher Kunst als Wissenschaft. Viele Leute verstehen das nicht."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Sometimes science is more art than science. A lot of people don’t get that."
+          },
+          "esES": {
+            "present": true,
+            "value": "A veces la ciencia es más un arte que una ciencia. Muchos no lo entienden."
+          },
+          "esMX": {
+            "present": true,
+            "value": "A veces la ciencia es más arte que ciencia. Muchas personas no entienden eso."
+          },
+          "frFR": {
+            "present": true,
+            "value": "La science, ça tient parfois plus de l’art que d’autre chose. Peu de gens comprennent ça."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Ogni tanto la scienza ricorda molto l'arte. Un sacco di persone non la capiscono."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "時に科学は、サイエンスである以上にアートなのだ。多くの人間には理解できん。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "과학은 과학이라기보다 예술에 가깝습니다. 높으신 분들은 그걸 몰라요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Nauka ma w sobie coś ze sztuki. Nie każdy to rozumie."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Às vezes ciência é mais arte do que tudo. Tem gente que não entende isso."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Иногда наука – это то же самое, что искусство. Многие неспособны это понять."
+          },
+          "thTH": {
+            "present": true,
+            "value": "บางครั้งวิทยาศาสตร์ก็เป็นศิลปะ[b]มากกว่าเป็นวิทยาศาสตร์ หลายคนไม่เข้าใจจุดนี้"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "科学更是一门艺术，很多人意识不到这一点。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "有時候科學比較像藝術，不太像科學。很多人不懂這點。"
+          }
+        },
+        "textContent": "\n\t\tManchmal ist die Wissenschaft eher Kunst als Wissenschaft. Viele Leute verstehen das nicht.\n\t\tSometimes science is more art than science. A lot of people don’t get that.\n\t\tA veces la ciencia es más un arte que una ciencia. Muchos no lo entienden.\n\t\tA veces la ciencia es más arte que ciencia. Muchas personas no entienden eso.\n\t\tLa science, ça tient parfois plus de l’art que d’autre chose. Peu de gens comprennent ça.\n\t\tOgni tanto la scienza ricorda molto l'arte. Un sacco di persone non la capiscono.\n\t\t時に科学は、サイエンスである以上にアートなのだ。多くの人間には理解できん。\n\t\t과학은 과학이라기보다 예술에 가깝습니다. 높으신 분들은 그걸 몰라요.\n\t\tNauka ma w sobie coś ze sztuki. Nie każdy to rozumie.\n\t\tÀs vezes ciência é mais arte do que tudo. Tem gente que não entende isso.\n\t\tИногда наука – это то же самое, что искусство. Многие неспособны это понять.\n\t\tบางครั้งวิทยาศาสตร์ก็เป็นศิลปะ[b]มากกว่าเป็นวิทยาศาสตร์ หลายคนไม่เข้าใจจุดนี้\n\t\t科学更是一门艺术，很多人意识不到这一点。\n\t\t有時候科學比較像藝術，不太像科學。很多人不懂這點。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Jakub Kasper"
+      }
     }
   },
   "_current": {

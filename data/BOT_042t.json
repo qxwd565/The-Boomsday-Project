@@ -51,6 +51,156 @@
     "currentStringTagPresence": {
       "184": false,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Zahnradsäge"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Gearblade"
+          },
+          "esES": {
+            "present": true,
+            "value": "Sierra giratoria"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Sierra engranaje"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Lame-scie"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Lama Meccanica"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ギアブレード"
+          },
+          "koKR": {
+            "present": true,
+            "value": "톱니검"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zębatkowe ostrze"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Lâmina Acoplada"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Техноклинок"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เกียร์เบลด"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "电圆锯"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "齒輪鋸刃"
+          }
+        },
+        "textContent": "\n\t\t\tZahnradsäge\n\t\t\tGearblade\n\t\t\tSierra giratoria\n\t\t\tSierra engranaje\n\t\t\tLame-scie\n\t\t\tLama Meccanica\n\t\t\tギアブレード\n\t\t\t톱니검\n\t\t\tZębatkowe ostrze\n\t\t\tLâmina Acoplada\n\t\t\tТехноклинок\n\t\t\tเกียร์เบลด\n\t\t\t电圆锯\n\t\t\t齒輪鋸刃\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Jason Kang"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Zahnradsäge"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Gearblade"
+          },
+          "esES": {
+            "present": true,
+            "value": "Sierra giratoria"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Sierra engranaje"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Lame-scie"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Lama Meccanica"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ギアブレード"
+          },
+          "koKR": {
+            "present": true,
+            "value": "톱니검"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zębatkowe ostrze"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Lâmina Acoplada"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Техноклинок"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เกียร์เบลด"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "电圆锯"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "齒輪鋸刃"
+          }
+        },
+        "textContent": "\n\t\tZahnradsäge\n\t\tGearblade\n\t\tSierra giratoria\n\t\tSierra engranaje\n\t\tLame-scie\n\t\tLama Meccanica\n\t\tギアブレード\n\t\t톱니검\n\t\tZębatkowe ostrze\n\t\tLâmina Acoplada\n\t\tТехноклинок\n\t\tเกียร์เบลด\n\t\t电圆锯\n\t\t齒輪鋸刃\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Jason Kang"
+      }
     }
   },
   "_current": {

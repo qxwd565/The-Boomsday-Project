@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Kollisionsbeschleuniger"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Supercollider"
+          },
+          "esES": {
+            "present": true,
+            "value": "Supercolisionador"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Supercolisionador"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Supercollisionneur"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Acceleratore Cinetico"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "スーパーコライダー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "자동충돌망치"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Megazderzacz"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Supercolisor"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Суперколлайдер"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ซูเปอร์คอลไลเดอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "超级对撞器"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "超級對撞器"
+          }
+        },
+        "textContent": "\n\t\t\tKollisionsbeschleuniger\n\t\t\tSupercollider\n\t\t\tSupercolisionador\n\t\t\tSupercolisionador\n\t\t\tSupercollisionneur\n\t\t\tAcceleratore Cinetico\n\t\t\tスーパーコライダー\n\t\t\t자동충돌망치\n\t\t\tMegazderzacz\n\t\t\tSupercolisor\n\t\t\tСуперколлайдер\n\t\t\tซูเปอร์คอลไลเดอร์\n\t\t\t超级对撞器\n\t\t\t超級對撞器\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "[x]Nachdem Euer Held einen\nDiener angegriffen hat, greift\nder Diener einen benach[d]barten Diener an."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]After you attack a minion,\nforce it to attack one\nof its neighbors."
+          },
+          "esES": {
+            "present": true,
+            "value": "Cuando atacas a un esbirro, este también ataca a otro adyacente a él."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Después de que atacas a un esbirro, lo obligas a atacar a uno de sus esbirros adyacentes."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Une fois que vous avez attaqué un serviteur, le force à attaquer un de ses voisins."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Dopo che il tuo eroe ha\nattaccato un servitore, lo\ncostringe ad attaccare un\nservitore adiacente."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]この武器でミニオンを\n攻撃した後\nそのミニオンに、隣接する\n誰かを攻撃させる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]내 영웅이 하수인을 공격한\n후에, 그 하수인이 자신의\n양옆에 있는 하수인 중 하나를\n공격하게 만듭니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Gdy zaatakujesz\nstronnika, zmuś go do zaatakowania jednego z sąsiadów."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Depois que você atacar um lacaio, force-o a atacar um lacaio adjacente."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "После того как вы атакуете существо, оно атакует одно из соседних существ."
+          },
+          "thTH": {
+            "present": true,
+            "value": "หลังจากคุณโจมตีมินเนี่ยน บังคับให้มันโจมตีมินเนี่ยน[b]หนึ่งตัวที่อยู่ติดกัน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "在你攻击一个随从后，迫使其攻击相邻的一个\n随从。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "在你攻擊手下後，強迫該手下攻擊一個自己旁邊的手下"
+          }
+        },
+        "textContent": "\n\t\t\t[x]Nachdem Euer Held einen\nDiener angegriffen hat, greift\nder Diener einen benach[d]barten Diener an.\n\t\t\t[x]After you attack a minion,\nforce it to attack one\nof its neighbors.\n\t\t\tCuando atacas a un esbirro, este también ataca a otro adyacente a él.\n\t\t\tDespués de que atacas a un esbirro, lo obligas a atacar a uno de sus esbirros adyacentes.\n\t\t\tUne fois que vous avez attaqué un serviteur, le force à attaquer un de ses voisins.\n\t\t\t[x]Dopo che il tuo eroe ha\nattaccato un servitore, lo\ncostringe ad attaccare un\nservitore adiacente.\n\t\t\t[x]この武器でミニオンを\n攻撃した後\nそのミニオンに、隣接する\n誰かを攻撃させる。\n\t\t\t[x]내 영웅이 하수인을 공격한\n후에, 그 하수인이 자신의\n양옆에 있는 하수인 중 하나를\n공격하게 만듭니다.\n\t\t\tGdy zaatakujesz\nstronnika, zmuś go do zaatakowania jednego z sąsiadów.\n\t\t\tDepois que você atacar um lacaio, force-o a atacar um lacaio adjacente.\n\t\t\tПосле того как вы атакуете существо, оно атакует одно из соседних существ.\n\t\t\tหลังจากคุณโจมตีมินเนี่ยน บังคับให้มันโจมตีมินเนี่ยน[b]หนึ่งตัวที่อยู่ติดกัน\n\t\t\t在你攻击一个随从后，迫使其攻击相邻的一个\n随从。\n\t\t\t在你攻擊手下後，強迫該手下攻擊一個自己旁邊的手下\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Bumms zweites Gesetz der Bewegung: Immer feste druff!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Boom's Second Law of Motion:\nHIT IT VERY HARD!"
+          },
+          "esES": {
+            "present": true,
+            "value": "Segunda ley de la termodinámica del Dr. Bum: ¡DALE! ¡DALE MUY FUERTE!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Segunda ley de movimiento de Bum: ¡GOLPÉALO MUY FUERTE!"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Deuxième loi de la dynamique de Boum : FRAPPER VITE ET FORT !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Seconda legge del moto di Boom: chi colpisce per primo colpisce due volte!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ブームの運動の第二法則: 思いっきりぶつけろ！"
+          },
+          "koKR": {
+            "present": true,
+            "value": "붐의 운동의 제 2법칙: 세게 때리면 아프다!"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Druga zasada dynamiki Huka: WALNIJ ILE WLEZIE!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Segunda Lei da Dinâmica de Cabum: BATA COM FORÇA!"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Второй закон бумодинамики: БЕЙ СО ВСЕЙ ДУРИ!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "กฎการเคลื่อนที่ข้อที่สองของบูม: หวดมันให้แรงๆ!"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "炸弹使用三定律第二条：使劲打用力抽！"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "爆爆第二運動定律：用力打下去！"
+          }
+        },
+        "textContent": "\n\t\t\tBumms zweites Gesetz der Bewegung: Immer feste druff!\n\t\t\tBoom's Second Law of Motion:\nHIT IT VERY HARD!\n\t\t\tSegunda ley de la termodinámica del Dr. Bum: ¡DALE! ¡DALE MUY FUERTE!\n\t\t\tSegunda ley de movimiento de Bum: ¡GOLPÉALO MUY FUERTE!\n\t\t\tDeuxième loi de la dynamique de Boum : FRAPPER VITE ET FORT !\n\t\t\tSeconda legge del moto di Boom: chi colpisce per primo colpisce due volte!\n\t\t\tブームの運動の第二法則: 思いっきりぶつけろ！\n\t\t\t붐의 운동의 제 2법칙: 세게 때리면 아프다!\n\t\t\tDruga zasada dynamiki Huka: WALNIJ ILE WLEZIE!\n\t\t\tSegunda Lei da Dinâmica de Cabum: BATA COM FORÇA!\n\t\t\tВторой закон бумодинамики: БЕЙ СО ВСЕЙ ДУРИ!\n\t\t\tกฎการเคลื่อนที่ข้อที่สองของบูม: หวดมันให้แรงๆ!\n\t\t\t炸弹使用三定律第二条：使劲打用力抽！\n\t\t\t爆爆第二運動定律：用力打下去！\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Jason Kang"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Kollisionsbeschleuniger"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Supercollider"
+          },
+          "esES": {
+            "present": true,
+            "value": "Supercolisionador"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Supercolisionador"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Supercollisionneur"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Acceleratore Cinetico"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "スーパーコライダー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "자동충돌망치"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Megazderzacz"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Supercolisor"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Суперколлайдер"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ซูเปอร์คอลไลเดอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "超级对撞器"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "超級對撞器"
+          }
+        },
+        "textContent": "\n\t\tKollisionsbeschleuniger\n\t\tSupercollider\n\t\tSupercolisionador\n\t\tSupercolisionador\n\t\tSupercollisionneur\n\t\tAcceleratore Cinetico\n\t\tスーパーコライダー\n\t\t자동충돌망치\n\t\tMegazderzacz\n\t\tSupercolisor\n\t\tСуперколлайдер\n\t\tซูเปอร์คอลไลเดอร์\n\t\t超级对撞器\n\t\t超級對撞器\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Nachdem Euer Held einen Diener angegriffen hat, greift der Diener einen Nachbarn an."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]After you attack a minion,\nforce it to attack one\nof its neighbors."
+          },
+          "esES": {
+            "present": true,
+            "value": "Cuando atacas a un esbirro, este también ataca a otro adyacente a él."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Después de que atacas a un esbirro, lo obligas a atacar a uno de sus esbirros adyacentes."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Une fois que vous avez attaqué un serviteur, le force à attaquer un de ses voisins."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Dopo che il tuo eroe ha\nattaccato un servitore, lo\ncostringe ad attaccare un\nservitore adiacente."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]この武器でミニオンを\n攻撃した後\nそのミニオンに、隣接する\n誰かを攻撃させる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]내 영웅이 하수인을 공격한\n후에, 그 하수인이 자신의\n양옆에 있는 하수인 중 하나를\n공격하게 만듭니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Gdy zaatakujesz\nstronnika, zmuś go do zaatakowania jednego z sąsiadów."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Depois que você atacar um lacaio, force-o a atacar um lacaio adjacente."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "После того как вы атакуете существо, оно атакует одно из соседних существ."
+          },
+          "thTH": {
+            "present": true,
+            "value": "หลังจากคุณโจมตีมินเนี่ยน บังคับให้มันโจมตีมินเนี่ยน[b]หนึ่งตัวที่อยู่ติดกัน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "在你攻击一个随从后，迫使其攻击相邻的一个\n随从。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "在你攻擊手下後，強迫該手下攻擊一個自己旁邊的手下"
+          }
+        },
+        "textContent": "\n\t\tNachdem Euer Held einen Diener angegriffen hat, greift der Diener einen Nachbarn an.\n\t\t[x]After you attack a minion,\nforce it to attack one\nof its neighbors.\n\t\tCuando atacas a un esbirro, este también ataca a otro adyacente a él.\n\t\tDespués de que atacas a un esbirro, lo obligas a atacar a uno de sus esbirros adyacentes.\n\t\tUne fois que vous avez attaqué un serviteur, le force à attaquer un de ses voisins.\n\t\t[x]Dopo che il tuo eroe ha\nattaccato un servitore, lo\ncostringe ad attaccare un\nservitore adiacente.\n\t\t[x]この武器でミニオンを\n攻撃した後\nそのミニオンに、隣接する\n誰かを攻撃させる。\n\t\t[x]내 영웅이 하수인을 공격한\n후에, 그 하수인이 자신의\n양옆에 있는 하수인 중 하나를\n공격하게 만듭니다.\n\t\tGdy zaatakujesz\nstronnika, zmuś go do zaatakowania jednego z sąsiadów.\n\t\tDepois que você atacar um lacaio, force-o a atacar um lacaio adjacente.\n\t\tПосле того как вы атакуете существо, оно атакует одно из соседних существ.\n\t\tหลังจากคุณโจมตีมินเนี่ยน บังคับให้มันโจมตีมินเนี่ยน[b]หนึ่งตัวที่อยู่ติดกัน\n\t\t在你攻击一个随从后，迫使其攻击相邻的一个\n随从。\n\t\t在你攻擊手下後，強迫該手下攻擊一個自己旁邊的手下\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Bumms zweites Gesetz der Bewegung: Immer feste druff!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Boom's Second Law of Motion:\nHIT IT VERY HARD!"
+          },
+          "esES": {
+            "present": true,
+            "value": "Segunda ley de la termodinámica del Dr. Bum: ¡DALE! ¡DALE MUY FUERTE!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Segunda ley de movimiento de Bum: ¡GOLPÉALO MUY FUERTE!"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Deuxième loi de la dynamique de Boum : FRAPPER VITE ET FORT !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Seconda legge del moto di Boom: chi colpisce per primo colpisce due volte!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ブームの運動の第二法則: 思いっきりぶつけろ！"
+          },
+          "koKR": {
+            "present": true,
+            "value": "붐의 운동의 제2법칙: 세게 때리면 아프다!"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Druga zasada dynamiki Huka: WALNIJ ILE WLEZIE!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Segunda Lei da Dinâmica de Cabum: BATA COM FORÇA!"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Второй закон бумодинамики: БЕЙ СО ВСЕЙ ДУРИ!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "กฎการเคลื่อนที่ข้อที่สองของบูม: หวดมันให้แรงๆ!"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "砰砰三定律第二条：使劲打用力抽！"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "爆爆第二運動定律：用力打下去！"
+          }
+        },
+        "textContent": "\n\t\tBumms zweites Gesetz der Bewegung: Immer feste druff!\n\t\tBoom's Second Law of Motion:\nHIT IT VERY HARD!\n\t\tSegunda ley de la termodinámica del Dr. Bum: ¡DALE! ¡DALE MUY FUERTE!\n\t\tSegunda ley de movimiento de Bum: ¡GOLPÉALO MUY FUERTE!\n\t\tDeuxième loi de la dynamique de Boum : FRAPPER VITE ET FORT !\n\t\tSeconda legge del moto di Boom: chi colpisce per primo colpisce due volte!\n\t\tブームの運動の第二法則: 思いっきりぶつけろ！\n\t\t붐의 운동의 제2법칙: 세게 때리면 아프다!\n\t\tDruga zasada dynamiki Huka: WALNIJ ILE WLEZIE!\n\t\tSegunda Lei da Dinâmica de Cabum: BATA COM FORÇA!\n\t\tВторой закон бумодинамики: БЕЙ СО ВСЕЙ ДУРИ!\n\t\tกฎการเคลื่อนที่ข้อที่สองของบูม: หวดมันให้แรงๆ!\n\t\t砰砰三定律第二条：使劲打用力抽！\n\t\t爆爆第二運動定律：用力打下去！\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Jason Kang"
+      }
     }
   },
   "_current": {

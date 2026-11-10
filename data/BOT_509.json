@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Totenwecker"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Dead Ringer"
+          },
+          "esES": {
+            "present": true,
+            "value": "Clonancio"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Fatalito"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Exhum-o-bot"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Rintoccamorte"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "デッドリンガー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "듀금의 인도자"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Śmierciobot"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Zaptizap"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Смертозвон"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เดดริงเกอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "丧钟机器人"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "替死者"
+          }
+        },
+        "textContent": "\n\t\t\tTotenwecker\n\t\t\tDead Ringer\n\t\t\tClonancio\n\t\t\tFatalito\n\t\t\tExhum-o-bot\n\t\t\tRintoccamorte\n\t\t\tデッドリンガー\n\t\t\t듀금의 인도자\n\t\t\tŚmierciobot\n\t\t\tZaptizap\n\t\t\tСмертозвон\n\t\t\tเดดริงเกอร์\n\t\t\t丧钟机器人\n\t\t\t替死者\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Todesröcheln:</b> Zieht einen Diener mit <b>Todesröcheln</b> aus Eurem Deck."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Draw a <b>Deathrattle</b> minion from your deck."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Último aliento:</b>\nRoba un esbirro\ncon <b>Último aliento</b>\nde tu mazo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Estertor:</b> roba un esbirro con <b>Estertor</b> de tu mazo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Râle d’agonie_:</b> vous piochez un serviteur\navec <b>Râle d’agonie</b> dans votre deck."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Rantolo di Morte:</b>\npesca un servitore con\n<b>Rantolo di Morte</b>\ndal tuo mazzo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>断末魔:</b>\n自分のデッキから\n<b>断末魔</b>を持つミニオンを\n1体引く。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b> 내 덱에서 <b>죽음의 메아리</b> 하수인을 하나 뽑습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Agonia:</b> Dobierz stronnika z <b>Agonią</b> z_twojej_talii."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Último Suspiro:</b> Compre um lacaio com <b>Último Suspiro</b> do seu deck."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Предсмертный хрип:</b> вы берете из колоды существо [x]с <b>«Предсмертным хрипом»</b>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>เสียงสุดท้าย:</b> จั่วการ์ด[b]มินเนี่ยน <b>เสียงสุดท้าย</b> หนึ่งใบจากเด็คของคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>亡语：</b>从你的牌库中抽一张具有<b>亡语</b>的随从牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>死亡之聲：</b>從你的牌堆抽出一張<b>死亡之聲</b>手下"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Todesröcheln:</b> Zieht einen Diener mit <b>Todesröcheln</b> aus Eurem Deck.\n\t\t\t<b>Deathrattle:</b> Draw a <b>Deathrattle</b> minion from your deck.\n\t\t\t[x]<b>Último aliento:</b>\nRoba un esbirro\ncon <b>Último aliento</b>\nde tu mazo.\n\t\t\t<b>Estertor:</b> roba un esbirro con <b>Estertor</b> de tu mazo.\n\t\t\t<b>Râle d’agonie_:</b> vous piochez un serviteur\navec <b>Râle d’agonie</b> dans votre deck.\n\t\t\t[x]<b>Rantolo di Morte:</b>\npesca un servitore con\n<b>Rantolo di Morte</b>\ndal tuo mazzo.\n\t\t\t[x]<b>断末魔:</b>\n自分のデッキから\n<b>断末魔</b>を持つミニオンを\n1体引く。\n\t\t\t<b>죽음의 메아리:</b> 내 덱에서 <b>죽음의 메아리</b> 하수인을 하나 뽑습니다.\n\t\t\t<b>Agonia:</b> Dobierz stronnika z <b>Agonią</b> z_twojej_talii.\n\t\t\t<b>Último Suspiro:</b> Compre um lacaio com <b>Último Suspiro</b> do seu deck.\n\t\t\t<b>Предсмертный хрип:</b> вы берете из колоды существо [x]с <b>«Предсмертным хрипом»</b>.\n\t\t\t<b>เสียงสุดท้าย:</b> จั่วการ์ด[b]มินเนี่ยน <b>เสียงสุดท้าย</b> หนึ่งใบจากเด็คของคุณ\n\t\t\t<b>亡语：</b>从你的牌库中抽一张具有<b>亡语</b>的随从牌。\n\t\t\t<b>死亡之聲：</b>從你的牌堆抽出一張<b>死亡之聲</b>手下\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "„Nur noch 5 Minuten, Mutti.“"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Shortstop on N'zoth's softball team."
+          },
+          "esES": {
+            "present": true,
+            "value": "Se quedó fuera del equipo de baloncesto de N'zoth."
+          },
+          "esMX": {
+            "present": true,
+            "value": "El defensor más letal del equipo de sóftbol de N'zoth."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Dans un dernier râle, juste avant de mourir, il fit appel à un ami."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Il migliore amico di N'zoth."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ン＝ゾスのソフトボールチームではショートを守っている。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "듀거! 듀거! 듀거!"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Nigdy nie wyrósł z fazy mrocznego pseudonimu i różowych dodatków."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Originalmente era pra ser um controle remoto."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Звонит по всем."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ริงดิงดอง ริงดิงดอง ริง อะดิงดิงดิง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "砰砰博士的得力助手。精通枪术剑术，拥有惊人的恢复能力。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "他是恩若斯壘球隊的游擊手。"
+          }
+        },
+        "textContent": "\n\t\t\t„Nur noch 5 Minuten, Mutti.“\n\t\t\tShortstop on N'zoth's softball team.\n\t\t\tSe quedó fuera del equipo de baloncesto de N'zoth.\n\t\t\tEl defensor más letal del equipo de sóftbol de N'zoth.\n\t\t\tDans un dernier râle, juste avant de mourir, il fit appel à un ami.\n\t\t\tIl migliore amico di N'zoth.\n\t\t\tン＝ゾスのソフトボールチームではショートを守っている。\n\t\t\t듀거! 듀거! 듀거!\n\t\t\tNigdy nie wyrósł z fazy mrocznego pseudonimu i różowych dodatków.\n\t\t\tOriginalmente era pra ser um controle remoto.\n\t\t\tЗвонит по всем.\n\t\t\tริงดิงดอง ริงดิงดอง ริง อะดิงดิงดิง\n\t\t\t砰砰博士的得力助手。精通枪术剑术，拥有惊人的恢复能力。\n\t\t\t他是恩若斯壘球隊的游擊手。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Dave Allsop"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Totenwecker"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Dead Ringer"
+          },
+          "esES": {
+            "present": true,
+            "value": "Clonancio"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Fatalito"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Exhum-o-bot"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Rintoccamorte"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "デッドリンガー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "듀금의 인도자"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Śmierciobot"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Zaptizap"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Смертозвон"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เดดริงเกอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "丧钟机器人"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "替死者"
+          }
+        },
+        "textContent": "\n\t\tTotenwecker\n\t\tDead Ringer\n\t\tClonancio\n\t\tFatalito\n\t\tExhum-o-bot\n\t\tRintoccamorte\n\t\tデッドリンガー\n\t\t듀금의 인도자\n\t\tŚmierciobot\n\t\tZaptizap\n\t\tСмертозвон\n\t\tเดดริงเกอร์\n\t\t丧钟机器人\n\t\t替死者\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Todesröcheln:</b> Zieht einen Diener mit <b>Todesröcheln</b> aus Eurem Deck."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Draw a <b>Deathrattle</b> minion from your deck."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Último aliento:</b>\nRoba un esbirro\ncon <b>Último aliento</b>\nde tu mazo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Estertor:</b> roba un esbirro con <b>Estertor</b> de tu mazo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Râle d’agonie_:</b> vous piochez un serviteur\navec <b>Râle d’agonie</b> dans votre deck."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Rantolo di Morte:</b>\npesca un servitore con\n<b>Rantolo di Morte</b>\ndal tuo mazzo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>断末魔:</b>\n自分のデッキから\n<b>断末魔</b>を持つミニオンを\n1体引く。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>죽음의 메아리:</b>\n내 덱에서 <b>죽음의 메아리</b>\n하수인을 뽑습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Agonia:</b> Dobierz stronnika z <b>Agonią</b> z_twojej_talii."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Último Suspiro:</b> Compre um lacaio com <b>Último Suspiro</b> do seu deck."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Предсмертный хрип:</b> вы берете из колоды существо [x]с <b>«Предсмертным хрипом»</b>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>เสียงสุดท้าย:</b> จั่วมินเนี่ยน <b>เสียงสุดท้าย</b>_หนึ่งใบ[b]จากเด็คคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>亡语：</b>从你的牌库中抽一张具有<b>亡语</b>的随从牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>死亡之聲：</b>從你的牌堆抽出一張<b>死亡之聲</b>手下"
+          }
+        },
+        "textContent": "\n\t\t<b>Todesröcheln:</b> Zieht einen Diener mit <b>Todesröcheln</b> aus Eurem Deck.\n\t\t<b>Deathrattle:</b> Draw a <b>Deathrattle</b> minion from your deck.\n\t\t[x]<b>Último aliento:</b>\nRoba un esbirro\ncon <b>Último aliento</b>\nde tu mazo.\n\t\t<b>Estertor:</b> roba un esbirro con <b>Estertor</b> de tu mazo.\n\t\t<b>Râle d’agonie_:</b> vous piochez un serviteur\navec <b>Râle d’agonie</b> dans votre deck.\n\t\t[x]<b>Rantolo di Morte:</b>\npesca un servitore con\n<b>Rantolo di Morte</b>\ndal tuo mazzo.\n\t\t[x]<b>断末魔:</b>\n自分のデッキから\n<b>断末魔</b>を持つミニオンを\n1体引く。\n\t\t[x]<b>죽음의 메아리:</b>\n내 덱에서 <b>죽음의 메아리</b>\n하수인을 뽑습니다.\n\t\t<b>Agonia:</b> Dobierz stronnika z <b>Agonią</b> z_twojej_talii.\n\t\t<b>Último Suspiro:</b> Compre um lacaio com <b>Último Suspiro</b> do seu deck.\n\t\t<b>Предсмертный хрип:</b> вы берете из колоды существо [x]с <b>«Предсмертным хрипом»</b>.\n\t\t<b>เสียงสุดท้าย:</b> จั่วมินเนี่ยน <b>เสียงสุดท้าย</b>_หนึ่งใบ[b]จากเด็คคุณ\n\t\t<b>亡语：</b>从你的牌库中抽一张具有<b>亡语</b>的随从牌。\n\t\t<b>死亡之聲：</b>從你的牌堆抽出一張<b>死亡之聲</b>手下\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "„Nur noch 5 Minuten, Mutti.“"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Shortstop on N'zoth's softball team."
+          },
+          "esES": {
+            "present": true,
+            "value": "Se quedó fuera del equipo de baloncesto de N'zoth."
+          },
+          "esMX": {
+            "present": true,
+            "value": "El defensor más letal del equipo de sóftbol de N'zoth."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Dans un dernier râle, juste avant de mourir, il fit appel à un ami."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Il migliore amico di N'zoth."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ン＝ゾスのソフトボールチームではショートを守っている。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "듀거! 듀거! 듀거!"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Nigdy nie wyrósł z fazy mrocznego pseudonimu i różowych dodatków."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Originalmente era pra ser um controle remoto."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Звонит по всем."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ริงดิงดอง ริงดิงดอง ริง อะดิงดิงดิง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "砰砰博士的得力助手。精通枪术剑术，拥有惊人的恢复能力。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "他是恩若司壘球隊的游擊手。"
+          }
+        },
+        "textContent": "\n\t\t„Nur noch 5 Minuten, Mutti.“\n\t\tShortstop on N'zoth's softball team.\n\t\tSe quedó fuera del equipo de baloncesto de N'zoth.\n\t\tEl defensor más letal del equipo de sóftbol de N'zoth.\n\t\tDans un dernier râle, juste avant de mourir, il fit appel à un ami.\n\t\tIl migliore amico di N'zoth.\n\t\tン＝ゾスのソフトボールチームではショートを守っている。\n\t\t듀거! 듀거! 듀거!\n\t\tNigdy nie wyrósł z fazy mrocznego pseudonimu i różowych dodatków.\n\t\tOriginalmente era pra ser um controle remoto.\n\t\tЗвонит по всем.\n\t\tริงดิงดอง ริงดิงดอง ริง อะดิงดิงดิง\n\t\t砰砰博士的得力助手。精通枪术剑术，拥有惊人的恢复能力。\n\t\t他是恩若司壘球隊的游擊手。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Dave Allsop"
+      }
     }
   },
   "_current": {

@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Versuchsobjekt"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Test Subject"
+          },
+          "esES": {
+            "present": true,
+            "value": "Sujeto de pruebas"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Sujeto de prueba"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Sujet d’expérience"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Soggetto di Prova"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "実験台"
+          },
+          "koKR": {
+            "present": true,
+            "value": "실험체"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Obiekt testowy"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Cobaia"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Подопытный"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ตัวทดลอง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "实验体"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "受試者"
+          }
+        },
+        "textContent": "\n\t\t\tVersuchsobjekt\n\t\t\tTest Subject\n\t\t\tSujeto de pruebas\n\t\t\tSujeto de prueba\n\t\t\tSujet d’expérience\n\t\t\tSoggetto di Prova\n\t\t\t実験台\n\t\t\t실험체\n\t\t\tObiekt testowy\n\t\t\tCobaia\n\t\t\tПодопытный\n\t\t\tตัวทดลอง\n\t\t\t实验体\n\t\t\t受試者\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "[x]<b>Todesröcheln:</b> Lasst alle\nZauber, die Ihr auf diesen\nDiener gewirkt habt, auf Eure\nHand zurückkehren."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Deathrattle:</b> Return any\nspells you cast on this\nminion to your hand."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Último aliento:</b>\nDevuelve a tu mano todos\nlos_hechizos que le hayas\nlanzado a este esbirro."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Estertor:</b> regresa a tu mano cualquier hechizo que hayas lanzado sobre este esbirro."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Râle d’agonie_:</b> renvoie tous les sorts que vous avez lancés sur ce serviteur dans votre main."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Rantolo di Morte:</b>\nfa tornare nella tua mano\nle Magie che hai lanciato\nsu questo servitore."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>断末魔:</b>\n自分がこのミニオンに\n使用した全ての呪文を\n____自分の手札に戻す。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b>\n내가 이 하수인에게\n시전한 모든 주문을 내 손으로 가져옵니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Agonia:</b> Cofnij do twojej ręki wszystkie zaklęcia rzucone przez ciebie na tego stronnika."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Último Suspiro:</b> Devolva à sua mão todos os feitiços que você lançou neste lacaio."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Предсмертный хрип:</b> возвращает в руку все заклинания, которые вы разыграли, выбрав целью [x]это существо."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>เสียงสุดท้าย:</b> นำเวทมนตร์[b]ทั้งหมดที่คุณร่ายใส่มินเนี่ยน[b]ตัวนี้กลับขึ้นมือคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>亡语：</b>将你施放在该随从身上的所有法术移回你的手牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>死亡之聲：</b>將你\n對此手下施放的法術返回你的手中"
+          }
+        },
+        "textContent": "\n\t\t\t[x]<b>Todesröcheln:</b> Lasst alle\nZauber, die Ihr auf diesen\nDiener gewirkt habt, auf Eure\nHand zurückkehren.\n\t\t\t[x]<b>Deathrattle:</b> Return any\nspells you cast on this\nminion to your hand.\n\t\t\t[x]<b>Último aliento:</b>\nDevuelve a tu mano todos\nlos_hechizos que le hayas\nlanzado a este esbirro.\n\t\t\t<b>Estertor:</b> regresa a tu mano cualquier hechizo que hayas lanzado sobre este esbirro.\n\t\t\t<b>Râle d’agonie_:</b> renvoie tous les sorts que vous avez lancés sur ce serviteur dans votre main.\n\t\t\t[x]<b>Rantolo di Morte:</b>\nfa tornare nella tua mano\nle Magie che hai lanciato\nsu questo servitore.\n\t\t\t[x]<b>断末魔:</b>\n自分がこのミニオンに\n使用した全ての呪文を\n____自分の手札に戻す。\n\t\t\t<b>죽음의 메아리:</b>\n내가 이 하수인에게\n시전한 모든 주문을 내 손으로 가져옵니다.\n\t\t\t<b>Agonia:</b> Cofnij do twojej ręki wszystkie zaklęcia rzucone przez ciebie na tego stronnika.\n\t\t\t<b>Último Suspiro:</b> Devolva à sua mão todos os feitiços que você lançou neste lacaio.\n\t\t\t<b>Предсмертный хрип:</b> возвращает в руку все заклинания, которые вы разыграли, выбрав целью [x]это существо.\n\t\t\t<b>เสียงสุดท้าย:</b> นำเวทมนตร์[b]ทั้งหมดที่คุณร่ายใส่มินเนี่ยน[b]ตัวนี้กลับขึ้นมือคุณ\n\t\t\t<b>亡语：</b>将你施放在该随从身上的所有法术移回你的手牌。\n\t\t\t<b>死亡之聲：</b>將你\n對此手下施放的法術返回你的手中\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "„Ich fühl mich überhaupt nicht gut_...”"
+          },
+          "enUS": {
+            "present": true,
+            "value": "“Now I feel... REALLY icky.”"
+          },
+          "esES": {
+            "present": true,
+            "value": "«Me encuentro muuuy mal»."
+          },
+          "esMX": {
+            "present": true,
+            "value": "“Ahora me siento... MUY asqueroso”."
+          },
+          "frFR": {
+            "present": true,
+            "value": "« Maintenant, je me sens… VRAIMENT sale. »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "\"Adesso mi sento... DAVVERO appiccicoso.\""
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「…本気で気持ち悪くなってきたよぉ」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"이러니까 속이... 진짜 메스껍네.\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Teraz to dopiero parszywie się czuję”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "\"Agora me sinto REALMENTE bem nojento.\""
+          },
+          "ruRU": {
+            "present": true,
+            "value": "«Чувствую, после такого не играть мне больше на скрипке»."
+          },
+          "thTH": {
+            "present": true,
+            "value": "\"ข้ารู้สึก... หยะแหยงมาก\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "“我感觉……真的很难受。”"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "「我現在感覺非常黏TT！」"
+          }
+        },
+        "textContent": "\n\t\t\t„Ich fühl mich überhaupt nicht gut_...”\n\t\t\t“Now I feel... REALLY icky.”\n\t\t\t«Me encuentro muuuy mal».\n\t\t\t“Ahora me siento... MUY asqueroso”.\n\t\t\t« Maintenant, je me sens… VRAIMENT sale. »\n\t\t\t\"Adesso mi sento... DAVVERO appiccicoso.\"\n\t\t\t「…本気で気持ち悪くなってきたよぉ」\n\t\t\t\"이러니까 속이... 진짜 메스껍네.\"\n\t\t\t„Teraz to dopiero parszywie się czuję”.\n\t\t\t\"Agora me sinto REALMENTE bem nojento.\"\n\t\t\t«Чувствую, после такого не играть мне больше на скрипке».\n\t\t\t\"ข้ารู้สึก... หยะแหยงมาก\"\n\t\t\t“我感觉……真的很难受。”\n\t\t\t「我現在感覺非常黏TT！」\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Ian Ameling"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Versuchsobjekt"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Test Subject"
+          },
+          "esES": {
+            "present": true,
+            "value": "Sujeto de pruebas"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Sujeto de prueba"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Sujet d’expérience"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Soggetto di Prova"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "実験台"
+          },
+          "koKR": {
+            "present": true,
+            "value": "실험체"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Obiekt testowy"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Cobaia"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Подопытный"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ตัวทดลอง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "实验体"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "受試者"
+          }
+        },
+        "textContent": "\n\t\tVersuchsobjekt\n\t\tTest Subject\n\t\tSujeto de pruebas\n\t\tSujeto de prueba\n\t\tSujet d’expérience\n\t\tSoggetto di Prova\n\t\t実験台\n\t\t실험체\n\t\tObiekt testowy\n\t\tCobaia\n\t\tПодопытный\n\t\tตัวทดลอง\n\t\t实验体\n\t\t受試者\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Todesröcheln:</b> Mischt\nalle Zauber in Euer Deck, die Ihr auf diesen Diener gewirkt habt."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Deathrattle:</b> Shuffle any\nspells you cast on this\nminion into your deck."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Último aliento:</b> Mete\ntodos los_hechizos que\nle hayas lanzado a este\nesbirro en tu mazo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Estertor:</b> coloca en tu mazo cualquier hechizo que hayas lanzado sobre este esbirro."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Râle d’agonie_:</b> place tous les sorts que vous avez lancés sur_ce serviteur dans votre deck."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Rantolo di Morte:</b> mette\nnel tuo mazzo le Magie\nche hai lanciato su\nquesto servitore."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>断末魔:</b>\n自分がこのミニオンに\n使用した全ての呪文を\n____自分のデッキに混ぜる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b>\n내가 이 하수인에게\n시전한 모든 주문을 내 덱에 섞어 넣습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Agonia:</b> Wtasuj do twojej talii wszystkie zaklęcia rzucone przez ciebie na tego stronnika."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Último Suspiro:</b> Coloque no seu deck qualquer feitiço que você lançar neste lacaio."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Предсмертный хрип:</b> замешивает в вашу колоду все заклинания, которые вы применили, выбрав целью это существо."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>เสียงสุดท้าย:</b> สับเวทมนตร์[b]ทั้งหมดที่คุณเคยร่ายใส่[b]มินเนี่ยนตัวนี้เข้าเด็คคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>亡语：</b>将你施放在本随从身上的所有法术洗入你的牌库。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>死亡之聲：</b>將你對此手下施放的法術洗入你的牌堆中"
+          }
+        },
+        "textContent": "\n\t\t<b>Todesröcheln:</b> Mischt\nalle Zauber in Euer Deck, die Ihr auf diesen Diener gewirkt habt.\n\t\t[x]<b>Deathrattle:</b> Shuffle any\nspells you cast on this\nminion into your deck.\n\t\t[x]<b>Último aliento:</b> Mete\ntodos los_hechizos que\nle hayas lanzado a este\nesbirro en tu mazo.\n\t\t<b>Estertor:</b> coloca en tu mazo cualquier hechizo que hayas lanzado sobre este esbirro.\n\t\t<b>Râle d’agonie_:</b> place tous les sorts que vous avez lancés sur_ce serviteur dans votre deck.\n\t\t[x]<b>Rantolo di Morte:</b> mette\nnel tuo mazzo le Magie\nche hai lanciato su\nquesto servitore.\n\t\t[x]<b>断末魔:</b>\n自分がこのミニオンに\n使用した全ての呪文を\n____自分のデッキに混ぜる。\n\t\t<b>죽음의 메아리:</b>\n내가 이 하수인에게\n시전한 모든 주문을 내 덱에 섞어 넣습니다.\n\t\t<b>Agonia:</b> Wtasuj do twojej talii wszystkie zaklęcia rzucone przez ciebie na tego stronnika.\n\t\t<b>Último Suspiro:</b> Coloque no seu deck qualquer feitiço que você lançar neste lacaio.\n\t\t<b>Предсмертный хрип:</b> замешивает в вашу колоду все заклинания, которые вы применили, выбрав целью это существо.\n\t\t<b>เสียงสุดท้าย:</b> สับเวทมนตร์[b]ทั้งหมดที่คุณเคยร่ายใส่[b]มินเนี่ยนตัวนี้เข้าเด็คคุณ\n\t\t<b>亡语：</b>将你施放在本随从身上的所有法术洗入你的牌库。\n\t\t<b>死亡之聲：</b>將你對此手下施放的法術洗入你的牌堆中\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "„Ich fühl mich überhaupt nicht gut_...”"
+          },
+          "enUS": {
+            "present": true,
+            "value": "“Now I feel... REALLY icky.”"
+          },
+          "esES": {
+            "present": true,
+            "value": "«Me encuentro muuuy mal»."
+          },
+          "esMX": {
+            "present": true,
+            "value": "“Ahora me siento... MUY asqueroso”."
+          },
+          "frFR": {
+            "present": true,
+            "value": "« Maintenant, je me sens… VRAIMENT sale. »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "\"Adesso mi sento... DAVVERO appiccicoso.\""
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「…本気で気持ち悪くなってきたよぉ」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"이러니까 속이... 진짜 메스껍네.\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Teraz to dopiero parszywie się czuję”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "\"Agora me sinto REALMENTE bem nojento.\""
+          },
+          "ruRU": {
+            "present": true,
+            "value": "«Чувствую, после такого не играть мне больше на скрипке»."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ข้ารู้สึก... หยะแหยงมาก"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "“我感觉……真的很难受。”"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "「我現在感覺非常黏TT！」"
+          }
+        },
+        "textContent": "\n\t\t„Ich fühl mich überhaupt nicht gut_...”\n\t\t“Now I feel... REALLY icky.”\n\t\t«Me encuentro muuuy mal».\n\t\t“Ahora me siento... MUY asqueroso”.\n\t\t« Maintenant, je me sens… VRAIMENT sale. »\n\t\t\"Adesso mi sento... DAVVERO appiccicoso.\"\n\t\t「…本気で気持ち悪くなってきたよぉ」\n\t\t\"이러니까 속이... 진짜 메스껍네.\"\n\t\t„Teraz to dopiero parszywie się czuję”.\n\t\t\"Agora me sinto REALMENTE bem nojento.\"\n\t\t«Чувствую, после такого не играть мне больше на скрипке».\n\t\tข้ารู้สึก... หยะแหยงมาก\n\t\t“我感觉……真的很难受。”\n\t\t「我現在感覺非常黏TT！」\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Ian Ameling"
+      }
     }
   },
   "_current": {

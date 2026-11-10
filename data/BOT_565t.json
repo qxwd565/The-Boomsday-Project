@@ -83,6 +83,286 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Radioaktiver Schleim"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Radioactive Ooze"
+          },
+          "esES": {
+            "present": true,
+            "value": "Moco radiactivo"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Moco radioactivo"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Limon radioactif"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Melma Radioattiva"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "放射性ウーズ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "방사능 수액"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Radioaktywny szlam"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Gosma Radioativa"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Радиоактивная слизь"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เมือกรังสี"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "辐射软泥怪"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "輻射汙泥怪"
+          }
+        },
+        "textContent": "\n\t\t\tRadioaktiver Schleim\n\t\t\tRadioactive Ooze\n\t\t\tMoco radiactivo\n\t\t\tMoco radioactivo\n\t\t\tLimon radioactif\n\t\t\tMelma Radioattiva\n\t\t\t放射性ウーズ\n\t\t\t방사능 수액\n\t\t\tRadioaktywny szlam\n\t\t\tGosma Radioativa\n\t\t\tРадиоактивная слизь\n\t\t\tเมือกรังสี\n\t\t\t辐射软泥怪\n\t\t\t輻射汙泥怪\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Giftig</b>, <b>Eifer</b>"
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Poisonous</b>\n<b>Rush</b>"
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Veneno</b>\n<b>Embestir</b>"
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Venenoso</b>\n<b>Acometida</b>"
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Toxicité</b>\n<b>Ruée</b>"
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Veleno</b>.\n<b>Assalto</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>猛毒</b>\n<b>急襲</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>독성</b>\n<b>속공</b>"
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Trucizna</b>\n<b>Zryw</b>"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Venenoso</b>\n<b>Rapidez</b>"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Яд</b>\n<b>Натиск</b>"
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>พิษ</b>\n<b>จู่โจม</b>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>剧毒</b>\n<b>突袭</b>"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>致命劇毒</b>\n<b>衝刺</b>"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Giftig</b>, <b>Eifer</b>\n\t\t\t<b>Poisonous</b>\n<b>Rush</b>\n\t\t\t<b>Veneno</b>\n<b>Embestir</b>\n\t\t\t<b>Venenoso</b>\n<b>Acometida</b>\n\t\t\t<b>Toxicité</b>\n<b>Ruée</b>\n\t\t\t[x]<b>Veleno</b>.\n<b>Assalto</b>.\n\t\t\t<b>猛毒</b>\n<b>急襲</b>\n\t\t\t<b>독성</b>\n<b>속공</b>\n\t\t\t<b>Trucizna</b>\n<b>Zryw</b>\n\t\t\t<b>Venenoso</b>\n<b>Rapidez</b>\n\t\t\t<b>Яд</b>\n<b>Натиск</b>\n\t\t\t<b>พิษ</b>\n<b>จู่โจม</b>\n\t\t\t<b>剧毒</b>\n<b>突袭</b>\n\t\t\t<b>致命劇毒</b>\n<b>衝刺</b>\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Anton Kagounkin"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Radioaktiver Schleim"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Radioactive Ooze"
+          },
+          "esES": {
+            "present": true,
+            "value": "Moco radiactivo"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Moco radioactivo"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Limon radioactif"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Melma Radioattiva"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "放射性ウーズ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "방사능 수액"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Radioaktywny szlam"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Gosma Radioativa"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Радиоактивная слизь"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เมือกรังสี"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "辐射软泥怪"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "輻射汙泥怪"
+          }
+        },
+        "textContent": "\n\t\tRadioaktiver Schleim\n\t\tRadioactive Ooze\n\t\tMoco radiactivo\n\t\tMoco radioactivo\n\t\tLimon radioactif\n\t\tMelma Radioattiva\n\t\t放射性ウーズ\n\t\t방사능 수액\n\t\tRadioaktywny szlam\n\t\tGosma Radioativa\n\t\tРадиоактивная слизь\n\t\tเมือกรังสี\n\t\t辐射软泥怪\n\t\t輻射汙泥怪\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Giftig</b>, <b>Eifer</b>"
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Poisonous</b>\n<b>Rush</b>"
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Veneno</b>\n<b>Embestir</b>"
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Venenoso</b>\n<b>Acometida</b>"
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Toxicité</b>\n<b>Ruée</b>"
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Veleno</b>.\n<b>Assalto</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>猛毒</b>\n<b>急襲</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>독성</b>\n<b>속공</b>"
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Trucizna</b>\n<b>Zryw</b>"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Venenoso</b>\n<b>Rapidez</b>"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Яд</b>\n<b>Натиск</b>"
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>พิษ</b>\n<b>จู่โจม</b>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>剧毒</b>\n<b>突袭</b>"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>致命劇毒</b>\n<b>衝刺</b>"
+          }
+        },
+        "textContent": "\n\t\t<b>Giftig</b>, <b>Eifer</b>\n\t\t<b>Poisonous</b>\n<b>Rush</b>\n\t\t<b>Veneno</b>\n<b>Embestir</b>\n\t\t<b>Venenoso</b>\n<b>Acometida</b>\n\t\t<b>Toxicité</b>\n<b>Ruée</b>\n\t\t[x]<b>Veleno</b>.\n<b>Assalto</b>.\n\t\t<b>猛毒</b>\n<b>急襲</b>\n\t\t<b>독성</b>\n<b>속공</b>\n\t\t<b>Trucizna</b>\n<b>Zryw</b>\n\t\t<b>Venenoso</b>\n<b>Rapidez</b>\n\t\t<b>Яд</b>\n<b>Натиск</b>\n\t\t<b>พิษ</b>\n<b>จู่โจม</b>\n\t\t<b>剧毒</b>\n<b>突袭</b>\n\t\t<b>致命劇毒</b>\n<b>衝刺</b>\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Anton Kagounkin"
+      }
     }
   },
   "_current": {

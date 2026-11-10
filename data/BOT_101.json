@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Astraler Riss"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Astral Rift"
+          },
+          "esES": {
+            "present": true,
+            "value": "Falla astral"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Fisura astral"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Faille astrale"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Varco Astrale"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "星霊の亀裂"
+          },
+          "koKR": {
+            "present": true,
+            "value": "천공의 균열"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Szczelina astralna"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Fissura Astral"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Астральный разлом"
+          },
+          "thTH": {
+            "present": true,
+            "value": "รอยแยกจักรวาล"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "星界裂隙"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "星界裂隙"
+          }
+        },
+        "textContent": "\n\t\t\tAstraler Riss\n\t\t\tAstral Rift\n\t\t\tFalla astral\n\t\t\tFisura astral\n\t\t\tFaille astrale\n\t\t\tVarco Astrale\n\t\t\t星霊の亀裂\n\t\t\t천공의 균열\n\t\t\tSzczelina astralna\n\t\t\tFissura Astral\n\t\t\tАстральный разлом\n\t\t\tรอยแยกจักรวาล\n\t\t\t星界裂隙\n\t\t\t星界裂隙\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Erhaltet 2 zufällige Diener auf die Hand."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Add 2 random minions to your hand."
+          },
+          "esES": {
+            "present": true,
+            "value": "Añade 2 esbirros aleatorios a tu mano."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Agrega 2 esbirros aleatorios a tu mano."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Ajoute 2_serviteurs aléatoires dans votre main."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Mette nella tua mano due servitori casuali."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]ランダムな\nミニオン2体を\n自分の手札に\n_追加する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]무작위 하수인 둘을\n내 손으로 가져옵니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Dodaj 2 losowych stronników do twojej ręki."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Adicione 2 lacaios aleatórios à sua mão."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Вы кладете в руку 2_случайных существ."
+          },
+          "thTH": {
+            "present": true,
+            "value": "สุ่มเพิ่มการ์ดมินเนี่ยน 2 ใบในมือคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "随机将两张随从牌置入你的\n手牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "放2個隨機\n手下到你的手中"
+          }
+        },
+        "textContent": "\n\t\t\tErhaltet 2 zufällige Diener auf die Hand.\n\t\t\tAdd 2 random minions to your hand.\n\t\t\tAñade 2 esbirros aleatorios a tu mano.\n\t\t\tAgrega 2 esbirros aleatorios a tu mano.\n\t\t\tAjoute 2_serviteurs aléatoires dans votre main.\n\t\t\tMette nella tua mano due servitori casuali.\n\t\t\t[x]ランダムな\nミニオン2体を\n自分の手札に\n_追加する。\n\t\t\t[x]무작위 하수인 둘을\n내 손으로 가져옵니다.\n\t\t\tDodaj 2 losowych stronników do twojej ręki.\n\t\t\tAdicione 2 lacaios aleatórios à sua mão.\n\t\t\tВы кладете в руку 2_случайных существ.\n\t\t\tสุ่มเพิ่มการ์ดมินเนี่ยน 2 ใบในมือคุณ\n\t\t\t随机将两张随从牌置入你的\n手牌。\n\t\t\t放2個隨機\n手下到你的手中\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Schauen wir doch mal, was sich hinter Riss Nummer eins verbirgt!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Let's see what's behind rift number one!"
+          },
+          "esES": {
+            "present": true,
+            "value": "¡Veamos qué se esconde tras la falla número uno!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "¡Veamos qué hay detrás de la fisura número uno!"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Voyons ce qui se cache derrière la faille numéro un !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Vediamo cosa si nasconde dietro al varco numero 1!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "さて、1番の亀裂の向こうには何が隠れているでしょうか！"
+          },
+          "koKR": {
+            "present": true,
+            "value": "1번 균열 뒤에는 무엇이 있을까요!"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zobaczmy, co kryje się w szczelinie numer jeden!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Vamos ver o que está atrás da Fenda número um!"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Посмотрим, что там за первым разломом!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "มาดูกันครับว่าอะไรอยู่หลัง[b]รอยแยกหมายเลขหนึ่ง!"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "让我们来看看一号裂隙的后面藏着什么！"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "來看看一號裂隙的後面是誰！"
+          }
+        },
+        "textContent": "\n\t\t\tSchauen wir doch mal, was sich hinter Riss Nummer eins verbirgt!\n\t\t\tLet's see what's behind rift number one!\n\t\t\t¡Veamos qué se esconde tras la falla número uno!\n\t\t\t¡Veamos qué hay detrás de la fisura número uno!\n\t\t\tVoyons ce qui se cache derrière la faille numéro un !\n\t\t\tVediamo cosa si nasconde dietro al varco numero 1!\n\t\t\tさて、1番の亀裂の向こうには何が隠れているでしょうか！\n\t\t\t1번 균열 뒤에는 무엇이 있을까요!\n\t\t\tZobaczmy, co kryje się w szczelinie numer jeden!\n\t\t\tVamos ver o que está atrás da Fenda número um!\n\t\t\tПосмотрим, что там за первым разломом!\n\t\t\tมาดูกันครับว่าอะไรอยู่หลัง[b]รอยแยกหมายเลขหนึ่ง!\n\t\t\t让我们来看看一号裂隙的后面藏着什么！\n\t\t\t來看看一號裂隙的後面是誰！\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "A.J. Nazzaro"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Astraler Riss"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Astral Rift"
+          },
+          "esES": {
+            "present": true,
+            "value": "Falla astral"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Fisura astral"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Faille astrale"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Varco Astrale"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "星霊の亀裂"
+          },
+          "koKR": {
+            "present": true,
+            "value": "천공의 균열"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Szczelina astralna"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Fissura Astral"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Астральный разлом"
+          },
+          "thTH": {
+            "present": true,
+            "value": "รอยแยกจักรวาล"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "星界裂隙"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "星界裂隙"
+          }
+        },
+        "textContent": "\n\t\tAstraler Riss\n\t\tAstral Rift\n\t\tFalla astral\n\t\tFisura astral\n\t\tFaille astrale\n\t\tVarco Astrale\n\t\t星霊の亀裂\n\t\t천공의 균열\n\t\tSzczelina astralna\n\t\tFissura Astral\n\t\tАстральный разлом\n\t\tรอยแยกจักรวาล\n\t\t星界裂隙\n\t\t星界裂隙\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Erhaltet 2 zufällige Diener auf die Hand."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Add 2 random minions to your hand."
+          },
+          "esES": {
+            "present": true,
+            "value": "Añade 2 esbirros aleatorios a tu mano."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Agrega 2 esbirros aleatorios a tu mano."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Ajoute 2_serviteurs aléatoires dans votre main."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Mette nella tua mano due servitori casuali."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]ランダムな\nミニオン2体を\n自分の手札に\n_追加する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]무작위 하수인 둘을\n내 손으로 가져옵니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Dodaj 2 losowych stronników do twojej ręki."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Adicione 2 lacaios aleatórios à sua mão."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Вы кладете в руку 2_случайных существ."
+          },
+          "thTH": {
+            "present": true,
+            "value": "สุ่มเพิ่มมินเนี่ยน 2_ใบในมือคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "随机将两张随从牌置入你的\n手牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "放2個隨機\n手下到你的手中"
+          }
+        },
+        "textContent": "\n\t\tErhaltet 2 zufällige Diener auf die Hand.\n\t\tAdd 2 random minions to your hand.\n\t\tAñade 2 esbirros aleatorios a tu mano.\n\t\tAgrega 2 esbirros aleatorios a tu mano.\n\t\tAjoute 2_serviteurs aléatoires dans votre main.\n\t\tMette nella tua mano due servitori casuali.\n\t\t[x]ランダムな\nミニオン2体を\n自分の手札に\n_追加する。\n\t\t[x]무작위 하수인 둘을\n내 손으로 가져옵니다.\n\t\tDodaj 2 losowych stronników do twojej ręki.\n\t\tAdicione 2 lacaios aleatórios à sua mão.\n\t\tВы кладете в руку 2_случайных существ.\n\t\tสุ่มเพิ่มมินเนี่ยน 2_ใบในมือคุณ\n\t\t随机将两张随从牌置入你的\n手牌。\n\t\t放2個隨機\n手下到你的手中\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Schauen wir doch mal, was sich hinter Riss Nummer eins verbirgt!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Let's see what's behind rift number one!"
+          },
+          "esES": {
+            "present": true,
+            "value": "¡Veamos qué se esconde tras la falla número uno!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "¡Veamos qué hay detrás de la fisura número uno!"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Voyons ce qui se cache derrière la faille numéro un !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Vediamo cosa si nasconde dietro al varco numero 1!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "さて、1番の亀裂の向こうには何が隠れているでしょうか！"
+          },
+          "koKR": {
+            "present": true,
+            "value": "1번 균열 뒤에는 무엇이 있을까요!"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zobaczmy, co kryje się w szczelinie numer jeden!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Vamos ver o que está atrás da Fenda número um!"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Посмотрим, что там за первым разломом!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "มาดูกันครับว่าอะไรอยู่หลัง[b]รอยแยกหมายเลขหนึ่ง!"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "让我们来看看一号裂隙的后面藏着什么！"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "來看看一號裂隙的後面是誰！"
+          }
+        },
+        "textContent": "\n\t\tSchauen wir doch mal, was sich hinter Riss Nummer eins verbirgt!\n\t\tLet's see what's behind rift number one!\n\t\t¡Veamos qué se esconde tras la falla número uno!\n\t\t¡Veamos qué hay detrás de la fisura número uno!\n\t\tVoyons ce qui se cache derrière la faille numéro un !\n\t\tVediamo cosa si nasconde dietro al varco numero 1!\n\t\tさて、1番の亀裂の向こうには何が隠れているでしょうか！\n\t\t1번 균열 뒤에는 무엇이 있을까요!\n\t\tZobaczmy, co kryje się w szczelinie numer jeden!\n\t\tVamos ver o que está atrás da Fenda número um!\n\t\tПосмотрим, что там за первым разломом!\n\t\tมาดูกันครับว่าอะไรอยู่หลัง[b]รอยแยกหมายเลขหนึ่ง!\n\t\t让我们来看看一号裂隙的后面藏着什么！\n\t\t來看看一號裂隙的後面是誰！\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "A. J. Nazzaro"
+      }
     }
   },
   "_current": {

@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Meteorologin"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Meteorologist"
+          },
+          "esES": {
+            "present": true,
+            "value": "Meteoróloga"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Meteoróloga"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Météorologue"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Meteorologa"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "気象学者"
+          },
+          "koKR": {
+            "present": true,
+            "value": "운석학자"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Meteorolożka"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Meteorologista"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Метеоролог"
+          },
+          "thTH": {
+            "present": true,
+            "value": "นักอุกกาบาตวิทยา"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "气象学家"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "氣象學家"
+          }
+        },
+        "textContent": "\n\t\t\tMeteorologin\n\t\t\tMeteorologist\n\t\t\tMeteoróloga\n\t\t\tMeteoróloga\n\t\t\tMétéorologue\n\t\t\tMeteorologa\n\t\t\t気象学者\n\t\t\t운석학자\n\t\t\tMeteorolożka\n\t\t\tMeteorologista\n\t\t\tМетеоролог\n\t\t\tนักอุกกาบาตวิทยา\n\t\t\t气象学家\n\t\t\t氣象學家\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Fügt für jede Karte auf Eurer Hand\neinem zufälligen Feind 1 Schaden zu."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> For each card in your hand, deal 1 damage to a random enemy."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b> Por cada\ncarta de tu mano, inflige\n1 p. de daño a un\nenemigo aleatorio."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> inflige 1 de daño a un enemigo aleatorio por cada carta en tu mano."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> inflige 1_point de dégâts à un adversaire aléatoire pour chaque carte dans votre main."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\ninfligge 1 danno a un nemico\ncasuale per ogni altra\ncarta nella tua mano."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n自分の手札の枚数分の\nダメージを、ランダムな\n___敵に振り分ける。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b>\n내 손에 있는 카드 1장당\n무작위 적 하나에게\n피해를 1 줍니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Zadaj 1 pkt. obrażeń losowemu wrogowi za każdą kartę w_twojej ręce."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Para cada card na sua mão, cause 1 de dano a um inimigo aleatório."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]<b>Боевой клич:</b> наносит\n1 ед. урона случайному\nпротивнику за каждую\nкарту в вашей руке."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> สร้างความเสียหาย 1_แต้ม[b]ให้ศัตรูหนึ่งตัวแบบสุ่ม[b]ต่อการ์ดแต่ละใบในมือคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>你每有一张手牌，便对一个随机敌人造成1点伤害。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>你手中的每張牌會對一個隨機敵人造成1點傷害"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Fügt für jede Karte auf Eurer Hand\neinem zufälligen Feind 1 Schaden zu.\n\t\t\t<b>Battlecry:</b> For each card in your hand, deal 1 damage to a random enemy.\n\t\t\t[x]<b>Grito de batalla:</b> Por cada\ncarta de tu mano, inflige\n1 p. de daño a un\nenemigo aleatorio.\n\t\t\t<b>Grito de batalla:</b> inflige 1 de daño a un enemigo aleatorio por cada carta en tu mano.\n\t\t\t<b>Cri de guerre_:</b> inflige 1_point de dégâts à un adversaire aléatoire pour chaque carte dans votre main.\n\t\t\t[x]<b>Grido di Battaglia:</b>\ninfligge 1 danno a un nemico\ncasuale per ogni altra\ncarta nella tua mano.\n\t\t\t[x]<b>雄叫び:</b>\n自分の手札の枚数分の\nダメージを、ランダムな\n___敵に振り分ける。\n\t\t\t[x]<b>전투의 함성:</b>\n내 손에 있는 카드 1장당\n무작위 적 하나에게\n피해를 1 줍니다.\n\t\t\t<b>Okrzyk bojowy:</b> Zadaj 1 pkt. obrażeń losowemu wrogowi za każdą kartę w_twojej ręce.\n\t\t\t<b>Grito de Guerra:</b> Para cada card na sua mão, cause 1 de dano a um inimigo aleatório.\n\t\t\t[x]<b>Боевой клич:</b> наносит\n1 ед. урона случайному\nпротивнику за каждую\nкарту в вашей руке.\n\t\t\t<b>คำรามสู้ศึก:</b> สร้างความเสียหาย 1_แต้ม[b]ให้ศัตรูหนึ่งตัวแบบสุ่ม[b]ต่อการ์ดแต่ละใบในมือคุณ\n\t\t\t<b>战吼：</b>你每有一张手牌，便对一个随机敌人造成1点伤害。\n\t\t\t<b>戰吼：</b>你手中的每張牌會對一個隨機敵人造成1點傷害\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mit einem Eiszapfen in der einen Hand und einer Feuerkugel in der anderen hat man im Mittel eine ganz angenehme Temperatur."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Some say the world will end in fire. Some say in ice. Why not BOTH?"
+          },
+          "esES": {
+            "present": true,
+            "value": "«Algunos dicen que será el fuego lo que provoque el fin del mundo; otros, el hielo. Y yo digo: ¿por qué no los dos?»."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Unos dicen que el mundo terminará en fuego. Otros dicen que en hielo. ¿Y qué tal LAS DOS opciones?"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Certains disent que le monde finira dans les flammes, d’autres dans la glace. Et pourquoi pas LES DEUX ?"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Dicono alcuni che finirà nel fuoco il mondo, altri nel ghiaccio. Perché non entrambi?"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "世界は炎に包まれて滅ぶ、という者もいれば、氷だ、という者もいる。だったら、両方、っていうのはどうだ？"
+          },
+          "koKR": {
+            "present": true,
+            "value": "누군가는 온 세상이 화염에 휩싸일 것이라 하고, 누군가는 얼음에 뒤덮일 것이라 하더군요. 둘 다일 수는 없을까요?"
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Nadchodzi Białe Zimno. Wszyscy będziemy nosić ciepłe gacie, kożuszki i futrzane czapy”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Alguns dizem que o mundo acabará sob fogo. Outros, sob gelo. Por que não AMBOS?"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Одни говорят, что мир сгинет в огне, другие – что он будет навеки скован льдом. А как насчет и ТОГО, и ДРУГОГО одновременно?"
+          },
+          "thTH": {
+            "present": true,
+            "value": "บางคนบอกว่าโลกจะพบจุดจบ[b]เพราะไฟบรรลัยกัลป์ หรือไม่ก็เพราะเข้าสู่ยุคน้ำแข็ง ทำไมไม่เอาทั้งสองอย่างไปเลยล่ะ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "有人说世界将毁灭于火，有人说毁灭于冰。为什么不是冰与火呢？"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "有人說世界會毀於烈火，有人說會毀於寒冰。為什麼不能同時發生呢？"
+          }
+        },
+        "textContent": "\n\t\t\tMit einem Eiszapfen in der einen Hand und einer Feuerkugel in der anderen hat man im Mittel eine ganz angenehme Temperatur.\n\t\t\tSome say the world will end in fire. Some say in ice. Why not BOTH?\n\t\t\t«Algunos dicen que será el fuego lo que provoque el fin del mundo; otros, el hielo. Y yo digo: ¿por qué no los dos?».\n\t\t\tUnos dicen que el mundo terminará en fuego. Otros dicen que en hielo. ¿Y qué tal LAS DOS opciones?\n\t\t\tCertains disent que le monde finira dans les flammes, d’autres dans la glace. Et pourquoi pas LES DEUX ?\n\t\t\tDicono alcuni che finirà nel fuoco il mondo, altri nel ghiaccio. Perché non entrambi?\n\t\t\t世界は炎に包まれて滅ぶ、という者もいれば、氷だ、という者もいる。だったら、両方、っていうのはどうだ？\n\t\t\t누군가는 온 세상이 화염에 휩싸일 것이라 하고, 누군가는 얼음에 뒤덮일 것이라 하더군요. 둘 다일 수는 없을까요?\n\t\t\t„Nadchodzi Białe Zimno. Wszyscy będziemy nosić ciepłe gacie, kożuszki i futrzane czapy”.\n\t\t\tAlguns dizem que o mundo acabará sob fogo. Outros, sob gelo. Por que não AMBOS?\n\t\t\tОдни говорят, что мир сгинет в огне, другие – что он будет навеки скован льдом. А как насчет и ТОГО, и ДРУГОГО одновременно?\n\t\t\tบางคนบอกว่าโลกจะพบจุดจบ[b]เพราะไฟบรรลัยกัลป์ หรือไม่ก็เพราะเข้าสู่ยุคน้ำแข็ง ทำไมไม่เอาทั้งสองอย่างไปเลยล่ะ\n\t\t\t有人说世界将毁灭于火，有人说毁灭于冰。为什么不是冰与火呢？\n\t\t\t有人說世界會毀於烈火，有人說會毀於寒冰。為什麼不能同時發生呢？\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Paul Mafayon"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Meteorologin"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Meteorologist"
+          },
+          "esES": {
+            "present": true,
+            "value": "Meteoróloga"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Meteoróloga"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Météorologue"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Meteorologa"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "気象学者"
+          },
+          "koKR": {
+            "present": true,
+            "value": "기상학자"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Meteorolożka"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Meteorologista"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Метеоролог"
+          },
+          "thTH": {
+            "present": true,
+            "value": "นักอุกกาบาตวิทยา"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "气象学家"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "氣象學家"
+          }
+        },
+        "textContent": "\n\t\tMeteorologin\n\t\tMeteorologist\n\t\tMeteoróloga\n\t\tMeteoróloga\n\t\tMétéorologue\n\t\tMeteorologa\n\t\t気象学者\n\t\t기상학자\n\t\tMeteorolożka\n\t\tMeteorologista\n\t\tМетеоролог\n\t\tนักอุกกาบาตวิทยา\n\t\t气象学家\n\t\t氣象學家\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Fügt für jede Karte auf Eurer Hand\neinem zufälligen Feind 1 Schaden zu."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> For each card in your hand, deal 1 damage to a random enemy."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b> Por cada\ncarta de tu mano, inflige\n1 p. de daño a un\nenemigo aleatorio."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> inflige 1 de daño a un enemigo aleatorio por cada carta en tu mano."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> inflige 1_point de dégâts à un adversaire aléatoire pour chaque carte dans votre main."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\ninfligge 1 danno a un nemico\ncasuale per ogni altra\ncarta nella tua mano."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n自分の手札の枚数分の\nダメージを、敵に\n____ランダムに振り分ける。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b> 내 손에\n있는 카드 1장당 무작위\n적에게 피해를 1 줍니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Zadaj 1 pkt. obrażeń losowemu wrogowi za każdą kartę w_twojej ręce."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Para cada card na sua mão, cause 1 de dano a um inimigo aleatório."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]<b>Боевой клич:</b> наносит\n1 ед. урона случайному\nпротивнику за каждую\nкарту в вашей руке."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b>_สุ่มสร้างความ[b]เสียหาย_1_แต้มให้ศัตรูหนึ่งตัว[b]ต่อการ์ดแต่ละใบในมือคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>你每有一张手牌，便随机对一个敌人造成1点伤害。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>你手中的每張牌會對一個隨機敵人造成1點傷害"
+          }
+        },
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Fügt für jede Karte auf Eurer Hand\neinem zufälligen Feind 1 Schaden zu.\n\t\t<b>Battlecry:</b> For each card in your hand, deal 1 damage to a random enemy.\n\t\t[x]<b>Grito de batalla:</b> Por cada\ncarta de tu mano, inflige\n1 p. de daño a un\nenemigo aleatorio.\n\t\t<b>Grito de batalla:</b> inflige 1 de daño a un enemigo aleatorio por cada carta en tu mano.\n\t\t<b>Cri de guerre_:</b> inflige 1_point de dégâts à un adversaire aléatoire pour chaque carte dans votre main.\n\t\t[x]<b>Grido di Battaglia:</b>\ninfligge 1 danno a un nemico\ncasuale per ogni altra\ncarta nella tua mano.\n\t\t[x]<b>雄叫び:</b>\n自分の手札の枚数分の\nダメージを、敵に\n____ランダムに振り分ける。\n\t\t[x]<b>전투의 함성:</b> 내 손에\n있는 카드 1장당 무작위\n적에게 피해를 1 줍니다.\n\t\t<b>Okrzyk bojowy:</b> Zadaj 1 pkt. obrażeń losowemu wrogowi za każdą kartę w_twojej ręce.\n\t\t<b>Grito de Guerra:</b> Para cada card na sua mão, cause 1 de dano a um inimigo aleatório.\n\t\t[x]<b>Боевой клич:</b> наносит\n1 ед. урона случайному\nпротивнику за каждую\nкарту в вашей руке.\n\t\t<b>คำรามสู้ศึก:</b>_สุ่มสร้างความ[b]เสียหาย_1_แต้มให้ศัตรูหนึ่งตัว[b]ต่อการ์ดแต่ละใบในมือคุณ\n\t\t<b>战吼：</b>你每有一张手牌，便随机对一个敌人造成1点伤害。\n\t\t<b>戰吼：</b>你手中的每張牌會對一個隨機敵人造成1點傷害\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mit einem Eiszapfen in der einen Hand und einer Feuerkugel in der anderen hat man im Mittel eine ganz angenehme Temperatur."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Some say the world will end in fire. Some say in ice. Why not BOTH?"
+          },
+          "esES": {
+            "present": true,
+            "value": "«Algunos dicen que será el fuego lo que provoque el fin del mundo; otros, el hielo. Y yo digo: ¿por qué no los dos?»."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Unos dicen que el mundo terminará en fuego. Otros dicen que en hielo. ¿Y qué tal LAS DOS opciones?"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Certains disent que le monde finira dans les flammes, d’autres dans la glace. Et pourquoi pas LES DEUX ?"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Dicono alcuni che finirà nel fuoco il mondo, altri nel ghiaccio. Perché non entrambi?"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "世界は炎に包まれて滅ぶ、という者もいれば、氷だ、という者もいる。だったら、両方、っていうのはどうだ？"
+          },
+          "koKR": {
+            "present": true,
+            "value": "누군가는 온 세상이 화염에 휩싸일 것이라 하고, 누군가는 얼음에 뒤덮일 것이라 하더군요. 둘 다일 수는 없을까요?"
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Nadchodzi Białe Zimno. Wszyscy będziemy nosić ciepłe gacie, kożuszki i futrzane czapy”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Alguns dizem que o mundo acabará sob fogo. Outros, sob gelo. Por que não AMBOS?"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Одни говорят, что мир сгинет в огне, другие – что он будет навеки скован льдом. А как насчет и ТОГО, и ДРУГОГО одновременно?"
+          },
+          "thTH": {
+            "present": true,
+            "value": "บางคนบอกว่าโลกจะพบจุดจบ[b]เพราะไฟบรรลัยกัลป์ หรือไม่ก็เพราะเข้าสู่ยุคน้ำแข็ง ทำไมไม่เอาทั้งสองอย่างไปเลยล่ะ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "有人说世界将毁灭于火，有人说毁灭于冰。为什么不是冰与火呢？"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "有人說世界會毀於烈火，有人說會毀於寒冰。為什麼不能同時發生呢？"
+          }
+        },
+        "textContent": "\n\t\tMit einem Eiszapfen in der einen Hand und einer Feuerkugel in der anderen hat man im Mittel eine ganz angenehme Temperatur.\n\t\tSome say the world will end in fire. Some say in ice. Why not BOTH?\n\t\t«Algunos dicen que será el fuego lo que provoque el fin del mundo; otros, el hielo. Y yo digo: ¿por qué no los dos?».\n\t\tUnos dicen que el mundo terminará en fuego. Otros dicen que en hielo. ¿Y qué tal LAS DOS opciones?\n\t\tCertains disent que le monde finira dans les flammes, d’autres dans la glace. Et pourquoi pas LES DEUX ?\n\t\tDicono alcuni che finirà nel fuoco il mondo, altri nel ghiaccio. Perché non entrambi?\n\t\t世界は炎に包まれて滅ぶ、という者もいれば、氷だ、という者もいる。だったら、両方、っていうのはどうだ？\n\t\t누군가는 온 세상이 화염에 휩싸일 것이라 하고, 누군가는 얼음에 뒤덮일 것이라 하더군요. 둘 다일 수는 없을까요?\n\t\t„Nadchodzi Białe Zimno. Wszyscy będziemy nosić ciepłe gacie, kożuszki i futrzane czapy”.\n\t\tAlguns dizem que o mundo acabará sob fogo. Outros, sob gelo. Por que não AMBOS?\n\t\tОдни говорят, что мир сгинет в огне, другие – что он будет навеки скован льдом. А как насчет и ТОГО, и ДРУГОГО одновременно?\n\t\tบางคนบอกว่าโลกจะพบจุดจบ[b]เพราะไฟบรรลัยกัลป์ หรือไม่ก็เพราะเข้าสู่ยุคน้ำแข็ง ทำไมไม่เอาทั้งสองอย่างไปเลยล่ะ\n\t\t有人说世界将毁灭于火，有人说毁灭于冰。为什么不是冰与火呢？\n\t\t有人說世界會毀於烈火，有人說會毀於寒冰。為什麼不能同時發生呢？\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Paul Mafayon"
+      }
     }
   },
   "_current": {

@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Seelenbombe"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Spirit Bomb"
+          },
+          "esES": {
+            "present": true,
+            "value": "Bomba de espíritus"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Bomba espiritual"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Bombe spirituelle"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Bomba Spirituale"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "霊魂爆弾"
+          },
+          "koKR": {
+            "present": true,
+            "value": "영혼 폭탄"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Bomba duchowa"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Bomba Espiritual"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Взрывной дух"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ระเบิดวิญญาณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "灵魂炸弹"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "靈魂炸彈"
+          }
+        },
+        "textContent": "\n\t\t\tSeelenbombe\n\t\t\tSpirit Bomb\n\t\t\tBomba de espíritus\n\t\t\tBomba espiritual\n\t\t\tBombe spirituelle\n\t\t\tBomba Spirituale\n\t\t\t霊魂爆弾\n\t\t\t영혼 폭탄\n\t\t\tBomba duchowa\n\t\t\tBomba Espiritual\n\t\t\tВзрывной дух\n\t\t\tระเบิดวิญญาณ\n\t\t\t灵魂炸弹\n\t\t\t靈魂炸彈\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Fügt einem Diener\nund Eurem Helden\n$4 Schaden zu."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Deal $4 damage to a minion and your hero."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Inflige $4 p. de daño\na un esbirro y a tu héroe."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Inflige $4 de daño a un esbirro y a tu héroe."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Inflige $4_|4(point,points) de dégâts à un serviteur et à votre héros."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Infligge $4 danni a un servitore e al tuo eroe."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]ミニオン1体と\n自分のヒーローに\n$4ダメージを与える。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "하수인 하나와 내 영웅에게 피해를 $4 줍니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zadaj $4 pkt. obrażeń stronnikowi oraz twojemu bohaterowi."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Cause $4 de dano a um lacaio e ao seu herói."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Наносит $4 ед. урона выбранному существу и вашему герою."
+          },
+          "thTH": {
+            "present": true,
+            "value": "สร้างความเสียหาย $4_แต้มให้มินเนี่ยนหนึ่งตัว[b]และฮีโร่ของคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "对一个随从和你的英雄各造成$4点伤害。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "對一個手下\n和你的英雄造成\n$4點傷害"
+          }
+        },
+        "textContent": "\n\t\t\tFügt einem Diener\nund Eurem Helden\n$4 Schaden zu.\n\t\t\tDeal $4 damage to a minion and your hero.\n\t\t\t[x]Inflige $4 p. de daño\na un esbirro y a tu héroe.\n\t\t\tInflige $4 de daño a un esbirro y a tu héroe.\n\t\t\tInflige $4_|4(point,points) de dégâts à un serviteur et à votre héros.\n\t\t\tInfligge $4 danni a un servitore e al tuo eroe.\n\t\t\t[x]ミニオン1体と\n自分のヒーローに\n$4ダメージを与える。\n\t\t\t하수인 하나와 내 영웅에게 피해를 $4 줍니다.\n\t\t\tZadaj $4 pkt. obrażeń stronnikowi oraz twojemu bohaterowi.\n\t\t\tCause $4 de dano a um lacaio e ao seu herói.\n\t\t\tНаносит $4 ед. урона выбранному существу и вашему герою.\n\t\t\tสร้างความเสียหาย $4_แต้มให้มินเนี่ยนหนึ่งตัว[b]และฮีโร่ของคุณ\n\t\t\t对一个随从和你的英雄各造成$4点伤害。\n\t\t\t對一個手下\n和你的英雄造成\n$4點傷害\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Eine Erfindung, wie sie nur Hexenmeistern gefallen kann."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Might take a few episodes to power up."
+          },
+          "esES": {
+            "present": true,
+            "value": "¡Vamos, bomba! ¡Ese es el espíritu!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Es una bomba desarrollada por brujos. ¿Acaso esperabas salir ileso?"
+          },
+          "frFR": {
+            "present": true,
+            "value": "On peut voir l’esprit en colère s’agiter et fulminer à l’intérieur de la bombe. Gare à celui qui aura le malheur de le libérer !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Un concentrato di boom-umore."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "この発明は当初「減鬼魂」と呼ばれていたが、構えてから発射できるまで何話も引き延ばされそうだ、という理由で変えられた。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "어딘가에선 원기옥이라고 부릅니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Idealny model dla wielbicieli broni niekonwencjonalnej."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Só explode depois que pegar o espírito da coisa."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Готовится к взрыву полтора сезона."
+          },
+          "thTH": {
+            "present": true,
+            "value": "อาจต้องใช้เวลารวบรวม[b]พลังหลายตอนหน่อย"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "充能时间比“神圣愤怒”还长。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "快要爆炸了！你還有十集可以逃！"
+          }
+        },
+        "textContent": "\n\t\t\tEine Erfindung, wie sie nur Hexenmeistern gefallen kann.\n\t\t\tMight take a few episodes to power up.\n\t\t\t¡Vamos, bomba! ¡Ese es el espíritu!\n\t\t\tEs una bomba desarrollada por brujos. ¿Acaso esperabas salir ileso?\n\t\t\tOn peut voir l’esprit en colère s’agiter et fulminer à l’intérieur de la bombe. Gare à celui qui aura le malheur de le libérer !\n\t\t\tUn concentrato di boom-umore.\n\t\t\tこの発明は当初「減鬼魂」と呼ばれていたが、構えてから発射できるまで何話も引き延ばされそうだ、という理由で変えられた。\n\t\t\t어딘가에선 원기옥이라고 부릅니다.\n\t\t\tIdealny model dla wielbicieli broni niekonwencjonalnej.\n\t\t\tSó explode depois que pegar o espírito da coisa.\n\t\t\tГотовится к взрыву полтора сезона.\n\t\t\tอาจต้องใช้เวลารวบรวม[b]พลังหลายตอนหน่อย\n\t\t\t充能时间比“神圣愤怒”还长。\n\t\t\t快要爆炸了！你還有十集可以逃！\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Zoltan Boros"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Seelenbombe"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Spirit Bomb"
+          },
+          "esES": {
+            "present": true,
+            "value": "Bomba de espíritus"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Bomba espiritual"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Bombe spirituelle"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Bomba Spirituale"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "霊魂爆弾"
+          },
+          "koKR": {
+            "present": true,
+            "value": "영혼 폭탄"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Bomba duchowa"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Bomba Espiritual"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Взрывной дух"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ระเบิดวิญญาณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "灵魂炸弹"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "靈魂炸彈"
+          }
+        },
+        "textContent": "\n\t\tSeelenbombe\n\t\tSpirit Bomb\n\t\tBomba de espíritus\n\t\tBomba espiritual\n\t\tBombe spirituelle\n\t\tBomba Spirituale\n\t\t霊魂爆弾\n\t\t영혼 폭탄\n\t\tBomba duchowa\n\t\tBomba Espiritual\n\t\tВзрывной дух\n\t\tระเบิดวิญญาณ\n\t\t灵魂炸弹\n\t\t靈魂炸彈\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Fügt einem Diener\nund Eurem Helden\n$4 Schaden zu."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Deal $4 damage to a minion and your hero."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Inflige $4 p. de daño\na un esbirro y a tu héroe."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Inflige $4 de daño a un esbirro y a tu héroe."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Inflige $4_|4(point,points) de dégâts à un serviteur et à votre héros."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Infligge $4 danni a un servitore e al tuo eroe."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]ミニオン1体と\n自分のヒーローに\n$4ダメージを与える。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]하수인과 내 영웅에게\n피해를 $4씩 줍니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zadaj $4 pkt. obrażeń stronnikowi oraz twojemu bohaterowi."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Cause $4 de dano a um lacaio e ao seu herói."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Наносит $4 ед. урона существу и вашему герою."
+          },
+          "thTH": {
+            "present": true,
+            "value": "สร้างความเสียหาย $4_แต้มให้มินเนี่ยนหนึ่งตัว[b]และฮีโร่ของคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "对一个随从和你的英雄各造成$4点伤害。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "對一個手下\n和你的英雄造成\n$4點傷害"
+          }
+        },
+        "textContent": "\n\t\tFügt einem Diener\nund Eurem Helden\n$4 Schaden zu.\n\t\tDeal $4 damage to a minion and your hero.\n\t\t[x]Inflige $4 p. de daño\na un esbirro y a tu héroe.\n\t\tInflige $4 de daño a un esbirro y a tu héroe.\n\t\tInflige $4_|4(point,points) de dégâts à un serviteur et à votre héros.\n\t\tInfligge $4 danni a un servitore e al tuo eroe.\n\t\t[x]ミニオン1体と\n自分のヒーローに\n$4ダメージを与える。\n\t\t[x]하수인과 내 영웅에게\n피해를 $4씩 줍니다.\n\t\tZadaj $4 pkt. obrażeń stronnikowi oraz twojemu bohaterowi.\n\t\tCause $4 de dano a um lacaio e ao seu herói.\n\t\tНаносит $4 ед. урона существу и вашему герою.\n\t\tสร้างความเสียหาย $4_แต้มให้มินเนี่ยนหนึ่งตัว[b]และฮีโร่ของคุณ\n\t\t对一个随从和你的英雄各造成$4点伤害。\n\t\t對一個手下\n和你的英雄造成\n$4點傷害\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Eine Erfindung, wie sie nur Hexenmeistern gefallen kann."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Might take a few episodes to power up."
+          },
+          "esES": {
+            "present": true,
+            "value": "¡Vamos, bomba! ¡Ese es el espíritu!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Es una bomba desarrollada por brujos. ¿Acaso esperabas salir ileso?"
+          },
+          "frFR": {
+            "present": true,
+            "value": "On peut voir l’esprit en colère s’agiter et fulminer à l’intérieur de la bombe. Gare à celui qui aura le malheur de le libérer !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Un concentrato di boom-umore."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "この発明は当初「減鬼魂」と呼ばれていたが、構えてから発射できるまで何話も引き延ばされそうだ、という理由で変えられた。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "어딘가에선 원기옥이라고 부릅니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Idealny model dla wielbicieli broni niekonwencjonalnej."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Só explode depois que pegar o espírito da coisa."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Готовится к взрыву полтора сезона."
+          },
+          "thTH": {
+            "present": true,
+            "value": "อาจต้องใช้เวลารวบรวม[b]พลังหลายตอนหน่อย"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "充能时间比“神圣愤怒”还长。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "快要爆炸了！你還有十集可以逃！"
+          }
+        },
+        "textContent": "\n\t\tEine Erfindung, wie sie nur Hexenmeistern gefallen kann.\n\t\tMight take a few episodes to power up.\n\t\t¡Vamos, bomba! ¡Ese es el espíritu!\n\t\tEs una bomba desarrollada por brujos. ¿Acaso esperabas salir ileso?\n\t\tOn peut voir l’esprit en colère s’agiter et fulminer à l’intérieur de la bombe. Gare à celui qui aura le malheur de le libérer !\n\t\tUn concentrato di boom-umore.\n\t\tこの発明は当初「減鬼魂」と呼ばれていたが、構えてから発射できるまで何話も引き延ばされそうだ、という理由で変えられた。\n\t\t어딘가에선 원기옥이라고 부릅니다.\n\t\tIdealny model dla wielbicieli broni niekonwencjonalnej.\n\t\tSó explode depois que pegar o espírito da coisa.\n\t\tГотовится к взрыву полтора сезона.\n\t\tอาจต้องใช้เวลารวบรวม[b]พลังหลายตอนหน่อย\n\t\t充能时间比“神圣愤怒”还长。\n\t\t快要爆炸了！你還有十集可以逃！\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Zoltan Boros"
+      }
     }
   },
   "_current": {

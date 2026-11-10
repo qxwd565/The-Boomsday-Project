@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Landschaftsgestaltung"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Landscaping"
+          },
+          "esES": {
+            "present": true,
+            "value": "Paisajismo"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Paisajismo"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Paysagiste"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Botanica"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "造園"
+          },
+          "koKR": {
+            "present": true,
+            "value": "조경 작업"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Ogrodnictwo"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Paisagismo"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Озеленение"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ปรับภูมิทัศน์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "植树造林"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "綠化造景"
+          }
+        },
+        "textContent": "\n\t\t\tLandschaftsgestaltung\n\t\t\tLandscaping\n\t\t\tPaisajismo\n\t\t\tPaisajismo\n\t\t\tPaysagiste\n\t\t\tBotanica\n\t\t\t造園\n\t\t\t조경 작업\n\t\t\tOgrodnictwo\n\t\t\tPaisagismo\n\t\t\tОзеленение\n\t\t\tปรับภูมิทัศน์\n\t\t\t植树造林\n\t\t\t綠化造景\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Ruft 2 Treants (2/2) herbei."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Summon two 2/2 Treants."
+          },
+          "esES": {
+            "present": true,
+            "value": "Invoca\ndos antárboles 2/2."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Invoca dos Antárboles 2/2."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Invoque deux tréants_2/2."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Evoca due Treant 2/2."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]2/2の\n「トレント」を\n___2体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "2/2 나무정령을 둘 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Przyzwij dwa Drzewce 2/2."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Evoque dois\nArvorosos 2/2."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Призывает двух\nдревней 2/2."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เรียกทรีแอนท์ 2/2 สองตัว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "召唤两个2/2的树人。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "召喚兩個2/2樹人"
+          }
+        },
+        "textContent": "\n\t\t\tRuft 2 Treants (2/2) herbei.\n\t\t\tSummon two 2/2 Treants.\n\t\t\tInvoca\ndos antárboles 2/2.\n\t\t\tInvoca dos Antárboles 2/2.\n\t\t\tInvoque deux tréants_2/2.\n\t\t\tEvoca due Treant 2/2.\n\t\t\t[x]2/2の\n「トレント」を\n___2体召喚する。\n\t\t\t2/2 나무정령을 둘 소환합니다.\n\t\t\tPrzyzwij dwa Drzewce 2/2.\n\t\t\tEvoque dois\nArvorosos 2/2.\n\t\t\tПризывает двух\nдревней 2/2.\n\t\t\tเรียกทรีแอนท์ 2/2 สองตัว\n\t\t\t召唤两个2/2的树人。\n\t\t\t召喚兩個2/2樹人\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Vorsicht beim Anbau von Treants: Wenn sie ausschlagen, ist das durchaus wörtlich zu nehmen."
+          },
+          "enUS": {
+            "present": true,
+            "value": "We'll put a happy tree right here... and give him a little friend."
+          },
+          "esES": {
+            "present": true,
+            "value": "Ponemos a un tronqui por aquí y a otro tronqui por allá..."
+          },
+          "esMX": {
+            "present": true,
+            "value": "El paisajismo es muy relajante... siempre y cuando el paisaje no cobre vida."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Ce ne sont pas des arbres, ce sont des tréants."
+          },
+          "itIT": {
+            "present": true,
+            "value": "\"Mettiamo un bell'alberello qui... e poi piantiamo vicino un amichetto.\""
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ここに幸せな木を植えて…ここにお友達の木を植えてあげましょう。ね、簡単でしょ？"
+          },
+          "koKR": {
+            "present": true,
+            "value": "여기에 방긋방긋 웃는 나무를 심어주고... 그 옆에 친구도 만들어 줘 볼게요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Dobra wprawka przed terraformacją innych planet."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Vamos colocar uma árvore feliz aqui... e colocar um amiguinho do lado."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Два радостных саженца дадут жизнь веселому лесу, а там и счастливые друзья подтянутся."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เราจะวางต้นไม้น้อยๆ ไว้ตรงนี้... แล้ววางอีกต้นนึงให้เป็นเพื่อนกัน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "在我的后园，可以看见墙外有两株树，一株是树人，还有一株也是树人。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "我們在這裡加上一棵快樂的小樹，再給它一個朋友。"
+          }
+        },
+        "textContent": "\n\t\t\tVorsicht beim Anbau von Treants: Wenn sie ausschlagen, ist das durchaus wörtlich zu nehmen.\n\t\t\tWe'll put a happy tree right here... and give him a little friend.\n\t\t\tPonemos a un tronqui por aquí y a otro tronqui por allá...\n\t\t\tEl paisajismo es muy relajante... siempre y cuando el paisaje no cobre vida.\n\t\t\tCe ne sont pas des arbres, ce sont des tréants.\n\t\t\t\"Mettiamo un bell'alberello qui... e poi piantiamo vicino un amichetto.\"\n\t\t\tここに幸せな木を植えて…ここにお友達の木を植えてあげましょう。ね、簡単でしょ？\n\t\t\t여기에 방긋방긋 웃는 나무를 심어주고... 그 옆에 친구도 만들어 줘 볼게요.\n\t\t\tDobra wprawka przed terraformacją innych planet.\n\t\t\tVamos colocar uma árvore feliz aqui... e colocar um amiguinho do lado.\n\t\t\tДва радостных саженца дадут жизнь веселому лесу, а там и счастливые друзья подтянутся.\n\t\t\tเราจะวางต้นไม้น้อยๆ ไว้ตรงนี้... แล้ววางอีกต้นนึงให้เป็นเพื่อนกัน\n\t\t\t在我的后园，可以看见墙外有两株树，一株是树人，还有一株也是树人。\n\t\t\t我們在這裡加上一棵快樂的小樹，再給它一個朋友。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Sam Hogg"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Landschaftsgestaltung"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Landscaping"
+          },
+          "esES": {
+            "present": true,
+            "value": "Paisajismo"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Paisajismo"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Paysagiste"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Botanica"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "造園"
+          },
+          "koKR": {
+            "present": true,
+            "value": "조경 작업"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Ogrodnictwo"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Paisagismo"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Озеленение"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ปรับภูมิทัศน์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "植树造林"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "綠化造景"
+          }
+        },
+        "textContent": "\n\t\tLandschaftsgestaltung\n\t\tLandscaping\n\t\tPaisajismo\n\t\tPaisajismo\n\t\tPaysagiste\n\t\tBotanica\n\t\t造園\n\t\t조경 작업\n\t\tOgrodnictwo\n\t\tPaisagismo\n\t\tОзеленение\n\t\tปรับภูมิทัศน์\n\t\t植树造林\n\t\t綠化造景\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Ruft 2 Treants (2/2) herbei."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Summon two 2/2 Treants."
+          },
+          "esES": {
+            "present": true,
+            "value": "Invoca\ndos antárboles 2/2."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Invoca dos Antárboles 2/2."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Invoque deux tréants_2/2."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Evoca due Treant 2/2."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]2/2の\n「トレント」を\n___2体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "2/2 나무정령을 둘 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Przyzwij dwa Drzewce_2/2."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Evoque dois\nArvorosos 2/2."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Призывает двух\nдревней 2/2."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เรียกทรีแอนท์ 2/2 สองตัว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "召唤两个2/2的树人。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "召喚兩個2/2樹人"
+          }
+        },
+        "textContent": "\n\t\tRuft 2 Treants (2/2) herbei.\n\t\tSummon two 2/2 Treants.\n\t\tInvoca\ndos antárboles 2/2.\n\t\tInvoca dos Antárboles 2/2.\n\t\tInvoque deux tréants_2/2.\n\t\tEvoca due Treant 2/2.\n\t\t[x]2/2の\n「トレント」を\n___2体召喚する。\n\t\t2/2 나무정령을 둘 소환합니다.\n\t\tPrzyzwij dwa Drzewce_2/2.\n\t\tEvoque dois\nArvorosos 2/2.\n\t\tПризывает двух\nдревней 2/2.\n\t\tเรียกทรีแอนท์ 2/2 สองตัว\n\t\t召唤两个2/2的树人。\n\t\t召喚兩個2/2樹人\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Vorsicht beim Anbau von Treants: Wenn sie ausschlagen, ist das durchaus wörtlich zu nehmen."
+          },
+          "enUS": {
+            "present": true,
+            "value": "We'll put a happy tree right here... and give him a little friend."
+          },
+          "esES": {
+            "present": true,
+            "value": "Ponemos a un tronqui por aquí y a otro tronqui por allá..."
+          },
+          "esMX": {
+            "present": true,
+            "value": "El paisajismo es muy relajante... siempre y cuando el paisaje no cobre vida."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Ce ne sont pas des arbres, ce sont des tréants."
+          },
+          "itIT": {
+            "present": true,
+            "value": "\"Mettiamo un bell'alberello qui... e poi piantiamo vicino un amichetto.\""
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ここに幸せな木を植えて…ここにお友達の木を植えてあげましょう。ね、簡単でしょ？"
+          },
+          "koKR": {
+            "present": true,
+            "value": "여기에 방긋방긋 웃는 나무를 심어주고... 그 옆에 친구도 만들어 줘 볼게요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Dobra wprawka przed terraformacją innych planet."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Vamos colocar uma árvore feliz aqui... e colocar um amiguinho do lado."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Два радостных саженца дадут жизнь веселому лесу, а там и счастливые друзья подтянутся."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เราจะวางต้นไม้น้อยๆ ไว้ตรงนี้... แล้ววางอีกต้นนึงให้เป็นเพื่อนกัน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "在我的后园，可以看见墙外有两株树，一株是树人，还有一株也是树人。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "我們在這裡加上一棵快樂的小樹，再給它一個朋友。"
+          }
+        },
+        "textContent": "\n\t\tVorsicht beim Anbau von Treants: Wenn sie ausschlagen, ist das durchaus wörtlich zu nehmen.\n\t\tWe'll put a happy tree right here... and give him a little friend.\n\t\tPonemos a un tronqui por aquí y a otro tronqui por allá...\n\t\tEl paisajismo es muy relajante... siempre y cuando el paisaje no cobre vida.\n\t\tCe ne sont pas des arbres, ce sont des tréants.\n\t\t\"Mettiamo un bell'alberello qui... e poi piantiamo vicino un amichetto.\"\n\t\tここに幸せな木を植えて…ここにお友達の木を植えてあげましょう。ね、簡単でしょ？\n\t\t여기에 방긋방긋 웃는 나무를 심어주고... 그 옆에 친구도 만들어 줘 볼게요.\n\t\tDobra wprawka przed terraformacją innych planet.\n\t\tVamos colocar uma árvore feliz aqui... e colocar um amiguinho do lado.\n\t\tДва радостных саженца дадут жизнь веселому лесу, а там и счастливые друзья подтянутся.\n\t\tเราจะวางต้นไม้น้อยๆ ไว้ตรงนี้... แล้ววางอีกต้นนึงให้เป็นเพื่อนกัน\n\t\t在我的后园，可以看见墙外有两株树，一株是树人，还有一株也是树人。\n\t\t我們在這裡加上一棵快樂的小樹，再給它一個朋友。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Sam Hogg"
+      }
     }
   },
   "_current": {

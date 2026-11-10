@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Bemannte Höllenmaschine"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Piloted Reaper"
+          },
+          "esES": {
+            "present": true,
+            "value": "Segadora pilotada"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Segadora piloteada"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Faucheur piloté"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Mietitore Pilotato"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "手動操縦のリーパー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "누군가 조종하는 수확기"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Załogowy żniwiarz"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Ceifador Guiado"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Пилотируемый жнец"
+          },
+          "thTH": {
+            "present": true,
+            "value": "รีปเปอร์มีคนขับ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "载人毁灭机"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "有駕駛的收割者"
+          }
+        },
+        "textContent": "\n\t\t\tBemannte Höllenmaschine\n\t\t\tPiloted Reaper\n\t\t\tSegadora pilotada\n\t\t\tSegadora piloteada\n\t\t\tFaucheur piloté\n\t\t\tMietitore Pilotato\n\t\t\t手動操縦のリーパー\n\t\t\t누군가 조종하는 수확기\n\t\t\tZałogowy żniwiarz\n\t\t\tCeifador Guiado\n\t\t\tПилотируемый жнец\n\t\t\tรีปเปอร์มีคนขับ\n\t\t\t载人毁灭机\n\t\t\t有駕駛的收割者\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Todesröcheln:</b> Ruft aus Eurer Hand einen zufälligen Diener herbei, der max. (2) kostet."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Summon a random minion from\nyour hand that costs (2) or less."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Último aliento:</b>\nInvoca a un esbirro aleatorio\nde tu mano que cueste\n(2) cristales o menos"
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Estertor:</b> invoca un esbirro aleatorio de tu mano que cueste (2) o menos."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Râle d’agonie_:</b> invoque un serviteur aléatoire de votre main_coûtant_(2)_|4(cristal,cristaux) ou moins."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Rantolo di Morte:</b>\nevoca un servitore casuale\ndalla tua mano che costa\n2 o meno Mana."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>断末魔:</b>\n自分の手札から\nコスト（2）以下の\nランダムなミニオンを\n1体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b> 내 손에서 비용이 (2) 이하인 무작위 하수인 하나를 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Agonia:</b> Przyzwij losowego stronnika o koszcie (2) lub mniej z twojej ręki."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Último Suspiro:</b> Evoque um lacaio aleatório da\nsua mão que custa (2) ou menos."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Предсмертный хрип:</b> призывает случайное существо из руки за_(2) или меньше."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>เสียงสุดท้าย:</b> สุ่มเรียก[b]มินเนี่ยนค่าร่าย (2) หรือ[b]ต่ำกว่าหนึ่งตัวจากมือคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>亡语：</b>从你的手牌中召唤一个法力值消耗小于或等于（2）的随机随从。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>死亡之聲：</b>從你\n手中召喚一個消耗(2)以下的手下"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Todesröcheln:</b> Ruft aus Eurer Hand einen zufälligen Diener herbei, der max. (2) kostet.\n\t\t\t<b>Deathrattle:</b> Summon a random minion from\nyour hand that costs (2) or less.\n\t\t\t[x]<b>Último aliento:</b>\nInvoca a un esbirro aleatorio\nde tu mano que cueste\n(2) cristales o menos\n\t\t\t<b>Estertor:</b> invoca un esbirro aleatorio de tu mano que cueste (2) o menos.\n\t\t\t<b>Râle d’agonie_:</b> invoque un serviteur aléatoire de votre main_coûtant_(2)_|4(cristal,cristaux) ou moins.\n\t\t\t[x]<b>Rantolo di Morte:</b>\nevoca un servitore casuale\ndalla tua mano che costa\n2 o meno Mana.\n\t\t\t[x]<b>断末魔:</b>\n自分の手札から\nコスト（2）以下の\nランダムなミニオンを\n1体召喚する。\n\t\t\t<b>죽음의 메아리:</b> 내 손에서 비용이 (2) 이하인 무작위 하수인 하나를 소환합니다.\n\t\t\t<b>Agonia:</b> Przyzwij losowego stronnika o koszcie (2) lub mniej z twojej ręki.\n\t\t\t<b>Último Suspiro:</b> Evoque um lacaio aleatório da\nsua mão que custa (2) ou menos.\n\t\t\t<b>Предсмертный хрип:</b> призывает случайное существо из руки за_(2) или меньше.\n\t\t\t<b>เสียงสุดท้าย:</b> สุ่มเรียก[b]มินเนี่ยนค่าร่าย (2) หรือ[b]ต่ำกว่าหนึ่งตัวจากมือคุณ\n\t\t\t<b>亡语：</b>从你的手牌中召唤一个法力值消耗小于或等于（2）的随机随从。\n\t\t\t<b>死亡之聲：</b>從你\n手中召喚一個消耗(2)以下的手下\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mit integrierter Gesichtserkennung, um Untergangsverkünder und Lehrensucher fernzuhalten."
+          },
+          "enUS": {
+            "present": true,
+            "value": "New facial recognition systems keep out the Lorewalkers and Doomsayers."
+          },
+          "esES": {
+            "present": true,
+            "value": "El nuevo sistema de reconocimiento facial la mantiene a salvo de los eremitas y los oradores del sino."
+          },
+          "esMX": {
+            "present": true,
+            "value": "El nuevo sistema de reconocimiento facial mantiene lejos a los eremitas y oradores del sino."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Le nouveau système de reconnaissance faciale doit avoir un bug, il refuse l’accès aux chroniqueurs et aux auspices funestes."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Un nuovo sistema di riconoscimento facciale impedisce l'apparizione di Raminghi Cho e Vati della Rovina."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "最新式の顔認識システムの搭載により、未登録の探話士や終末予言者の搭乗を阻止できるようになりました。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "새로운 안면 인식 시스템을 탑재하여 전승지기나 파멸의 예언자가 나타날 확률이 대폭 감소했습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Nowy system rozpoznawania twarzy odsiewa różnych takich wiedzicieli i proroków zagłady."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Novos sistemas de reconhecimento facial impedem a entrada dos Andarilhos das Lendas e Agoureiros."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Улучшенная система распознавания черт лица держит хранителей истории и вестников рока на расстоянии."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ระบบจดจำใบหน้าแบบใหม่[b]ป้องกันไม่ให้ลอร์วอล์คเกอร์[b]และผู้ทำนายหายนะเข้ามา"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "新的人脸识别系统现已排除出游学者周卓和末日预言者。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "新的臉部辨識系統可以有效拒絕博學行者和末日預言者進入駕駛艙。"
+          }
+        },
+        "textContent": "\n\t\t\tMit integrierter Gesichtserkennung, um Untergangsverkünder und Lehrensucher fernzuhalten.\n\t\t\tNew facial recognition systems keep out the Lorewalkers and Doomsayers.\n\t\t\tEl nuevo sistema de reconocimiento facial la mantiene a salvo de los eremitas y los oradores del sino.\n\t\t\tEl nuevo sistema de reconocimiento facial mantiene lejos a los eremitas y oradores del sino.\n\t\t\tLe nouveau système de reconnaissance faciale doit avoir un bug, il refuse l’accès aux chroniqueurs et aux auspices funestes.\n\t\t\tUn nuovo sistema di riconoscimento facciale impedisce l'apparizione di Raminghi Cho e Vati della Rovina.\n\t\t\t最新式の顔認識システムの搭載により、未登録の探話士や終末予言者の搭乗を阻止できるようになりました。\n\t\t\t새로운 안면 인식 시스템을 탑재하여 전승지기나 파멸의 예언자가 나타날 확률이 대폭 감소했습니다.\n\t\t\tNowy system rozpoznawania twarzy odsiewa różnych takich wiedzicieli i proroków zagłady.\n\t\t\tNovos sistemas de reconhecimento facial impedem a entrada dos Andarilhos das Lendas e Agoureiros.\n\t\t\tУлучшенная система распознавания черт лица держит хранителей истории и вестников рока на расстоянии.\n\t\t\tระบบจดจำใบหน้าแบบใหม่[b]ป้องกันไม่ให้ลอร์วอล์คเกอร์[b]และผู้ทำนายหายนะเข้ามา\n\t\t\t新的人脸识别系统现已排除出游学者周卓和末日预言者。\n\t\t\t新的臉部辨識系統可以有效拒絕博學行者和末日預言者進入駕駛艙。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "L. Lullabi & K. Turovec"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Bemannte Höllenmaschine"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Piloted Reaper"
+          },
+          "esES": {
+            "present": true,
+            "value": "Segadora pilotada"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Segadora piloteada"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Faucheur piloté"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Mietitore Pilotato"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "手動操縦のリーパー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "누군가 조종하는 수확기"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Załogowy żniwiarz"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Ceifador Guiado"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Пилотируемый жнец"
+          },
+          "thTH": {
+            "present": true,
+            "value": "รีปเปอร์มีคนขับ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "载人毁灭机"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "有駕駛的收割者"
+          }
+        },
+        "textContent": "\n\t\tBemannte Höllenmaschine\n\t\tPiloted Reaper\n\t\tSegadora pilotada\n\t\tSegadora piloteada\n\t\tFaucheur piloté\n\t\tMietitore Pilotato\n\t\t手動操縦のリーパー\n\t\t누군가 조종하는 수확기\n\t\tZałogowy żniwiarz\n\t\tCeifador Guiado\n\t\tПилотируемый жнец\n\t\tรีปเปอร์มีคนขับ\n\t\t载人毁灭机\n\t\t有駕駛的收割者\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Todesröcheln:</b> Ruft aus Eurer Hand einen zufälligen Diener herbei, der max. (2) kostet."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Summon a random minion from\nyour hand that costs (2) or less."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Último aliento:</b>\nInvoca a un esbirro aleatorio\nde tu mano que cueste\n(2) cristales o menos"
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Estertor:</b> invoca un esbirro aleatorio de tu mano que cueste (2) o menos."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Râle d’agonie_:</b> invoque un serviteur aléatoire de votre main_coûtant_(2)_|4(cristal,cristaux) ou moins."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Rantolo di Morte:</b>\nevoca un servitore casuale\ndalla tua mano che costa\n2 o meno Mana."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>断末魔:</b>\n自分の手札から\nコスト（2）以下の\nランダムなミニオンを\n1体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b> 내 손에서 비용이 (2) 이하인 무작위 하수인을 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Agonia:</b> Przyzwij losowego stronnika o koszcie (2) lub mniej z twojej ręki."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Último Suspiro:</b> Evoque um lacaio aleatório da\nsua mão que custa (2) ou menos."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Предсмертный хрип:</b> призывает существо из вашей руки за_(2) или меньше."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>เสียงสุดท้าย:</b> สุ่มเรียก[b]มินเนี่ยนค่าร่าย (2) หรือ[b]ต่ำกว่าหนึ่งตัวจากมือคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>亡语：</b>随机从你的手牌中召唤一个法力值消耗小于或等于（2）点的随从。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>死亡之聲：</b>從你\n手中召喚一個消耗(2)以下的手下"
+          }
+        },
+        "textContent": "\n\t\t<b>Todesröcheln:</b> Ruft aus Eurer Hand einen zufälligen Diener herbei, der max. (2) kostet.\n\t\t<b>Deathrattle:</b> Summon a random minion from\nyour hand that costs (2) or less.\n\t\t[x]<b>Último aliento:</b>\nInvoca a un esbirro aleatorio\nde tu mano que cueste\n(2) cristales o menos\n\t\t<b>Estertor:</b> invoca un esbirro aleatorio de tu mano que cueste (2) o menos.\n\t\t<b>Râle d’agonie_:</b> invoque un serviteur aléatoire de votre main_coûtant_(2)_|4(cristal,cristaux) ou moins.\n\t\t[x]<b>Rantolo di Morte:</b>\nevoca un servitore casuale\ndalla tua mano che costa\n2 o meno Mana.\n\t\t[x]<b>断末魔:</b>\n自分の手札から\nコスト（2）以下の\nランダムなミニオンを\n1体召喚する。\n\t\t<b>죽음의 메아리:</b> 내 손에서 비용이 (2) 이하인 무작위 하수인을 소환합니다.\n\t\t<b>Agonia:</b> Przyzwij losowego stronnika o koszcie (2) lub mniej z twojej ręki.\n\t\t<b>Último Suspiro:</b> Evoque um lacaio aleatório da\nsua mão que custa (2) ou menos.\n\t\t<b>Предсмертный хрип:</b> призывает существо из вашей руки за_(2) или меньше.\n\t\t<b>เสียงสุดท้าย:</b> สุ่มเรียก[b]มินเนี่ยนค่าร่าย (2) หรือ[b]ต่ำกว่าหนึ่งตัวจากมือคุณ\n\t\t<b>亡语：</b>随机从你的手牌中召唤一个法力值消耗小于或等于（2）点的随从。\n\t\t<b>死亡之聲：</b>從你\n手中召喚一個消耗(2)以下的手下\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Mit integrierter Gesichtserkennung, um Untergangsverkünder und Lehrensucher fernzuhalten."
+          },
+          "enUS": {
+            "present": true,
+            "value": "New facial recognition systems keep out the Lorewalkers and Doomsayers."
+          },
+          "esES": {
+            "present": true,
+            "value": "El nuevo sistema de reconocimiento facial la mantiene a salvo de los eremitas y los oradores del sino."
+          },
+          "esMX": {
+            "present": true,
+            "value": "El nuevo sistema de reconocimiento facial mantiene lejos a los eremitas y oradores del sino."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Le nouveau système de reconnaissance faciale doit avoir un bug, il refuse l’accès aux chroniqueurs et aux auspices funestes."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Un nuovo sistema di riconoscimento facciale impedisce l'apparizione di Raminghi Cho e Vati della Rovina."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "最新式の顔認識システムの搭載により、未登録の探話士や終末予言者の搭乗を阻止できるようになりました。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "새로운 안면 인식 시스템을 탑재하여 전승지기나 파멸의 예언자가 나타날 확률이 대폭 감소했습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Nowy system rozpoznawania twarzy odsiewa różnych takich wiedzicieli i proroków zagłady."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Novos sistemas de reconhecimento facial impedem a entrada dos Andarilhos das Lendas e Agoureiros."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Улучшенная система распознавания черт лица держит хранителей истории и вестников рока на расстоянии."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ระบบจดจำใบหน้าแบบใหม่[b]ป้องกันไม่ให้ลอร์วอล์คเกอร์[b]และผู้ทำนายหายนะเข้ามา"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "新的人脸识别系统现已排除出游学者周卓和末日预言者。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "新的臉部辨識系統可以有效拒絕博學行者和末日預言者進入駕駛艙。"
+          }
+        },
+        "textContent": "\n\t\tMit integrierter Gesichtserkennung, um Untergangsverkünder und Lehrensucher fernzuhalten.\n\t\tNew facial recognition systems keep out the Lorewalkers and Doomsayers.\n\t\tEl nuevo sistema de reconocimiento facial la mantiene a salvo de los eremitas y los oradores del sino.\n\t\tEl nuevo sistema de reconocimiento facial mantiene lejos a los eremitas y oradores del sino.\n\t\tLe nouveau système de reconnaissance faciale doit avoir un bug, il refuse l’accès aux chroniqueurs et aux auspices funestes.\n\t\tUn nuovo sistema di riconoscimento facciale impedisce l'apparizione di Raminghi Cho e Vati della Rovina.\n\t\t最新式の顔認識システムの搭載により、未登録の探話士や終末予言者の搭乗を阻止できるようになりました。\n\t\t새로운 안면 인식 시스템을 탑재하여 전승지기나 파멸의 예언자가 나타날 확률이 대폭 감소했습니다.\n\t\tNowy system rozpoznawania twarzy odsiewa różnych takich wiedzicieli i proroków zagłady.\n\t\tNovos sistemas de reconhecimento facial impedem a entrada dos Andarilhos das Lendas e Agoureiros.\n\t\tУлучшенная система распознавания черт лица держит хранителей истории и вестников рока на расстоянии.\n\t\tระบบจดจำใบหน้าแบบใหม่[b]ป้องกันไม่ให้ลอร์วอล์คเกอร์[b]และผู้ทำนายหายนะเข้ามา\n\t\t新的人脸识别系统现已排除出游学者周卓和末日预言者。\n\t\t新的臉部辨識系統可以有效拒絕博學行者和末日預言者進入駕駛艙。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "L. Lullabi & K. Turovec"
+      }
     }
   },
   "_current": {

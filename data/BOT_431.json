@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Wirbelgleiter"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Whirliglider"
+          },
+          "esES": {
+            "present": true,
+            "value": "Parapentista rotatoria"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Parapentista goblin"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Héliplaneuse"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Planaturbini"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "グルグルグライダー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "빙글라이더"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Wirolotniczka"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Planadora Rotativa"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Вертоглайдер"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เวอร์ลิไกลเดอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "旋翼滑翔者"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "旋翼滑翔者"
+          }
+        },
+        "textContent": "\n\t\t\tWirbelgleiter\n\t\t\tWhirliglider\n\t\t\tParapentista rotatoria\n\t\t\tParapentista goblin\n\t\t\tHéliplaneuse\n\t\t\tPlanaturbini\n\t\t\tグルグルグライダー\n\t\t\t빙글라이더\n\t\t\tWirolotniczka\n\t\t\tPlanadora Rotativa\n\t\t\tВертоглайдер\n\t\t\tเวอร์ลิไกลเดอร์\n\t\t\t旋翼滑翔者\n\t\t\t旋翼滑翔者\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Ruft eine Goblinbombe (0/2) herbei."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Summon a 0/2_Goblin Bomb."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b>\nInvoca una bomba\ngoblin_0/2."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> invoca una Bomba goblin 0/2."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b>\ninvoque une bombe gobeline_0/2."
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>Grido di Battaglia:</b> evoca una Bomba Goblin 0/2."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n0/2の\n「ゴブリン爆弾」を\n1体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b>\n0/2 고블린 폭탄을\n하나 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Przyzwij Goblińską bombę 0/2."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> \nEvoque uma \nBomba Goblínica 0/2."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> призывает гоблинскую бомбу 0/2."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> เรียกระเบิดก็อบลิน 0/2"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>召唤一个0/2的地精炸弹。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>召喚一個\n0/2哥布林炸彈"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Ruft eine Goblinbombe (0/2) herbei.\n\t\t\t<b>Battlecry:</b> Summon a 0/2_Goblin Bomb.\n\t\t\t<b>Grito de batalla:</b>\nInvoca una bomba\ngoblin_0/2.\n\t\t\t<b>Grito de batalla:</b> invoca una Bomba goblin 0/2.\n\t\t\t<b>Cri de guerre_:</b>\ninvoque une bombe gobeline_0/2.\n\t\t\t<b>Grido di Battaglia:</b> evoca una Bomba Goblin 0/2.\n\t\t\t[x]<b>雄叫び:</b>\n0/2の\n「ゴブリン爆弾」を\n1体召喚する。\n\t\t\t[x]<b>전투의 함성:</b>\n0/2 고블린 폭탄을\n하나 소환합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Przyzwij Goblińską bombę 0/2.\n\t\t\t<b>Grito de Guerra:</b> \nEvoque uma \nBomba Goblínica 0/2.\n\t\t\t<b>Боевой клич:</b> призывает гоблинскую бомбу 0/2.\n\t\t\t<b>คำรามสู้ศึก:</b> เรียกระเบิดก็อบลิน 0/2\n\t\t\t<b>战吼：</b>召唤一个0/2的地精炸弹。\n\t\t\t<b>戰吼：</b>召喚一個\n0/2哥布林炸彈\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Das einzige Flugmanöver, das man als Goblin können muss, ist die Bruchlandung."
+          },
+          "enUS": {
+            "present": true,
+            "value": "She's on a bomb voyage."
+          },
+          "esES": {
+            "present": true,
+            "value": "Hacer parapente a la par que rotas sin control suena... ¡DIVERTIDO!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Surca los cielos como un pájaro... cargado de bombas."
+          },
+          "frFR": {
+            "present": true,
+            "value": "« Ça plane pour moi, ça plane pour moi, je suis la reine des bombes ! »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Le augurano sempre \"bomb voyage\"."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "彼女の発進時のキメ台詞は「ボム・ボヤージュ」。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "하늘에서 폭탄이 비처럼 내려와!"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Gobliny też chcą latać!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Porque ser especialista em construção dá muito mais trabalho."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Воздушный спорт – это просто огонь!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เธอกำลังสนุกระเบิดระเบ้อ[b]กับการเดินทาง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "希望她能平安抵达投弹点。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "這個發明又叫做飛飛飛飛飛飛飛機。"
+          }
+        },
+        "textContent": "\n\t\t\tDas einzige Flugmanöver, das man als Goblin können muss, ist die Bruchlandung.\n\t\t\tShe's on a bomb voyage.\n\t\t\tHacer parapente a la par que rotas sin control suena... ¡DIVERTIDO!\n\t\t\tSurca los cielos como un pájaro... cargado de bombas.\n\t\t\t« Ça plane pour moi, ça plane pour moi, je suis la reine des bombes ! »\n\t\t\tLe augurano sempre \"bomb voyage\".\n\t\t\t彼女の発進時のキメ台詞は「ボム・ボヤージュ」。\n\t\t\t하늘에서 폭탄이 비처럼 내려와!\n\t\t\tGobliny też chcą latać!\n\t\t\tPorque ser especialista em construção dá muito mais trabalho.\n\t\t\tВоздушный спорт – это просто огонь!\n\t\t\tเธอกำลังสนุกระเบิดระเบ้อ[b]กับการเดินทาง\n\t\t\t希望她能平安抵达投弹点。\n\t\t\t這個發明又叫做飛飛飛飛飛飛飛機。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "A.J. Nazzaro"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Wirbelgleiter"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Whirliglider"
+          },
+          "esES": {
+            "present": true,
+            "value": "Parapentista rotatoria"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Parapentista goblin"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Héliplaneuse"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Planaturbini"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "グルグルグライダー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "빙글라이더"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Wirolotniczka"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Planadora Rotativa"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Вертоглайдер"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เวอร์ลิไกลเดอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "旋翼滑翔者"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "旋翼滑翔者"
+          }
+        },
+        "textContent": "\n\t\tWirbelgleiter\n\t\tWhirliglider\n\t\tParapentista rotatoria\n\t\tParapentista goblin\n\t\tHéliplaneuse\n\t\tPlanaturbini\n\t\tグルグルグライダー\n\t\t빙글라이더\n\t\tWirolotniczka\n\t\tPlanadora Rotativa\n\t\tВертоглайдер\n\t\tเวอร์ลิไกลเดอร์\n\t\t旋翼滑翔者\n\t\t旋翼滑翔者\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Ruft eine Goblinbombe (0/2) herbei."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Summon a 0/2_Goblin Bomb."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b>\nInvoca una bomba\ngoblin_0/2."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> invoca una Bomba goblin 0/2."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b>\ninvoque une bombe gobeline_0/2."
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>Grido di Battaglia:</b> evoca una Bomba Goblin 0/2."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n0/2の\n「ゴブリン爆弾」を\n1体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n0/2 고블린 폭탄을 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Przyzwij Goblińską bombę 0/2."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> \nEvoque uma \nBomba Goblínica 0/2."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> призывает гоблинскую бомбу 0/2."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> เรียก[b]ระเบิดก็อบลิน_0/2"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>召唤一个0/2的地精炸弹。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>召喚一個\n0/2哥布林炸彈"
+          }
+        },
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Ruft eine Goblinbombe (0/2) herbei.\n\t\t<b>Battlecry:</b> Summon a 0/2_Goblin Bomb.\n\t\t<b>Grito de batalla:</b>\nInvoca una bomba\ngoblin_0/2.\n\t\t<b>Grito de batalla:</b> invoca una Bomba goblin 0/2.\n\t\t<b>Cri de guerre_:</b>\ninvoque une bombe gobeline_0/2.\n\t\t<b>Grido di Battaglia:</b> evoca una Bomba Goblin 0/2.\n\t\t[x]<b>雄叫び:</b>\n0/2の\n「ゴブリン爆弾」を\n1体召喚する。\n\t\t<b>전투의 함성:</b>\n0/2 고블린 폭탄을 소환합니다.\n\t\t<b>Okrzyk bojowy:</b> Przyzwij Goblińską bombę 0/2.\n\t\t<b>Grito de Guerra:</b> \nEvoque uma \nBomba Goblínica 0/2.\n\t\t<b>Боевой клич:</b> призывает гоблинскую бомбу 0/2.\n\t\t<b>คำรามสู้ศึก:</b> เรียก[b]ระเบิดก็อบลิน_0/2\n\t\t<b>战吼：</b>召唤一个0/2的地精炸弹。\n\t\t<b>戰吼：</b>召喚一個\n0/2哥布林炸彈\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Das einzige Flugmanöver, das man als Goblin können muss, ist die Bruchlandung."
+          },
+          "enUS": {
+            "present": true,
+            "value": "She's on a bomb voyage."
+          },
+          "esES": {
+            "present": true,
+            "value": "Hacer parapente a la par que rotas sin control suena... ¡DIVERTIDO!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Surca los cielos como un pájaro... cargado de bombas."
+          },
+          "frFR": {
+            "present": true,
+            "value": "« Ça plane pour moi, ça plane pour moi, je suis la reine des bombes ! »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Le augurano sempre \"bomb voyage\"."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "彼女の発進時のキメ台詞は「ボム・ボヤージュ」。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "하늘에서 폭탄이 비처럼 내려와!"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Gobliny też chcą latać!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Porque ser especialista em construção dá muito mais trabalho."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Воздушный спорт – это просто огонь!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เธอกำลังสนุกระเบิดระเบ้อ[b]กับการเดินทาง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "希望她能平安抵达投弹点。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "這個發明又叫做飛飛飛飛飛飛飛機。"
+          }
+        },
+        "textContent": "\n\t\tDas einzige Flugmanöver, das man als Goblin können muss, ist die Bruchlandung.\n\t\tShe's on a bomb voyage.\n\t\tHacer parapente a la par que rotas sin control suena... ¡DIVERTIDO!\n\t\tSurca los cielos como un pájaro... cargado de bombas.\n\t\t« Ça plane pour moi, ça plane pour moi, je suis la reine des bombes ! »\n\t\tLe augurano sempre \"bomb voyage\".\n\t\t彼女の発進時のキメ台詞は「ボム・ボヤージュ」。\n\t\t하늘에서 폭탄이 비처럼 내려와!\n\t\tGobliny też chcą latać!\n\t\tPorque ser especialista em construção dá muito mais trabalho.\n\t\tВоздушный спорт – это просто огонь!\n\t\tเธอกำลังสนุกระเบิดระเบ้อ[b]กับการเดินทาง\n\t\t希望她能平安抵达投弹点。\n\t\t這個發明又叫做飛飛飛飛飛飛飛機。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "A. J. Nazzaro"
+      }
     }
   },
   "_current": {

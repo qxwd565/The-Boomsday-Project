@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Kybernetischer Elekk"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Augmented Elekk"
+          },
+          "esES": {
+            "present": true,
+            "value": "Elekk aumentado"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Elekk mejorado"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Elekk amélioré"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Elekk Potenziato"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "改造エレク"
+          },
+          "koKR": {
+            "present": true,
+            "value": "향상된 엘레크"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Podrasowany elekk"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Elekk Fortalecido"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Элекк-киборг"
+          },
+          "thTH": {
+            "present": true,
+            "value": "อีเล็คค์ดัดแปลง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "强能雷象"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "強化的伊萊克"
+          }
+        },
+        "textContent": "\n\t\t\tKybernetischer Elekk\n\t\t\tAugmented Elekk\n\t\t\tElekk aumentado\n\t\t\tElekk mejorado\n\t\t\tElekk amélioré\n\t\t\tElekk Potenziato\n\t\t\t改造エレク\n\t\t\t향상된 엘레크\n\t\t\tPodrasowany elekk\n\t\t\tElekk Fortalecido\n\t\t\tЭлекк-киборг\n\t\t\tอีเล็คค์ดัดแปลง\n\t\t\t强能雷象\n\t\t\t強化的伊萊克\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Jedes Mal, wenn Ihr eine Karte in ein Deck mischt, wird eine zusätzliche Kopie dazugemischt."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Whenever you shuffle a card into a deck, shuffle in_an extra copy."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Cada vez que metes\nuna carta en un mazo,\nmete una copia extra."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Cada vez que colocas una carta en un mazo, coloca una copia adicional."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Chaque fois que vous placez une carte dans un deck, en place_également_une copie."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Quando metti una\ncarta in un mazzo, ne\naggiunge una copia."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]自分がカードを\nデッキに混ぜる度\nそのコピーを1枚\n__余分に混ぜる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "내가 덱에 카드를 섞어 넣을 때마다 그 카드를 복사하여 추가로 섞어 넣습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Za każdym razem gdy wtasujesz kartę do talii, wtasuj jej_dodatkową kopię."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Sempre que você colocar um card em um deck, coloque também uma cópia extra."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]Когда вы замешиваете карту\nв колоду, вы замешиваете\nдополнительную копию."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ทุกครั้งที่คุณสับการ์ดเข้าเด็ค สับก๊อปปี้ของการ์ดนั้น[b]เข้าเด็คอีกหนึ่งใบ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "每当你将一张牌洗入牌库，额外洗入一张相同的牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "每當你將牌洗入\n牌堆，額外洗入一張相同的牌"
+          }
+        },
+        "textContent": "\n\t\t\tJedes Mal, wenn Ihr eine Karte in ein Deck mischt, wird eine zusätzliche Kopie dazugemischt.\n\t\t\tWhenever you shuffle a card into a deck, shuffle in_an extra copy.\n\t\t\t[x]Cada vez que metes\nuna carta en un mazo,\nmete una copia extra.\n\t\t\tCada vez que colocas una carta en un mazo, coloca una copia adicional.\n\t\t\tChaque fois que vous placez une carte dans un deck, en place_également_une copie.\n\t\t\t[x]Quando metti una\ncarta in un mazzo, ne\naggiunge una copia.\n\t\t\t[x]自分がカードを\nデッキに混ぜる度\nそのコピーを1枚\n__余分に混ぜる。\n\t\t\t내가 덱에 카드를 섞어 넣을 때마다 그 카드를 복사하여 추가로 섞어 넣습니다.\n\t\t\tZa każdym razem gdy wtasujesz kartę do talii, wtasuj jej_dodatkową kopię.\n\t\t\tSempre que você colocar um card em um deck, coloque também uma cópia extra.\n\t\t\t[x]Когда вы замешиваете карту\nв колоду, вы замешиваете\nдополнительную копию.\n\t\t\tทุกครั้งที่คุณสับการ์ดเข้าเด็ค สับก๊อปปี้ของการ์ดนั้น[b]เข้าเด็คอีกหนึ่งใบ\n\t\t\t每当你将一张牌洗入牌库，额外洗入一张相同的牌。\n\t\t\t每當你將牌洗入\n牌堆，額外洗入一張相同的牌\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Eigentlich wollte Dr. Bumm ja Haie mit Laserkanonen, aber ein Elekk mit zwei Rüsseln tut's bestimmt auch."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Her friends call her \"Shuffleupugus\"."
+          },
+          "esES": {
+            "present": true,
+            "value": "¡Trooompa! ¡Trooompa!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Sus amigos le dicen \"Stampy\"."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Comme son véritable nom, Mammuthus Hearthstonus, est trop difficile à prononcer, ses amis l’ont surnommé Manny."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Come un elekk, ma potenziato."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "戦争の悲しさを描いた絵本に、関係ないロボット漫画の帯を装着するかのような、まさに邪悪なる所業の被害者。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "동작 그만, 두 장 넣기냐?"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Trąba wspomagana to hit wśród elekków śledzących nowinki techniczne."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Sim, tem gente que acha que um elekk normal é fraco demais."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Друзья зовут ее «наш мутирующий мутантик», сокращенно «Муму»."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เพื่อนๆ เรียกเธอว่า \"แม่จอมสับ\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "她的朋友们叫她“洗羊羊”。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "改造之後，胡麻街上的布偶朋友都不認得它了。"
+          }
+        },
+        "textContent": "\n\t\t\tEigentlich wollte Dr. Bumm ja Haie mit Laserkanonen, aber ein Elekk mit zwei Rüsseln tut's bestimmt auch.\n\t\t\tHer friends call her \"Shuffleupugus\".\n\t\t\t¡Trooompa! ¡Trooompa!\n\t\t\tSus amigos le dicen \"Stampy\".\n\t\t\tComme son véritable nom, Mammuthus Hearthstonus, est trop difficile à prononcer, ses amis l’ont surnommé Manny.\n\t\t\tCome un elekk, ma potenziato.\n\t\t\t戦争の悲しさを描いた絵本に、関係ないロボット漫画の帯を装着するかのような、まさに邪悪なる所業の被害者。\n\t\t\t동작 그만, 두 장 넣기냐?\n\t\t\tTrąba wspomagana to hit wśród elekków śledzących nowinki techniczne.\n\t\t\tSim, tem gente que acha que um elekk normal é fraco demais.\n\t\t\tДрузья зовут ее «наш мутирующий мутантик», сокращенно «Муму».\n\t\t\tเพื่อนๆ เรียกเธอว่า \"แม่จอมสับ\"\n\t\t\t她的朋友们叫她“洗羊羊”。\n\t\t\t改造之後，胡麻街上的布偶朋友都不認得它了。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Luca Zontini"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Kybernetischer Elekk"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Augmented Elekk"
+          },
+          "esES": {
+            "present": true,
+            "value": "Elekk aumentado"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Elekk mejorado"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Elekk amélioré"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Elekk Potenziato"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "改造エレク"
+          },
+          "koKR": {
+            "present": true,
+            "value": "향상된 엘레크"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Podrasowany elekk"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Elekk Fortalecido"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Элекк-киборг"
+          },
+          "thTH": {
+            "present": true,
+            "value": "อีเล็คค์ดัดแปลง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "强能雷象"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "強化的伊萊克"
+          }
+        },
+        "textContent": "\n\t\tKybernetischer Elekk\n\t\tAugmented Elekk\n\t\tElekk aumentado\n\t\tElekk mejorado\n\t\tElekk amélioré\n\t\tElekk Potenziato\n\t\t改造エレク\n\t\t향상된 엘레크\n\t\tPodrasowany elekk\n\t\tElekk Fortalecido\n\t\tЭлекк-киборг\n\t\tอีเล็คค์ดัดแปลง\n\t\t强能雷象\n\t\t強化的伊萊克\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Jedes Mal, wenn Ihr eine Karte in ein Deck mischt, wird eine zusätzliche Kopie dazugemischt."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Whenever you shuffle a card into a deck, shuffle in_an extra copy."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Cada vez que metes\nuna carta en un mazo,\nmete una copia extra."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Cada vez que colocas una carta en un mazo, coloca una copia adicional."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Chaque fois que vous placez une carte dans un deck, en place_également_une copie."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Quando metti una\ncarta in un mazzo, ne\naggiunge una copia."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]自分がカードを\nデッキに混ぜる度\nそのコピーを1枚\n__余分に混ぜる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "내가 덱에 카드를 섞어 넣을 때마다 그 카드를 복사하여 추가로 섞어 넣습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Za każdym razem gdy wtasujesz kartę do talii, wtasuj jej_dodatkową kopię."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Sempre que você colocar um card em um deck, coloque também uma cópia extra."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]Когда вы замешиваете карту\nв колоду, вы замешиваете\nдополнительную копию."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ทุกครั้งที่คุณสับการ์ดเข้าเด็ค สับก๊อปปี้ของการ์ดนั้น[b]เข้าเด็คอีกหนึ่งใบ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "每当你将一张牌洗入牌库，额外洗入一张相同的牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "每當你將牌洗入\n牌堆，額外洗入一張相同的牌"
+          }
+        },
+        "textContent": "\n\t\tJedes Mal, wenn Ihr eine Karte in ein Deck mischt, wird eine zusätzliche Kopie dazugemischt.\n\t\tWhenever you shuffle a card into a deck, shuffle in_an extra copy.\n\t\t[x]Cada vez que metes\nuna carta en un mazo,\nmete una copia extra.\n\t\tCada vez que colocas una carta en un mazo, coloca una copia adicional.\n\t\tChaque fois que vous placez une carte dans un deck, en place_également_une copie.\n\t\t[x]Quando metti una\ncarta in un mazzo, ne\naggiunge una copia.\n\t\t[x]自分がカードを\nデッキに混ぜる度\nそのコピーを1枚\n__余分に混ぜる。\n\t\t내가 덱에 카드를 섞어 넣을 때마다 그 카드를 복사하여 추가로 섞어 넣습니다.\n\t\tZa każdym razem gdy wtasujesz kartę do talii, wtasuj jej_dodatkową kopię.\n\t\tSempre que você colocar um card em um deck, coloque também uma cópia extra.\n\t\t[x]Когда вы замешиваете карту\nв колоду, вы замешиваете\nдополнительную копию.\n\t\tทุกครั้งที่คุณสับการ์ดเข้าเด็ค สับก๊อปปี้ของการ์ดนั้น[b]เข้าเด็คอีกหนึ่งใบ\n\t\t每当你将一张牌洗入牌库，额外洗入一张相同的牌。\n\t\t每當你將牌洗入\n牌堆，額外洗入一張相同的牌\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Eigentlich wollte Dr. Bumm ja Haie mit Laserkanonen, aber ein Elekk mit zwei Rüsseln tut’s bestimmt auch."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Her friends call her \"Shuffleupugus\"."
+          },
+          "esES": {
+            "present": true,
+            "value": "¡Trooompa! ¡Trooompa!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Sus amigos le dicen \"Stampy\"."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Comme son véritable nom, Mammuthus Hearthstonus, est trop difficile à prononcer, ses amis l’ont surnommé Manny."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Come un elekk, ma potenziato."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "戦争の悲しさを描いた絵本に、関係ないロボット漫画の帯を装着するかのような、まさに邪悪なる所業の被害者。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "동작 그만, 두 장 넣기냐?"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Trąba wspomagana to hit wśród elekków śledzących nowinki techniczne."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Sim, tem gente que acha que um elekk normal é fraco demais."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Друзья зовут ее «наш мутирующий мутантик», сокращенно «Муму»."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เพื่อนๆ เรียกเธอว่า \"แม่จอมสับ\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "她的朋友们叫她“洗羊羊”。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "改造之後，胡麻街上的布偶朋友都不認得它了。"
+          }
+        },
+        "textContent": "\n\t\tEigentlich wollte Dr. Bumm ja Haie mit Laserkanonen, aber ein Elekk mit zwei Rüsseln tut’s bestimmt auch.\n\t\tHer friends call her \"Shuffleupugus\".\n\t\t¡Trooompa! ¡Trooompa!\n\t\tSus amigos le dicen \"Stampy\".\n\t\tComme son véritable nom, Mammuthus Hearthstonus, est trop difficile à prononcer, ses amis l’ont surnommé Manny.\n\t\tCome un elekk, ma potenziato.\n\t\t戦争の悲しさを描いた絵本に、関係ないロボット漫画の帯を装着するかのような、まさに邪悪なる所業の被害者。\n\t\t동작 그만, 두 장 넣기냐?\n\t\tTrąba wspomagana to hit wśród elekków śledzących nowinki techniczne.\n\t\tSim, tem gente que acha que um elekk normal é fraco demais.\n\t\tДрузья зовут ее «наш мутирующий мутантик», сокращенно «Муму».\n\t\tเพื่อนๆ เรียกเธอว่า \"แม่จอมสับ\"\n\t\t她的朋友们叫她“洗羊羊”。\n\t\t改造之後，胡麻街上的布偶朋友都不認得它了。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Luca Zontini"
+      }
     }
   },
   "_current": {

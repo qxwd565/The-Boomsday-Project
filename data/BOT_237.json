@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Berylliumnullifizierer"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Beryllium Nullifier"
+          },
+          "esES": {
+            "present": true,
+            "value": "Nulificador de berilio"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Anulador de berilio"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Annulateur en béryllium"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Abolitore di Berillio"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ベリリウム・ヌリファイアー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "베릴륨 마력제거기"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Neutralizator berylu"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Nulificador de Berílio"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Бериллиевый обнулятор"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เบริลเลียมนัลลิไฟเออร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "铍金毁灭者"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "鈹元素淨化者"
+          }
+        },
+        "textContent": "\n\t\t\tBerylliumnullifizierer\n\t\t\tBeryllium Nullifier\n\t\t\tNulificador de berilio\n\t\t\tAnulador de berilio\n\t\t\tAnnulateur en béryllium\n\t\t\tAbolitore di Berillio\n\t\t\tベリリウム・ヌリファイアー\n\t\t\t베릴륨 마력제거기\n\t\t\tNeutralizator berylu\n\t\t\tNulificador de Berílio\n\t\t\tБериллиевый обнулятор\n\t\t\tเบริลเลียมนัลลิไฟเออร์\n\t\t\t铍金毁灭者\n\t\t\t鈹元素淨化者\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Magnetisch</b>. Kann nicht\nals Ziel von Zaubern oder Heldenfähigkeiten gewählt werden."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Magnetic</b>\nCan't be targeted by spells or Hero Powers."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Magnetismo</b>\nNo puede ser objetivo\nde hechizos ni de\npoderes de héroe."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Magnetismo</b>\nNo puede ser objetivo de hechizos ni Poderes de héroe."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Magnétisme</b>\nNe peut pas être la cible de sorts ou de pouvoirs héroïques."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Magnetismo</b>.\nNon può essere il bersaglio\ndi Magie o Poteri Eroe."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>超電磁</b>\n呪文とヒーローパワーの\n__標的にならない。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>합체</b>, 이 하수인은 주문이나 영웅 능력의 대상으로 지정되지 않습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Magnetyzm</b>\nNie może zostać wybrany jako cel zaklęć lub mocy specjalnych."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Magnético</b>\nNão pode ser alvo de feitiços nem de Poderes Heroicos."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Магнетизм</b>\nНе может быть\nцелью заклинаний\nили силы героя."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>แม่เหล็ก</b> ไม่ตกเป็นเป้าหมายของ[b]เวทมนตร์หรือพลังฮีโร่"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>磁力</b>\n无法成为法术或英雄技能的目标。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "[x]<b>合體</b>\n無法被法術或英雄\n能力指定"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Magnetisch</b>. Kann nicht\nals Ziel von Zaubern oder Heldenfähigkeiten gewählt werden.\n\t\t\t<b>Magnetic</b>\nCan't be targeted by spells or Hero Powers.\n\t\t\t[x]<b>Magnetismo</b>\nNo puede ser objetivo\nde hechizos ni de\npoderes de héroe.\n\t\t\t<b>Magnetismo</b>\nNo puede ser objetivo de hechizos ni Poderes de héroe.\n\t\t\t<b>Magnétisme</b>\nNe peut pas être la cible de sorts ou de pouvoirs héroïques.\n\t\t\t[x]<b>Magnetismo</b>.\nNon può essere il bersaglio\ndi Magie o Poteri Eroe.\n\t\t\t[x]<b>超電磁</b>\n呪文とヒーローパワーの\n__標的にならない。\n\t\t\t<b>합체</b>, 이 하수인은 주문이나 영웅 능력의 대상으로 지정되지 않습니다.\n\t\t\t<b>Magnetyzm</b>\nNie może zostać wybrany jako cel zaklęć lub mocy specjalnych.\n\t\t\t<b>Magnético</b>\nNão pode ser alvo de feitiços nem de Poderes Heroicos.\n\t\t\t<b>Магнетизм</b>\nНе может быть\nцелью заклинаний\nили силы героя.\n\t\t\t<b>แม่เหล็ก</b> ไม่ตกเป็นเป้าหมายของ[b]เวทมนตร์หรือพลังฮีโร่\n\t\t\t<b>磁力</b>\n无法成为法术或英雄技能的目标。\n\t\t\t[x]<b>合體</b>\n無法被法術或英雄\n能力指定\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Was macht eigentlich ein Berylliumnullifizierer? Und jetzt sagt bitte nicht, er nullifiziert Beryllium!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Why Beryllium? Because it's hard to spell."
+          },
+          "esES": {
+            "present": true,
+            "value": "¿Que por qué de berilio? Estaba de oferta."
+          },
+          "esMX": {
+            "present": true,
+            "value": "¿Está hecho de berilio o anula todo lo que está hecho de berilio?"
+          },
+          "frFR": {
+            "present": true,
+            "value": "L’adamantium et le vibranium étant trop difficiles à trouver, le Dr Boum a dû se rabattre sur du béryllium."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Berillio di sera, la Magia non si avvera!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "なぜ「ベリリウム」なのかって？スペルが難しいからさ。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "왜 하필 베릴륨이냐고요? 발음이 어려워서요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Neutralizator” brzmi subtelniej niż „likwidator”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Tentaram \"liquidificador\", mas não tinha as mesmas propriedades antimagia."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Почему «бериллиевый»? Чтобы труднее было выговорить!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เบริลเลียมต้านทานเวทมนตร์ได้ดี เพราะมันสะกดยาก"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "为什么要用铍？因为这个字难拼，进而难以被选中。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "為什麼是鈹元素？因為很多人不知道鈹怎麼念。"
+          }
+        },
+        "textContent": "\n\t\t\tWas macht eigentlich ein Berylliumnullifizierer? Und jetzt sagt bitte nicht, er nullifiziert Beryllium!\n\t\t\tWhy Beryllium? Because it's hard to spell.\n\t\t\t¿Que por qué de berilio? Estaba de oferta.\n\t\t\t¿Está hecho de berilio o anula todo lo que está hecho de berilio?\n\t\t\tL’adamantium et le vibranium étant trop difficiles à trouver, le Dr Boum a dû se rabattre sur du béryllium.\n\t\t\tBerillio di sera, la Magia non si avvera!\n\t\t\tなぜ「ベリリウム」なのかって？スペルが難しいからさ。\n\t\t\t왜 하필 베릴륨이냐고요? 발음이 어려워서요.\n\t\t\t„Neutralizator” brzmi subtelniej niż „likwidator”.\n\t\t\tTentaram \"liquidificador\", mas não tinha as mesmas propriedades antimagia.\n\t\t\tПочему «бериллиевый»? Чтобы труднее было выговорить!\n\t\t\tเบริลเลียมต้านทานเวทมนตร์ได้ดี เพราะมันสะกดยาก\n\t\t\t为什么要用铍？因为这个字难拼，进而难以被选中。\n\t\t\t為什麼是鈹元素？因為很多人不知道鈹怎麼念。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Anton Zemskov"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Berylliumnullifizierer"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Beryllium Nullifier"
+          },
+          "esES": {
+            "present": true,
+            "value": "Nulificador de berilio"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Anulador de berilio"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Annulateur en béryllium"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Abolitore di Berillio"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ベリリウム・ヌリファイアー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "베릴륨 마력제거기"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Neutralizator berylu"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Nulificador de Berílio"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Бериллиевый обнулятор"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เบริลเลียมนัลลิไฟเออร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "铍金毁灭者"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "鈹元素淨化者"
+          }
+        },
+        "textContent": "\n\t\tBerylliumnullifizierer\n\t\tBeryllium Nullifier\n\t\tNulificador de berilio\n\t\tAnulador de berilio\n\t\tAnnulateur en béryllium\n\t\tAbolitore di Berillio\n\t\tベリリウム・ヌリファイアー\n\t\t베릴륨 마력제거기\n\t\tNeutralizator berylu\n\t\tNulificador de Berílio\n\t\tБериллиевый обнулятор\n\t\tเบริลเลียมนัลลิไฟเออร์\n\t\t铍金毁灭者\n\t\t鈹元素淨化者\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Magnetisch</b>, <b>Flüchtig</b>."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Magnetic</b>\n<b>Elusive</b>"
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Magnetismo</b>\n<b>Esquivo</b>"
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Magnetismo</b>\n<b>Evasivo</b>"
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Magnétisme</b>\n<b>Insaisissable</b>"
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>Magnetismo</b>. <b>Elusività</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>超電磁</b>、<b>躱し身</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>합체</b>, <b>모면</b>"
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Magnetyzm</b>\n<b>Nieuchwytność</b>"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Magnético</b>\n<b>Elusivo</b>"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Магнетизм</b>. <b>Неуловимость</b>"
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>แม่เหล็ก</b>\n<b>หลบหลีก</b>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>磁力</b>。<b>扰魔</b>"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>合體</b>、<b>飄渺</b>"
+          }
+        },
+        "textContent": "\n\t\t<b>Magnetisch</b>, <b>Flüchtig</b>.\n\t\t<b>Magnetic</b>\n<b>Elusive</b>\n\t\t<b>Magnetismo</b>\n<b>Esquivo</b>\n\t\t<b>Magnetismo</b>\n<b>Evasivo</b>\n\t\t<b>Magnétisme</b>\n<b>Insaisissable</b>\n\t\t<b>Magnetismo</b>. <b>Elusività</b>.\n\t\t[x]<b>超電磁</b>、<b>躱し身</b>\n\t\t<b>합체</b>, <b>모면</b>\n\t\t<b>Magnetyzm</b>\n<b>Nieuchwytność</b>\n\t\t<b>Magnético</b>\n<b>Elusivo</b>\n\t\t<b>Магнетизм</b>. <b>Неуловимость</b>\n\t\t<b>แม่เหล็ก</b>\n<b>หลบหลีก</b>\n\t\t<b>磁力</b>。<b>扰魔</b>\n\t\t<b>合體</b>、<b>飄渺</b>\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Was macht eigentlich ein Berylliumnullifizierer? Und jetzt sagt bitte nicht, er nullifiziert Beryllium!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Why Beryllium? Because it's hard to spell."
+          },
+          "esES": {
+            "present": true,
+            "value": "¿Que por qué de berilio? Estaba de oferta."
+          },
+          "esMX": {
+            "present": true,
+            "value": "¿Está hecho de berilio o anula todo lo que está hecho de berilio?"
+          },
+          "frFR": {
+            "present": true,
+            "value": "L’adamantium et le vibranium étant trop difficiles à trouver, le Dr Boum a dû se rabattre sur du béryllium."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Berillio di sera, la Magia non si avvera!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "なぜ「ベリリウム」なのかって？スペルが難しいからさ。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "왜 하필 베릴륨이냐고요? 발음이 어려워서요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Neutralizator” brzmi subtelniej niż „likwidator”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Tentaram \"liquidificador\", mas não tinha as mesmas propriedades antimagia."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Почему «бериллиевый»? Чтобы труднее было выговорить!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เบริลเลียมต้านทานเวทมนตร์ได้ดี เพราะมันสะกดยาก"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "为什么要用铍？因为这个字难拼，进而难以被选中。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "為什麼是鈹元素？因為很多人不知道鈹怎麼念。"
+          }
+        },
+        "textContent": "\n\t\tWas macht eigentlich ein Berylliumnullifizierer? Und jetzt sagt bitte nicht, er nullifiziert Beryllium!\n\t\tWhy Beryllium? Because it's hard to spell.\n\t\t¿Que por qué de berilio? Estaba de oferta.\n\t\t¿Está hecho de berilio o anula todo lo que está hecho de berilio?\n\t\tL’adamantium et le vibranium étant trop difficiles à trouver, le Dr Boum a dû se rabattre sur du béryllium.\n\t\tBerillio di sera, la Magia non si avvera!\n\t\tなぜ「ベリリウム」なのかって？スペルが難しいからさ。\n\t\t왜 하필 베릴륨이냐고요? 발음이 어려워서요.\n\t\t„Neutralizator” brzmi subtelniej niż „likwidator”.\n\t\tTentaram \"liquidificador\", mas não tinha as mesmas propriedades antimagia.\n\t\tПочему «бериллиевый»? Чтобы труднее было выговорить!\n\t\tเบริลเลียมต้านทานเวทมนตร์ได้ดี เพราะมันสะกดยาก\n\t\t为什么要用铍？因为这个字难拼，进而难以被选中。\n\t\t為什麼是鈹元素？因為很多人不知道鈹怎麼念。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Anton Zemskov"
+      }
     }
   },
   "_current": {

@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Klonomat"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Cloning Device"
+          },
+          "esES": {
+            "present": true,
+            "value": "Dispositivo de clonación"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Dispositivo de clonación"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Appareil de clonage"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Dispositivo di Clonazione"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "クローン装置"
+          },
+          "koKR": {
+            "present": true,
+            "value": "복제 장치"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Maszyna klonująca"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Dispositivo de Clonagem"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Клонирователь"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เครื่องโคลนนิ่ง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "克隆装置"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "複製裝置"
+          }
+        },
+        "textContent": "\n\t\t\tKlonomat\n\t\t\tCloning Device\n\t\t\tDispositivo de clonación\n\t\t\tDispositivo de clonación\n\t\t\tAppareil de clonage\n\t\t\tDispositivo di Clonazione\n\t\t\tクローン装置\n\t\t\t복제 장치\n\t\t\tMaszyna klonująca\n\t\t\tDispositivo de Clonagem\n\t\t\tКлонирователь\n\t\t\tเครื่องโคลนนิ่ง\n\t\t\t克隆装置\n\t\t\t複製裝置\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Entdeckt</b> eine Kopie eines Dieners aus dem Deck Eures Gegners."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Discover</b> a copy of a minion in your opponent's deck."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Descubre</b> una copia\nde un esbirro del mazo\nde tu oponente."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Devela</b> una copia de un esbirro del mazo de tu adversario."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Découvre</b> une copie d’un serviteur du deck de votre adversaire."
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>Rinvieni</b> una copia di un servitore dal mazzo dell'avversario."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]相手のデッキの\nミニオンのコピーを\n1体<b>発見</b>する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "상대편의 덱에서 하수인을 하나 <b>발견</b>합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Odkryj</b> kopię stronnika z talii przeciwnika."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Descubra</b> uma cópia de um lacaio do deck do oponente."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Вы <b>раскапываете</b> копию существа из_колоды противника."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>ค้นพบ</b> ก๊อปปี้ของมินเนี่ยน[b]หนึ่งตัวในเด็คคู่ต่อสู้"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "从你对手的牌库中<b>发现</b>一张随从牌，复制该随从牌并置入你的手牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>發現</b>對手牌堆中的一個手下"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Entdeckt</b> eine Kopie eines Dieners aus dem Deck Eures Gegners.\n\t\t\t<b>Discover</b> a copy of a minion in your opponent's deck.\n\t\t\t[x]<b>Descubre</b> una copia\nde un esbirro del mazo\nde tu oponente.\n\t\t\t<b>Devela</b> una copia de un esbirro del mazo de tu adversario.\n\t\t\t<b>Découvre</b> une copie d’un serviteur du deck de votre adversaire.\n\t\t\t<b>Rinvieni</b> una copia di un servitore dal mazzo dell'avversario.\n\t\t\t[x]相手のデッキの\nミニオンのコピーを\n1体<b>発見</b>する。\n\t\t\t상대편의 덱에서 하수인을 하나 <b>발견</b>합니다.\n\t\t\t<b>Odkryj</b> kopię stronnika z talii przeciwnika.\n\t\t\t<b>Descubra</b> uma cópia de um lacaio do deck do oponente.\n\t\t\tВы <b>раскапываете</b> копию существа из_колоды противника.\n\t\t\t<b>ค้นพบ</b> ก๊อปปี้ของมินเนี่ยน[b]หนึ่งตัวในเด็คคู่ต่อสู้\n\t\t\t从你对手的牌库中<b>发现</b>一张随从牌，复制该随从牌并置入你的手牌。\n\t\t\t<b>發現</b>對手牌堆中的一個手下\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Irgendwann war Zerek es leid, sich immer um die Fernbedienung zu zanken."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Zerek got sick of fighting over the remote."
+          },
+          "esES": {
+            "present": true,
+            "value": "Zerek se cansó de estar siempre peleando por el mando a distancia."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Zerek se cansó de pelear por el control remoto."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Zerek en a eu assez de toujours se battre pour la télécommande."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Zerek si era stufato di litigare per il telecomando."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ゼレクはリモコンの取り合いにうんざりしたんだ。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "리모컨을 두고 싸우는 것에 제레크가 넌더리가 났나 봅니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Co dwa wielkie czerwone przyciski to nie jeden!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Zerek não aguentava mais brigar pelo controle remoto."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Зереку надоело драться за пульт от телевизора."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เซเรคเบื่อการทะเลาะกัน[b]เพื่อแย่งรีโมตแล้ว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "这下泽里克不用再跟自己抢遥控器了。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "澤瑞克再也不想跟自己搶遙控器了。"
+          }
+        },
+        "textContent": "\n\t\t\tIrgendwann war Zerek es leid, sich immer um die Fernbedienung zu zanken.\n\t\t\tZerek got sick of fighting over the remote.\n\t\t\tZerek se cansó de estar siempre peleando por el mando a distancia.\n\t\t\tZerek se cansó de pelear por el control remoto.\n\t\t\tZerek en a eu assez de toujours se battre pour la télécommande.\n\t\t\tZerek si era stufato di litigare per il telecomando.\n\t\t\tゼレクはリモコンの取り合いにうんざりしたんだ。\n\t\t\t리모컨을 두고 싸우는 것에 제레크가 넌더리가 났나 봅니다.\n\t\t\tCo dwa wielkie czerwone przyciski to nie jeden!\n\t\t\tZerek não aguentava mais brigar pelo controle remoto.\n\t\t\tЗереку надоело драться за пульт от телевизора.\n\t\t\tเซเรคเบื่อการทะเลาะกัน[b]เพื่อแย่งรีโมตแล้ว\n\t\t\t这下泽里克不用再跟自己抢遥控器了。\n\t\t\t澤瑞克再也不想跟自己搶遙控器了。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Anton Zemskov"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Klonomat"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Cloning Device"
+          },
+          "esES": {
+            "present": true,
+            "value": "Dispositivo de clonación"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Dispositivo de clonación"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Appareil de clonage"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Dispositivo di Clonazione"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "クローン装置"
+          },
+          "koKR": {
+            "present": true,
+            "value": "복제 장치"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Maszyna klonująca"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Dispositivo de Clonagem"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Клонирователь"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เครื่องโคลนนิ่ง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "克隆装置"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "複製裝置"
+          }
+        },
+        "textContent": "\n\t\tKlonomat\n\t\tCloning Device\n\t\tDispositivo de clonación\n\t\tDispositivo de clonación\n\t\tAppareil de clonage\n\t\tDispositivo di Clonazione\n\t\tクローン装置\n\t\t복제 장치\n\t\tMaszyna klonująca\n\t\tDispositivo de Clonagem\n\t\tКлонирователь\n\t\tเครื่องโคลนนิ่ง\n\t\t克隆装置\n\t\t複製裝置\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Entdeckt</b> eine Kopie eines Dieners aus dem Deck Eures Gegners."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Discover</b> a copy of a minion in your opponent's deck."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Descubre</b> una copia\nde un esbirro del mazo\nde tu oponente."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Devela</b> una copia de un esbirro del mazo de tu adversario."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Découvre</b> une copie d’un serviteur du deck de votre adversaire."
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>Rinvieni</b> una copia di un servitore dal mazzo dell'avversario."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]相手のデッキの\nミニオンのコピーを\n1体<b>発見</b>する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "상대편의 덱에서 하수인을 <b>발견</b>해서 복사해옵니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Odkryj</b> kopię stronnika z talii przeciwnika."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Descubra</b> uma cópia de um lacaio do deck do oponente."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Вы <b>раскапываете</b> копию существа из_колоды противника."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>ค้นพบ</b> ก๊อปปี้ของมินเนี่ยน[b]หนึ่งตัวในเด็คคู่ต่อสู้"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "从你对手的牌库中<b>发现</b>一张随从牌的复制。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>發現</b>對手牌堆中的一個手下"
+          }
+        },
+        "textContent": "\n\t\t<b>Entdeckt</b> eine Kopie eines Dieners aus dem Deck Eures Gegners.\n\t\t<b>Discover</b> a copy of a minion in your opponent's deck.\n\t\t[x]<b>Descubre</b> una copia\nde un esbirro del mazo\nde tu oponente.\n\t\t<b>Devela</b> una copia de un esbirro del mazo de tu adversario.\n\t\t<b>Découvre</b> une copie d’un serviteur du deck de votre adversaire.\n\t\t<b>Rinvieni</b> una copia di un servitore dal mazzo dell'avversario.\n\t\t[x]相手のデッキの\nミニオンのコピーを\n1体<b>発見</b>する。\n\t\t상대편의 덱에서 하수인을 <b>발견</b>해서 복사해옵니다.\n\t\t<b>Odkryj</b> kopię stronnika z talii przeciwnika.\n\t\t<b>Descubra</b> uma cópia de um lacaio do deck do oponente.\n\t\tВы <b>раскапываете</b> копию существа из_колоды противника.\n\t\t<b>ค้นพบ</b> ก๊อปปี้ของมินเนี่ยน[b]หนึ่งตัวในเด็คคู่ต่อสู้\n\t\t从你对手的牌库中<b>发现</b>一张随从牌的复制。\n\t\t<b>發現</b>對手牌堆中的一個手下\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Irgendwann war Zerek es leid, sich immer um die Fernbedienung zu zanken."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Zerek got sick of fighting over the remote."
+          },
+          "esES": {
+            "present": true,
+            "value": "Zerek se cansó de estar siempre peleando por el mando a distancia."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Zerek se cansó de pelear por el control remoto."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Zerek en a eu assez de toujours se battre pour la télécommande."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Zerek si era stufato di litigare per il telecomando."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ゼレクはリモコンの取り合いにうんざりしたんだ。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "리모컨을 두고 싸우는 것에 제레크가 넌더리가 났나 봅니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Co dwa wielkie czerwone przyciski to nie jeden!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Zerek não aguentava mais brigar pelo controle remoto."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Зереку надоело драться за пульт от телевизора."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เซเรคเบื่อการทะเลาะกัน[b]เพื่อแย่งรีโมตแล้ว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "这下泽里克不用再跟自己抢遥控器了。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "澤瑞克再也不想跟自己搶遙控器了。"
+          }
+        },
+        "textContent": "\n\t\tIrgendwann war Zerek es leid, sich immer um die Fernbedienung zu zanken.\n\t\tZerek got sick of fighting over the remote.\n\t\tZerek se cansó de estar siempre peleando por el mando a distancia.\n\t\tZerek se cansó de pelear por el control remoto.\n\t\tZerek en a eu assez de toujours se battre pour la télécommande.\n\t\tZerek si era stufato di litigare per il telecomando.\n\t\tゼレクはリモコンの取り合いにうんざりしたんだ。\n\t\t리모컨을 두고 싸우는 것에 제레크가 넌더리가 났나 봅니다.\n\t\tCo dwa wielkie czerwone przyciski to nie jeden!\n\t\tZerek não aguentava mais brigar pelo controle remoto.\n\t\tЗереку надоело драться за пульт от телевизора.\n\t\tเซเรคเบื่อการทะเลาะกัน[b]เพื่อแย่งรีโมตแล้ว\n\t\t这下泽里克不用再跟自己抢遥控器了。\n\t\t澤瑞克再也不想跟自己搶遙控器了。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Anton Zemskov"
+      }
     }
   },
   "_current": {

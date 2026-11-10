@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verkehrte Welt"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Topsy Turvy"
+          },
+          "esES": {
+            "present": true,
+            "value": "Patas arriba"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Patas arriba"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Sens dessus dessous"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Sottosopra"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "アベコベーター"
+          },
+          "koKR": {
+            "present": true,
+            "value": "발라당"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zakręcenie"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Troca-Tudo"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Переворот"
+          },
+          "thTH": {
+            "present": true,
+            "value": "กลับหัวกลับหาง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "引力翻转"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "顛顛倒倒"
+          }
+        },
+        "textContent": "\n\t\t\tVerkehrte Welt\n\t\t\tTopsy Turvy\n\t\t\tPatas arriba\n\t\t\tPatas arriba\n\t\t\tSens dessus dessous\n\t\t\tSottosopra\n\t\t\tアベコベーター\n\t\t\t발라당\n\t\t\tZakręcenie\n\t\t\tTroca-Tudo\n\t\t\tПереворот\n\t\t\tกลับหัวกลับหาง\n\t\t\t引力翻转\n\t\t\t顛顛倒倒\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Vertauscht Angriff und Leben eines Dieners."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Swap a minion's Attack and Health."
+          },
+          "esES": {
+            "present": true,
+            "value": "Intercambia el ataque y_la_salud_de_un_esbirro."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Intercambia el Ataque y la Salud de un esbirro."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Inverse l’Attaque et la Vie d’un serviteur."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Scambia Attacco e Salute di un servitore."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]ミニオン1体の\n攻撃力と体力を\n入れ替える。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "하수인 하나의 공격력과 생명력을 바꿉니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zamień atak i zdrowie stronnika."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Troque o Ataque pela Vida de um lacaio."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]Меняет местами атаку\nи здоровье выбранного\nсущества."
+          },
+          "thTH": {
+            "present": true,
+            "value": "สลับพลังโจมตีและ[b]พลังชีวิตของมินเนี่ยน[b]หนึ่งตัว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "使一个随从的攻击力和生命值\n互换。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "對調一個手下的攻擊力和生命值"
+          }
+        },
+        "textContent": "\n\t\t\tVertauscht Angriff und Leben eines Dieners.\n\t\t\tSwap a minion's Attack and Health.\n\t\t\tIntercambia el ataque y_la_salud_de_un_esbirro.\n\t\t\tIntercambia el Ataque y la Salud de un esbirro.\n\t\t\tInverse l’Attaque et la Vie d’un serviteur.\n\t\t\tScambia Attacco e Salute di un servitore.\n\t\t\t[x]ミニオン1体の\n攻撃力と体力を\n入れ替える。\n\t\t\t하수인 하나의 공격력과 생명력을 바꿉니다.\n\t\t\tZamień atak i zdrowie stronnika.\n\t\t\tTroque o Ataque pela Vida de um lacaio.\n\t\t\t[x]Меняет местами атаку\nи здоровье выбранного\nсущества.\n\t\t\tสลับพลังโจมตีและ[b]พลังชีวิตของมินเนี่ยน[b]หนึ่งตัว\n\t\t\t使一个随从的攻击力和生命值\n互换。\n\t\t\t對調一個手下的攻擊力和生命值\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Völlig looooooosgelöst von der Erde_..."
+          },
+          "enUS": {
+            "present": true,
+            "value": "\"Help! I've fallen and I can't get down!\""
+          },
+          "esES": {
+            "present": true,
+            "value": "«¡Me he caído y no puedo levantarme!»."
+          },
+          "esMX": {
+            "present": true,
+            "value": "\"¡Ayuda! ¡Me caí y no puedo bajar!\""
+          },
+          "frFR": {
+            "present": true,
+            "value": "« Au secours ! Je suis tombé à la renverse et je ne peux plus me relever ! »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "\"Aiuto! Sono caduto e non riesco a tornare giù!\""
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「タスケテ！起キ上ガッチャッテ、転ベナイ！」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "자매품으로 '철푸덕'도 있습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Pomocy! Przewróciłem się, a teraz nie mogę wstać!”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "\"Socorro! Eu caí e não consigo me abaixar!\""
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Он хотел бы открыть свое дело, но никак не может встать на ноги."
+          },
+          "thTH": {
+            "present": true,
+            "value": "\"ช่วยด้วย! ข้าตกลงมาแล้ว[b]กลับลงพื้นไม่ได้!\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "“救命！我掉……上去了！”"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "救命啊！我掉「上」去了！"
+          }
+        },
+        "textContent": "\n\t\t\tVöllig looooooosgelöst von der Erde_...\n\t\t\t\"Help! I've fallen and I can't get down!\"\n\t\t\t«¡Me he caído y no puedo levantarme!».\n\t\t\t\"¡Ayuda! ¡Me caí y no puedo bajar!\"\n\t\t\t« Au secours ! Je suis tombé à la renverse et je ne peux plus me relever ! »\n\t\t\t\"Aiuto! Sono caduto e non riesco a tornare giù!\"\n\t\t\t「タスケテ！起キ上ガッチャッテ、転ベナイ！」\n\t\t\t자매품으로 '철푸덕'도 있습니다.\n\t\t\t„Pomocy! Przewróciłem się, a teraz nie mogę wstać!”.\n\t\t\t\"Socorro! Eu caí e não consigo me abaixar!\"\n\t\t\tОн хотел бы открыть свое дело, но никак не может встать на ноги.\n\t\t\t\"ช่วยด้วย! ข้าตกลงมาแล้ว[b]กลับลงพื้นไม่ได้!\"\n\t\t\t“救命！我掉……上去了！”\n\t\t\t救命啊！我掉「上」去了！\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Jim Nelson"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verkehrte Welt"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Topsy Turvy"
+          },
+          "esES": {
+            "present": true,
+            "value": "Patas arriba"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Patas arriba"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Sens dessus dessous"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Sottosopra"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "アベコベーター"
+          },
+          "koKR": {
+            "present": true,
+            "value": "발라당"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zakręcenie"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Troca-Tudo"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Переворот"
+          },
+          "thTH": {
+            "present": true,
+            "value": "กลับหัวกลับหาง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "引力翻转"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "顛顛倒倒"
+          }
+        },
+        "textContent": "\n\t\tVerkehrte Welt\n\t\tTopsy Turvy\n\t\tPatas arriba\n\t\tPatas arriba\n\t\tSens dessus dessous\n\t\tSottosopra\n\t\tアベコベーター\n\t\t발라당\n\t\tZakręcenie\n\t\tTroca-Tudo\n\t\tПереворот\n\t\tกลับหัวกลับหาง\n\t\t引力翻转\n\t\t顛顛倒倒\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Vertauscht Angriff und Leben eines Dieners."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Swap a minion's Attack and Health."
+          },
+          "esES": {
+            "present": true,
+            "value": "Intercambia el ataque y_la_salud_de_un_esbirro."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Intercambia el Ataque y la Salud de un esbirro."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Inverse l’ATQ et les PV d’un serviteur."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Scambia Attacco e Salute di un servitore."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]ミニオン1体の\n攻撃力と体力を\n入れ替える。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "하수인의 공격력과 생명력을 바꿉니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zamień atak i zdrowie stronnika."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Troque o Ataque pela Vida de um lacaio."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Меняет местами атаку и здоровье существа."
+          },
+          "thTH": {
+            "present": true,
+            "value": "สลับพลังโจมตีและ[b]พลังชีวิตของมินเนี่ยน[b]หนึ่งตัว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "使一个随从的攻击力和生命值\n互换。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "對調一個手下的攻擊力和生命值"
+          }
+        },
+        "textContent": "\n\t\tVertauscht Angriff und Leben eines Dieners.\n\t\tSwap a minion's Attack and Health.\n\t\tIntercambia el ataque y_la_salud_de_un_esbirro.\n\t\tIntercambia el Ataque y la Salud de un esbirro.\n\t\tInverse l’ATQ et les PV d’un serviteur.\n\t\tScambia Attacco e Salute di un servitore.\n\t\t[x]ミニオン1体の\n攻撃力と体力を\n入れ替える。\n\t\t하수인의 공격력과 생명력을 바꿉니다.\n\t\tZamień atak i zdrowie stronnika.\n\t\tTroque o Ataque pela Vida de um lacaio.\n\t\tМеняет местами атаку и здоровье существа.\n\t\tสลับพลังโจมตีและ[b]พลังชีวิตของมินเนี่ยน[b]หนึ่งตัว\n\t\t使一个随从的攻击力和生命值\n互换。\n\t\t對調一個手下的攻擊力和生命值\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Völlig looooooosgelöst von der Erde_..."
+          },
+          "enUS": {
+            "present": true,
+            "value": "\"Help! I've fallen and I can't get down!\""
+          },
+          "esES": {
+            "present": true,
+            "value": "«¡Me he caído y no puedo levantarme!»."
+          },
+          "esMX": {
+            "present": true,
+            "value": "\"¡Ayuda! ¡Me caí y no puedo bajar!\""
+          },
+          "frFR": {
+            "present": true,
+            "value": "« Au secours ! Je suis tombé à la renverse et je ne peux plus me relever ! »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "\"Aiuto! Sono caduto e non riesco a tornare giù!\""
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「タスケテ！起キ上ガッチャッテ、転ベナイ！」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "자매품으로 '철푸덕'도 있습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Pomocy! Przewróciłem się, a teraz nie mogę wstać!”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "\"Socorro! Eu caí e não consigo me abaixar!\""
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Он хотел бы открыть свое дело, но никак не может встать на ноги."
+          },
+          "thTH": {
+            "present": true,
+            "value": "\"ช่วยด้วย! ข้าตกลงมาแล้ว[b]กลับลงพื้นไม่ได้!\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "“救命！我掉……上去了！”"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "救命啊！我掉「上」去了！"
+          }
+        },
+        "textContent": "\n\t\tVöllig looooooosgelöst von der Erde_...\n\t\t\"Help! I've fallen and I can't get down!\"\n\t\t«¡Me he caído y no puedo levantarme!».\n\t\t\"¡Ayuda! ¡Me caí y no puedo bajar!\"\n\t\t« Au secours ! Je suis tombé à la renverse et je ne peux plus me relever ! »\n\t\t\"Aiuto! Sono caduto e non riesco a tornare giù!\"\n\t\t「タスケテ！起キ上ガッチャッテ、転ベナイ！」\n\t\t자매품으로 '철푸덕'도 있습니다.\n\t\t„Pomocy! Przewróciłem się, a teraz nie mogę wstać!”.\n\t\t\"Socorro! Eu caí e não consigo me abaixar!\"\n\t\tОн хотел бы открыть свое дело, но никак не может встать на ноги.\n\t\t\"ช่วยด้วย! ข้าตกลงมาแล้ว[b]กลับลงพื้นไม่ได้!\"\n\t\t“救命！我掉……上去了！”\n\t\t救命啊！我掉「上」去了！\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Jim Nelson"
+      }
     }
   },
   "_current": {

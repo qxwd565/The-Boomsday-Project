@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Robohopser"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Pogo-Hopper"
+          },
+          "esES": {
+            "present": true,
+            "value": "Saltador"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Brincador mecánico"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Lapin-échasseur"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Saltabot"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ホッピング・ホッパー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "토깽이 콩콩"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Kicoskoczek"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Pogo-Pol"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Прыг-скокер"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โปโก-ฮอปเปอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "蹦蹦兔"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "蹦蹦兔"
+          }
+        },
+        "textContent": "\n\t\t\tRobohopser\n\t\t\tPogo-Hopper\n\t\t\tSaltador\n\t\t\tBrincador mecánico\n\t\t\tLapin-échasseur\n\t\t\tSaltabot\n\t\t\tホッピング・ホッパー\n\t\t\t토깽이 콩콩\n\t\t\tKicoskoczek\n\t\t\tPogo-Pol\n\t\t\tПрыг-скокер\n\t\t\tโปโก-ฮอปเปอร์\n\t\t\t蹦蹦兔\n\t\t\t蹦蹦兔\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Erhält +2/+2 für jeden anderen Robohopser, den Ihr in diesem Spiel ausgespielt habt."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> Gain +2/+2 for\neach other Pogo-Hopper\nyou played this game."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b> Obtiene\n+2/+2 por cada saltador\nque hayas jugado\nen esta partida."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> obtiene +2/+2 por cada Brincador mecánico que hayas jugado durante esta partida."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> gagne_+2/+2 pour chaque autre lapin-échasseur que vous avez joué pendant cette partie."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nottiene +2/+2 per ogni altro\nSaltabot che hai giocato\nin questa partita."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\nこの対戦で自分が手札から\n使用した他の「ホッピング・\nホッパー」1体につき\n_+2/+2を獲得する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b>\n이번 게임에서 내가 낸\n다른 토깽이 콩콩 하나당\n+2/+2를 얻습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Otrzymuje_+2/+2 za każdego innego Kicoskoczka zagranego przez ciebie_w tej grze."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Receba +2/+2 para cada outro Pogo-Pol jogado por você nesta partida."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> получает +2/+2 за каждого другого прыг-скокера, разыгранного вами в_этом_матче."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> ได้รับ +2/+2 ต่อโปโก-ฮอปเปอร์ตัวอื่น[b]_แต่ละตัวที่คุณเล่นในเกมนี้_"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>在本局对战中，你每使用一张蹦蹦兔就会使其获得+2/+2。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>你在本賽局打出的每個其他蹦蹦兔使其獲得+2/+2"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Erhält +2/+2 für jeden anderen Robohopser, den Ihr in diesem Spiel ausgespielt habt.\n\t\t\t[x]<b>Battlecry:</b> Gain +2/+2 for\neach other Pogo-Hopper\nyou played this game.\n\t\t\t[x]<b>Grito de batalla:</b> Obtiene\n+2/+2 por cada saltador\nque hayas jugado\nen esta partida.\n\t\t\t<b>Grito de batalla:</b> obtiene +2/+2 por cada Brincador mecánico que hayas jugado durante esta partida.\n\t\t\t<b>Cri de guerre_:</b> gagne_+2/+2 pour chaque autre lapin-échasseur que vous avez joué pendant cette partie.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nottiene +2/+2 per ogni altro\nSaltabot che hai giocato\nin questa partita.\n\t\t\t[x]<b>雄叫び:</b>\nこの対戦で自分が手札から\n使用した他の「ホッピング・\nホッパー」1体につき\n_+2/+2を獲得する。\n\t\t\t[x]<b>전투의 함성:</b>\n이번 게임에서 내가 낸\n다른 토깽이 콩콩 하나당\n+2/+2를 얻습니다.\n\t\t\t<b>Okrzyk bojowy:</b> Otrzymuje_+2/+2 za każdego innego Kicoskoczka zagranego przez ciebie_w tej grze.\n\t\t\t<b>Grito de Guerra:</b> Receba +2/+2 para cada outro Pogo-Pol jogado por você nesta partida.\n\t\t\t<b>Боевой клич:</b> получает +2/+2 за каждого другого прыг-скокера, разыгранного вами в_этом_матче.\n\t\t\t<b>คำรามสู้ศึก:</b> ได้รับ +2/+2 ต่อโปโก-ฮอปเปอร์ตัวอื่น[b]_แต่ละตัวที่คุณเล่นในเกมนี้_\n\t\t\t<b>战吼：</b>在本局对战中，你每使用一张蹦蹦兔就会使其获得+2/+2。\n\t\t\t<b>戰吼：</b>你在本賽局打出的每個其他蹦蹦兔使其獲得+2/+2\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Einmal gehopst, nie mehr gestoppt!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Once you hop, you just can't stop!"
+          },
+          "esES": {
+            "present": true,
+            "value": "Se le suele ver con un reloj en la mano y saltando a toda prisa sobre las 5 de la tarde."
+          },
+          "esMX": {
+            "present": true,
+            "value": "¿Para qué quiere un pogo saltarín un conejo? Solo hay una forma de saberlo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Un lapin qui ne sait pas sauter tout seul, on aura tout vu !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Quando si inizia a saltare, non ci si può più fermare."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "乗ったら最期、ユーキャントストップ！"
+          },
+          "koKR": {
+            "present": true,
+            "value": "띠용!"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Kto nie skacze, jest goblinem! Hop, hop, hop!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Quem pula uma pula duas!"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Рожденный прыгать ходить не будет!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โดดมันส์จนหยุดไม่ได้!"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "根本停不下来！"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "蹦！蹦！蹦吼依爽！\n蹦！蹦！蹦嘎要起笑！"
+          }
+        },
+        "textContent": "\n\t\t\tEinmal gehopst, nie mehr gestoppt!\n\t\t\tOnce you hop, you just can't stop!\n\t\t\tSe le suele ver con un reloj en la mano y saltando a toda prisa sobre las 5 de la tarde.\n\t\t\t¿Para qué quiere un pogo saltarín un conejo? Solo hay una forma de saberlo.\n\t\t\tUn lapin qui ne sait pas sauter tout seul, on aura tout vu !\n\t\t\tQuando si inizia a saltare, non ci si può più fermare.\n\t\t\t乗ったら最期、ユーキャントストップ！\n\t\t\t띠용!\n\t\t\tKto nie skacze, jest goblinem! Hop, hop, hop!\n\t\t\tQuem pula uma pula duas!\n\t\t\tРожденный прыгать ходить не будет!\n\t\t\tโดดมันส์จนหยุดไม่ได้!\n\t\t\t根本停不下来！\n\t\t\t蹦！蹦！蹦吼依爽！\n蹦！蹦！蹦嘎要起笑！\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Matt Dixon"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Robohopser"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Pogo-Hopper"
+          },
+          "esES": {
+            "present": true,
+            "value": "Saltador"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Brincador mecánico"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Lapin-échasseur"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Saltabot"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ホッピング・ホッパー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "토깽이 콩콩"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Kicoskoczek"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Pogo-Pol"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Прыг-скокер"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โปโก-ฮอปเปอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "蹦蹦兔"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "蹦蹦兔"
+          }
+        },
+        "textContent": "\n\t\tRobohopser\n\t\tPogo-Hopper\n\t\tSaltador\n\t\tBrincador mecánico\n\t\tLapin-échasseur\n\t\tSaltabot\n\t\tホッピング・ホッパー\n\t\t토깽이 콩콩\n\t\tKicoskoczek\n\t\tPogo-Pol\n\t\tПрыг-скокер\n\t\tโปโก-ฮอปเปอร์\n\t\t蹦蹦兔\n\t\t蹦蹦兔\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Erhält +2/+2 für jeden anderen Robohopser, den Ihr in diesem Spiel ausgespielt habt."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> Gain +2/+2 for\neach other Pogo-Hopper\nyou played this game."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b> Obtiene\n+2/+2 por cada saltador\nque hayas jugado\nen esta partida."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> obtiene +2/+2 por cada Brincador mecánico que hayas jugado durante esta partida."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> gagne_+2/+2 pour chaque autre lapin-échasseur que vous avez joué pendant cette partie."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nottiene +2/+2 per ogni altro\nSaltabot che hai giocato\nin questa partita."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\nこの対戦で自分が手札から\n使用した他の「ホッピング・\nホッパー」1体につき\n_+2/+2を獲得する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b>\n이번 게임에서 내가 낸\n다른 토깽이 콩콩 하나당\n+2/+2를 얻습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Otrzymuje_+2/+2 za każdego innego Kicoskoczka zagranego przez ciebie_w tej grze."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Receba +2/+2 para cada outro Pogo-Pol jogado por você nesta partida."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]<b>Боевой клич:</b> получает +2/+2\nза каждого другого прыг-\nскокера, разыгранного\nвами в этом матче."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b>_ได้รับ +2/+2_ต่อ[b]โปโก-ฮอปเปอร์ใบอื่นแต่ละใบ[b]ที่คุณเคยเล่นในเกมนี้"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>在本局对战中，你每使用过一张其他蹦蹦兔，便获得+2/+2。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>你在本賽局打出的每個其他蹦蹦兔使其獲得+2/+2"
+          }
+        },
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Erhält +2/+2 für jeden anderen Robohopser, den Ihr in diesem Spiel ausgespielt habt.\n\t\t[x]<b>Battlecry:</b> Gain +2/+2 for\neach other Pogo-Hopper\nyou played this game.\n\t\t[x]<b>Grito de batalla:</b> Obtiene\n+2/+2 por cada saltador\nque hayas jugado\nen esta partida.\n\t\t<b>Grito de batalla:</b> obtiene +2/+2 por cada Brincador mecánico que hayas jugado durante esta partida.\n\t\t<b>Cri de guerre_:</b> gagne_+2/+2 pour chaque autre lapin-échasseur que vous avez joué pendant cette partie.\n\t\t[x]<b>Grido di Battaglia:</b>\nottiene +2/+2 per ogni altro\nSaltabot che hai giocato\nin questa partita.\n\t\t[x]<b>雄叫び:</b>\nこの対戦で自分が手札から\n使用した他の「ホッピング・\nホッパー」1体につき\n_+2/+2を獲得する。\n\t\t[x]<b>전투의 함성:</b>\n이번 게임에서 내가 낸\n다른 토깽이 콩콩 하나당\n+2/+2를 얻습니다.\n\t\t<b>Okrzyk bojowy:</b> Otrzymuje_+2/+2 za każdego innego Kicoskoczka zagranego przez ciebie_w tej grze.\n\t\t<b>Grito de Guerra:</b> Receba +2/+2 para cada outro Pogo-Pol jogado por você nesta partida.\n\t\t[x]<b>Боевой клич:</b> получает +2/+2\nза каждого другого прыг-\nскокера, разыгранного\nвами в этом матче.\n\t\t<b>คำรามสู้ศึก:</b>_ได้รับ +2/+2_ต่อ[b]โปโก-ฮอปเปอร์ใบอื่นแต่ละใบ[b]ที่คุณเคยเล่นในเกมนี้\n\t\t<b>战吼：</b>在本局对战中，你每使用过一张其他蹦蹦兔，便获得+2/+2。\n\t\t<b>戰吼：</b>你在本賽局打出的每個其他蹦蹦兔使其獲得+2/+2\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Einmal gehopst, nie mehr gestoppt!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Once you hop, you just can't stop!"
+          },
+          "esES": {
+            "present": true,
+            "value": "Se le suele ver con un reloj en la mano y saltando a toda prisa sobre las 5 de la tarde."
+          },
+          "esMX": {
+            "present": true,
+            "value": "¿Para qué quiere un pogo saltarín un conejo? Solo hay una forma de saberlo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Un lapin qui ne sait pas sauter tout seul, on aura tout vu !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Quando si inizia a saltare, non ci si può più fermare."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "乗ったら最期、ユーキャントストップ！"
+          },
+          "koKR": {
+            "present": true,
+            "value": "띠용!"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Kto nie skacze, jest goblinem! Hop, hop, hop!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Quem pula uma pula duas!"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Рожденный прыгать ходить не будет!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โดดมันส์จนหยุดไม่ได้!"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "根本停不下来！"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "蹦！蹦！蹦吼依爽！\n蹦！蹦！蹦嘎要起笑！"
+          }
+        },
+        "textContent": "\n\t\tEinmal gehopst, nie mehr gestoppt!\n\t\tOnce you hop, you just can't stop!\n\t\tSe le suele ver con un reloj en la mano y saltando a toda prisa sobre las 5 de la tarde.\n\t\t¿Para qué quiere un pogo saltarín un conejo? Solo hay una forma de saberlo.\n\t\tUn lapin qui ne sait pas sauter tout seul, on aura tout vu !\n\t\tQuando si inizia a saltare, non ci si può più fermare.\n\t\t乗ったら最期、ユーキャントストップ！\n\t\t띠용!\n\t\tKto nie skacze, jest goblinem! Hop, hop, hop!\n\t\tQuem pula uma pula duas!\n\t\tРожденный прыгать ходить не будет!\n\t\tโดดมันส์จนหยุดไม่ได้!\n\t\t根本停不下来！\n\t\t蹦！蹦！蹦吼依爽！\n蹦！蹦！蹦嘎要起笑！\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Matt Dixon"
+      }
     }
   },
   "_current": {

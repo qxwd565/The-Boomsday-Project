@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Holomant"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Holomancer"
+          },
+          "esES": {
+            "present": true,
+            "value": "Holomántico"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Holomántico"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Holomancien"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Olomante"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "幻像術師"
+          },
+          "koKR": {
+            "present": true,
+            "value": "홀로그램 기술자"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Holomanta"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Holomante"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Голограммотехник"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โฮโลแมนเซอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "全息术士"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "全像術師"
+          }
+        },
+        "textContent": "\n\t\t\tHolomant\n\t\t\tHolomancer\n\t\t\tHolomántico\n\t\t\tHolomántico\n\t\t\tHolomancien\n\t\t\tOlomante\n\t\t\t幻像術師\n\t\t\t홀로그램 기술자\n\t\t\tHolomanta\n\t\t\tHolomante\n\t\t\tГолограммотехник\n\t\t\tโฮโลแมนเซอร์\n\t\t\t全息术士\n\t\t\t全像術師\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Nachdem Euer Gegner einen Diener ausgespielt hat, ruft Ihr eine Kopie (1/1) davon herbei."
+          },
+          "enUS": {
+            "present": true,
+            "value": "After your opponent plays a minion, summon a 1/1_copy of it."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Cuando tu oponente\njuega un esbirro, invoca una\ncopia 1/1 del mismo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Después de que tu adversario juega un esbirro, invoca una copia 1/1 de él."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Une fois que votre adversaire a joué un serviteur, en invoque une copie_1/1."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Dopo che l'avversario ha giocato un servitore, ne evoca una copia 1/1 sotto il tuo controllo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]相手がミニオンを\n手札から使用した後\nそのミニオンの\n1/1のコピーを\n1体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]상대편이 하수인을 낸 후에,\n그 하수인을 복사하여\n1/1 하수인으로\n소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Gdy twój przeciwnik zagra_stronnika, przyzwij jego kopię 1/1."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Depois que seu oponente jogar um lacaio, evoque uma cópia 1/1 dele."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "После того как противник разыгрывает существо, призывает его копию 1/1."
+          },
+          "thTH": {
+            "present": true,
+            "value": "หลังจากคู่ต่อสู้เล่นมินเนี่ยน เรียกร่างก๊อปปี้ 1/1 ของมินเนี่ยนตัวนั้น"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "在你的对手使用一张随从牌后，召唤一个该随从的1/1复制。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "[x]在對手打出\n手下後，召喚一個\n它的1/1分身"
+          }
+        },
+        "textContent": "\n\t\t\tNachdem Euer Gegner einen Diener ausgespielt hat, ruft Ihr eine Kopie (1/1) davon herbei.\n\t\t\tAfter your opponent plays a minion, summon a 1/1_copy of it.\n\t\t\t[x]Cuando tu oponente\njuega un esbirro, invoca una\ncopia 1/1 del mismo.\n\t\t\tDespués de que tu adversario juega un esbirro, invoca una copia 1/1 de él.\n\t\t\tUne fois que votre adversaire a joué un serviteur, en invoque une copie_1/1.\n\t\t\tDopo che l'avversario ha giocato un servitore, ne evoca una copia 1/1 sotto il tuo controllo.\n\t\t\t[x]相手がミニオンを\n手札から使用した後\nそのミニオンの\n1/1のコピーを\n1体召喚する。\n\t\t\t[x]상대편이 하수인을 낸 후에,\n그 하수인을 복사하여\n1/1 하수인으로\n소환합니다.\n\t\t\tGdy twój przeciwnik zagra_stronnika, przyzwij jego kopię 1/1.\n\t\t\tDepois que seu oponente jogar um lacaio, evoque uma cópia 1/1 dele.\n\t\t\tПосле того как противник разыгрывает существо, призывает его копию 1/1.\n\t\t\tหลังจากคู่ต่อสู้เล่นมินเนี่ยน เรียกร่างก๊อปปี้ 1/1 ของมินเนี่ยนตัวนั้น\n\t\t\t在你的对手使用一张随从牌后，召唤一个该随从的1/1复制。\n\t\t\t[x]在對手打出\n手下後，召喚一個\n它的1/1分身\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Helft mir, würdiger Gegner. Ihr seid meine letzte Hoffung."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Help me, worthy opponent. You're my only hope."
+          },
+          "esES": {
+            "present": true,
+            "value": "Ayúdame, oponente digno. Eres mi única esperanza."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Ayúdame, digno adversario. Eres mi única esperanza."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Aidez-moi, adversaire convenable. Vous êtes mon seul espoir."
+          },
+          "itIT": {
+            "present": true,
+            "value": "\"Aiutami, degno avversario. Sei la mia unica speranza.\""
+          },
+          "jaJP": {
+            "present": true,
+            "value": "助けて、好敵手。あなただけが頼りです。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "도와주십시오, 적절한 상대여. 그대가 제 유일한 희망입니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Pomóż mi, godny przeciwniku. Jesteś moją jedyną nadzieją."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Ajude-me, bravo oponente. Você é a minha única esperança."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Помоги мне, мой противник. Ты моя единственная надежда."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ช่วยข้าด้วย คู่ต่อสู้ที่คู่ควร เจ้าคือความหวังเดียวของข้า"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "帮帮我，旗鼓相当的对手。你是我唯一的希望。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "你以為會有個公主的全像投影出現，說你將成為拯救全銀河系的英雄嗎？別傻了，孩子。"
+          }
+        },
+        "textContent": "\n\t\t\tHelft mir, würdiger Gegner. Ihr seid meine letzte Hoffung.\n\t\t\tHelp me, worthy opponent. You're my only hope.\n\t\t\tAyúdame, oponente digno. Eres mi única esperanza.\n\t\t\tAyúdame, digno adversario. Eres mi única esperanza.\n\t\t\tAidez-moi, adversaire convenable. Vous êtes mon seul espoir.\n\t\t\t\"Aiutami, degno avversario. Sei la mia unica speranza.\"\n\t\t\t助けて、好敵手。あなただけが頼りです。\n\t\t\t도와주십시오, 적절한 상대여. 그대가 제 유일한 희망입니다.\n\t\t\tPomóż mi, godny przeciwniku. Jesteś moją jedyną nadzieją.\n\t\t\tAjude-me, bravo oponente. Você é a minha única esperança.\n\t\t\tПомоги мне, мой противник. Ты моя единственная надежда.\n\t\t\tช่วยข้าด้วย คู่ต่อสู้ที่คู่ควร เจ้าคือความหวังเดียวของข้า\n\t\t\t帮帮我，旗鼓相当的对手。你是我唯一的希望。\n\t\t\t你以為會有個公主的全像投影出現，說你將成為拯救全銀河系的英雄嗎？別傻了，孩子。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "J. Axer"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Holomant"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Holomancer"
+          },
+          "esES": {
+            "present": true,
+            "value": "Holomántico"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Holomántico"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Holomancien"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Olomante"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "幻像術師"
+          },
+          "koKR": {
+            "present": true,
+            "value": "홀로그램 기술자"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Holomanta"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Holomante"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Голограммотехник"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โฮโลแมนเซอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "全息术士"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "全像術師"
+          }
+        },
+        "textContent": "\n\t\tHolomant\n\t\tHolomancer\n\t\tHolomántico\n\t\tHolomántico\n\t\tHolomancien\n\t\tOlomante\n\t\t幻像術師\n\t\t홀로그램 기술자\n\t\tHolomanta\n\t\tHolomante\n\t\tГолограммотехник\n\t\tโฮโลแมนเซอร์\n\t\t全息术士\n\t\t全像術師\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Nachdem Euer Gegner einen Diener ausgespielt hat, ruft Ihr eine Kopie (1/1) davon herbei."
+          },
+          "enUS": {
+            "present": true,
+            "value": "After your opponent plays a minion, summon a 1/1_copy of it."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Cuando tu oponente\njuega un esbirro, invoca una\ncopia 1/1 del mismo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Después de que tu adversario juega un esbirro, invoca una copia 1/1 de él."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Une fois que votre adversaire a joué un serviteur, en invoque une copie_1/1."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Dopo che l'avversario ha giocato un servitore, ne evoca una copia 1/1 sotto il tuo controllo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]相手がミニオンを\n手札から使用した後\nそのミニオンの\n1/1のコピーを\n1体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]상대편이 하수인을 낸 후에,\n그 하수인을 복사하여\n1/1 하수인으로\n소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Gdy twój przeciwnik zagra_stronnika, przyzwij jego kopię 1/1."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Depois que seu oponente jogar um lacaio, evoque uma cópia 1/1 dele."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "После того как противник разыгрывает существо, призывает его копию 1/1."
+          },
+          "thTH": {
+            "present": true,
+            "value": "หลังจากคู่ต่อสู้เล่น[b]มินเนี่ยน_เรียกร่างก๊อปปี้ _1/1_ของมินเนี่ยนตัวนั้น"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "在你的对手使用一张随从牌后，召唤一个它的1/1的复制。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "[x]在對手打出\n手下後，召喚一個\n它的1/1分身"
+          }
+        },
+        "textContent": "\n\t\tNachdem Euer Gegner einen Diener ausgespielt hat, ruft Ihr eine Kopie (1/1) davon herbei.\n\t\tAfter your opponent plays a minion, summon a 1/1_copy of it.\n\t\t[x]Cuando tu oponente\njuega un esbirro, invoca una\ncopia 1/1 del mismo.\n\t\tDespués de que tu adversario juega un esbirro, invoca una copia 1/1 de él.\n\t\tUne fois que votre adversaire a joué un serviteur, en invoque une copie_1/1.\n\t\tDopo che l'avversario ha giocato un servitore, ne evoca una copia 1/1 sotto il tuo controllo.\n\t\t[x]相手がミニオンを\n手札から使用した後\nそのミニオンの\n1/1のコピーを\n1体召喚する。\n\t\t[x]상대편이 하수인을 낸 후에,\n그 하수인을 복사하여\n1/1 하수인으로\n소환합니다.\n\t\tGdy twój przeciwnik zagra_stronnika, przyzwij jego kopię 1/1.\n\t\tDepois que seu oponente jogar um lacaio, evoque uma cópia 1/1 dele.\n\t\tПосле того как противник разыгрывает существо, призывает его копию 1/1.\n\t\tหลังจากคู่ต่อสู้เล่น[b]มินเนี่ยน_เรียกร่างก๊อปปี้ _1/1_ของมินเนี่ยนตัวนั้น\n\t\t在你的对手使用一张随从牌后，召唤一个它的1/1的复制。\n\t\t[x]在對手打出\n手下後，召喚一個\n它的1/1分身\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Helft mir, würdiger Gegner. Ihr seid meine letzte Hoffung."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Help me, worthy opponent. You're my only hope."
+          },
+          "esES": {
+            "present": true,
+            "value": "Ayúdame, oponente digno. Eres mi única esperanza."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Ayúdame, digno adversario. Eres mi única esperanza."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Aidez-moi, adversaire convenable. Vous êtes mon seul espoir."
+          },
+          "itIT": {
+            "present": true,
+            "value": "\"Aiutami, degno avversario. Sei la mia unica speranza.\""
+          },
+          "jaJP": {
+            "present": true,
+            "value": "助けて、好敵手。あなただけが頼りです。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "도와주십시오, 적절한 상대여. 그대가 제 유일한 희망입니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Pomóż mi, godny przeciwniku. Jesteś moją jedyną nadzieją."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Ajude-me, bravo oponente. Você é a minha única esperança."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Помоги мне, мой противник. Ты моя единственная надежда."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ช่วยข้าด้วย คู่ต่อสู้ที่คู่ควร เจ้าคือความหวังเดียวของข้า"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "帮帮我，旗鼓相当的对手。你是我唯一的希望。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "你以為會有個公主的全像投影出現，說你將成為拯救全銀河系的英雄嗎？別傻了，孩子。"
+          }
+        },
+        "textContent": "\n\t\tHelft mir, würdiger Gegner. Ihr seid meine letzte Hoffung.\n\t\tHelp me, worthy opponent. You're my only hope.\n\t\tAyúdame, oponente digno. Eres mi única esperanza.\n\t\tAyúdame, digno adversario. Eres mi única esperanza.\n\t\tAidez-moi, adversaire convenable. Vous êtes mon seul espoir.\n\t\t\"Aiutami, degno avversario. Sei la mia unica speranza.\"\n\t\t助けて、好敵手。あなただけが頼りです。\n\t\t도와주십시오, 적절한 상대여. 그대가 제 유일한 희망입니다.\n\t\tPomóż mi, godny przeciwniku. Jesteś moją jedyną nadzieją.\n\t\tAjude-me, bravo oponente. Você é a minha única esperança.\n\t\tПомоги мне, мой противник. Ты моя единственная надежда.\n\t\tช่วยข้าด้วย คู่ต่อสู้ที่คู่ควร เจ้าคือความหวังเดียวของข้า\n\t\t帮帮我，旗鼓相当的对手。你是我唯一的希望。\n\t\t你以為會有個公主的全像投影出現，說你將成為拯救全銀河系的英雄嗎？別傻了，孩子。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "J. Axer"
+      }
     }
   },
   "_current": {

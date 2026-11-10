@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Versuchsobjekt 9"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Subject 9"
+          },
+          "esES": {
+            "present": true,
+            "value": "Sujeto n.º 9"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Sujeto 9"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Sujet 9"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Soggetto 9"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "実験台9号"
+          },
+          "koKR": {
+            "present": true,
+            "value": "실험체 9호"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Obiekt numer 9"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Cobaia nº 9"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Подопытная №9"
+          },
+          "thTH": {
+            "present": true,
+            "value": "หมายเลข 9"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "实验体9号"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "實驗體九號"
+          }
+        },
+        "textContent": "\n\t\t\tVersuchsobjekt 9\n\t\t\tSubject 9\n\t\t\tSujeto n.º 9\n\t\t\tSujeto 9\n\t\t\tSujet 9\n\t\t\tSoggetto 9\n\t\t\t実験台9号\n\t\t\t실험체 9호\n\t\t\tObiekt numer 9\n\t\t\tCobaia nº 9\n\t\t\tПодопытная №9\n\t\t\tหมายเลข 9\n\t\t\t实验体9号\n\t\t\t實驗體九號\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Zieht 5 verschiedene <b>Geheimnisse</b> aus Eurem Deck."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Draw 5 different <b>Secrets</b> from your deck."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b> Roba\n5 <b>secretos</b> distintos\nde tu mazo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> roba 5 <b>Secretos</b> diferentes de tu mazo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> vous piochez 5_<b>Secrets</b>_différents de votre deck."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\npesca 5 <b>Segreti</b> diversi\ndal tuo mazzo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>雄叫び:</b>\n自分のデッキから\n異なる<b>秘策</b>を\n5枚引く。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의_함성:</b> 내 덱에서 서로 다른 <b>비밀</b> 카드를 5장 뽑습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Dobierz pięć różnych <b>Sekretów</b> z_twojej talii."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Compre 5 <b>Segredos</b> diferentes do seu deck."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> вы берете 5_разных <b>секретов</b> из_колоды."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> จั่วการ์ด_<b>กับดัก</b>_ที่ต่างกัน 5_ใบจากเด็คของคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>\n从你的牌库中抽五张不同的<b>奥秘</b>牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>從你的牌堆\n抽出5張不同的<b>秘密</b>"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Zieht 5 verschiedene <b>Geheimnisse</b> aus Eurem Deck.\n\t\t\t<b>Battlecry:</b> Draw 5 different <b>Secrets</b> from your deck.\n\t\t\t[x]<b>Grito de batalla:</b> Roba\n5 <b>secretos</b> distintos\nde tu mazo.\n\t\t\t<b>Grito de batalla:</b> roba 5 <b>Secretos</b> diferentes de tu mazo.\n\t\t\t<b>Cri de guerre_:</b> vous piochez 5_<b>Secrets</b>_différents de votre deck.\n\t\t\t[x]<b>Grido di Battaglia:</b>\npesca 5 <b>Segreti</b> diversi\ndal tuo mazzo.\n\t\t\t<b>雄叫び:</b>\n自分のデッキから\n異なる<b>秘策</b>を\n5枚引く。\n\t\t\t<b>전투의_함성:</b> 내 덱에서 서로 다른 <b>비밀</b> 카드를 5장 뽑습니다.\n\t\t\t<b>Okrzyk bojowy:</b> Dobierz pięć różnych <b>Sekretów</b> z_twojej talii.\n\t\t\t<b>Grito de Guerra:</b> Compre 5 <b>Segredos</b> diferentes do seu deck.\n\t\t\t<b>Боевой клич:</b> вы берете 5_разных <b>секретов</b> из_колоды.\n\t\t\t<b>คำรามสู้ศึก:</b> จั่วการ์ด_<b>กับดัก</b>_ที่ต่างกัน 5_ใบจากเด็คของคุณ\n\t\t\t<b>战吼：</b>\n从你的牌库中抽五张不同的<b>奥秘</b>牌。\n\t\t\t<b>戰吼：</b>從你的牌堆\n抽出5張不同的<b>秘密</b>\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Vor ihr ist kein Geheimnis sicher."
+          },
+          "enUS": {
+            "present": true,
+            "value": "The original clever girl."
+          },
+          "esES": {
+            "present": true,
+            "value": "Qué lista eres."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Seguro que también sabe abrir la puerta."
+          },
+          "frFR": {
+            "present": true,
+            "value": "« Je ne suis pas un numéro ! »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Essere arrivati al numero 9 non è mai un buon segno."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "こいつこそ、元祖「お利口さん」だったんだ。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "바로 그 영리한 녀석입니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Możliwe, że w laboratorium przydałyby się jakieś obostrzenia."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Antes ela morava em um parque de diversões jurássico."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "В прошлом_– хорошая девочка."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เวโลซีแร็ปเปอร์ตัวแรกของโลก โจ้ว โจ้ว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "她是最聪明的那一只。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "她就是那個聰明的傢伙。"
+          }
+        },
+        "textContent": "\n\t\t\tVor ihr ist kein Geheimnis sicher.\n\t\t\tThe original clever girl.\n\t\t\tQué lista eres.\n\t\t\tSeguro que también sabe abrir la puerta.\n\t\t\t« Je ne suis pas un numéro ! »\n\t\t\tEssere arrivati al numero 9 non è mai un buon segno.\n\t\t\tこいつこそ、元祖「お利口さん」だったんだ。\n\t\t\t바로 그 영리한 녀석입니다.\n\t\t\tMożliwe, że w laboratorium przydałyby się jakieś obostrzenia.\n\t\t\tAntes ela morava em um parque de diversões jurássico.\n\t\t\tВ прошлом_– хорошая девочка.\n\t\t\tเวโลซีแร็ปเปอร์ตัวแรกของโลก โจ้ว โจ้ว\n\t\t\t她是最聪明的那一只。\n\t\t\t她就是那個聰明的傢伙。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Dany Orizio"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Versuchsobjekt 9"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Subject 9"
+          },
+          "esES": {
+            "present": true,
+            "value": "Sujeto n.º 9"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Sujeto 9"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Sujet 9"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Soggetto 9"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "実験台9号"
+          },
+          "koKR": {
+            "present": true,
+            "value": "실험체 9호"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Obiekt numer 9"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Cobaia nº 9"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Подопытная №9"
+          },
+          "thTH": {
+            "present": true,
+            "value": "หมายเลข 9"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "实验体9号"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "實驗體九號"
+          }
+        },
+        "textContent": "\n\t\tVersuchsobjekt 9\n\t\tSubject 9\n\t\tSujeto n.º 9\n\t\tSujeto 9\n\t\tSujet 9\n\t\tSoggetto 9\n\t\t実験台9号\n\t\t실험체 9호\n\t\tObiekt numer 9\n\t\tCobaia nº 9\n\t\tПодопытная №9\n\t\tหมายเลข 9\n\t\t实验体9号\n\t\t實驗體九號\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Zieht 5 verschiedene <b>Geheimnisse</b> aus Eurem Deck."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Draw 5 different <b>Secrets</b> from your deck."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b> Roba\n5 <b>secretos</b> distintos\nde tu mazo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> roba 5 <b>Secretos</b> diferentes de tu mazo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> vous piochez 5_<b>Secrets</b>_différents de votre deck."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\npesca 5 <b>Segreti</b> diversi\ndal tuo mazzo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>雄叫び:</b>\n自分のデッキから\n異なる<b>秘策</b>を\n5枚引く。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의_함성:</b> 내 덱에서 서로 다른 <b>비밀</b>을 다섯 뽑습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Dobierz pięć różnych <b>Sekretów</b> z_twojej talii."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Compre 5 <b>Segredos</b> diferentes do seu deck."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> вы берете 5_разных <b>секретов</b> из_колоды."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b>_จั่ว <b>กับดัก</b>_ที่ต่างกัน_5_ใบ[b]จากเด็คของคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>\n从你的牌库中抽五张不同的<b>奥秘</b>牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>從你的牌堆\n抽出5張不同的<b>秘密</b>"
+          }
+        },
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Zieht 5 verschiedene <b>Geheimnisse</b> aus Eurem Deck.\n\t\t<b>Battlecry:</b> Draw 5 different <b>Secrets</b> from your deck.\n\t\t[x]<b>Grito de batalla:</b> Roba\n5 <b>secretos</b> distintos\nde tu mazo.\n\t\t<b>Grito de batalla:</b> roba 5 <b>Secretos</b> diferentes de tu mazo.\n\t\t<b>Cri de guerre_:</b> vous piochez 5_<b>Secrets</b>_différents de votre deck.\n\t\t[x]<b>Grido di Battaglia:</b>\npesca 5 <b>Segreti</b> diversi\ndal tuo mazzo.\n\t\t<b>雄叫び:</b>\n自分のデッキから\n異なる<b>秘策</b>を\n5枚引く。\n\t\t<b>전투의_함성:</b> 내 덱에서 서로 다른 <b>비밀</b>을 다섯 뽑습니다.\n\t\t<b>Okrzyk bojowy:</b> Dobierz pięć różnych <b>Sekretów</b> z_twojej talii.\n\t\t<b>Grito de Guerra:</b> Compre 5 <b>Segredos</b> diferentes do seu deck.\n\t\t<b>Боевой клич:</b> вы берете 5_разных <b>секретов</b> из_колоды.\n\t\t<b>คำรามสู้ศึก:</b>_จั่ว <b>กับดัก</b>_ที่ต่างกัน_5_ใบ[b]จากเด็คของคุณ\n\t\t<b>战吼：</b>\n从你的牌库中抽五张不同的<b>奥秘</b>牌。\n\t\t<b>戰吼：</b>從你的牌堆\n抽出5張不同的<b>秘密</b>\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Vor ihr ist kein Geheimnis sicher."
+          },
+          "enUS": {
+            "present": true,
+            "value": "The original clever girl."
+          },
+          "esES": {
+            "present": true,
+            "value": "Qué lista eres."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Seguro que también sabe abrir la puerta."
+          },
+          "frFR": {
+            "present": true,
+            "value": "« Je ne suis pas un numéro ! »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Essere arrivati al numero 9 non è mai un buon segno."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "こいつこそ、元祖「お利口さん」だったんだ。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "바로 그 영리한 녀석입니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Możliwe, że w laboratorium przydałyby się jakieś obostrzenia."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Antes ela morava em um parque de diversões jurássico."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "В прошлом_– хорошая девочка."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เวโลซีแร็ปเปอร์ตัวแรกของโลก โจ้ว โจ้ว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "她是最聪明的那一只。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "她就是那個聰明的傢伙。"
+          }
+        },
+        "textContent": "\n\t\tVor ihr ist kein Geheimnis sicher.\n\t\tThe original clever girl.\n\t\tQué lista eres.\n\t\tSeguro que también sabe abrir la puerta.\n\t\t« Je ne suis pas un numéro ! »\n\t\tEssere arrivati al numero 9 non è mai un buon segno.\n\t\tこいつこそ、元祖「お利口さん」だったんだ。\n\t\t바로 그 영리한 녀석입니다.\n\t\tMożliwe, że w laboratorium przydałyby się jakieś obostrzenia.\n\t\tAntes ela morava em um parque de diversões jurássico.\n\t\tВ прошлом_– хорошая девочка.\n\t\tเวโลซีแร็ปเปอร์ตัวแรกของโลก โจ้ว โจ้ว\n\t\t她是最聪明的那一只。\n\t\t她就是那個聰明的傢伙。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Dany Orizio"
+      }
     }
   },
   "_current": {

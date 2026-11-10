@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Der Sturmbringer"
+          },
+          "enUS": {
+            "present": true,
+            "value": "The Storm Bringer"
+          },
+          "esES": {
+            "present": true,
+            "value": "Generador de tormentas"
+          },
+          "esMX": {
+            "present": true,
+            "value": "El invocatormentas"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Faiseur de tempêtes"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Generatore di Tempeste"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ストームブリンガー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "폭풍 인도기"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Cewka burzy"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Gerador de Tormentas"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Буреусилитель"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เครื่องเรียกพายุ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "风暴聚合器"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "風暴召喚儀"
+          }
+        },
+        "textContent": "\n\t\t\tDer Sturmbringer\n\t\t\tThe Storm Bringer\n\t\t\tGenerador de tormentas\n\t\t\tEl invocatormentas\n\t\t\tFaiseur de tempêtes\n\t\t\tGeneratore di Tempeste\n\t\t\tストームブリンガー\n\t\t\t폭풍 인도기\n\t\t\tCewka burzy\n\t\t\tGerador de Tormentas\n\t\t\tБуреусилитель\n\t\t\tเครื่องเรียกพายุ\n\t\t\t风暴聚合器\n\t\t\t風暴召喚儀\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verwandelt Eure Diener in zufällige <b>legendäre</b> Diener."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Transform your minions into random <b>Legendary</b> minions."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Transforma a tus esbirros\nen esbirros <b>legendarios</b>\naleatorios."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Transforma a tus esbirros en esbirros <b>Legendarios</b> aleatorios."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Transforme vos serviteurs en serviteurs <b>légendaires</b> aléatoires."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Trasforma i tuoi servitori in servitori <b>Leggendari</b> casuali."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]味方のミニオン全てを\nランダムな\n<b>レジェンド</b>ミニオンに\n変身させる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 하수인들을\n무작위 <b>전설</b> 하수인으로 변신시킵니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Przemień twoich stronników w losowych <b>legendarnych</b> stronników."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Transforme seus lacaios em lacaios <b>Lendários</b> aleatórios."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Превращает ваших существ в случайных <b>легендарных</b>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เปลี่ยนมินเนี่ยนทั้งหมด[b]ของคุณเป็นมินเนี่ยน[b]ระดับ_<b>ตำนาน</b>_แบบสุ่ม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "将你所有的随从随机变形成为<b>传说</b>随从。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "將你的手下\n變形為隨機的\n<b>傳說</b>手下"
+          }
+        },
+        "textContent": "\n\t\t\tVerwandelt Eure Diener in zufällige <b>legendäre</b> Diener.\n\t\t\tTransform your minions into random <b>Legendary</b> minions.\n\t\t\t[x]Transforma a tus esbirros\nen esbirros <b>legendarios</b>\naleatorios.\n\t\t\tTransforma a tus esbirros en esbirros <b>Legendarios</b> aleatorios.\n\t\t\tTransforme vos serviteurs en serviteurs <b>légendaires</b> aléatoires.\n\t\t\tTrasforma i tuoi servitori in servitori <b>Leggendari</b> casuali.\n\t\t\t[x]味方のミニオン全てを\nランダムな\n<b>レジェンド</b>ミニオンに\n変身させる。\n\t\t\t내 하수인들을\n무작위 <b>전설</b> 하수인으로 변신시킵니다.\n\t\t\tPrzemień twoich stronników w losowych <b>legendarnych</b> stronników.\n\t\t\tTransforme seus lacaios em lacaios <b>Lendários</b> aleatórios.\n\t\t\tПревращает ваших существ в случайных <b>легендарных</b>.\n\t\t\tเปลี่ยนมินเนี่ยนทั้งหมด[b]ของคุณเป็นมินเนี่ยน[b]ระดับ_<b>ตำนาน</b>_แบบสุ่ม\n\t\t\t将你所有的随从随机变形成为<b>传说</b>随从。\n\t\t\t將你的手下\n變形為隨機的\n<b>傳說</b>手下\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Eine Art Lieferservice für Schamanen."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Finally, Electra can work from home."
+          },
+          "esES": {
+            "present": true,
+            "value": "Porque todo el mundo se cansa en algún momento del sol brillante y del cielo azul. ¡Claro!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Al fin Electra puede trabajar desde su casa."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Depuis qu’elle a installé un VPN ultra-performant, Électra peut faire la pluie et le beau temps en télétravail !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Finalmente, Elettra può lavorare da casa."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ついにエレクトラは在宅勤務できるようになった。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "마침내 엘렉트라가 재택 근무를 해도 되겠군요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Nareszcie Elektra może pracować z domu."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Agora Electra pode trabalhar a distância."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Наконец-то Электра сможет работать из дома."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ในที่สุดอีเล็กตร้าก็ทำงาน[b]จากที่บ้านได้ซะที"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "伊莱克特拉终于可以在家办公了。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "伊雷特拉終於可以在家工作了。"
+          }
+        },
+        "textContent": "\n\t\t\tEine Art Lieferservice für Schamanen.\n\t\t\tFinally, Electra can work from home.\n\t\t\tPorque todo el mundo se cansa en algún momento del sol brillante y del cielo azul. ¡Claro!\n\t\t\tAl fin Electra puede trabajar desde su casa.\n\t\t\tDepuis qu’elle a installé un VPN ultra-performant, Électra peut faire la pluie et le beau temps en télétravail !\n\t\t\tFinalmente, Elettra può lavorare da casa.\n\t\t\tついにエレクトラは在宅勤務できるようになった。\n\t\t\t마침내 엘렉트라가 재택 근무를 해도 되겠군요.\n\t\t\tNareszcie Elektra może pracować z domu.\n\t\t\tAgora Electra pode trabalhar a distância.\n\t\t\tНаконец-то Электра сможет работать из дома.\n\t\t\tในที่สุดอีเล็กตร้าก็ทำงาน[b]จากที่บ้านได้ซะที\n\t\t\t伊莱克特拉终于可以在家办公了。\n\t\t\t伊雷特拉終於可以在家工作了。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "J. Paick & K. Turovec"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Der Sturmbringer"
+          },
+          "enUS": {
+            "present": true,
+            "value": "The Storm Bringer"
+          },
+          "esES": {
+            "present": true,
+            "value": "Generador de tormentas"
+          },
+          "esMX": {
+            "present": true,
+            "value": "El invocatormentas"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Faiseur de tempêtes"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Generatore di Tempeste"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ストームブリンガー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "폭풍 인도기"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Cewka burzy"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Gerador de Tormentas"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Буреусилитель"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เครื่องเรียกพายุ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "风暴聚合器"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "風暴召喚儀"
+          }
+        },
+        "textContent": "\n\t\tDer Sturmbringer\n\t\tThe Storm Bringer\n\t\tGenerador de tormentas\n\t\tEl invocatormentas\n\t\tFaiseur de tempêtes\n\t\tGeneratore di Tempeste\n\t\tストームブリンガー\n\t\t폭풍 인도기\n\t\tCewka burzy\n\t\tGerador de Tormentas\n\t\tБуреусилитель\n\t\tเครื่องเรียกพายุ\n\t\t风暴聚合器\n\t\t風暴召喚儀\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verwandelt Eure Diener in zufällige <b>legendäre</b> Diener."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Transform your minions into random <b>Legendary</b> minions."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Transforma a tus esbirros\nen esbirros <b>legendarios</b>\naleatorios."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Transforma a tus esbirros en esbirros <b>Legendarios</b> aleatorios."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Transforme vos serviteurs en serviteurs <b>légendaires</b> aléatoires."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Trasforma i tuoi servitori in servitori <b>Leggendari</b> casuali."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]味方のミニオン全てを\nランダムな\n<b>レジェンド</b>ミニオンに\n変身させる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 하수인들을\n무작위 <b>전설</b> 하수인으로 변신시킵니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Przemień twoich stronników w losowych <b>legendarnych</b> stronników."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Transforme seus lacaios em lacaios <b>Lendários</b> aleatórios."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Превращает ваших существ в случайных <b>легендарных</b>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เปลี่ยนมินเนี่ยนทั้งหมด[b]ของคุณเป็นมินเนี่ยน[b]ระดับ_<b>ตำนาน</b>_แบบสุ่ม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "随机将你的所有随从变形成为<b>传说</b>随从。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "將你的手下\n變形為隨機的\n<b>傳說</b>手下"
+          }
+        },
+        "textContent": "\n\t\tVerwandelt Eure Diener in zufällige <b>legendäre</b> Diener.\n\t\tTransform your minions into random <b>Legendary</b> minions.\n\t\t[x]Transforma a tus esbirros\nen esbirros <b>legendarios</b>\naleatorios.\n\t\tTransforma a tus esbirros en esbirros <b>Legendarios</b> aleatorios.\n\t\tTransforme vos serviteurs en serviteurs <b>légendaires</b> aléatoires.\n\t\tTrasforma i tuoi servitori in servitori <b>Leggendari</b> casuali.\n\t\t[x]味方のミニオン全てを\nランダムな\n<b>レジェンド</b>ミニオンに\n変身させる。\n\t\t내 하수인들을\n무작위 <b>전설</b> 하수인으로 변신시킵니다.\n\t\tPrzemień twoich stronników w losowych <b>legendarnych</b> stronników.\n\t\tTransforme seus lacaios em lacaios <b>Lendários</b> aleatórios.\n\t\tПревращает ваших существ в случайных <b>легендарных</b>.\n\t\tเปลี่ยนมินเนี่ยนทั้งหมด[b]ของคุณเป็นมินเนี่ยน[b]ระดับ_<b>ตำนาน</b>_แบบสุ่ม\n\t\t随机将你的所有随从变形成为<b>传说</b>随从。\n\t\t將你的手下\n變形為隨機的\n<b>傳說</b>手下\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Eine Art Lieferservice für Schamanen."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Finally, Electra can work from home."
+          },
+          "esES": {
+            "present": true,
+            "value": "Porque todo el mundo se cansa en algún momento del sol brillante y del cielo azul. ¡Claro!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Al fin Electra puede trabajar desde su casa."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Depuis qu’elle a installé un VPN ultra-performant, Électra peut faire la pluie et le beau temps en télétravail !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Finalmente, Elettra può lavorare da casa."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ついにエレクトラは在宅勤務できるようになった。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "마침내 엘렉트라가 재택 근무를 해도 되겠군요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Nareszcie Elektra może pracować z domu."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Agora Electra pode trabalhar a distância."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Наконец-то Электра сможет работать из дома."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ในที่สุดอีเล็กตร้าก็ทำงาน[b]จากที่บ้านได้ซะที"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "伊莱克特拉终于可以在家办公了。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "伊雷特拉終於可以在家工作了。"
+          }
+        },
+        "textContent": "\n\t\tEine Art Lieferservice für Schamanen.\n\t\tFinally, Electra can work from home.\n\t\tPorque todo el mundo se cansa en algún momento del sol brillante y del cielo azul. ¡Claro!\n\t\tAl fin Electra puede trabajar desde su casa.\n\t\tDepuis qu’elle a installé un VPN ultra-performant, Électra peut faire la pluie et le beau temps en télétravail !\n\t\tFinalmente, Elettra può lavorare da casa.\n\t\tついにエレクトラは在宅勤務できるようになった。\n\t\t마침내 엘렉트라가 재택 근무를 해도 되겠군요.\n\t\tNareszcie Elektra może pracować z domu.\n\t\tAgora Electra pode trabalhar a distância.\n\t\tНаконец-то Электра сможет работать из дома.\n\t\tในที่สุดอีเล็กตร้าก็ทำงาน[b]จากที่บ้านได้ซะที\n\t\t伊莱克特拉终于可以在家办公了。\n\t\t伊雷特拉終於可以在家工作了。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "J. Paick & K. Turovec"
+      }
     }
   },
   "_current": {

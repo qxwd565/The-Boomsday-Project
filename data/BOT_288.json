@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Laboranwerber"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Lab Recruiter"
+          },
+          "esES": {
+            "present": true,
+            "value": "Reclutador de laboratorio"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Reclutador de laboratorio"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Recruteur du labo"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Reclutatore Esperto"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ラボの採用担当者"
+          },
+          "koKR": {
+            "present": true,
+            "value": "피험자 모집가"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Rekruter z laboratorium"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Recrutador de Cobaias"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Кадровик лаборатории"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ผู้รับสมัครประจำแล็บ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "实验室招募员"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "實驗室招募員"
+          }
+        },
+        "textContent": "\n\t\t\tLaboranwerber\n\t\t\tLab Recruiter\n\t\t\tReclutador de laboratorio\n\t\t\tReclutador de laboratorio\n\t\t\tRecruteur du labo\n\t\t\tReclutatore Esperto\n\t\t\tラボの採用担当者\n\t\t\t피험자 모집가\n\t\t\tRekruter z laboratorium\n\t\t\tRecrutador de Cobaias\n\t\t\tКадровик лаборатории\n\t\t\tผู้รับสมัครประจำแล็บ\n\t\t\t实验室招募员\n\t\t\t實驗室招募員\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:\n</b> Mischt 3 Kopien eines befreundeten Dieners in Euer Deck."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Shuffle 3 copies of a friendly minion into your deck."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b>\nMete 3 copias de un\nesbirro amistoso\nen tu mazo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> coloca 3 copias de un esbirro aliado en tu mazo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> place 3_copies d’un serviteur allié_dans_votre_deck."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nmette tre copie di un tuo\n__servitore nel tuo mazzo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n味方のミニオン1体の\nコピー3枚を\n____自分のデッキに混ぜる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b> 아군 하수인\n하나를 셋 복사하여\n내 덱에 섞어 넣습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Wtasuj trzy kopie przyjaznego stronnika do twojej talii."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Coloque 3_cópias de um lacaio aliado no seu deck."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> замешивает 3 копии вашего выбранного_существа в колоду."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> สับก๊อปปี้ของ[b]มินเนี่ยนฝ่ายคุณหนึ่งตัว 3 ใบเข้าเด็คคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>将一个友方随从的三个复制洗入你的牌库。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>將一個友方\n手下的三個分身洗入你的牌堆"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Kampfschrei:\n</b> Mischt 3 Kopien eines befreundeten Dieners in Euer Deck.\n\t\t\t<b>Battlecry:</b> Shuffle 3 copies of a friendly minion into your deck.\n\t\t\t[x]<b>Grito de batalla:</b>\nMete 3 copias de un\nesbirro amistoso\nen tu mazo.\n\t\t\t<b>Grito de batalla:</b> coloca 3 copias de un esbirro aliado en tu mazo.\n\t\t\t<b>Cri de guerre_:</b> place 3_copies d’un serviteur allié_dans_votre_deck.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nmette tre copie di un tuo\n__servitore nel tuo mazzo.\n\t\t\t[x]<b>雄叫び:</b>\n味方のミニオン1体の\nコピー3枚を\n____自分のデッキに混ぜる。\n\t\t\t[x]<b>전투의 함성:</b> 아군 하수인\n하나를 셋 복사하여\n내 덱에 섞어 넣습니다.\n\t\t\t<b>Okrzyk bojowy:</b> Wtasuj trzy kopie przyjaznego stronnika do twojej talii.\n\t\t\t<b>Grito de Guerra:</b> Coloque 3_cópias de um lacaio aliado no seu deck.\n\t\t\t<b>Боевой клич:</b> замешивает 3 копии вашего выбранного_существа в колоду.\n\t\t\t<b>คำรามสู้ศึก:</b> สับก๊อปปี้ของ[b]มินเนี่ยนฝ่ายคุณหนึ่งตัว 3 ใบเข้าเด็คคุณ\n\t\t\t<b>战吼：</b>将一个友方随从的三个复制洗入你的牌库。\n\t\t\t<b>戰吼：</b>將一個友方\n手下的三個分身洗入你的牌堆\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Kommt ins Chemielabor! Wir haben lauter Lösungen."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Join the chemistry lab! We've got all the solutions."
+          },
+          "esES": {
+            "present": true,
+            "value": "¡Vente al laboratorio de química! ¡Tenemos todas las soluciones!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "¡Únete al laboratorio de química! Tenemos todas las soluciones."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Rejoignez le laboratoire de chimie. Nous avons toutes les solutions !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Unitevi al laboratorio di chimica! Abbiamo tutte le soluzioni."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "一緒に化学ラボで働きませんか？幸せ気分でクスリとなる職場です！"
+          },
+          "koKR": {
+            "present": true,
+            "value": "화학 연구실에 합류하십시오! 어떤 해답이든 찾을 수 있습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Klonowanie, eksperymentalne bomby, niestabilne pierwiastki – i prywatna opieka medyczna! Dołącz do pracowników Laboratorium Huka."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Venha para o laboratório de química! Aqui tem todas as soluções."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Приезжайте к нам в лабораторию. Мы растворим для вас все двери!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "มาทำงานที่แล็บปรุงยาสิ! เราไม่มีคำตอบ แต่จะช่วยให้คุณลืมคำถาม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "快加入实验室吧！我们有全套的保障方案。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "加入化學實驗室！我們的期中考很溶液！"
+          }
+        },
+        "textContent": "\n\t\t\tKommt ins Chemielabor! Wir haben lauter Lösungen.\n\t\t\tJoin the chemistry lab! We've got all the solutions.\n\t\t\t¡Vente al laboratorio de química! ¡Tenemos todas las soluciones!\n\t\t\t¡Únete al laboratorio de química! Tenemos todas las soluciones.\n\t\t\tRejoignez le laboratoire de chimie. Nous avons toutes les solutions !\n\t\t\tUnitevi al laboratorio di chimica! Abbiamo tutte le soluzioni.\n\t\t\t一緒に化学ラボで働きませんか？幸せ気分でクスリとなる職場です！\n\t\t\t화학 연구실에 합류하십시오! 어떤 해답이든 찾을 수 있습니다.\n\t\t\tKlonowanie, eksperymentalne bomby, niestabilne pierwiastki – i prywatna opieka medyczna! Dołącz do pracowników Laboratorium Huka.\n\t\t\tVenha para o laboratório de química! Aqui tem todas as soluções.\n\t\t\tПриезжайте к нам в лабораторию. Мы растворим для вас все двери!\n\t\t\tมาทำงานที่แล็บปรุงยาสิ! เราไม่มีคำตอบ แต่จะช่วยให้คุณลืมคำถาม\n\t\t\t快加入实验室吧！我们有全套的保障方案。\n\t\t\t加入化學實驗室！我們的期中考很溶液！\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Zoltan Boros"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Laboranwerber"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Lab Recruiter"
+          },
+          "esES": {
+            "present": true,
+            "value": "Reclutador de laboratorio"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Reclutador de laboratorio"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Recruteur du labo"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Reclutatore Esperto"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ラボの採用担当者"
+          },
+          "koKR": {
+            "present": true,
+            "value": "피험자 모집가"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Rekruter z laboratorium"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Recrutador de Cobaias"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Кадровик лаборатории"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ผู้รับสมัครประจำแล็บ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "实验室招募员"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "實驗室招募員"
+          }
+        },
+        "textContent": "\n\t\tLaboranwerber\n\t\tLab Recruiter\n\t\tReclutador de laboratorio\n\t\tReclutador de laboratorio\n\t\tRecruteur du labo\n\t\tReclutatore Esperto\n\t\tラボの採用担当者\n\t\t피험자 모집가\n\t\tRekruter z laboratorium\n\t\tRecrutador de Cobaias\n\t\tКадровик лаборатории\n\t\tผู้รับสมัครประจำแล็บ\n\t\t实验室招募员\n\t\t實驗室招募員\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:\n</b> Mischt 3 Kopien eines befreundeten Dieners in Euer Deck."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Shuffle 3 copies of a friendly minion into your deck."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b>\nMete 3 copias de un\nesbirro amistoso\nen tu mazo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> coloca 3 copias de un esbirro aliado en tu mazo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> place 3_copies d’un serviteur allié_dans_votre_deck."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nmette tre copie di un tuo\n__servitore nel tuo mazzo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n味方のミニオン1体の\nコピー3枚を\n____自分のデッキに混ぜる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b>\n아군 하수인을 셋 복사하여\n내 덱에 섞어 넣습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Wtasuj trzy kopie przyjaznego stronnika do twojej talii."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Coloque 3_cópias de um lacaio aliado no seu deck."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> замешивает 3 копии вашего существа в колоду."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> สับก๊อปปี้ของ[b]มินเนี่ยนฝ่ายคุณหนึ่งตัว[b]เข้าเด็คคุณ 3 ใบ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>将一个友方随从的三张复制洗入你的牌库。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>將一個友方\n手下的三個分身洗入你的牌堆"
+          }
+        },
+        "textContent": "\n\t\t<b>Kampfschrei:\n</b> Mischt 3 Kopien eines befreundeten Dieners in Euer Deck.\n\t\t<b>Battlecry:</b> Shuffle 3 copies of a friendly minion into your deck.\n\t\t[x]<b>Grito de batalla:</b>\nMete 3 copias de un\nesbirro amistoso\nen tu mazo.\n\t\t<b>Grito de batalla:</b> coloca 3 copias de un esbirro aliado en tu mazo.\n\t\t<b>Cri de guerre_:</b> place 3_copies d’un serviteur allié_dans_votre_deck.\n\t\t[x]<b>Grido di Battaglia:</b>\nmette tre copie di un tuo\n__servitore nel tuo mazzo.\n\t\t[x]<b>雄叫び:</b>\n味方のミニオン1体の\nコピー3枚を\n____自分のデッキに混ぜる。\n\t\t[x]<b>전투의 함성:</b>\n아군 하수인을 셋 복사하여\n내 덱에 섞어 넣습니다.\n\t\t<b>Okrzyk bojowy:</b> Wtasuj trzy kopie przyjaznego stronnika do twojej talii.\n\t\t<b>Grito de Guerra:</b> Coloque 3_cópias de um lacaio aliado no seu deck.\n\t\t<b>Боевой клич:</b> замешивает 3 копии вашего существа в колоду.\n\t\t<b>คำรามสู้ศึก:</b> สับก๊อปปี้ของ[b]มินเนี่ยนฝ่ายคุณหนึ่งตัว[b]เข้าเด็คคุณ 3 ใบ\n\t\t<b>战吼：</b>将一个友方随从的三张复制洗入你的牌库。\n\t\t<b>戰吼：</b>將一個友方\n手下的三個分身洗入你的牌堆\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Kommt ins Chemielabor! Wir haben lauter Lösungen."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Join the chemistry lab! We've got all the solutions."
+          },
+          "esES": {
+            "present": true,
+            "value": "¡Vente al laboratorio de química! ¡Tenemos todas las soluciones!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "¡Únete al laboratorio de química! Tenemos todas las soluciones."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Rejoignez le laboratoire de chimie. Nous avons toutes les solutions !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Unitevi al laboratorio di chimica! Abbiamo tutte le soluzioni."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "一緒に化学ラボで働きませんか？幸せ気分でクスリとなる職場です！"
+          },
+          "koKR": {
+            "present": true,
+            "value": "화학 연구실에 합류하십시오! 어떤 해답이든 찾을 수 있습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Klonowanie, eksperymentalne bomby, niestabilne pierwiastki – i prywatna opieka medyczna! Dołącz do pracowników Laboratorium Huka."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Venha para o laboratório de química! Aqui tem todas as soluções."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Приезжайте к нам в лабораторию. Мы растворим для вас все двери!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "มาทำงานที่แล็บปรุงยาสิ! เราไม่มีคำตอบ แต่จะช่วยให้คุณลืมคำถาม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "快加入实验室吧！我们有全套的保障方案。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "加入化學實驗室！我們的期中考很溶液！"
+          }
+        },
+        "textContent": "\n\t\tKommt ins Chemielabor! Wir haben lauter Lösungen.\n\t\tJoin the chemistry lab! We've got all the solutions.\n\t\t¡Vente al laboratorio de química! ¡Tenemos todas las soluciones!\n\t\t¡Únete al laboratorio de química! Tenemos todas las soluciones.\n\t\tRejoignez le laboratoire de chimie. Nous avons toutes les solutions !\n\t\tUnitevi al laboratorio di chimica! Abbiamo tutte le soluzioni.\n\t\t一緒に化学ラボで働きませんか？幸せ気分でクスリとなる職場です！\n\t\t화학 연구실에 합류하십시오! 어떤 해답이든 찾을 수 있습니다.\n\t\tKlonowanie, eksperymentalne bomby, niestabilne pierwiastki – i prywatna opieka medyczna! Dołącz do pracowników Laboratorium Huka.\n\t\tVenha para o laboratório de química! Aqui tem todas as soluções.\n\t\tПриезжайте к нам в лабораторию. Мы растворим для вас все двери!\n\t\tมาทำงานที่แล็บปรุงยาสิ! เราไม่มีคำตอบ แต่จะช่วยให้คุณลืมคำถาม\n\t\t快加入实验室吧！我们有全套的保障方案。\n\t\t加入化學實驗室！我們的期中考很溶液！\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Zoltan Boros"
+      }
     }
   },
   "_current": {

@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Irres Genie Dr. Bumm"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Dr. Boom, Mad Genius"
+          },
+          "esES": {
+            "present": true,
+            "value": "Dr. Bum, el Genio Loco"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Dr. Bum, científico loco"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Dr Boum, savant fou"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Dott. Boom il Genio Folle"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "狂気の天才ドクター・ブーム"
+          },
+          "koKR": {
+            "present": true,
+            "value": "정신 나간 천재 박사 붐"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Doktor Huk, Szalony Geniusz"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Dr. Cabum, o Gênio Louco"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Безумный гений Бум"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ด็อกเตอร์บูม อัจฉริยะผู้บ้าคลั่ง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "“科学狂人”砰砰博士"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "瘋狂天才爆爆博士"
+          }
+        },
+        "textContent": "\n\t\t\tIrres Genie Dr. Bumm\n\t\t\tDr. Boom, Mad Genius\n\t\t\tDr. Bum, el Genio Loco\n\t\t\tDr. Bum, científico loco\n\t\t\tDr Boum, savant fou\n\t\t\tDott. Boom il Genio Folle\n\t\t\t狂気の天才ドクター・ブーム\n\t\t\t정신 나간 천재 박사 붐\n\t\t\tDoktor Huk, Szalony Geniusz\n\t\t\tDr. Cabum, o Gênio Louco\n\t\t\tБезумный гений Бум\n\t\t\tด็อกเตอร์บูม อัจฉริยะผู้บ้าคลั่ง\n\t\t\t“科学狂人”砰砰博士\n\t\t\t瘋狂天才爆爆博士\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Für den Rest des Spiels haben Eure Mechs <b>Eifer</b>."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> For the rest of the game, your Mechs have <b>Rush</b>."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b>\nDurante el resto\nde la partida, tus robots tienen <b>Embestir</b>."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> durante el resto de la partida, tus Mecas tienen <b>Acometida</b>."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> pendant le reste de la partie, vos Méca ont <b>Ruée</b>."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nper il resto della\npartita, i tuoi Robot\nhanno <b>Assalto</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\nこの対戦中\n自分のメカは全て\n__<b>急襲</b>を得る。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n이번 게임 동안\n내 기계들이 <b>속공</b>을 얻습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b>\nDo końca gry twoje Mechy mają <b>Zryw</b>."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Pelo resto da partida, seus Mecanoides têm <b>Rapidez</b>."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]<b>Боевой клич:</b> до конца\nматча у ваших механизмов\nесть <b>«Натиск»</b>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> เครื่องจักรของคุณมี <b>จู่โจม</b> จนจบเกม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>在本局对战的剩余时间内，你的所有机械获得\n<b>突袭</b>。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>在本賽局中，你的機械獲得<b>衝刺</b>"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Für den Rest des Spiels haben Eure Mechs <b>Eifer</b>.\n\t\t\t<b>Battlecry:</b> For the rest of the game, your Mechs have <b>Rush</b>.\n\t\t\t<b>Grito de batalla:</b>\nDurante el resto\nde la partida, tus robots tienen <b>Embestir</b>.\n\t\t\t<b>Grito de batalla:</b> durante el resto de la partida, tus Mecas tienen <b>Acometida</b>.\n\t\t\t<b>Cri de guerre_:</b> pendant le reste de la partie, vos Méca ont <b>Ruée</b>.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nper il resto della\npartita, i tuoi Robot\nhanno <b>Assalto</b>.\n\t\t\t[x]<b>雄叫び:</b>\nこの対戦中\n自分のメカは全て\n__<b>急襲</b>を得る。\n\t\t\t<b>전투의 함성:</b>\n이번 게임 동안\n내 기계들이 <b>속공</b>을 얻습니다.\n\t\t\t<b>Okrzyk bojowy:</b>\nDo końca gry twoje Mechy mają <b>Zryw</b>.\n\t\t\t<b>Grito de Guerra:</b> Pelo resto da partida, seus Mecanoides têm <b>Rapidez</b>.\n\t\t\t[x]<b>Боевой клич:</b> до конца\nматча у ваших механизмов\nесть <b>«Натиск»</b>.\n\t\t\t<b>คำรามสู้ศึก:</b> เครื่องจักรของคุณมี <b>จู่โจม</b> จนจบเกม\n\t\t\t<b>战吼：</b>在本局对战的剩余时间内，你的所有机械获得\n<b>突袭</b>。\n\t\t\t<b>戰吼：</b>在本賽局中，你的機械獲得<b>衝刺</b>\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "„Natürlich bin ich verrückt vor Macht! Schon mal versucht, ohne Macht verrückt zu werden? Das ist langweilig, niemand hört einem zu.“"
+          },
+          "enUS": {
+            "present": true,
+            "value": "\"Of course I've gone mad with power. Ever try going mad without it?\""
+          },
+          "esES": {
+            "present": true,
+            "value": "«Por supuesto que soy un genio loco. Los genios cuerdos son mucho menos interesantes»."
+          },
+          "esMX": {
+            "present": true,
+            "value": "\"Claro que enloquecí con el poder. ¿Ha intentado enloquecer sin poder?\""
+          },
+          "frFR": {
+            "present": true,
+            "value": "« - Mais vous êtes fou !\n- Oh oui ! »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "\"Certo che sono diventato folle a causa del potere. Hai mai provato a diventare folle senza?\""
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「もちろん私は力に狂っているとも。力なしで狂って何が面白いんだ？」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"당연히 정신이 나갔지. 천재 중에 안 그런 사람이 있어?\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "„To oczywiste, że jestem szalonym geniuszem. Genialny szaleniec nie zaszedłby tak daleko”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "\"É claro que fiquei louco com poder. Já tentou ficar louco sem poder?\""
+          },
+          "ruRU": {
+            "present": true,
+            "value": "«Разумеется, от власти я тронулся умом! Чем еще мне было трогаться?»"
+          },
+          "thTH": {
+            "present": true,
+            "value": "\"ถูกแล้วที่ข้าบ้าอำนาจจนเสียสติ เคยลองเสียสติโดยไม่มี[b]อำนาจไหมล่ะ\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "我疯了，也变强了。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "「我當然是因為權力才瘋狂，你知道沒有權力又瘋狂是什麼感覺嗎？」"
+          }
+        },
+        "textContent": "\n\t\t\t„Natürlich bin ich verrückt vor Macht! Schon mal versucht, ohne Macht verrückt zu werden? Das ist langweilig, niemand hört einem zu.“\n\t\t\t\"Of course I've gone mad with power. Ever try going mad without it?\"\n\t\t\t«Por supuesto que soy un genio loco. Los genios cuerdos son mucho menos interesantes».\n\t\t\t\"Claro que enloquecí con el poder. ¿Ha intentado enloquecer sin poder?\"\n\t\t\t« - Mais vous êtes fou !\n- Oh oui ! »\n\t\t\t\"Certo che sono diventato folle a causa del potere. Hai mai provato a diventare folle senza?\"\n\t\t\t「もちろん私は力に狂っているとも。力なしで狂って何が面白いんだ？」\n\t\t\t\"당연히 정신이 나갔지. 천재 중에 안 그런 사람이 있어?\"\n\t\t\t„To oczywiste, że jestem szalonym geniuszem. Genialny szaleniec nie zaszedłby tak daleko”.\n\t\t\t\"É claro que fiquei louco com poder. Já tentou ficar louco sem poder?\"\n\t\t\t«Разумеется, от власти я тронулся умом! Чем еще мне было трогаться?»\n\t\t\t\"ถูกแล้วที่ข้าบ้าอำนาจจนเสียสติ เคยลองเสียสติโดยไม่มี[b]อำนาจไหมล่ะ\"\n\t\t\t我疯了，也变强了。\n\t\t\t「我當然是因為權力才瘋狂，你知道沒有權力又瘋狂是什麼感覺嗎？」\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Matt Dixon"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Irres Genie Dr. Bumm"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Dr. Boom, Mad Genius"
+          },
+          "esES": {
+            "present": true,
+            "value": "Dr. Bum, el Genio Loco"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Dr. Bum, científico loco"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Dr Boum, savant fou"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Dott. Boom il Genio Folle"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "狂気の天才ドクター・ブーム"
+          },
+          "koKR": {
+            "present": true,
+            "value": "정신 나간 천재 박사 붐"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Doktor Huk, Szalony Geniusz"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Dr. Cabum, o Gênio Louco"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Безумный гений Бум"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ด็อกเตอร์บูม อัจฉริยะผู้บ้าคลั่ง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "“科学狂人”砰砰博士"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "瘋狂天才爆爆博士"
+          }
+        },
+        "textContent": "\n\t\tIrres Genie Dr. Bumm\n\t\tDr. Boom, Mad Genius\n\t\tDr. Bum, el Genio Loco\n\t\tDr. Bum, científico loco\n\t\tDr Boum, savant fou\n\t\tDott. Boom il Genio Folle\n\t\t狂気の天才ドクター・ブーム\n\t\t정신 나간 천재 박사 붐\n\t\tDoktor Huk, Szalony Geniusz\n\t\tDr. Cabum, o Gênio Louco\n\t\tБезумный гений Бум\n\t\tด็อกเตอร์บูม อัจฉริยะผู้บ้าคลั่ง\n\t\t“科学狂人”砰砰博士\n\t\t瘋狂天才爆爆博士\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Für den Rest des Spiels haben Eure Mechs <b>Eifer</b>."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> For the rest of the game, your Mechs have <b>Rush</b>."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b>\nDurante el resto\nde la partida, tus robots tienen <b>Embestir</b>."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> durante el resto de la partida, tus Mecas tienen <b>Acometida</b>."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> pendant le reste de la partie, vos Méca ont <b>Ruée</b>."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nper il resto della\npartita, i tuoi Robot\nhanno <b>Assalto</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\nこの対戦中\n自分のメカは全て\n__<b>急襲</b>を得る。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n이번 게임 동안\n내 기계들이 <b>속공</b>을 얻습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b>\nDo końca gry twoje Mechy mają <b>Zryw</b>."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Pelo resto da partida, seus Mecanoides têm <b>Rapidez</b>."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]<b>Боевой клич:</b> до конца\nматча у ваших механизмов\nесть <b>«Натиск»</b>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b>_เครื่องจักร[b]ของคุณมี_<b>จู่โจม</b>_จากนี้[b]ไปจนจบเกม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>在本局对战的剩余时间内，你的所有机械拥有\n<b>突袭</b>。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>在本賽局中，你的機械獲得<b>衝刺</b>"
+          }
+        },
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Für den Rest des Spiels haben Eure Mechs <b>Eifer</b>.\n\t\t<b>Battlecry:</b> For the rest of the game, your Mechs have <b>Rush</b>.\n\t\t<b>Grito de batalla:</b>\nDurante el resto\nde la partida, tus robots tienen <b>Embestir</b>.\n\t\t<b>Grito de batalla:</b> durante el resto de la partida, tus Mecas tienen <b>Acometida</b>.\n\t\t<b>Cri de guerre_:</b> pendant le reste de la partie, vos Méca ont <b>Ruée</b>.\n\t\t[x]<b>Grido di Battaglia:</b>\nper il resto della\npartita, i tuoi Robot\nhanno <b>Assalto</b>.\n\t\t[x]<b>雄叫び:</b>\nこの対戦中\n自分のメカは全て\n__<b>急襲</b>を得る。\n\t\t<b>전투의 함성:</b>\n이번 게임 동안\n내 기계들이 <b>속공</b>을 얻습니다.\n\t\t<b>Okrzyk bojowy:</b>\nDo końca gry twoje Mechy mają <b>Zryw</b>.\n\t\t<b>Grito de Guerra:</b> Pelo resto da partida, seus Mecanoides têm <b>Rapidez</b>.\n\t\t[x]<b>Боевой клич:</b> до конца\nматча у ваших механизмов\nесть <b>«Натиск»</b>.\n\t\t<b>คำรามสู้ศึก:</b>_เครื่องจักร[b]ของคุณมี_<b>จู่โจม</b>_จากนี้[b]ไปจนจบเกม\n\t\t<b>战吼：</b>在本局对战的剩余时间内，你的所有机械拥有\n<b>突袭</b>。\n\t\t<b>戰吼：</b>在本賽局中，你的機械獲得<b>衝刺</b>\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "„Natürlich bin ich verrückt vor Macht! Schon mal versucht, ohne Macht verrückt zu werden? Das ist langweilig, niemand hört einem zu.“"
+          },
+          "enUS": {
+            "present": true,
+            "value": "\"Of course I've gone mad with power. Ever try going mad without it?\""
+          },
+          "esES": {
+            "present": true,
+            "value": "«Por supuesto que soy un genio loco. Los genios cuerdos son mucho menos interesantes»."
+          },
+          "esMX": {
+            "present": true,
+            "value": "\"Claro que enloquecí con el poder. ¿Ha intentado enloquecer sin poder?\""
+          },
+          "frFR": {
+            "present": true,
+            "value": "« - Mais vous êtes fou !\n- Oh oui ! »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "\"Certo che sono diventato folle a causa del potere. Hai mai provato a diventare folle senza?\""
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「もちろん私は力に狂っているとも。力なしで狂って何が面白いんだ？」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"당연히 정신이 나갔지. 천재 중에 안 그런 사람이 있어?\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "„To oczywiste, że jestem szalonym geniuszem. Genialny szaleniec nie zaszedłby tak daleko”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "\"É claro que fiquei louco com poder. Já tentou ficar louco sem poder?\""
+          },
+          "ruRU": {
+            "present": true,
+            "value": "«Разумеется, от власти я тронулся умом! Чем еще мне было трогаться?»"
+          },
+          "thTH": {
+            "present": true,
+            "value": "\"ถูกแล้วที่ข้าบ้าอำนาจจนเสียสติ เคยลองเสียสติโดยไม่มี[b]อำนาจไหมล่ะ\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "我疯了，也变强了。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "「我當然是因為權力才瘋狂，你知道沒有權力又瘋狂是什麼感覺嗎？」"
+          }
+        },
+        "textContent": "\n\t\t„Natürlich bin ich verrückt vor Macht! Schon mal versucht, ohne Macht verrückt zu werden? Das ist langweilig, niemand hört einem zu.“\n\t\t\"Of course I've gone mad with power. Ever try going mad without it?\"\n\t\t«Por supuesto que soy un genio loco. Los genios cuerdos son mucho menos interesantes».\n\t\t\"Claro que enloquecí con el poder. ¿Ha intentado enloquecer sin poder?\"\n\t\t« - Mais vous êtes fou !\n- Oh oui ! »\n\t\t\"Certo che sono diventato folle a causa del potere. Hai mai provato a diventare folle senza?\"\n\t\t「もちろん私は力に狂っているとも。力なしで狂って何が面白いんだ？」\n\t\t\"당연히 정신이 나갔지. 천재 중에 안 그런 사람이 있어?\"\n\t\t„To oczywiste, że jestem szalonym geniuszem. Genialny szaleniec nie zaszedłby tak daleko”.\n\t\t\"É claro que fiquei louco com poder. Já tentou ficar louco sem poder?\"\n\t\t«Разумеется, от власти я тронулся умом! Чем еще мне было трогаться?»\n\t\t\"ถูกแล้วที่ข้าบ้าอำนาจจนเสียสติ เคยลองเสียสติโดยไม่มี[b]อำนาจไหมล่ะ\"\n\t\t我疯了，也变强了。\n\t\t「我當然是因為權力才瘋狂，你知道沒有權力又瘋狂是什麼感覺嗎？」\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Matt Dixon"
+      }
     }
   },
   "_current": {

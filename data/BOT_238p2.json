@@ -83,6 +83,286 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Schutzschild"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Blast Shield"
+          },
+          "esES": {
+            "present": true,
+            "value": "Escudo de energía"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Escudo balístico"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Bouclier brutal"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Scudo Detonante"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ブラスト・シールド"
+          },
+          "koKR": {
+            "present": true,
+            "value": "폭발 보호막"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Tarcza uderzeniowa"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Escudo Antichoque"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Взрывощит"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โล่กันระเบิด"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "防爆护盾"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "防爆護盾"
+          }
+        },
+        "textContent": "\n\t\t\tSchutzschild\n\t\t\tBlast Shield\n\t\t\tEscudo de energía\n\t\t\tEscudo balístico\n\t\t\tBouclier brutal\n\t\t\tScudo Detonante\n\t\t\tブラスト・シールド\n\t\t\t폭발 보호막\n\t\t\tTarcza uderzeniowa\n\t\t\tEscudo Antichoque\n\t\t\tВзрывощит\n\t\t\tโล่กันระเบิด\n\t\t\t防爆护盾\n\t\t\t防爆護盾\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Heldenfähigkeit</b>\nErhaltet 7 Rüstung. Wechselt in jedem Zug."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Hero Power</b>\nGain 7 Armor.\nSwaps each turn."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Poder de héroe</b>\nObtienes 7 p. de armadura.\nCambia cada turno."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Poder de héroe</b>\nObtienes 7 de armadura. Cambia_con_cada_turno."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Pouvoir héroïque</b>\nGagne 7_points d’armure. Change_à_chaque_tour."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Potere Eroe</b>\nOttiene 7 Armatura.\nCambia ogni turno."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>ヒーローパワー</b>\n装甲を7獲得する。\nパワーは毎ターン\n入れ替わる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>영웅 능력</b>\n방어도를 +7 얻습니다.\n매 턴마다 바뀝니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Moc specjalna</b>\nOtrzymujesz 7 pkt. pancerza. Zmienia się w każdej turze."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Poder Heroico</b>\nReceba 7 de Armadura. Muda a cada turno."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Сила героя</b>\n+7 к броне. Меняется каждый ход."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>พลังฮีโร่</b>\nได้รับเกราะ 7 แต้ม เปลี่ยนพลังใหม่ทุกเทิร์น"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>英雄技能</b>\n获得7点护甲值。每回合切换。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>英雄能力</b>\n獲得7點護甲值\n(每回合換能力)"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Heldenfähigkeit</b>\nErhaltet 7 Rüstung. Wechselt in jedem Zug.\n\t\t\t<b>Hero Power</b>\nGain 7 Armor.\nSwaps each turn.\n\t\t\t[x]<b>Poder de héroe</b>\nObtienes 7 p. de armadura.\nCambia cada turno.\n\t\t\t<b>Poder de héroe</b>\nObtienes 7 de armadura. Cambia_con_cada_turno.\n\t\t\t<b>Pouvoir héroïque</b>\nGagne 7_points d’armure. Change_à_chaque_tour.\n\t\t\t[x]<b>Potere Eroe</b>\nOttiene 7 Armatura.\nCambia ogni turno.\n\t\t\t[x]<b>ヒーローパワー</b>\n装甲を7獲得する。\nパワーは毎ターン\n入れ替わる。\n\t\t\t[x]<b>영웅 능력</b>\n방어도를 +7 얻습니다.\n매 턴마다 바뀝니다.\n\t\t\t<b>Moc specjalna</b>\nOtrzymujesz 7 pkt. pancerza. Zmienia się w każdej turze.\n\t\t\t<b>Poder Heroico</b>\nReceba 7 de Armadura. Muda a cada turno.\n\t\t\t<b>Сила героя</b>\n+7 к броне. Меняется каждый ход.\n\t\t\t<b>พลังฮีโร่</b>\nได้รับเกราะ 7 แต้ม เปลี่ยนพลังใหม่ทุกเทิร์น\n\t\t\t<b>英雄技能</b>\n获得7点护甲值。每回合切换。\n\t\t\t<b>英雄能力</b>\n獲得7點護甲值\n(每回合換能力)\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Konstantin Turovec"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Schutzschild"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Blast Shield"
+          },
+          "esES": {
+            "present": true,
+            "value": "Escudo de energía"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Escudo balístico"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Bouclier brutal"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Scudo Detonante"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ブラスト・シールド"
+          },
+          "koKR": {
+            "present": true,
+            "value": "폭발 보호막"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Tarcza uderzeniowa"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Escudo Antichoque"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Взрывощит"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โล่กันระเบิด"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "防爆护盾"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "防爆護盾"
+          }
+        },
+        "textContent": "\n\t\tSchutzschild\n\t\tBlast Shield\n\t\tEscudo de energía\n\t\tEscudo balístico\n\t\tBouclier brutal\n\t\tScudo Detonante\n\t\tブラスト・シールド\n\t\t폭발 보호막\n\t\tTarcza uderzeniowa\n\t\tEscudo Antichoque\n\t\tВзрывощит\n\t\tโล่กันระเบิด\n\t\t防爆护盾\n\t\t防爆護盾\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Erhaltet $d7 Rüstung.\nWechselt in jedem Zug."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Gain $d7 Armor.\nSwaps each turn."
+          },
+          "esES": {
+            "present": true,
+            "value": "Obtienes $d7 p. de armadura. Cambia cada turno."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Obtienes_$d7_de_armadura. Cambia_con_cada_turno."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Gagne $d7_|4(point,points) d’armure. Change à_chaque tour."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Fornisce $d7 Armatura. Cambia ogni turno."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]_装甲を$d7獲得する。\nパワーは毎ターン\n入れ替わる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "방어도를 $d7 얻습니다. 매 턴마다 바뀝니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Otrzymujesz $d7_pkt. pancerza. Zmienia się w_każdej turze."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Receba $d7 de Armadura. Muda a cada turno."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Ваш герой получает +$d7 к броне. Меняется каждый ход."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ได้รับเกราะ $d7 แต้ม สลับพลังทุกเทิร์น"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "获得$d7点护甲值。每回合切换。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "獲得$d7點護甲值(每回合換能力)"
+          }
+        },
+        "textContent": "\n\t\tErhaltet $d7 Rüstung.\nWechselt in jedem Zug.\n\t\tGain $d7 Armor.\nSwaps each turn.\n\t\tObtienes $d7 p. de armadura. Cambia cada turno.\n\t\tObtienes_$d7_de_armadura. Cambia_con_cada_turno.\n\t\tGagne $d7_|4(point,points) d’armure. Change à_chaque tour.\n\t\tFornisce $d7 Armatura. Cambia ogni turno.\n\t\t[x]_装甲を$d7獲得する。\nパワーは毎ターン\n入れ替わる。\n\t\t방어도를 $d7 얻습니다. 매 턴마다 바뀝니다.\n\t\tOtrzymujesz $d7_pkt. pancerza. Zmienia się w_każdej turze.\n\t\tReceba $d7 de Armadura. Muda a cada turno.\n\t\tВаш герой получает +$d7 к броне. Меняется каждый ход.\n\t\tได้รับเกราะ $d7 แต้ม สลับพลังทุกเทิร์น\n\t\t获得$d7点护甲值。每回合切换。\n\t\t獲得$d7點護甲值(每回合換能力)\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Konstantin Turovec"
+      }
     }
   },
   "_current": {

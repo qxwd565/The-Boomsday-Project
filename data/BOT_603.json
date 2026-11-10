@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Stahlwüter"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Steel Rager"
+          },
+          "esES": {
+            "present": true,
+            "value": "Furibundo de acero"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Furibundo de acero"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Enragé d’acier"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Furia d'Acciaio"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "スティール・レイジャー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "강철 광전사"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Stalowy furiat"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Furiante de Aço"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Стальной яростень"
+          },
+          "thTH": {
+            "present": true,
+            "value": "สตีลเรจเจอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "钢铁暴怒者"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "鋼鐵狂怒者"
+          }
+        },
+        "textContent": "\n\t\t\tStahlwüter\n\t\t\tSteel Rager\n\t\t\tFuribundo de acero\n\t\t\tFuribundo de acero\n\t\t\tEnragé d’acier\n\t\t\tFuria d'Acciaio\n\t\t\tスティール・レイジャー\n\t\t\t강철 광전사\n\t\t\tStalowy furiat\n\t\t\tFuriante de Aço\n\t\t\tСтальной яростень\n\t\t\tสตีลเรจเจอร์\n\t\t\t钢铁暴怒者\n\t\t\t鋼鐵狂怒者\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Eifer</b>"
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Rush</b>"
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Embestir</b>"
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Acometida</b>"
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Ruée</b>"
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>Assalto</b>"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>急襲</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>속공</b>"
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Zryw</b>"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Rapidez</b>"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Натиск</b>"
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>จู่โจม</b>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>突袭</b>"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>衝刺</b>"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Eifer</b>\n\t\t\t<b>Rush</b>\n\t\t\t<b>Embestir</b>\n\t\t\t<b>Acometida</b>\n\t\t\t<b>Ruée</b>\n\t\t\t<b>Assalto</b>\n\t\t\t<b>急襲</b>\n\t\t\t<b>속공</b>\n\t\t\t<b>Zryw</b>\n\t\t\t<b>Rapidez</b>\n\t\t\t<b>Натиск</b>\n\t\t\t<b>จู่โจม</b>\n\t\t\t<b>突袭</b>\n\t\t\t<b>衝刺</b>\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Der Stahlerich, der Stahlerich, das war ein arger Wüterich."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Rage alongside the machine."
+          },
+          "esES": {
+            "present": true,
+            "value": "Fenomenales poderes furibúndicos... y un espacio chiquitín para vivir."
+          },
+          "esMX": {
+            "present": true,
+            "value": "No hay expansión sin un Furibundo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Qui a libéré le diable de sa boîte ?"
+          },
+          "itIT": {
+            "present": true,
+            "value": "La furia è nulla senza l'acciaio."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "彼こそ盗塁王。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "드디어 다섯이 모였는데 왜 합체하지 않죠? 대체 왜 때문에?! 기계가 아니라서?"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Czerwony jak cegła, rozgrzany jak piec."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Quem disse que as máquinas não têm sentimentos?"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "А еще говорят, что машины не способны испытывать эмоции."
+          },
+          "thTH": {
+            "present": true,
+            "value": "สตีลเรจเจอร์ไม่มีปอด เพราะมันทำจากเหล็กกล้า"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "感受机械的愤怒！"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "這台機器充滿憤怒，想要討伐主流體制。"
+          }
+        },
+        "textContent": "\n\t\t\tDer Stahlerich, der Stahlerich, das war ein arger Wüterich.\n\t\t\tRage alongside the machine.\n\t\t\tFenomenales poderes furibúndicos... y un espacio chiquitín para vivir.\n\t\t\tNo hay expansión sin un Furibundo.\n\t\t\tQui a libéré le diable de sa boîte ?\n\t\t\tLa furia è nulla senza l'acciaio.\n\t\t\t彼こそ盗塁王。\n\t\t\t드디어 다섯이 모였는데 왜 합체하지 않죠? 대체 왜 때문에?! 기계가 아니라서?\n\t\t\tCzerwony jak cegła, rozgrzany jak piec.\n\t\t\tQuem disse que as máquinas não têm sentimentos?\n\t\t\tА еще говорят, что машины не способны испытывать эмоции.\n\t\t\tสตีลเรจเจอร์ไม่มีปอด เพราะมันทำจากเหล็กกล้า\n\t\t\t感受机械的愤怒！\n\t\t\t這台機器充滿憤怒，想要討伐主流體制。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Jim Nelson"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Stahlwüter"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Steel Rager"
+          },
+          "esES": {
+            "present": true,
+            "value": "Furibundo de acero"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Furibundo de acero"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Enragé d’acier"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Furia d'Acciaio"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "スティール・レイジャー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "강철 광전사"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Stalowy furiat"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Furiante de Aço"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Стальной яростень"
+          },
+          "thTH": {
+            "present": true,
+            "value": "สตีลเรเจอร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "钢铁暴怒者"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "鋼鐵狂怒者"
+          }
+        },
+        "textContent": "\n\t\tStahlwüter\n\t\tSteel Rager\n\t\tFuribundo de acero\n\t\tFuribundo de acero\n\t\tEnragé d’acier\n\t\tFuria d'Acciaio\n\t\tスティール・レイジャー\n\t\t강철 광전사\n\t\tStalowy furiat\n\t\tFuriante de Aço\n\t\tСтальной яростень\n\t\tสตีลเรเจอร์\n\t\t钢铁暴怒者\n\t\t鋼鐵狂怒者\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Eifer</b>"
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Rush</b>"
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Embestir</b>"
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Acometida</b>"
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Ruée</b>"
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>Assalto</b>"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>急襲</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>속공</b>"
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Zryw</b>"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Rapidez</b>"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Натиск</b>"
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>จู่โจม</b>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>突袭</b>"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>衝刺</b>"
+          }
+        },
+        "textContent": "\n\t\t<b>Eifer</b>\n\t\t<b>Rush</b>\n\t\t<b>Embestir</b>\n\t\t<b>Acometida</b>\n\t\t<b>Ruée</b>\n\t\t<b>Assalto</b>\n\t\t<b>急襲</b>\n\t\t<b>속공</b>\n\t\t<b>Zryw</b>\n\t\t<b>Rapidez</b>\n\t\t<b>Натиск</b>\n\t\t<b>จู่โจม</b>\n\t\t<b>突袭</b>\n\t\t<b>衝刺</b>\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Der Stahlerich, der Stahlerich, das war ein arger Wüterich."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Rage alongside the machine."
+          },
+          "esES": {
+            "present": true,
+            "value": "Fenomenales poderes furibúndicos... y un espacio chiquitín para vivir."
+          },
+          "esMX": {
+            "present": true,
+            "value": "No hay expansión sin un Furibundo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Qui a libéré le diable de sa boîte ?"
+          },
+          "itIT": {
+            "present": true,
+            "value": "La furia è nulla senza l'acciaio."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "彼こそ盗塁王。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "드디어 다섯이 모였는데 왜 합체하지 않죠? 대체 왜 때문에?! 기계가 아니라서?"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Czerwony jak cegła, rozgrzany jak piec."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Quem disse que as máquinas não têm sentimentos?"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "А еще говорят, что машины не способны испытывать эмоции."
+          },
+          "thTH": {
+            "present": true,
+            "value": "สตีลเรเจอร์ไม่มีปอด เพราะมันทำจากเหล็กกล้า"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "感受机械的愤怒！"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "這台機器充滿憤怒，想要討伐主流體制。"
+          }
+        },
+        "textContent": "\n\t\tDer Stahlerich, der Stahlerich, das war ein arger Wüterich.\n\t\tRage alongside the machine.\n\t\tFenomenales poderes furibúndicos... y un espacio chiquitín para vivir.\n\t\tNo hay expansión sin un Furibundo.\n\t\tQui a libéré le diable de sa boîte ?\n\t\tLa furia è nulla senza l'acciaio.\n\t\t彼こそ盗塁王。\n\t\t드디어 다섯이 모였는데 왜 합체하지 않죠? 대체 왜 때문에?! 기계가 아니라서?\n\t\tCzerwony jak cegła, rozgrzany jak piec.\n\t\tQuem disse que as máquinas não têm sentimentos?\n\t\tА еще говорят, что машины не способны испытывать эмоции.\n\t\tสตีลเรเจอร์ไม่มีปอด เพราะมันทำจากเหล็กกล้า\n\t\t感受机械的愤怒！\n\t\t這台機器充滿憤怒，想要討伐主流體制。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Jim Nelson"
+      }
     }
   },
   "_current": {

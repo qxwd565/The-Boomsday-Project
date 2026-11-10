@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Leuchtsteinmechaniker"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Glowstone Technician"
+          },
+          "esES": {
+            "present": true,
+            "value": "Técnico de piedraluces"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Técnico Rocabrillo"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Technicien brillepierre"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Tecnico Pietrardente"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "グロウストーンの技術者"
+          },
+          "koKR": {
+            "present": true,
+            "value": "발광석 기술병"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Technik krysztalnictwa"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Técnico Brilhapedra"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Камнецветчик"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ช่างเทคนิคโกลว์สโตน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "亮石技师"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "亮石技師"
+          }
+        },
+        "textContent": "\n\t\t\tLeuchtsteinmechaniker\n\t\t\tGlowstone Technician\n\t\t\tTécnico de piedraluces\n\t\t\tTécnico Rocabrillo\n\t\t\tTechnicien brillepierre\n\t\t\tTecnico Pietrardente\n\t\t\tグロウストーンの技術者\n\t\t\t발광석 기술병\n\t\t\tTechnik krysztalnictwa\n\t\t\tTécnico Brilhapedra\n\t\t\tКамнецветчик\n\t\t\tช่างเทคนิคโกลว์สโตน\n\t\t\t亮石技师\n\t\t\t亮石技師\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Verleiht allen Dienern auf Eurer Hand +2/+2."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Give all minions in your hand +2/+2."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b> Otorga\na todos los esbirros\nde tu mano +2/+2."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> otorga +2/+2 a todos los esbirros de tu mano."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> donne_+2/+2 à tous les serviteurs_de_votre_main."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\n+2/+2 ai servitori\nnella tua mano."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>雄叫び:</b>\n自分の手札のミニオン全てに+2/+2を付与する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b> 내 손에 있는 모든 하수인에게 +2/+2를 부여합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Daj +2/+2 wszystkim stronnikom w_twojej ręce."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Conceda +2/+2 a todos os lacaios na sua mão."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> все существа у вас в руке получают +2/+2."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> มอบ +2/+2 ให้มินเนี่ยนทั้งหมดในมือคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>使你手牌中的所有随从牌获得+2/+2。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>賦予你手中\n全部的手下+2/+2"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Verleiht allen Dienern auf Eurer Hand +2/+2.\n\t\t\t<b>Battlecry:</b> Give all minions in your hand +2/+2.\n\t\t\t[x]<b>Grito de batalla:</b> Otorga\na todos los esbirros\nde tu mano +2/+2.\n\t\t\t<b>Grito de batalla:</b> otorga +2/+2 a todos los esbirros de tu mano.\n\t\t\t<b>Cri de guerre_:</b> donne_+2/+2 à tous les serviteurs_de_votre_main.\n\t\t\t[x]<b>Grido di Battaglia:</b>\n+2/+2 ai servitori\nnella tua mano.\n\t\t\t<b>雄叫び:</b>\n自分の手札のミニオン全てに+2/+2を付与する。\n\t\t\t<b>전투의 함성:</b> 내 손에 있는 모든 하수인에게 +2/+2를 부여합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Daj +2/+2 wszystkim stronnikom w_twojej ręce.\n\t\t\t<b>Grito de Guerra:</b> Conceda +2/+2 a todos os lacaios na sua mão.\n\t\t\t<b>Боевой клич:</b> все существа у вас в руке получают +2/+2.\n\t\t\t<b>คำรามสู้ศึก:</b> มอบ +2/+2 ให้มินเนี่ยนทั้งหมดในมือคุณ\n\t\t\t<b>战吼：</b>使你手牌中的所有随从牌获得+2/+2。\n\t\t\t<b>戰吼：</b>賦予你手中\n全部的手下+2/+2\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "„Mehr leuchten!” – „Ich hol aus ihr raus, was ich kann, Kangor.\""
+          },
+          "enUS": {
+            "present": true,
+            "value": "\"Windell! More light!\"\n\"I'm givin' it all she's got, Kangor!\""
+          },
+          "esES": {
+            "present": true,
+            "value": "Las posibilidades armamentísticas de las piedraluces son ilimitadas. Y, en el peor de los casos, siempre tendrás un pedrusco que tirar a la cabeza de alguien."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Algunos afortunados tienen brillo propio."
+          },
+          "frFR": {
+            "present": true,
+            "value": "« - Remise en état complète ?\n- Dans huit semaines, mais pour vous, dans deux… »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "\"Serve più luce!\"\n\"Le sto dando tutta quella che ha, Kangor!\""
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「ケンゴー様は暗いのがお嫌いじゃ～っ！！」\n「まわせまわせ～ 心をこめてまわすのだ～」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"윈델! 빛을 더!\" \"최대한 노력하고 있습니다, 칸고르 님!\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "Skutkiem ubocznym pracy w krysztalnictwie jest nieodwracalna zmiana koloru włosów."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "\"Windell! Mais luz!\" \"Ela já deu tudo que tinha, Kangor!\""
+          },
+          "ruRU": {
+            "present": true,
+            "value": "«Винделл, больше света!» –_«Имей совесть, Кангор, я же не жрец!»"
+          },
+          "thTH": {
+            "present": true,
+            "value": "\"วินเดล! เพิ่มแสงอีก!\" \"มีให้แค่เท่านี้แหละ แคงกอร์!\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "“温德，灯再亮一点！”“我已经开到最大啦，坎格尔！”"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "「溫德！我需要更強的光！」\n「我已經把所有的光都給你啦，崗古！」"
+          }
+        },
+        "textContent": "\n\t\t\t„Mehr leuchten!” – „Ich hol aus ihr raus, was ich kann, Kangor.\"\n\t\t\t\"Windell! More light!\"\n\"I'm givin' it all she's got, Kangor!\"\n\t\t\tLas posibilidades armamentísticas de las piedraluces son ilimitadas. Y, en el peor de los casos, siempre tendrás un pedrusco que tirar a la cabeza de alguien.\n\t\t\tAlgunos afortunados tienen brillo propio.\n\t\t\t« - Remise en état complète ?\n- Dans huit semaines, mais pour vous, dans deux… »\n\t\t\t\"Serve più luce!\"\n\"Le sto dando tutta quella che ha, Kangor!\"\n\t\t\t「ケンゴー様は暗いのがお嫌いじゃ～っ！！」\n「まわせまわせ～ 心をこめてまわすのだ～」\n\t\t\t\"윈델! 빛을 더!\" \"최대한 노력하고 있습니다, 칸고르 님!\"\n\t\t\tSkutkiem ubocznym pracy w krysztalnictwie jest nieodwracalna zmiana koloru włosów.\n\t\t\t\"Windell! Mais luz!\" \"Ela já deu tudo que tinha, Kangor!\"\n\t\t\t«Винделл, больше света!» –_«Имей совесть, Кангор, я же не жрец!»\n\t\t\t\"วินเดล! เพิ่มแสงอีก!\" \"มีให้แค่เท่านี้แหละ แคงกอร์!\"\n\t\t\t“温德，灯再亮一点！”“我已经开到最大啦，坎格尔！”\n\t\t\t「溫德！我需要更強的光！」\n「我已經把所有的光都給你啦，崗古！」\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Anton Zemskov"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Leuchtsteinmechaniker"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Glowstone Technician"
+          },
+          "esES": {
+            "present": true,
+            "value": "Técnico de piedraluces"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Técnico Rocabrillo"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Technicien brillepierre"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Tecnico Pietrardente"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "グロウストーンの技術者"
+          },
+          "koKR": {
+            "present": true,
+            "value": "발광석 기술병"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Technik krysztalnictwa"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Técnico Brilhapedra"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Камнецветчик"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ช่างเทคนิคโกลว์สโตน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "亮石技师"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "亮石技師"
+          }
+        },
+        "textContent": "\n\t\tLeuchtsteinmechaniker\n\t\tGlowstone Technician\n\t\tTécnico de piedraluces\n\t\tTécnico Rocabrillo\n\t\tTechnicien brillepierre\n\t\tTecnico Pietrardente\n\t\tグロウストーンの技術者\n\t\t발광석 기술병\n\t\tTechnik krysztalnictwa\n\t\tTécnico Brilhapedra\n\t\tКамнецветчик\n\t\tช่างเทคนิคโกลว์สโตน\n\t\t亮石技师\n\t\t亮石技師\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Verleiht allen Dienern auf Eurer Hand +2/+2."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Give all minions in your hand +2/+2."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b> Otorga\na todos los esbirros\nde tu mano +2/+2."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> otorga +2/+2 a todos los esbirros de tu mano."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> donne_+2/+2 à tous les serviteurs_de_votre_main."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\n+2/+2 ai servitori\nnella tua mano."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>雄叫び:</b>\n自分の手札のミニオン全てに+2/+2を付与する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b> 내 손에 있는 모든 하수인에게 +2/+2를 부여합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Daj +2/+2 wszystkim stronnikom w_twojej ręce."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Conceda +2/+2 a todos os lacaios na sua mão."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> существа в_руке получают +2/+2."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> มอบ_+2/+2_ให้มินเนี่ยน[b]ทั้งหมดในมือคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>使你手牌中的所有随从牌获得+2/+2。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>賦予你手中\n全部的手下+2/+2"
+          }
+        },
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Verleiht allen Dienern auf Eurer Hand +2/+2.\n\t\t<b>Battlecry:</b> Give all minions in your hand +2/+2.\n\t\t[x]<b>Grito de batalla:</b> Otorga\na todos los esbirros\nde tu mano +2/+2.\n\t\t<b>Grito de batalla:</b> otorga +2/+2 a todos los esbirros de tu mano.\n\t\t<b>Cri de guerre_:</b> donne_+2/+2 à tous les serviteurs_de_votre_main.\n\t\t[x]<b>Grido di Battaglia:</b>\n+2/+2 ai servitori\nnella tua mano.\n\t\t<b>雄叫び:</b>\n自分の手札のミニオン全てに+2/+2を付与する。\n\t\t<b>전투의 함성:</b> 내 손에 있는 모든 하수인에게 +2/+2를 부여합니다.\n\t\t<b>Okrzyk bojowy:</b> Daj +2/+2 wszystkim stronnikom w_twojej ręce.\n\t\t<b>Grito de Guerra:</b> Conceda +2/+2 a todos os lacaios na sua mão.\n\t\t<b>Боевой клич:</b> существа в_руке получают +2/+2.\n\t\t<b>คำรามสู้ศึก:</b> มอบ_+2/+2_ให้มินเนี่ยน[b]ทั้งหมดในมือคุณ\n\t\t<b>战吼：</b>使你手牌中的所有随从牌获得+2/+2。\n\t\t<b>戰吼：</b>賦予你手中\n全部的手下+2/+2\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "„Mehr leuchten!” – „Ich hol aus ihr raus, was ich kann, Kangor.“"
+          },
+          "enUS": {
+            "present": true,
+            "value": "\"Windell! More light!\"\n\"I'm givin' it all she's got, Kangor!\""
+          },
+          "esES": {
+            "present": true,
+            "value": "Las posibilidades armamentísticas de las piedraluces son ilimitadas. Y, en el peor de los casos, siempre tendrás un pedrusco que tirar a la cabeza de alguien."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Algunos afortunados tienen brillo propio."
+          },
+          "frFR": {
+            "present": true,
+            "value": "« - Remise en état complète ?\n- Dans huit semaines, mais pour vous, dans deux… »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "\"Serve più luce!\"\n\"Le sto dando tutta quella che ha, Kangor!\""
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「ケンゴー様は暗いのがお嫌いじゃ～っ！！」\n「まわせまわせ～ 心をこめてまわすのだ～」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"윈델! 빛을 더!\" \"최대한 노력하고 있습니다, 칸고르 님!\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "Skutkiem ubocznym pracy w krysztalnictwie jest nieodwracalna zmiana koloru włosów."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "\"Windell! Mais luz!\" \"Ela já deu tudo que tinha, Kangor!\""
+          },
+          "ruRU": {
+            "present": true,
+            "value": "«Винделл, больше света!» –_«Имей совесть, Кангор, я же не жрец!»"
+          },
+          "thTH": {
+            "present": true,
+            "value": "\"วินเดล! เพิ่มแสงอีก!\" \"มีให้แค่เท่านี้แหละ แคงกอร์!\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "“温德，灯再亮一点！”“我已经开到最大啦，坎格尔！”"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "「溫德！我需要更強的光！」\n「我已經把所有的光都給你啦，崗古！」"
+          }
+        },
+        "textContent": "\n\t\t„Mehr leuchten!” – „Ich hol aus ihr raus, was ich kann, Kangor.“\n\t\t\"Windell! More light!\"\n\"I'm givin' it all she's got, Kangor!\"\n\t\tLas posibilidades armamentísticas de las piedraluces son ilimitadas. Y, en el peor de los casos, siempre tendrás un pedrusco que tirar a la cabeza de alguien.\n\t\tAlgunos afortunados tienen brillo propio.\n\t\t« - Remise en état complète ?\n- Dans huit semaines, mais pour vous, dans deux… »\n\t\t\"Serve più luce!\"\n\"Le sto dando tutta quella che ha, Kangor!\"\n\t\t「ケンゴー様は暗いのがお嫌いじゃ～っ！！」\n「まわせまわせ～ 心をこめてまわすのだ～」\n\t\t\"윈델! 빛을 더!\" \"최대한 노력하고 있습니다, 칸고르 님!\"\n\t\tSkutkiem ubocznym pracy w krysztalnictwie jest nieodwracalna zmiana koloru włosów.\n\t\t\"Windell! Mais luz!\" \"Ela já deu tudo que tinha, Kangor!\"\n\t\t«Винделл, больше света!» –_«Имей совесть, Кангор, я же не жрец!»\n\t\t\"วินเดล! เพิ่มแสงอีก!\" \"มีให้แค่เท่านี้แหละ แคงกอร์!\"\n\t\t“温德，灯再亮一点！”“我已经开到最大啦，坎格尔！”\n\t\t「溫德！我需要更強的光！」\n「我已經把所有的光都給你啦，崗古！」\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Anton Zemskov"
+      }
     }
   },
   "_current": {

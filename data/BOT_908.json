@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verteidigungsmatrix"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Autodefense Matrix"
+          },
+          "esES": {
+            "present": true,
+            "value": "Matriz de autodefensa"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Matriz de autodefensa"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Matrice d’autodéfense"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Matrice d'Autodifesa"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "自動防衛マトリクス"
+          },
+          "koKR": {
+            "present": true,
+            "value": "자동 방어 매트릭스"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Matryca samoobronna"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Matriz de Autodefesa"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Защитная матрица"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เมทริกซ์ป้องกันอัตโนมัติ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "自动防御矩阵"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "自動防禦矩陣"
+          }
+        },
+        "textContent": "\n\t\t\tVerteidigungsmatrix\n\t\t\tAutodefense Matrix\n\t\t\tMatriz de autodefensa\n\t\t\tMatriz de autodefensa\n\t\t\tMatrice d’autodéfense\n\t\t\tMatrice d'Autodifesa\n\t\t\t自動防衛マトリクス\n\t\t\t자동 방어 매트릭스\n\t\t\tMatryca samoobronna\n\t\t\tMatriz de Autodefesa\n\t\t\tЗащитная матрица\n\t\t\tเมทริกซ์ป้องกันอัตโนมัติ\n\t\t\t自动防御矩阵\n\t\t\t自動防禦矩陣\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Geheimnis:</b> Wenn ein befreundeter Diener angegriffen wird, erhält er <b>Gottesschild</b>."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Secret:</b> When one of your minions is attacked, give it <b>Divine Shield</b>."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Secreto:</b>\nCuando uno de tus esbirros\nvaya a recibir un ataque,\nobtiene <b>Escudo divino</b>."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Secreto:</b> cuando atacan a uno de tus esbirros, le otorga <b>Escudo divino</b>."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Secret_:</b> quand un de vos serviteurs est attaqué, lui confère <b>Bouclier divin</b>."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Segreto:</b> quando un\ntuo servitore viene\nattaccato, gli fornisce\n<b>Scudo Divino</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>秘策:</b>\n味方のミニオンが\n攻撃された時\nそのミニオンに<b>聖なる盾</b>\nを付与する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>비밀:</b> 내 하수인이 공격받으면, 그 하수인에게 <b>천상의_보호막</b>을 부여합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Sekret:</b> Gdy jeden z_twoich stronników zostanie zaatakowany, daj mu <b>Boską tarczę</b>."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Segredo:</b> Quando um de seus lacaios for atacado, conceda-lhe <b>Escudo Divino</b>."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Секрет:</b> когда ваше существо атакуют, оно получает <b>«Божественный щит»</b>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>กับดัก:</b> เมื่อมินเนี่ยน[b]ตัวใดตัวหนึ่งของคุณถูกโจมตี มอบ <b>โล่ศักดิ์สิทธิ์</b> ให้มัน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>奥秘：</b>当你的随从受到攻击时，使其获得<b>圣盾</b>。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>秘密：</b>當你的手下受到攻擊時，賦予它<b>聖盾術</b>"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Geheimnis:</b> Wenn ein befreundeter Diener angegriffen wird, erhält er <b>Gottesschild</b>.\n\t\t\t<b>Secret:</b> When one of your minions is attacked, give it <b>Divine Shield</b>.\n\t\t\t<b>Secreto:</b>\nCuando uno de tus esbirros\nvaya a recibir un ataque,\nobtiene <b>Escudo divino</b>.\n\t\t\t<b>Secreto:</b> cuando atacan a uno de tus esbirros, le otorga <b>Escudo divino</b>.\n\t\t\t<b>Secret_:</b> quand un de vos serviteurs est attaqué, lui confère <b>Bouclier divin</b>.\n\t\t\t[x]<b>Segreto:</b> quando un\ntuo servitore viene\nattaccato, gli fornisce\n<b>Scudo Divino</b>.\n\t\t\t[x]<b>秘策:</b>\n味方のミニオンが\n攻撃された時\nそのミニオンに<b>聖なる盾</b>\nを付与する。\n\t\t\t<b>비밀:</b> 내 하수인이 공격받으면, 그 하수인에게 <b>천상의_보호막</b>을 부여합니다.\n\t\t\t<b>Sekret:</b> Gdy jeden z_twoich stronników zostanie zaatakowany, daj mu <b>Boską tarczę</b>.\n\t\t\t<b>Segredo:</b> Quando um de seus lacaios for atacado, conceda-lhe <b>Escudo Divino</b>.\n\t\t\t<b>Секрет:</b> когда ваше существо атакуют, оно получает <b>«Божественный щит»</b>.\n\t\t\t<b>กับดัก:</b> เมื่อมินเนี่ยน[b]ตัวใดตัวหนึ่งของคุณถูกโจมตี มอบ <b>โล่ศักดิ์สิทธิ์</b> ให้มัน\n\t\t\t<b>奥秘：</b>当你的随从受到攻击时，使其获得<b>圣盾</b>。\n\t\t\t<b>秘密：</b>當你的手下受到攻擊時，賦予它<b>聖盾術</b>\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Wir nennen sie die „Angstblasenmaschine”."
+          },
+          "enUS": {
+            "present": true,
+            "value": "We call it the bubble machine."
+          },
+          "esES": {
+            "present": true,
+            "value": "La llamamos la máquina de pompas."
+          },
+          "esMX": {
+            "present": true,
+            "value": "La llamamos \"la máquina de burbujas\"."
+          },
+          "frFR": {
+            "present": true,
+            "value": "On appelle ça la machine à bubulles."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Viene amichevolmente chiamata la macchina delle bolle."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "我々はこれを「シャボン玉マシーン」と呼んでいる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "비눗방울 기계라고도 합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zwana również „maszyną do robienia dużych bąbelków”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Os gnomos chamam de \"maquininha de bolha\"."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Также известна как «генератор пузырей»."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เราเรียกมันว่า[b]เครื่องเป่าฟองสบู่"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "我们都叫它泡泡机。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "我們都叫他泡泡機。"
+          }
+        },
+        "textContent": "\n\t\t\tWir nennen sie die „Angstblasenmaschine”.\n\t\t\tWe call it the bubble machine.\n\t\t\tLa llamamos la máquina de pompas.\n\t\t\tLa llamamos \"la máquina de burbujas\".\n\t\t\tOn appelle ça la machine à bubulles.\n\t\t\tViene amichevolmente chiamata la macchina delle bolle.\n\t\t\t我々はこれを「シャボン玉マシーン」と呼んでいる。\n\t\t\t비눗방울 기계라고도 합니다.\n\t\t\tZwana również „maszyną do robienia dużych bąbelków”.\n\t\t\tOs gnomos chamam de \"maquininha de bolha\".\n\t\t\tТакже известна как «генератор пузырей».\n\t\t\tเราเรียกมันว่า[b]เครื่องเป่าฟองสบู่\n\t\t\t我们都叫它泡泡机。\n\t\t\t我們都叫他泡泡機。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Zero"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verteidigungsmatrix"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Autodefense Matrix"
+          },
+          "esES": {
+            "present": true,
+            "value": "Matriz de autodefensa"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Matriz de autodefensa"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Matrice d’autodéfense"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Matrice d'Autodifesa"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "自動防衛マトリクス"
+          },
+          "koKR": {
+            "present": true,
+            "value": "자동 방어 매트릭스"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Matryca samoobronna"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Matriz de Autodefesa"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Защитная матрица"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เมทริกซ์ป้องกันอัตโนมัติ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "自动防御矩阵"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "自動防禦矩陣"
+          }
+        },
+        "textContent": "\n\t\tVerteidigungsmatrix\n\t\tAutodefense Matrix\n\t\tMatriz de autodefensa\n\t\tMatriz de autodefensa\n\t\tMatrice d’autodéfense\n\t\tMatrice d'Autodifesa\n\t\t自動防衛マトリクス\n\t\t자동 방어 매트릭스\n\t\tMatryca samoobronna\n\t\tMatriz de Autodefesa\n\t\tЗащитная матрица\n\t\tเมทริกซ์ป้องกันอัตโนมัติ\n\t\t自动防御矩阵\n\t\t自動防禦矩陣\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Geheimnis:</b> Wenn ein befreundeter Diener angegriffen wird, erhält er <b>Gottesschild</b>."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Secret:</b> When one of your minions is attacked, give it <b>Divine Shield</b>."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Secreto:</b>\nCuando uno de tus esbirros\nvaya a recibir un ataque,\nobtiene <b>Escudo divino</b>."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Secreto:</b> cuando atacan a uno de tus esbirros, le otorga <b>Escudo divino</b>."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Secret_:</b> quand un de vos serviteurs est attaqué, lui confère <b>Bouclier divin</b>."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Segreto:</b> quando un\ntuo servitore viene\nattaccato, gli fornisce\n<b>Scudo Divino</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>秘策:</b>\n味方のミニオンが\n攻撃された時\nそのミニオンに<b>聖なる盾</b>\nを付与する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>비밀:</b> 내 하수인이 공격받으면, 그 하수인에게 <b>천상의_보호막</b>을 부여합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Sekret:</b> Gdy jeden z_twoich stronników zostanie zaatakowany, daj mu <b>Boską tarczę</b>."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Segredo:</b> Quando um de seus lacaios for atacado, conceda-lhe <b>Escudo Divino</b>."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Секрет:</b> когда ваше существо атакуют, оно получает <b>«Божественный щит»</b>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>กับดัก:</b> เมื่อมินเนี่ยนตัวใด[b]ตัวหนึ่งของคุณถูกโจมตี_ _มอบ <b>โล่ศักดิ์สิทธิ์</b> ให้มัน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>奥秘：</b>当你的随从受到攻击时，使其获得<b>圣盾</b>。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>秘密：</b>當你的手下受到攻擊時，賦予它<b>聖盾術</b>"
+          }
+        },
+        "textContent": "\n\t\t<b>Geheimnis:</b> Wenn ein befreundeter Diener angegriffen wird, erhält er <b>Gottesschild</b>.\n\t\t<b>Secret:</b> When one of your minions is attacked, give it <b>Divine Shield</b>.\n\t\t<b>Secreto:</b>\nCuando uno de tus esbirros\nvaya a recibir un ataque,\nobtiene <b>Escudo divino</b>.\n\t\t<b>Secreto:</b> cuando atacan a uno de tus esbirros, le otorga <b>Escudo divino</b>.\n\t\t<b>Secret_:</b> quand un de vos serviteurs est attaqué, lui confère <b>Bouclier divin</b>.\n\t\t[x]<b>Segreto:</b> quando un\ntuo servitore viene\nattaccato, gli fornisce\n<b>Scudo Divino</b>.\n\t\t[x]<b>秘策:</b>\n味方のミニオンが\n攻撃された時\nそのミニオンに<b>聖なる盾</b>\nを付与する。\n\t\t<b>비밀:</b> 내 하수인이 공격받으면, 그 하수인에게 <b>천상의_보호막</b>을 부여합니다.\n\t\t<b>Sekret:</b> Gdy jeden z_twoich stronników zostanie zaatakowany, daj mu <b>Boską tarczę</b>.\n\t\t<b>Segredo:</b> Quando um de seus lacaios for atacado, conceda-lhe <b>Escudo Divino</b>.\n\t\t<b>Секрет:</b> когда ваше существо атакуют, оно получает <b>«Божественный щит»</b>.\n\t\t<b>กับดัก:</b> เมื่อมินเนี่ยนตัวใด[b]ตัวหนึ่งของคุณถูกโจมตี_ _มอบ <b>โล่ศักดิ์สิทธิ์</b> ให้มัน\n\t\t<b>奥秘：</b>当你的随从受到攻击时，使其获得<b>圣盾</b>。\n\t\t<b>秘密：</b>當你的手下受到攻擊時，賦予它<b>聖盾術</b>\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Wir nennen sie die „Angstblasenmaschine”."
+          },
+          "enUS": {
+            "present": true,
+            "value": "We call it the bubble machine."
+          },
+          "esES": {
+            "present": true,
+            "value": "La llamamos la máquina de pompas."
+          },
+          "esMX": {
+            "present": true,
+            "value": "La llamamos \"la máquina de burbujas\"."
+          },
+          "frFR": {
+            "present": true,
+            "value": "On appelle ça la machine à bubulles."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Viene amichevolmente chiamata la macchina delle bolle."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "我々はこれを「シャボン玉マシーン」と呼んでいる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "비눗방울 기계라고도 합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Zwana również „maszyną do robienia dużych bąbelków”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Os gnomos chamam de \"maquininha de bolha\"."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Также известна как «генератор пузырей»."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เราเรียกมันว่า[b]เครื่องเป่าฟองสบู่"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "我们都叫它泡泡机。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "我們都叫他泡泡機。"
+          }
+        },
+        "textContent": "\n\t\tWir nennen sie die „Angstblasenmaschine”.\n\t\tWe call it the bubble machine.\n\t\tLa llamamos la máquina de pompas.\n\t\tLa llamamos \"la máquina de burbujas\".\n\t\tOn appelle ça la machine à bubulles.\n\t\tViene amichevolmente chiamata la macchina delle bolle.\n\t\t我々はこれを「シャボン玉マシーン」と呼んでいる。\n\t\t비눗방울 기계라고도 합니다.\n\t\tZwana również „maszyną do robienia dużych bąbelków”.\n\t\tOs gnomos chamam de \"maquininha de bolha\".\n\t\tТакже известна как «генератор пузырей».\n\t\tเราเรียกมันว่า[b]เครื่องเป่าฟองสบู่\n\t\t我们都叫它泡泡机。\n\t\t我們都叫他泡泡機。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Zero"
+      }
     }
   },
   "_current": {

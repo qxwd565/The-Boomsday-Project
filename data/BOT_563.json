@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Robokraftprotz"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Wargear"
+          },
+          "esES": {
+            "present": true,
+            "value": "Engranaje bélico"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Mecanismo bélico"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Engin de guerre"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Automa da Guerra"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ウォーギア"
+          },
+          "koKR": {
+            "present": true,
+            "value": "전투 기계"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Maszyna bojowa"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Traje de Guerra"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Боекостюм"
+          },
+          "thTH": {
+            "present": true,
+            "value": "วอร์เกียร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "战争机兵"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "戰爭機兵"
+          }
+        },
+        "textContent": "\n\t\t\tRobokraftprotz\n\t\t\tWargear\n\t\t\tEngranaje bélico\n\t\t\tMecanismo bélico\n\t\t\tEngin de guerre\n\t\t\tAutoma da Guerra\n\t\t\tウォーギア\n\t\t\t전투 기계\n\t\t\tMaszyna bojowa\n\t\t\tTraje de Guerra\n\t\t\tБоекостюм\n\t\t\tวอร์เกียร์\n\t\t\t战争机兵\n\t\t\t戰爭機兵\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Magnetisch</b>"
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Magnetic</b>"
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Magnetismo</b>"
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Magnetismo</b>"
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Magnétisme</b>"
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>Magnetismo</b>"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>超電磁</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>합체</b>"
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Magnetyzm</b>"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Magnético</b>"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Магнетизм</b>"
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>แม่เหล็ก</b>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>磁力</b>"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>合體</b>"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Magnetisch</b>\n\t\t\t<b>Magnetic</b>\n\t\t\t<b>Magnetismo</b>\n\t\t\t<b>Magnetismo</b>\n\t\t\t<b>Magnétisme</b>\n\t\t\t<b>Magnetismo</b>\n\t\t\t<b>超電磁</b>\n\t\t\t<b>합체</b>\n\t\t\t<b>Magnetyzm</b>\n\t\t\t<b>Magnético</b>\n\t\t\t<b>Магнетизм</b>\n\t\t\t<b>แม่เหล็ก</b>\n\t\t\t<b>磁力</b>\n\t\t\t<b>合體</b>\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Kandidat für die Wahl zum Mister Roboversum. Wenn er gewinnt, wird es vielleicht was mit der Schauspielkarriere und später mit der Politik."
+          },
+          "enUS": {
+            "present": true,
+            "value": "WAR! GEAR! What is it good for?"
+          },
+          "esES": {
+            "present": true,
+            "value": "Un imán para atraer problemas."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Si no puede haber paz en el mundo… entonces que haya una buena máquina de guerra."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Leur guerre, notre monde."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Che guerra sia!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "不運にも踏み潰された研究員の悲鳴から名付けられた。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "그래서 프로토콜 7이 대체 뭘까요?"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Nikt nie wie, że w głębi metalowego serca jest pacyfistą."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Convidados com outro tipo de traje não poderão entrar."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Лаванда и боекостюм\nИзбавят от тревожных дум!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "สงครามไม่เคยเปลี่ยน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "AMANI NAKUPENDA NAKUPENDA WE WE"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "對戰五回合之後開始合體。"
+          }
+        },
+        "textContent": "\n\t\t\tKandidat für die Wahl zum Mister Roboversum. Wenn er gewinnt, wird es vielleicht was mit der Schauspielkarriere und später mit der Politik.\n\t\t\tWAR! GEAR! What is it good for?\n\t\t\tUn imán para atraer problemas.\n\t\t\tSi no puede haber paz en el mundo… entonces que haya una buena máquina de guerra.\n\t\t\tLeur guerre, notre monde.\n\t\t\tChe guerra sia!\n\t\t\t不運にも踏み潰された研究員の悲鳴から名付けられた。\n\t\t\t그래서 프로토콜 7이 대체 뭘까요?\n\t\t\tNikt nie wie, że w głębi metalowego serca jest pacyfistą.\n\t\t\tConvidados com outro tipo de traje não poderão entrar.\n\t\t\tЛаванда и боекостюм\nИзбавят от тревожных дум!\n\t\t\tสงครามไม่เคยเปลี่ยน\n\t\t\tAMANI NAKUPENDA NAKUPENDA WE WE\n\t\t\t對戰五回合之後開始合體。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Dave Allsop"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Robokraftprotz"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Wargear"
+          },
+          "esES": {
+            "present": true,
+            "value": "Engranaje bélico"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Mecanismo bélico"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Engin de guerre"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Automa da Guerra"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ウォーギア"
+          },
+          "koKR": {
+            "present": true,
+            "value": "전투 기계"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Maszyna bojowa"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Traje de Guerra"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Боекостюм"
+          },
+          "thTH": {
+            "present": true,
+            "value": "วอร์เกียร์"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "战争机兵"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "戰爭機兵"
+          }
+        },
+        "textContent": "\n\t\tRobokraftprotz\n\t\tWargear\n\t\tEngranaje bélico\n\t\tMecanismo bélico\n\t\tEngin de guerre\n\t\tAutoma da Guerra\n\t\tウォーギア\n\t\t전투 기계\n\t\tMaszyna bojowa\n\t\tTraje de Guerra\n\t\tБоекостюм\n\t\tวอร์เกียร์\n\t\t战争机兵\n\t\t戰爭機兵\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Magnetisch</b>"
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Magnetic</b>"
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Magnetismo</b>"
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Magnetismo</b>"
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Magnétisme</b>"
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>Magnetismo</b>"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>超電磁</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>합체</b>"
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Magnetyzm</b>"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Magnético</b>"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Магнетизм</b>"
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>แม่เหล็ก</b>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>磁力</b>"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>合體</b>"
+          }
+        },
+        "textContent": "\n\t\t<b>Magnetisch</b>\n\t\t<b>Magnetic</b>\n\t\t<b>Magnetismo</b>\n\t\t<b>Magnetismo</b>\n\t\t<b>Magnétisme</b>\n\t\t<b>Magnetismo</b>\n\t\t<b>超電磁</b>\n\t\t<b>합체</b>\n\t\t<b>Magnetyzm</b>\n\t\t<b>Magnético</b>\n\t\t<b>Магнетизм</b>\n\t\t<b>แม่เหล็ก</b>\n\t\t<b>磁力</b>\n\t\t<b>合體</b>\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Kandidat für die Wahl zum Mister Roboversum. Wenn er gewinnt, wird es vielleicht was mit der Schauspielkarriere und später mit der Politik."
+          },
+          "enUS": {
+            "present": true,
+            "value": "WAR! GEAR! What is it good for?"
+          },
+          "esES": {
+            "present": true,
+            "value": "Un imán para atraer problemas."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Si no puede haber paz en el mundo… entonces que haya una buena máquina de guerra."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Leur guerre, notre monde."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Che guerra sia!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "不運にも踏み潰された研究員の悲鳴から名付けられた。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "그래서 프로토콜 7이 대체 뭘까요?"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Nikt nie wie, że w głębi metalowego serca jest pacyfistą."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Convidados com outro tipo de traje não poderão entrar."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Лаванда и боекостюм\nИзбавят от тревожных дум!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "สงครามไม่เคยเปลี่ยน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "AMANI NAKUPENDA NAKUPENDA WE WE"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "對戰五回合之後開始合體。"
+          }
+        },
+        "textContent": "\n\t\tKandidat für die Wahl zum Mister Roboversum. Wenn er gewinnt, wird es vielleicht was mit der Schauspielkarriere und später mit der Politik.\n\t\tWAR! GEAR! What is it good for?\n\t\tUn imán para atraer problemas.\n\t\tSi no puede haber paz en el mundo… entonces que haya una buena máquina de guerra.\n\t\tLeur guerre, notre monde.\n\t\tChe guerra sia!\n\t\t不運にも踏み潰された研究員の悲鳴から名付けられた。\n\t\t그래서 프로토콜 7이 대체 뭘까요?\n\t\tNikt nie wie, że w głębi metalowego serca jest pacyfistą.\n\t\tConvidados com outro tipo de traje não poderão entrar.\n\t\tЛаванда и боекостюм\nИзбавят от тревожных дум!\n\t\tสงครามไม่เคยเปลี่ยน\n\t\tAMANI NAKUPENDA NAKUPENDA WE WE\n\t\t對戰五回合之後開始合體。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Dave Allsop"
+      }
     }
   },
   "_current": {

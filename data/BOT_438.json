@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Cybertechchip"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Cybertech Chip"
+          },
+          "esES": {
+            "present": true,
+            "value": "Chip cibertecnológico"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Chip cibernético"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Puce cybertech"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Processore Cibernetico"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "サイバーチップ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "사이버공학 칩"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Cyberwszczepka"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Implante Cibernético"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Киберчип"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ชิปไซเบอร์เทค"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "机核芯片"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "機械改造晶片"
+          }
+        },
+        "textContent": "\n\t\t\tCybertechchip\n\t\t\tCybertech Chip\n\t\t\tChip cibertecnológico\n\t\t\tChip cibernético\n\t\t\tPuce cybertech\n\t\t\tProcessore Cibernetico\n\t\t\tサイバーチップ\n\t\t\t사이버공학 칩\n\t\t\tCyberwszczepka\n\t\t\tImplante Cibernético\n\t\t\tКиберчип\n\t\t\tชิปไซเบอร์เทค\n\t\t\t机核芯片\n\t\t\t機械改造晶片\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verleiht Euren Dienern „<b>Todesröcheln:</b> Erhaltet einen zufälligen Mech auf die Hand“."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Give your minions \"<b>Deathrattle:</b> Add a random Mech to your_hand.\""
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Otorga a tus esbirros\n«<b>Último aliento:</b> Añade\nun robot aleatorio\na tu mano»."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Tus esbirros obtienen \"<b>Estertor:</b> agrega un Meca aleatorio a tu mano\"."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Confère à vos serviteurs «_<b>Râle d’agonie_:</b> ajoute une carte Méca aléatoire dans votre main._»"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Fornisce \"<b>Rantolo di Morte:</b> mette nella tua mano un Robot casuale\" ai tuoi servitori."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]味方のミニオン全てに\n「<b>断末魔:</b> ランダムな\nメカ1体を自分の手札に\n追加する」を付与する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 하수인들에게 \"<b>죽음의 메아리:</b> 무작위 기계 카드 1장을 내 손으로 가져옴\" 능력을 부여합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Daj twoim stronnikom opis „<b>Agonia:</b> Dodaj losowego Mecha do twojej ręki”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Conceda aos seus lacaios \"<b>Último Suspiro:</b> Adicione um Mecanoide aleatório à sua mão\"."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Ваши существа получают «<b>Предсмертный хрип:</b> вы_кладете в руку случайный механизм»."
+          },
+          "thTH": {
+            "present": true,
+            "value": "มอบ \"<b>เสียงสุดท้าย:</b> สุ่มเพิ่มการ์ดเครื่องจักร[b]หนึ่งใบในมือคุณ\" ให้มินเนี่ยนทั้งหมดของคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "使你的所有随从获得\n“<b>亡语：</b>随机将一张机械牌置入你的手牌”。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "賦予你的手下\n<i><b>死亡之聲：</b>放一個\n隨機機械到你手中</i>"
+          }
+        },
+        "textContent": "\n\t\t\tVerleiht Euren Dienern „<b>Todesröcheln:</b> Erhaltet einen zufälligen Mech auf die Hand“.\n\t\t\tGive your minions \"<b>Deathrattle:</b> Add a random Mech to your_hand.\"\n\t\t\t[x]Otorga a tus esbirros\n«<b>Último aliento:</b> Añade\nun robot aleatorio\na tu mano».\n\t\t\tTus esbirros obtienen \"<b>Estertor:</b> agrega un Meca aleatorio a tu mano\".\n\t\t\tConfère à vos serviteurs «_<b>Râle d’agonie_:</b> ajoute une carte Méca aléatoire dans votre main._»\n\t\t\tFornisce \"<b>Rantolo di Morte:</b> mette nella tua mano un Robot casuale\" ai tuoi servitori.\n\t\t\t[x]味方のミニオン全てに\n「<b>断末魔:</b> ランダムな\nメカ1体を自分の手札に\n追加する」を付与する。\n\t\t\t내 하수인들에게 \"<b>죽음의 메아리:</b> 무작위 기계 카드 1장을 내 손으로 가져옴\" 능력을 부여합니다.\n\t\t\tDaj twoim stronnikom opis „<b>Agonia:</b> Dodaj losowego Mecha do twojej ręki”.\n\t\t\tConceda aos seus lacaios \"<b>Último Suspiro:</b> Adicione um Mecanoide aleatório à sua mão\".\n\t\t\tВаши существа получают «<b>Предсмертный хрип:</b> вы_кладете в руку случайный механизм».\n\t\t\tมอบ \"<b>เสียงสุดท้าย:</b> สุ่มเพิ่มการ์ดเครื่องจักร[b]หนึ่งใบในมือคุณ\" ให้มินเนี่ยนทั้งหมดของคุณ\n\t\t\t使你的所有随从获得\n“<b>亡语：</b>随机将一张机械牌置入你的手牌”。\n\t\t\t賦予你的手下\n<i><b>死亡之聲：</b>放一個\n隨機機械到你手中</i>\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Tatsächlich gab es angesichts dieser Praktik ethische Bedenken unter Dr. Bumms Mitarbeitern. Viele fanden dieses Vorgehen nicht böse genug."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Goes great with Cyber-Salsa."
+          },
+          "esES": {
+            "present": true,
+            "value": "Lo iban a llamar «prodigioso», pero el nombre ya estaba cogido."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Combinación de naturaleza y tecnología en su peor versión."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Dans ce labo, on met une puce à tous les serviteurs pour éviter les abandons."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Adora le insalate di matematica."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "サイバーフィッシュと一緒にどうぞ。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "사이버공학 소스도 곁들여 드세요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Oto efekt naszego najnowszego eksperymentu: cyberwieprz!”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Sim, basta um implante para gerar um mecanoide."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Продается в комплекте с тремя киберсоусами."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เข้ากับไซเบอร์ซัลซา[b]ได้เป็นอย่างดี"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "不好的一点就是——去哪都会被人知道。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "最新的高科技寵物晶片！在你的寵物走失的時候給你一個機械替代品。"
+          }
+        },
+        "textContent": "\n\t\t\tTatsächlich gab es angesichts dieser Praktik ethische Bedenken unter Dr. Bumms Mitarbeitern. Viele fanden dieses Vorgehen nicht böse genug.\n\t\t\tGoes great with Cyber-Salsa.\n\t\t\tLo iban a llamar «prodigioso», pero el nombre ya estaba cogido.\n\t\t\tCombinación de naturaleza y tecnología en su peor versión.\n\t\t\tDans ce labo, on met une puce à tous les serviteurs pour éviter les abandons.\n\t\t\tAdora le insalate di matematica.\n\t\t\tサイバーフィッシュと一緒にどうぞ。\n\t\t\t사이버공학 소스도 곁들여 드세요.\n\t\t\t„Oto efekt naszego najnowszego eksperymentu: cyberwieprz!”.\n\t\t\tSim, basta um implante para gerar um mecanoide.\n\t\t\tПродается в комплекте с тремя киберсоусами.\n\t\t\tเข้ากับไซเบอร์ซัลซา[b]ได้เป็นอย่างดี\n\t\t\t不好的一点就是——去哪都会被人知道。\n\t\t\t最新的高科技寵物晶片！在你的寵物走失的時候給你一個機械替代品。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Garrett Hanna"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Cybertechchip"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Cybertech Chip"
+          },
+          "esES": {
+            "present": true,
+            "value": "Chip cibertecnológico"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Chip cibernético"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Puce cybertech"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Processore Cibernetico"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "サイバーチップ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "사이버공학 칩"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Cyberwszczepka"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Implante Cibernético"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Киберчип"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ชิปไซเบอร์เทค"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "机核芯片"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "機械改造晶片"
+          }
+        },
+        "textContent": "\n\t\tCybertechchip\n\t\tCybertech Chip\n\t\tChip cibertecnológico\n\t\tChip cibernético\n\t\tPuce cybertech\n\t\tProcessore Cibernetico\n\t\tサイバーチップ\n\t\t사이버공학 칩\n\t\tCyberwszczepka\n\t\tImplante Cibernético\n\t\tКиберчип\n\t\tชิปไซเบอร์เทค\n\t\t机核芯片\n\t\t機械改造晶片\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verleiht Euren Dienern „<b>Todesröcheln:</b> Erhaltet einen zufälligen Mech auf die Hand“."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Give your minions \"<b>Deathrattle:</b> Add a random Mech to your_hand.\""
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Otorga a tus esbirros\n«<b>Último aliento:</b> Añade\nun robot aleatorio\na tu mano»."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Tus esbirros obtienen \"<b>Estertor:</b> agrega un Meca aleatorio a tu mano\"."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Confère à vos serviteurs «_<b>Râle d’agonie_:</b> ajoute une carte Méca aléatoire dans votre main._»"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Fornisce \"<b>Rantolo di Morte:</b> mette nella tua mano un Robot casuale\" ai tuoi servitori."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]味方のミニオン全てに\n「<b>断末魔:</b> ランダムな\nメカ1体を自分の手札に\n追加する」を付与する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 하수인들에게 \"<b>죽음의_메아리:</b> 무작위 기계를 내 손으로 가져옴\" 능력을 부여합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Daj twoim stronnikom opis „<b>Agonia:</b> Dodaj losowego Mecha do twojej ręki”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Conceda aos seus lacaios \"<b>Último Suspiro:</b> Adicione um Mecanoide aleatório à sua mão\"."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Ваши существа получают «<b>Предсмертный хрип:</b> вы_кладете в руку случайный механизм»."
+          },
+          "thTH": {
+            "present": true,
+            "value": "มอบ_\"<b>เสียงสุดท้าย:</b> สุ่มเพิ่ม[b]เครื่องจักรหนึ่งใบในมือคุณ\" ให้มินเนี่ยนของคุณทั้งหมด"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "使你的所有随从获得\n“<b>亡语：</b>随机将一张机械牌置入你的手牌”。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "賦予你的手下\n<i><b>死亡之聲：</b>放一個\n隨機機械到你手中</i>"
+          }
+        },
+        "textContent": "\n\t\tVerleiht Euren Dienern „<b>Todesröcheln:</b> Erhaltet einen zufälligen Mech auf die Hand“.\n\t\tGive your minions \"<b>Deathrattle:</b> Add a random Mech to your_hand.\"\n\t\t[x]Otorga a tus esbirros\n«<b>Último aliento:</b> Añade\nun robot aleatorio\na tu mano».\n\t\tTus esbirros obtienen \"<b>Estertor:</b> agrega un Meca aleatorio a tu mano\".\n\t\tConfère à vos serviteurs «_<b>Râle d’agonie_:</b> ajoute une carte Méca aléatoire dans votre main._»\n\t\tFornisce \"<b>Rantolo di Morte:</b> mette nella tua mano un Robot casuale\" ai tuoi servitori.\n\t\t[x]味方のミニオン全てに\n「<b>断末魔:</b> ランダムな\nメカ1体を自分の手札に\n追加する」を付与する。\n\t\t내 하수인들에게 \"<b>죽음의_메아리:</b> 무작위 기계를 내 손으로 가져옴\" 능력을 부여합니다.\n\t\tDaj twoim stronnikom opis „<b>Agonia:</b> Dodaj losowego Mecha do twojej ręki”.\n\t\tConceda aos seus lacaios \"<b>Último Suspiro:</b> Adicione um Mecanoide aleatório à sua mão\".\n\t\tВаши существа получают «<b>Предсмертный хрип:</b> вы_кладете в руку случайный механизм».\n\t\tมอบ_\"<b>เสียงสุดท้าย:</b> สุ่มเพิ่ม[b]เครื่องจักรหนึ่งใบในมือคุณ\" ให้มินเนี่ยนของคุณทั้งหมด\n\t\t使你的所有随从获得\n“<b>亡语：</b>随机将一张机械牌置入你的手牌”。\n\t\t賦予你的手下\n<i><b>死亡之聲：</b>放一個\n隨機機械到你手中</i>\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Tatsächlich gab es angesichts dieser Praktik ethische Bedenken unter Dr. Bumms Mitarbeitern. Viele fanden dieses Vorgehen nicht böse genug."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Goes great with Cyber-Salsa."
+          },
+          "esES": {
+            "present": true,
+            "value": "Lo iban a llamar «prodigioso», pero el nombre ya estaba cogido."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Combinación de naturaleza y tecnología en su peor versión."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Dans ce labo, on met une puce à tous les serviteurs pour éviter les abandons."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Adora le insalate di matematica."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "サイバーフィッシュと一緒にどうぞ。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "사이버공학 소스도 곁들여 드세요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Oto efekt naszego najnowszego eksperymentu: cyberwieprz!”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Sim, basta um implante para gerar um mecanoide."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Продается в комплекте с тремя киберсоусами."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เข้ากับไซเบอร์ซัลซา[b]ได้เป็นอย่างดี"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "不好的一点就是——去哪都会被人知道。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "最新的高科技寵物晶片！在你的寵物走失的時候給你一個機械替代品。"
+          }
+        },
+        "textContent": "\n\t\tTatsächlich gab es angesichts dieser Praktik ethische Bedenken unter Dr. Bumms Mitarbeitern. Viele fanden dieses Vorgehen nicht böse genug.\n\t\tGoes great with Cyber-Salsa.\n\t\tLo iban a llamar «prodigioso», pero el nombre ya estaba cogido.\n\t\tCombinación de naturaleza y tecnología en su peor versión.\n\t\tDans ce labo, on met une puce à tous les serviteurs pour éviter les abandons.\n\t\tAdora le insalate di matematica.\n\t\tサイバーフィッシュと一緒にどうぞ。\n\t\t사이버공학 소스도 곁들여 드세요.\n\t\t„Oto efekt naszego najnowszego eksperymentu: cyberwieprz!”.\n\t\tSim, basta um implante para gerar um mecanoide.\n\t\tПродается в комплекте с тремя киберсоусами.\n\t\tเข้ากับไซเบอร์ซัลซา[b]ได้เป็นอย่างดี\n\t\t不好的一点就是——去哪都会被人知道。\n\t\t最新的高科技寵物晶片！在你的寵物走失的時候給你一個機械替代品。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Garrett Hanna"
+      }
     }
   },
   "_current": {

@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Heroldin Celestia"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Harbinger Celestia"
+          },
+          "esES": {
+            "present": true,
+            "value": "Presagista Celestia"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Presagista Celestia"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Messagère Célestia"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Araldo Celestia"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "先遣者セレスティア"
+          },
+          "koKR": {
+            "present": true,
+            "value": "선구자 셀레스티아"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Głosicielka Celestia"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Precursora Celéstia"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Предвестница Селестия"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ฮาร์บินเจอร์เซเลสเทีย"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "星界使者塞雷西亚"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "星穹使者塞蕾西亞"
+          }
+        },
+        "textContent": "\n\t\t\tHeroldin Celestia\n\t\t\tHarbinger Celestia\n\t\t\tPresagista Celestia\n\t\t\tPresagista Celestia\n\t\t\tMessagère Célestia\n\t\t\tAraldo Celestia\n\t\t\t先遣者セレスティア\n\t\t\t선구자 셀레스티아\n\t\t\tGłosicielka Celestia\n\t\t\tPrecursora Celéstia\n\t\t\tПредвестница Селестия\n\t\t\tฮาร์บินเจอร์เซเลสเทีย\n\t\t\t星界使者塞雷西亚\n\t\t\t星穹使者塞蕾西亞\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Verstohlenheit</b>. Nachdem Euer Gegner einen Diener ausgespielt hat, verwandelt sich dieser Diener in eine Kopie davon."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Stealth</b>\nAfter your opponent plays\na minion, become a\ncopy of it."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Sigilo</b>. Después de que tu\noponente juegue un esbirro,\nse convierte en una\ncopia de ese esbirro."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Sigilo</b>\nDespués de que tu adversario juega un esbirro, se convierte en una copia de él."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Camouflage</b>\nUne fois que votre adversaire a joué un serviteur, en devient la copie."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Furtività</b>. Dopo\nche l'avversario ha\ngiocato un servitore,\nne diventa una copia."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>隠れ身</b>\n相手がミニオンを\n手札から使用した後\nそのミニオンの\n_コピーになる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>은신</b>, 상대편이 하수인을 낸 후에, 그 하수인으로 변신합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Ukrycie</b>\nGdy twój przeciwnik\nzagra stronnika,\nstanie się jego kopią."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Furtividade</b>\nDepois que seu oponente jogar um lacaio, torne-se uma cópia dele."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]<b>Маскировка</b>. После того как\nпротивник разыгрывает\nсущество, превращается\nв его копию."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>ซ่อนตัว</b> หลังจากคู่ต่อสู้[b]เล่นมินเนี่ยน เปลี่ยนมินเนี่ยน[b]ตัวนี้เป็นร่างก๊อปปี้ของมัน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>潜行</b>\n在你的对手使用一张随从牌后，变成该随从的复制。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>潛行</b>\n在對手打出手下後，變成它的分身"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Verstohlenheit</b>. Nachdem Euer Gegner einen Diener ausgespielt hat, verwandelt sich dieser Diener in eine Kopie davon.\n\t\t\t[x]<b>Stealth</b>\nAfter your opponent plays\na minion, become a\ncopy of it.\n\t\t\t[x]<b>Sigilo</b>. Después de que tu\noponente juegue un esbirro,\nse convierte en una\ncopia de ese esbirro.\n\t\t\t<b>Sigilo</b>\nDespués de que tu adversario juega un esbirro, se convierte en una copia de él.\n\t\t\t<b>Camouflage</b>\nUne fois que votre adversaire a joué un serviteur, en devient la copie.\n\t\t\t[x]<b>Furtività</b>. Dopo\nche l'avversario ha\ngiocato un servitore,\nne diventa una copia.\n\t\t\t[x]<b>隠れ身</b>\n相手がミニオンを\n手札から使用した後\nそのミニオンの\n_コピーになる。\n\t\t\t<b>은신</b>, 상대편이 하수인을 낸 후에, 그 하수인으로 변신합니다.\n\t\t\t<b>Ukrycie</b>\nGdy twój przeciwnik\nzagra stronnika,\nstanie się jego kopią.\n\t\t\t<b>Furtividade</b>\nDepois que seu oponente jogar um lacaio, torne-se uma cópia dele.\n\t\t\t[x]<b>Маскировка</b>. После того как\nпротивник разыгрывает\nсущество, превращается\nв его копию.\n\t\t\t<b>ซ่อนตัว</b> หลังจากคู่ต่อสู้[b]เล่นมินเนี่ยน เปลี่ยนมินเนี่ยน[b]ตัวนี้เป็นร่างก๊อปปี้ของมัน\n\t\t\t<b>潜行</b>\n在你的对手使用一张随从牌后，变成该随从的复制。\n\t\t\t<b>潛行</b>\n在對手打出手下後，變成它的分身\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Sie durchstreift die Dimensionen und nimmt viele Formen an. Einmal war sie sogar eine Einhornprinzessin."
+          },
+          "enUS": {
+            "present": true,
+            "value": "She wanders realities, taking on many forms. One was a unicorn princess."
+          },
+          "esES": {
+            "present": true,
+            "value": "Vaga entre realidades y adopta muchas formas. Una vez fue una princesa unicornio."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Deambula por distintas realidades, donde asume varias formas. En una era una princesa unicornio."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Elle voyage entre les réalités sous diverses formes. Une fois, elle s’est même transformée en licorne."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Vaga per le realtà, cambiando forma. Una volta è stata una principessa unicorno."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "彼女はいくつもの現実をさまよい、様々な形をとってきた。ユニコーンのプリンセスだったこともある。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "여러 현실들을 넘나들며 다양한 형체를 갖추었습니다. 한 번은 유니콘 공주였던 적도 있었죠."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Wędruje między światami, przybierając różne postaci. Jedną z nich był uroczy jednorożec."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Ela vaga pelas realidades assumindo muitas formas. Uma delas era uma princesa-unicórnio."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Она скиталась по бесчисленным мирам и сменила множество обликов. Была, например, принцессой единорогов."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เธอท่องไปในมิติแห่งความเป็นจริง และเปลี่ยนรูปร่างไปเรื่อยๆ ร่างหนึ่งคือเจ้าหญิงยูนิคอร์น"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "塞雷西亚常幻化成各种形态游荡于世间。上一次她变成了闪光的骏马。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "她以不同的形態，在不同的現實間遊走。其中一個型態是獨角獸公主。"
+          }
+        },
+        "textContent": "\n\t\t\tSie durchstreift die Dimensionen und nimmt viele Formen an. Einmal war sie sogar eine Einhornprinzessin.\n\t\t\tShe wanders realities, taking on many forms. One was a unicorn princess.\n\t\t\tVaga entre realidades y adopta muchas formas. Una vez fue una princesa unicornio.\n\t\t\tDeambula por distintas realidades, donde asume varias formas. En una era una princesa unicornio.\n\t\t\tElle voyage entre les réalités sous diverses formes. Une fois, elle s’est même transformée en licorne.\n\t\t\tVaga per le realtà, cambiando forma. Una volta è stata una principessa unicorno.\n\t\t\t彼女はいくつもの現実をさまよい、様々な形をとってきた。ユニコーンのプリンセスだったこともある。\n\t\t\t여러 현실들을 넘나들며 다양한 형체를 갖추었습니다. 한 번은 유니콘 공주였던 적도 있었죠.\n\t\t\tWędruje między światami, przybierając różne postaci. Jedną z nich był uroczy jednorożec.\n\t\t\tEla vaga pelas realidades assumindo muitas formas. Uma delas era uma princesa-unicórnio.\n\t\t\tОна скиталась по бесчисленным мирам и сменила множество обликов. Была, например, принцессой единорогов.\n\t\t\tเธอท่องไปในมิติแห่งความเป็นจริง และเปลี่ยนรูปร่างไปเรื่อยๆ ร่างหนึ่งคือเจ้าหญิงยูนิคอร์น\n\t\t\t塞雷西亚常幻化成各种形态游荡于世间。上一次她变成了闪光的骏马。\n\t\t\t她以不同的形態，在不同的現實間遊走。其中一個型態是獨角獸公主。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Konstantin Turovec"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Heroldin Celestia"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Harbinger Celestia"
+          },
+          "esES": {
+            "present": true,
+            "value": "Presagista Celestia"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Presagista Celestia"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Messagère Célestia"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Araldo Celestia"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "先遣者セレスティア"
+          },
+          "koKR": {
+            "present": true,
+            "value": "선구자 셀레스티아"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Głosicielka Celestia"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Precursora Celéstia"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Предвестница Селестия"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ฮาร์บินเจอร์เซเลสเทีย"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "星界使者塞雷西亚"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "星穹使者塞蕾西亞"
+          }
+        },
+        "textContent": "\n\t\tHeroldin Celestia\n\t\tHarbinger Celestia\n\t\tPresagista Celestia\n\t\tPresagista Celestia\n\t\tMessagère Célestia\n\t\tAraldo Celestia\n\t\t先遣者セレスティア\n\t\t선구자 셀레스티아\n\t\tGłosicielka Celestia\n\t\tPrecursora Celéstia\n\t\tПредвестница Селестия\n\t\tฮาร์บินเจอร์เซเลสเทีย\n\t\t星界使者塞雷西亚\n\t\t星穹使者塞蕾西亞\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Verstohlenheit</b>. Nachdem Euer Gegner einen Diener ausgespielt hat, verwandelt sich dieser Diener in eine Kopie davon."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Stealth</b>\nAfter your opponent plays\na minion, become a\ncopy of it."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Sigilo</b>. Después de que tu\noponente juegue un esbirro,\nse convierte en una\ncopia de ese esbirro."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Sigilo</b>\nDespués de que tu adversario juega un esbirro, se convierte en una copia de él."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Camouflage</b>\nUne fois que votre adversaire a joué un serviteur, en devient la copie."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Furtività</b>. Dopo\nche l'avversario ha\ngiocato un servitore,\nne diventa una copia."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>隠れ身</b>\n相手がミニオンを\n手札から使用した後\nそのミニオンの\n_コピーになる。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>은신</b>, 상대편이 하수인을 낸 후에, 그 하수인으로 변신합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Ukrycie</b>\nGdy twój przeciwnik\nzagra stronnika,\nstanie się jego kopią."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Furtividade</b>\nDepois que seu oponente jogar um lacaio, torne-se uma cópia dele."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]<b>Маскировка</b>. После того как\nпротивник разыгрывает\nсущество, превращается\nв его копию."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>ซ่อนตัว</b> หลังจากคู่ต่อสู้[b]เล่นมินเนี่ยน เปลี่ยนมินเนี่ยน[b]ตัวนี้เป็นร่างก๊อปปี้ของมัน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>潜行</b>\n在你的对手使用一张随从牌后，变成它的复制。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>潛行</b>\n在對手打出手下後，變成它的分身"
+          }
+        },
+        "textContent": "\n\t\t<b>Verstohlenheit</b>. Nachdem Euer Gegner einen Diener ausgespielt hat, verwandelt sich dieser Diener in eine Kopie davon.\n\t\t[x]<b>Stealth</b>\nAfter your opponent plays\na minion, become a\ncopy of it.\n\t\t[x]<b>Sigilo</b>. Después de que tu\noponente juegue un esbirro,\nse convierte en una\ncopia de ese esbirro.\n\t\t<b>Sigilo</b>\nDespués de que tu adversario juega un esbirro, se convierte en una copia de él.\n\t\t<b>Camouflage</b>\nUne fois que votre adversaire a joué un serviteur, en devient la copie.\n\t\t[x]<b>Furtività</b>. Dopo\nche l'avversario ha\ngiocato un servitore,\nne diventa una copia.\n\t\t[x]<b>隠れ身</b>\n相手がミニオンを\n手札から使用した後\nそのミニオンの\n_コピーになる。\n\t\t<b>은신</b>, 상대편이 하수인을 낸 후에, 그 하수인으로 변신합니다.\n\t\t<b>Ukrycie</b>\nGdy twój przeciwnik\nzagra stronnika,\nstanie się jego kopią.\n\t\t<b>Furtividade</b>\nDepois que seu oponente jogar um lacaio, torne-se uma cópia dele.\n\t\t[x]<b>Маскировка</b>. После того как\nпротивник разыгрывает\nсущество, превращается\nв его копию.\n\t\t<b>ซ่อนตัว</b> หลังจากคู่ต่อสู้[b]เล่นมินเนี่ยน เปลี่ยนมินเนี่ยน[b]ตัวนี้เป็นร่างก๊อปปี้ของมัน\n\t\t<b>潜行</b>\n在你的对手使用一张随从牌后，变成它的复制。\n\t\t<b>潛行</b>\n在對手打出手下後，變成它的分身\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Sie durchstreift die Dimensionen und nimmt viele Formen an. Einmal war sie sogar eine Einhornprinzessin."
+          },
+          "enUS": {
+            "present": true,
+            "value": "She wanders realities, taking on many forms. One was a unicorn princess."
+          },
+          "esES": {
+            "present": true,
+            "value": "Vaga entre realidades y adopta muchas formas. Una vez fue una princesa unicornio."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Deambula por distintas realidades, donde asume varias formas. En una era una princesa unicornio."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Elle voyage entre les réalités sous diverses formes. Une fois, elle s’est même transformée en licorne."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Vaga per le realtà, cambiando forma. Una volta è stata una principessa unicorno."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "彼女はいくつもの現実をさまよい、様々な形をとってきた。ユニコーンのプリンセスだったこともある。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "여러 현실들을 넘나들며 다양한 형체를 갖추었습니다. 한 번은 유니콘 공주였던 적도 있었죠."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Wędruje między światami, przybierając różne postaci. Jedną z nich był uroczy jednorożec."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Ela vaga pelas realidades assumindo muitas formas. Uma delas era uma princesa-unicórnio."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Она скиталась по бесчисленным мирам и сменила множество обликов. Была, например, принцессой единорогов."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เธอท่องไปในมิติแห่งความเป็นจริง และเปลี่ยนรูปร่างไปเรื่อยๆ ร่างหนึ่งคือเจ้าหญิงยูนิคอร์น"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "塞雷西亚常幻化成各种形态游荡于世间。上一次她变成了闪光的骏马。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "她以不同的形態，在不同的現實間遊走。其中一個型態是獨角獸公主。"
+          }
+        },
+        "textContent": "\n\t\tSie durchstreift die Dimensionen und nimmt viele Formen an. Einmal war sie sogar eine Einhornprinzessin.\n\t\tShe wanders realities, taking on many forms. One was a unicorn princess.\n\t\tVaga entre realidades y adopta muchas formas. Una vez fue una princesa unicornio.\n\t\tDeambula por distintas realidades, donde asume varias formas. En una era una princesa unicornio.\n\t\tElle voyage entre les réalités sous diverses formes. Une fois, elle s’est même transformée en licorne.\n\t\tVaga per le realtà, cambiando forma. Una volta è stata una principessa unicorno.\n\t\t彼女はいくつもの現実をさまよい、様々な形をとってきた。ユニコーンのプリンセスだったこともある。\n\t\t여러 현실들을 넘나들며 다양한 형체를 갖추었습니다. 한 번은 유니콘 공주였던 적도 있었죠.\n\t\tWędruje między światami, przybierając różne postaci. Jedną z nich był uroczy jednorożec.\n\t\tEla vaga pelas realidades assumindo muitas formas. Uma delas era uma princesa-unicórnio.\n\t\tОна скиталась по бесчисленным мирам и сменила множество обликов. Была, например, принцессой единорогов.\n\t\tเธอท่องไปในมิติแห่งความเป็นจริง และเปลี่ยนรูปร่างไปเรื่อยๆ ร่างหนึ่งคือเจ้าหญิงยูนิคอร์น\n\t\t塞雷西亚常幻化成各种形态游荡于世间。上一次她变成了闪光的骏马。\n\t\t她以不同的形態，在不同的現實間遊走。其中一個型態是獨角獸公主。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Konstantin Turovec"
+      }
     }
   },
   "_current": {

@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Beutelmech"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Mecharoo"
+          },
+          "esES": {
+            "present": true,
+            "value": "Meca-Nguro"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Mecanguro"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Kangou-bot"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Cangurobot"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "メカンガルー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "캥거루로봇"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Kangurobot"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Mecanguru"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Мехуру"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เมคารู"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "机械袋鼠"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "機械袋鼠"
+          }
+        },
+        "textContent": "\n\t\t\tBeutelmech\n\t\t\tMecharoo\n\t\t\tMeca-Nguro\n\t\t\tMecanguro\n\t\t\tKangou-bot\n\t\t\tCangurobot\n\t\t\tメカンガルー\n\t\t\t캥거루로봇\n\t\t\tKangurobot\n\t\t\tMecanguru\n\t\t\tМехуру\n\t\t\tเมคารู\n\t\t\t机械袋鼠\n\t\t\t機械袋鼠\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Todesröcheln:</b> Ruft ein Beutelmechjunges (1/1) herbei."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Summon a 1/1 Jo-E Bot."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Último aliento:</b> Invoca un R1t0 1/1."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Estertor:</b> invoca un Canguribot 1/1."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Râle d’agonie_:</b> invoque un petit kangou-bot_1/1."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Rantolo di Morte:</b>\nevoca un Cucciolobot 1/1."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>断末魔:</b>\n1/1の\n「コメカンガルー」を\n1体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b>\n1/1 새끼 캥거루로봇을 하나 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Agonia:</b> Przyzwij Kangurobocika 1/1."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Último Suspiro:</b> Evoque um Mecanguri 1/1."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Предсмертный хрип:</b> призывает мехуренка_1/1."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>เสียงสุดท้าย:</b> เรียก โจ-อีบอท 1/1"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>亡语：</b>召唤一个1/1的机械袋鼠宝宝。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>死亡之聲：</b>召喚一個\n1/1機械小袋鼠"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Todesröcheln:</b> Ruft ein Beutelmechjunges (1/1) herbei.\n\t\t\t<b>Deathrattle:</b> Summon a 1/1 Jo-E Bot.\n\t\t\t<b>Último aliento:</b> Invoca un R1t0 1/1.\n\t\t\t<b>Estertor:</b> invoca un Canguribot 1/1.\n\t\t\t<b>Râle d’agonie_:</b> invoque un petit kangou-bot_1/1.\n\t\t\t[x]<b>Rantolo di Morte:</b>\nevoca un Cucciolobot 1/1.\n\t\t\t[x]<b>断末魔:</b>\n1/1の\n「コメカンガルー」を\n1体召喚する。\n\t\t\t<b>죽음의 메아리:</b>\n1/1 새끼 캥거루로봇을 하나 소환합니다.\n\t\t\t<b>Agonia:</b> Przyzwij Kangurobocika 1/1.\n\t\t\t<b>Último Suspiro:</b> Evoque um Mecanguri 1/1.\n\t\t\t<b>Предсмертный хрип:</b> призывает мехуренка_1/1.\n\t\t\t<b>เสียงสุดท้าย:</b> เรียก โจ-อีบอท 1/1\n\t\t\t<b>亡语：</b>召唤一个1/1的机械袋鼠宝宝。\n\t\t\t<b>死亡之聲：</b>召喚一個\n1/1機械小袋鼠\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Dieser Prototyp ist eine Weiterentwicklung des Taschenmechs."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Its project name was KAN-GA. The little one was R-00."
+          },
+          "esES": {
+            "present": true,
+            "value": "Su nombre clave era CAN-GU."
+          },
+          "esMX": {
+            "present": true,
+            "value": "La madre y la cría se venden por separado."
+          },
+          "frFR": {
+            "present": true,
+            "value": "À l’origine du projet, son nom était KAN-GOU. Et le petit s’appelait R-0U."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Il nome del progetto era KAN-GU. Il piccolo si chiamava R-0."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "同じレベルの相手としか争わない。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "새끼랑 능력치가 똑같으면 대체 어느 쪽이 비정상인 걸까요?"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Nie spuszcza z oka swojej wersji mini, którą nazywa czule Maleństwem."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "É bem mais fácil saltar quando se tem molas em vez de pernas."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Рабочее название механизма было «Кенг-А», а вспомогательный механизм назывался «Р(у)»."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ชื่อโปรเจกต์ของมันคือ KAN-GA ส่วนของเจ้าตัวเล็กชื่อ R-00"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "她的宝宝有两个亲密玩伴，一个是机械小熊，一个是机械小虎。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "參與仿生機械計畫的人都暱稱它為袋鼠媽媽，然後把小袋鼠叫做豆豆。"
+          }
+        },
+        "textContent": "\n\t\t\tDieser Prototyp ist eine Weiterentwicklung des Taschenmechs.\n\t\t\tIts project name was KAN-GA. The little one was R-00.\n\t\t\tSu nombre clave era CAN-GU.\n\t\t\tLa madre y la cría se venden por separado.\n\t\t\tÀ l’origine du projet, son nom était KAN-GOU. Et le petit s’appelait R-0U.\n\t\t\tIl nome del progetto era KAN-GU. Il piccolo si chiamava R-0.\n\t\t\t同じレベルの相手としか争わない。\n\t\t\t새끼랑 능력치가 똑같으면 대체 어느 쪽이 비정상인 걸까요?\n\t\t\tNie spuszcza z oka swojej wersji mini, którą nazywa czule Maleństwem.\n\t\t\tÉ bem mais fácil saltar quando se tem molas em vez de pernas.\n\t\t\tРабочее название механизма было «Кенг-А», а вспомогательный механизм назывался «Р(у)».\n\t\t\tชื่อโปรเจกต์ของมันคือ KAN-GA ส่วนของเจ้าตัวเล็กชื่อ R-00\n\t\t\t她的宝宝有两个亲密玩伴，一个是机械小熊，一个是机械小虎。\n\t\t\t參與仿生機械計畫的人都暱稱它為袋鼠媽媽，然後把小袋鼠叫做豆豆。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Eva Widermann"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Beutelmech"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Mecharoo"
+          },
+          "esES": {
+            "present": true,
+            "value": "Meca-Nguro"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Mecanguro"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Kangou-bot"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Cangurobot"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "メカンガルー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "캥거루로봇"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Kangurobot"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Mecanguru"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Мехуру"
+          },
+          "thTH": {
+            "present": true,
+            "value": "เมคารู"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "机械袋鼠"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "機械袋鼠"
+          }
+        },
+        "textContent": "\n\t\tBeutelmech\n\t\tMecharoo\n\t\tMeca-Nguro\n\t\tMecanguro\n\t\tKangou-bot\n\t\tCangurobot\n\t\tメカンガルー\n\t\t캥거루로봇\n\t\tKangurobot\n\t\tMecanguru\n\t\tМехуру\n\t\tเมคารู\n\t\t机械袋鼠\n\t\t機械袋鼠\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Todesröcheln:</b> Ruft ein Beutelmechjunges (1/1) herbei."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Summon a 1/1 Jo-E Bot."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Último aliento:</b> Invoca un R1t0 1/1."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Estertor:</b> invoca un Canguribot 1/1."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Râle d’agonie_:</b> invoque un petit kangou-bot_1/1."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Rantolo di Morte:</b>\nevoca un Cucciolobot 1/1."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>断末魔:</b>\n1/1の\n「コメカンガルー」を\n1体召喚する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b>\n1/1 새끼 캥거루로봇을 소환합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Agonia:</b> Przyzwij Kangurobocika 1/1."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Último Suspiro:</b> Evoque um Mecanguri 1/1."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Предсмертный хрип:</b> призывает мехуренка_1/1."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>เสียงสุดท้าย:</b> เรียกโจ-อีบอท 1/1"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>亡语：</b>召唤一个1/1的机械袋鼠宝宝。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>死亡之聲：</b>召喚一個\n1/1機械小袋鼠"
+          }
+        },
+        "textContent": "\n\t\t<b>Todesröcheln:</b> Ruft ein Beutelmechjunges (1/1) herbei.\n\t\t<b>Deathrattle:</b> Summon a 1/1 Jo-E Bot.\n\t\t<b>Último aliento:</b> Invoca un R1t0 1/1.\n\t\t<b>Estertor:</b> invoca un Canguribot 1/1.\n\t\t<b>Râle d’agonie_:</b> invoque un petit kangou-bot_1/1.\n\t\t[x]<b>Rantolo di Morte:</b>\nevoca un Cucciolobot 1/1.\n\t\t[x]<b>断末魔:</b>\n1/1の\n「コメカンガルー」を\n1体召喚する。\n\t\t<b>죽음의 메아리:</b>\n1/1 새끼 캥거루로봇을 소환합니다.\n\t\t<b>Agonia:</b> Przyzwij Kangurobocika 1/1.\n\t\t<b>Último Suspiro:</b> Evoque um Mecanguri 1/1.\n\t\t<b>Предсмертный хрип:</b> призывает мехуренка_1/1.\n\t\t<b>เสียงสุดท้าย:</b> เรียกโจ-อีบอท 1/1\n\t\t<b>亡语：</b>召唤一个1/1的机械袋鼠宝宝。\n\t\t<b>死亡之聲：</b>召喚一個\n1/1機械小袋鼠\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Dieser Prototyp ist eine Weiterentwicklung des Taschenmechs."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Its project name was KAN-GA. The little one was R-00."
+          },
+          "esES": {
+            "present": true,
+            "value": "Su nombre clave era CAN-GU."
+          },
+          "esMX": {
+            "present": true,
+            "value": "La madre y la cría se venden por separado."
+          },
+          "frFR": {
+            "present": true,
+            "value": "À l’origine du projet, son nom était KAN-GOU. Et le petit s’appelait R-0U."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Il nome del progetto era KAN-GU. Il piccolo si chiamava R-0."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "同じレベルの相手としか争わない。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "새끼랑 능력치가 똑같으면 대체 어느 쪽이 비정상인 걸까요?"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Nie spuszcza z oka swojej wersji mini, którą nazywa czule Maleństwem."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "É bem mais fácil saltar quando se tem molas em vez de pernas."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Рабочее название механизма было «Кенг-А», а вспомогательный механизм назывался «Р(у)»."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ชื่อโปรเจกต์ของมันคือ KAN-GA ส่วนของเจ้าตัวเล็กชื่อ R-00"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "她的宝宝有两个亲密玩伴，一个是机械小熊，一个是机械小虎。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "參與仿生機械計畫的人都暱稱它為袋鼠媽媽，然後把小袋鼠叫做豆豆。"
+          }
+        },
+        "textContent": "\n\t\tDieser Prototyp ist eine Weiterentwicklung des Taschenmechs.\n\t\tIts project name was KAN-GA. The little one was R-00.\n\t\tSu nombre clave era CAN-GU.\n\t\tLa madre y la cría se venden por separado.\n\t\tÀ l’origine du projet, son nom était KAN-GOU. Et le petit s’appelait R-0U.\n\t\tIl nome del progetto era KAN-GU. Il piccolo si chiamava R-0.\n\t\t同じレベルの相手としか争わない。\n\t\t새끼랑 능력치가 똑같으면 대체 어느 쪽이 비정상인 걸까요?\n\t\tNie spuszcza z oka swojej wersji mini, którą nazywa czule Maleństwem.\n\t\tÉ bem mais fácil saltar quando se tem molas em vez de pernas.\n\t\tРабочее название механизма было «Кенг-А», а вспомогательный механизм назывался «Р(у)».\n\t\tชื่อโปรเจกต์ของมันคือ KAN-GA ส่วนของเจ้าตัวเล็กชื่อ R-00\n\t\t她的宝宝有两个亲密玩伴，一个是机械小熊，一个是机械小虎。\n\t\t參與仿生機械計畫的人都暱稱它為袋鼠媽媽，然後把小袋鼠叫做豆豆。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Eva Widermann"
+      }
     }
   },
   "_current": {

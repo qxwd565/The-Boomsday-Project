@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Das Bummschiff"
+          },
+          "enUS": {
+            "present": true,
+            "value": "The Boomship"
+          },
+          "esES": {
+            "present": true,
+            "value": "El Aerobum"
+          },
+          "esMX": {
+            "present": true,
+            "value": "La Navebomba"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Le Paqueboum"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Boomnave"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ブームシップ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "붐지옥함선"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Hukostatek"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Dirigível Cabum"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Бумоносец"
+          },
+          "thTH": {
+            "present": true,
+            "value": "บูมชิป"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "砰砰飞艇"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "爆爆飛船"
+          }
+        },
+        "textContent": "\n\t\t\tDas Bummschiff\n\t\t\tThe Boomship\n\t\t\tEl Aerobum\n\t\t\tLa Navebomba\n\t\t\tLe Paqueboum\n\t\t\tBoomnave\n\t\t\tブームシップ\n\t\t\t붐지옥함선\n\t\t\tHukostatek\n\t\t\tDirigível Cabum\n\t\t\tБумоносец\n\t\t\tบูมชิป\n\t\t\t砰砰飞艇\n\t\t\t爆爆飛船\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "[x]Ruft aus Eurer Hand\n3 zufällige Diener herbei.\nVerleiht ihnen <b>Eifer</b>."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Summon 3 random minions from your hand. Give them <b>Rush</b>."
+          },
+          "esES": {
+            "present": true,
+            "value": "Invoca a 3 esbirros aleatorios de tu mano. Les otorga <b>Embestir</b>."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Invoca 3 esbirros aleatorios de tu mano. Les otorga <b>Acometida</b>."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Invoque 3_serviteurs aléatoires de votre main et leur confère <b>Ruée</b>."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Evoca tre servitori casuali dalla tua mano e fornisce loro <b>Assalto</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]自分の手札から\nランダムなミニオンを\n3体召喚し\n_<b>急襲</b>を付与する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]내 손에 있는 무작위\n하수인을 셋 소환합니다.\n그 하수인들에게 <b>속공</b>을\n부여합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Przyzwij trzech losowych stronników z_twojej ręki.\nDaj im <b>Zryw</b>."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Evoque 3 lacaios aleatórios da sua mão. Conceda <b>Rapidez</b> a eles."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Призывает 3 случайных существ из руки. Они получают <b>«Натиск»</b>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "สุ่มเรียกมินเนี่ยน 3 ตัว[b]จากมือคุณ มอบ <b>จู่โจม</b> ให้พวกมัน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "从你的手牌中召唤三个随机随从，并使其获得<b>突袭</b>。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "從你的手中\n召喚3個隨機手下並賦予他們<b>衝刺</b>"
+          }
+        },
+        "textContent": "\n\t\t\t[x]Ruft aus Eurer Hand\n3 zufällige Diener herbei.\nVerleiht ihnen <b>Eifer</b>.\n\t\t\tSummon 3 random minions from your hand. Give them <b>Rush</b>.\n\t\t\tInvoca a 3 esbirros aleatorios de tu mano. Les otorga <b>Embestir</b>.\n\t\t\tInvoca 3 esbirros aleatorios de tu mano. Les otorga <b>Acometida</b>.\n\t\t\tInvoque 3_serviteurs aléatoires de votre main et leur confère <b>Ruée</b>.\n\t\t\tEvoca tre servitori casuali dalla tua mano e fornisce loro <b>Assalto</b>.\n\t\t\t[x]自分の手札から\nランダムなミニオンを\n3体召喚し\n_<b>急襲</b>を付与する。\n\t\t\t[x]내 손에 있는 무작위\n하수인을 셋 소환합니다.\n그 하수인들에게 <b>속공</b>을\n부여합니다.\n\t\t\tPrzyzwij trzech losowych stronników z_twojej ręki.\nDaj im <b>Zryw</b>.\n\t\t\tEvoque 3 lacaios aleatórios da sua mão. Conceda <b>Rapidez</b> a eles.\n\t\t\tПризывает 3 случайных существ из руки. Они получают <b>«Натиск»</b>.\n\t\t\tสุ่มเรียกมินเนี่ยน 3 ตัว[b]จากมือคุณ มอบ <b>จู่โจม</b> ให้พวกมัน\n\t\t\t从你的手牌中召唤三个随机随从，并使其获得<b>突袭</b>。\n\t\t\t從你的手中\n召喚3個隨機手下並賦予他們<b>衝刺</b>\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Wie das Traumschiff – nur mit mehr Bumms."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Dr. Boom ends his motivational speeches by dropping the mechs."
+          },
+          "esES": {
+            "present": true,
+            "value": "El Aerobum, en principio, estaba destinado a ser un avión de pasajeros. Por algún motivo, nadie quiso viajar nunca en él."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Las presentaciones del Dr. Bum empiezan con muchas explosiones, continúan con muchas explosiones y terminan con muchas explosiones."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Le Dr Boum termine toujours ses discours d’encouragement en larguant des Méca."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Dr. Boom scoppia di salute: cinque feriti!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "別名、「ボカン母艦」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"제군, 나는 기계가 좋다.\n제군, 나는 기계가 좋다.\n제군! 나는 기계가 정말 좋다.\"\n\"...자, 제군... 붐지옥을 만들어보자고.\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "Hukostatkiem w piękny rejs!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Dr. Cabum termina os discursos motivacionais dele soltando um mecafone."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Механизмы – птицы гордые, пока не пнешь, не полетят."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ด็อกเตอร์บูมปิดท้ายการกล่าว[b]สุนทรพจน์ปลุกใจด้วยการ[b]ปล่อยหุ่นยนต์จากยาน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "砰砰博士以奇兵突袭的方式，结束了他的精彩演讲。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "爆爆博士的精彩演講，以放出機甲作為結尾的大高潮。"
+          }
+        },
+        "textContent": "\n\t\t\tWie das Traumschiff – nur mit mehr Bumms.\n\t\t\tDr. Boom ends his motivational speeches by dropping the mechs.\n\t\t\tEl Aerobum, en principio, estaba destinado a ser un avión de pasajeros. Por algún motivo, nadie quiso viajar nunca en él.\n\t\t\tLas presentaciones del Dr. Bum empiezan con muchas explosiones, continúan con muchas explosiones y terminan con muchas explosiones.\n\t\t\tLe Dr Boum termine toujours ses discours d’encouragement en larguant des Méca.\n\t\t\tDr. Boom scoppia di salute: cinque feriti!\n\t\t\t別名、「ボカン母艦」\n\t\t\t\"제군, 나는 기계가 좋다.\n제군, 나는 기계가 좋다.\n제군! 나는 기계가 정말 좋다.\"\n\"...자, 제군... 붐지옥을 만들어보자고.\"\n\t\t\tHukostatkiem w piękny rejs!\n\t\t\tDr. Cabum termina os discursos motivacionais dele soltando um mecafone.\n\t\t\tМеханизмы – птицы гордые, пока не пнешь, не полетят.\n\t\t\tด็อกเตอร์บูมปิดท้ายการกล่าว[b]สุนทรพจน์ปลุกใจด้วยการ[b]ปล่อยหุ่นยนต์จากยาน\n\t\t\t砰砰博士以奇兵突袭的方式，结束了他的精彩演讲。\n\t\t\t爆爆博士的精彩演講，以放出機甲作為結尾的大高潮。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Zoltan Boros"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Das Bummschiff"
+          },
+          "enUS": {
+            "present": true,
+            "value": "The Boomship"
+          },
+          "esES": {
+            "present": true,
+            "value": "El Aerobum"
+          },
+          "esMX": {
+            "present": true,
+            "value": "La Navebomba"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Le Paqueboum"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Boomnave"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ブームシップ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "붐지옥함선"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Hukostatek"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Dirigível Cabum"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Бумоносец"
+          },
+          "thTH": {
+            "present": true,
+            "value": "บูมชิป"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "砰砰飞艇"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "爆爆飛船"
+          }
+        },
+        "textContent": "\n\t\tDas Bummschiff\n\t\tThe Boomship\n\t\tEl Aerobum\n\t\tLa Navebomba\n\t\tLe Paqueboum\n\t\tBoomnave\n\t\tブームシップ\n\t\t붐지옥함선\n\t\tHukostatek\n\t\tDirigível Cabum\n\t\tБумоносец\n\t\tบูมชิป\n\t\t砰砰飞艇\n\t\t爆爆飛船\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "[x]Ruft aus Eurer Hand\n3 zufällige Diener herbei.\nVerleiht ihnen <b>Eifer</b>."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Summon 3 random minions from your hand. Give them <b>Rush</b>."
+          },
+          "esES": {
+            "present": true,
+            "value": "Invoca a 3 esbirros aleatorios de tu mano. Les otorga <b>Embestir</b>."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Invoca 3 esbirros aleatorios de tu mano. Les otorga <b>Acometida</b>."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Invoque 3_serviteurs aléatoires de votre main et leur confère <b>Ruée</b>."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Evoca tre servitori casuali dalla tua mano e fornisce loro <b>Assalto</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]自分の手札から\nランダムなミニオンを\n3体召喚し\n_<b>急襲</b>を付与する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]내 손에 있는 무작위\n하수인을 셋 소환합니다.\n그 하수인들에게 <b>속공</b>을\n부여합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Przyzwij trzech losowych stronników z_twojej ręki.\nDaj im <b>Zryw</b>."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Evoque 3 lacaios aleatórios da sua mão. Conceda <b>Rapidez</b> a eles."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Призывает 3 случайных существ из_вашей руки. Они получают <b>«Натиск»</b>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "สุ่มเรียกมินเนี่ยน 3 ตัว[b]จากมือคุณ มอบ <b>จู่โจม</b> ให้พวกมัน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "随机从你的手牌中召唤三个随从，并使其获得<b>突袭</b>。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "從你的手中\n召喚3個隨機手下並賦予他們<b>衝刺</b>"
+          }
+        },
+        "textContent": "\n\t\t[x]Ruft aus Eurer Hand\n3 zufällige Diener herbei.\nVerleiht ihnen <b>Eifer</b>.\n\t\tSummon 3 random minions from your hand. Give them <b>Rush</b>.\n\t\tInvoca a 3 esbirros aleatorios de tu mano. Les otorga <b>Embestir</b>.\n\t\tInvoca 3 esbirros aleatorios de tu mano. Les otorga <b>Acometida</b>.\n\t\tInvoque 3_serviteurs aléatoires de votre main et leur confère <b>Ruée</b>.\n\t\tEvoca tre servitori casuali dalla tua mano e fornisce loro <b>Assalto</b>.\n\t\t[x]自分の手札から\nランダムなミニオンを\n3体召喚し\n_<b>急襲</b>を付与する。\n\t\t[x]내 손에 있는 무작위\n하수인을 셋 소환합니다.\n그 하수인들에게 <b>속공</b>을\n부여합니다.\n\t\tPrzyzwij trzech losowych stronników z_twojej ręki.\nDaj im <b>Zryw</b>.\n\t\tEvoque 3 lacaios aleatórios da sua mão. Conceda <b>Rapidez</b> a eles.\n\t\tПризывает 3 случайных существ из_вашей руки. Они получают <b>«Натиск»</b>.\n\t\tสุ่มเรียกมินเนี่ยน 3 ตัว[b]จากมือคุณ มอบ <b>จู่โจม</b> ให้พวกมัน\n\t\t随机从你的手牌中召唤三个随从，并使其获得<b>突袭</b>。\n\t\t從你的手中\n召喚3個隨機手下並賦予他們<b>衝刺</b>\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Wie das Traumschiff – nur mit mehr Bumms."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Dr. Boom ends his motivational speeches by dropping the mechs."
+          },
+          "esES": {
+            "present": true,
+            "value": "El Aerobum, en principio, estaba destinado a ser un avión de pasajeros. Por algún motivo, nadie quiso viajar nunca en él."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Las presentaciones del Dr. Bum empiezan con muchas explosiones, continúan con muchas explosiones y terminan con muchas explosiones."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Le Dr Boum termine toujours ses discours d’encouragement en larguant des Méca."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Dr. Boom scoppia di salute: cinque feriti!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "別名、「ボカン母艦」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"제군, 나는 기계가 좋다.\n제군, 나는 기계가 좋다.\n제군! 나는 기계가 정말 좋다.\"\n\"...자, 제군... 붐지옥을 만들어보자고.\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "Hukostatkiem w piękny rejs!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Dr. Cabum termina os discursos motivacionais dele soltando um mecafone."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Механизмы – птицы гордые, пока не пнешь, не полетят."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ด็อกเตอร์บูมปิดท้ายการกล่าว[b]สุนทรพจน์ปลุกใจด้วยการ[b]ปล่อยหุ่นยนต์จากยาน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "砰砰博士以奇兵突袭的方式，结束了他的精彩演讲。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "爆爆博士的精彩演講，以放出機甲作為結尾的大高潮。"
+          }
+        },
+        "textContent": "\n\t\tWie das Traumschiff – nur mit mehr Bumms.\n\t\tDr. Boom ends his motivational speeches by dropping the mechs.\n\t\tEl Aerobum, en principio, estaba destinado a ser un avión de pasajeros. Por algún motivo, nadie quiso viajar nunca en él.\n\t\tLas presentaciones del Dr. Bum empiezan con muchas explosiones, continúan con muchas explosiones y terminan con muchas explosiones.\n\t\tLe Dr Boum termine toujours ses discours d’encouragement en larguant des Méca.\n\t\tDr. Boom scoppia di salute: cinque feriti!\n\t\t別名、「ボカン母艦」\n\t\t\"제군, 나는 기계가 좋다.\n제군, 나는 기계가 좋다.\n제군! 나는 기계가 정말 좋다.\"\n\"...자, 제군... 붐지옥을 만들어보자고.\"\n\t\tHukostatkiem w piękny rejs!\n\t\tDr. Cabum termina os discursos motivacionais dele soltando um mecafone.\n\t\tМеханизмы – птицы гордые, пока не пнешь, не полетят.\n\t\tด็อกเตอร์บูมปิดท้ายการกล่าว[b]สุนทรพจน์ปลุกใจด้วยการ[b]ปล่อยหุ่นยนต์จากยาน\n\t\t砰砰博士以奇兵突袭的方式，结束了他的精彩演讲。\n\t\t爆爆博士的精彩演講，以放出機甲作為結尾的大高潮。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Zoltan Boros"
+      }
     }
   },
   "_current": {

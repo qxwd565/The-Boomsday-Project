@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Zephyriumbomberin"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Seaforium Bomber"
+          },
+          "esES": {
+            "present": true,
+            "value": "Bombardeadora de seforio"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Bombardera de seforio"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Lance hydroglycérine"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Bombarola di Nitronite"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "シーフォーリウム・ボンバー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "시포리움 폭격수"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Specjalistka od ceczterium"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Bombardeira de Cequatrum"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Сефориевая бомбистка"
+          },
+          "thTH": {
+            "present": true,
+            "value": "มือระเบิดซีโฟเรียม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "爆盐投弹手"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "爆鹽炸彈客"
+          }
+        },
+        "textContent": "\n\t\t\tZephyriumbomberin\n\t\t\tSeaforium Bomber\n\t\t\tBombardeadora de seforio\n\t\t\tBombardera de seforio\n\t\t\tLance hydroglycérine\n\t\t\tBombarola di Nitronite\n\t\t\tシーフォーリウム・ボンバー\n\t\t\t시포리움 폭격수\n\t\t\tSpecjalistka od ceczterium\n\t\t\tBombardeira de Cequatrum\n\t\t\tСефориевая бомбистка\n\t\t\tมือระเบิดซีโฟเรียม\n\t\t\t爆盐投弹手\n\t\t\t爆鹽炸彈客\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "[x]<b>Kampfschrei:</b> Mischt eine\nBombe in das Deck Eures\nGegners. Wenn sie gezogen wird,\nverursacht sie 5 Schaden."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> Shuffle a Bomb\ninto your opponent's deck.\nWhen drawn, it explodes\nfor 5 damage."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b> Mete una\nbomba en el mazo de tu\noponente. Al robarla, explota\n    y le inflige 5 p. de daño."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> coloca una Bomba en el mazo de tu adversario. Cuando la robe, explotará por 5 de daño."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> place une bombe dans le deck de votre adversaire. Quand elle est piochée, explose et inflige_5_points_de_dégâts."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b> mette\nuna Bomba nel mazzo\n dell'avversario. Quando viene\n____pescata, infligge 5 danni."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n相手のデッキに「爆弾」1枚\nを混ぜる。「爆弾」は\n引かれた際に爆発し\n__5ダメージを与える。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b> 상대편의 덱에\n폭탄을 섞어 넣습니다.\n폭탄을 뽑으면, 폭발하며\n피해를 5 줍니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Wtasuj „Bombę” do talii przeciwnika. Jeśli zostanie dobrana, eksploduje, zadając 5 pkt. obrażeń."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Coloque uma Bomba no deck do seu oponente. Ao ser comprada, ela explode, causando 5 de dano."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]<b>Боевой клич:</b> замешивает\nбомбу в колоду противника.\nКогда он берет ее,\nбомба взрывается,\nнанося 5 ед. урона."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> สับการ์ดระเบิด[b]หนึ่งใบเข้าเด็คคู่ต่อสู้ และ[b]สร้างความเสียหาย_5_แต้ม[b]เมื่อถูกจั่วได้"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>将一张“炸弹” 牌洗入你的对手的牌库。当你的对手抽到该牌，便对其造成5点伤害。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>將一顆炸彈洗入對手的牌堆。抽中時對其造成5點傷害"
+          }
+        },
+        "textContent": "\n\t\t\t[x]<b>Kampfschrei:</b> Mischt eine\nBombe in das Deck Eures\nGegners. Wenn sie gezogen wird,\nverursacht sie 5 Schaden.\n\t\t\t[x]<b>Battlecry:</b> Shuffle a Bomb\ninto your opponent's deck.\nWhen drawn, it explodes\nfor 5 damage.\n\t\t\t[x]<b>Grito de batalla:</b> Mete una\nbomba en el mazo de tu\noponente. Al robarla, explota\n    y le inflige 5 p. de daño.\n\t\t\t<b>Grito de batalla:</b> coloca una Bomba en el mazo de tu adversario. Cuando la robe, explotará por 5 de daño.\n\t\t\t<b>Cri de guerre_:</b> place une bombe dans le deck de votre adversaire. Quand elle est piochée, explose et inflige_5_points_de_dégâts.\n\t\t\t[x]<b>Grido di Battaglia:</b> mette\nuna Bomba nel mazzo\n dell'avversario. Quando viene\n____pescata, infligge 5 danni.\n\t\t\t[x]<b>雄叫び:</b>\n相手のデッキに「爆弾」1枚\nを混ぜる。「爆弾」は\n引かれた際に爆発し\n__5ダメージを与える。\n\t\t\t[x]<b>전투의 함성:</b> 상대편의 덱에\n폭탄을 섞어 넣습니다.\n폭탄을 뽑으면, 폭발하며\n피해를 5 줍니다.\n\t\t\t<b>Okrzyk bojowy:</b> Wtasuj „Bombę” do talii przeciwnika. Jeśli zostanie dobrana, eksploduje, zadając 5 pkt. obrażeń.\n\t\t\t<b>Grito de Guerra:</b> Coloque uma Bomba no deck do seu oponente. Ao ser comprada, ela explode, causando 5 de dano.\n\t\t\t[x]<b>Боевой клич:</b> замешивает\nбомбу в колоду противника.\nКогда он берет ее,\nбомба взрывается,\nнанося 5 ед. урона.\n\t\t\t<b>คำรามสู้ศึก:</b> สับการ์ดระเบิด[b]หนึ่งใบเข้าเด็คคู่ต่อสู้ และ[b]สร้างความเสียหาย_5_แต้ม[b]เมื่อถูกจั่วได้\n\t\t\t<b>战吼：</b>将一张“炸弹” 牌洗入你的对手的牌库。当你的对手抽到该牌，便对其造成5点伤害。\n\t\t\t<b>戰吼：</b>將一顆炸彈洗入對手的牌堆。抽中時對其造成5點傷害\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Bomben sind die besten Freunde einer Goblinfrau."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Dress for the bomb you want, not the bomb you have."
+          },
+          "esES": {
+            "present": true,
+            "value": "La bomba te elige a ti, no tú a la bomba."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Lanzar bombas es un trabajo como cualquier otro."
+          },
+          "frFR": {
+            "present": true,
+            "value": "L’hydroglycérine, c’est de la bombe !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "È bello condividere con gli altri le proprie passioni."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ダメなんだよ‥‥‥！そういうのが実にダメ‥‥！せっかく爆弾でスカッとしようって時に‥‥その妥協は傷ましすぎる‥‥‥‥！‥‥爆弾ってやつはさ‥‥‥‥小出しはダメなんだ‥‥‥‥！"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"지뢰를 섞어 넣는 기계가 있었다고? 그거 괜찮네!\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "Nie ma ryzyka, nie ma zabawy!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "A única coisa melhor que Cequatrum é Cecincum."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Дорогая, одеваться нужно так, как будто собираешься метать царь-бомбу!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "อย่าแต่งตัวให้เหมาะกับระเบิดที่มี จงแต่งตัวให้เหมาะกับระเบิดที่ต้องการ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "穿爱穿的衣服，炸爱炸的坏蛋。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "堅持好東西要和好朋友分享的理念。"
+          }
+        },
+        "textContent": "\n\t\t\tBomben sind die besten Freunde einer Goblinfrau.\n\t\t\tDress for the bomb you want, not the bomb you have.\n\t\t\tLa bomba te elige a ti, no tú a la bomba.\n\t\t\tLanzar bombas es un trabajo como cualquier otro.\n\t\t\tL’hydroglycérine, c’est de la bombe !\n\t\t\tÈ bello condividere con gli altri le proprie passioni.\n\t\t\tダメなんだよ‥‥‥！そういうのが実にダメ‥‥！せっかく爆弾でスカッとしようって時に‥‥その妥協は傷ましすぎる‥‥‥‥！‥‥爆弾ってやつはさ‥‥‥‥小出しはダメなんだ‥‥‥‥！\n\t\t\t\"지뢰를 섞어 넣는 기계가 있었다고? 그거 괜찮네!\"\n\t\t\tNie ma ryzyka, nie ma zabawy!\n\t\t\tA única coisa melhor que Cequatrum é Cecincum.\n\t\t\tДорогая, одеваться нужно так, как будто собираешься метать царь-бомбу!\n\t\t\tอย่าแต่งตัวให้เหมาะกับระเบิดที่มี จงแต่งตัวให้เหมาะกับระเบิดที่ต้องการ\n\t\t\t穿爱穿的衣服，炸爱炸的坏蛋。\n\t\t\t堅持好東西要和好朋友分享的理念。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Ivan Fomin"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Zephyriumbomberin"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Seaforium Bomber"
+          },
+          "esES": {
+            "present": true,
+            "value": "Bombardeadora de seforio"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Bombardera de seforio"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Lance hydroglycérine"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Bombarola di Nitronite"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "シーフォーリウム・ボンバー"
+          },
+          "koKR": {
+            "present": true,
+            "value": "시포리움 폭격수"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Specjalistka od ceczterium"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Bombardeira de Cequatrum"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Сефориевая бомбистка"
+          },
+          "thTH": {
+            "present": true,
+            "value": "มือระเบิดซีโฟเรียม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "爆盐投弹手"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "爆鹽炸彈客"
+          }
+        },
+        "textContent": "\n\t\tZephyriumbomberin\n\t\tSeaforium Bomber\n\t\tBombardeadora de seforio\n\t\tBombardera de seforio\n\t\tLance hydroglycérine\n\t\tBombarola di Nitronite\n\t\tシーフォーリウム・ボンバー\n\t\t시포리움 폭격수\n\t\tSpecjalistka od ceczterium\n\t\tBombardeira de Cequatrum\n\t\tСефориевая бомбистка\n\t\tมือระเบิดซีโฟเรียม\n\t\t爆盐投弹手\n\t\t爆鹽炸彈客\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "[x]<b>Kampfschrei:</b> Mischt eine\nBombe in das Deck Eures\nGegners. Wenn sie gezogen wird,\nverursacht sie 5 Schaden."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> Shuffle a Bomb\ninto your opponent's deck.\nWhen drawn, it explodes\nfor 5 damage."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b> Mete una\nbomba en el mazo de tu\noponente. Al robarla, explota\n    y le inflige 5 p. de daño."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> coloca una Bomba en el mazo de tu adversario. Cuando la robe, explotará por 5 de daño."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> place une bombe dans le deck de votre adversaire. Quand elle est piochée, explose et inflige_5_points_de_dégâts."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b> mette\nuna Bomba nel mazzo\n dell'avversario. Quando viene\n____pescata, infligge 5 danni."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\n相手のデッキに「爆弾」1枚\nを混ぜる。「爆弾」は\n引かれた際に爆発し\n__5ダメージを与える。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b> 상대편의 덱에\n폭탄을 섞어 넣습니다.\n폭탄을 뽑으면, 폭발하며\n피해를 5 줍니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Wtasuj „Bombę” do talii przeciwnika. Jeśli zostanie dobrana, eksploduje, zadając 5 pkt. obrażeń."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> Coloque uma Bomba no deck do seu oponente. Ao ser comprada, ela explode, causando 5 de dano."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Боевой клич:</b> замешивает бомбу в колоду противника. При взятии бомба взрывается, нанося 5 ед. урона."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b>_สับระเบิดหนึ่งใบ[b]เข้าเด็คคู่ต่อสู้_ซึ่งสร้างความ[b]เสียหาย_5_แต้มเมื่อจั่วได้"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>将一张“炸弹” 牌洗入你对手的牌库。当抽到“炸弹”时，便会受到5点伤害。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>將一顆炸彈洗入對手的牌堆。抽中時對其造成5點傷害"
+          }
+        },
+        "textContent": "\n\t\t[x]<b>Kampfschrei:</b> Mischt eine\nBombe in das Deck Eures\nGegners. Wenn sie gezogen wird,\nverursacht sie 5 Schaden.\n\t\t[x]<b>Battlecry:</b> Shuffle a Bomb\ninto your opponent's deck.\nWhen drawn, it explodes\nfor 5 damage.\n\t\t[x]<b>Grito de batalla:</b> Mete una\nbomba en el mazo de tu\noponente. Al robarla, explota\n    y le inflige 5 p. de daño.\n\t\t<b>Grito de batalla:</b> coloca una Bomba en el mazo de tu adversario. Cuando la robe, explotará por 5 de daño.\n\t\t<b>Cri de guerre_:</b> place une bombe dans le deck de votre adversaire. Quand elle est piochée, explose et inflige_5_points_de_dégâts.\n\t\t[x]<b>Grido di Battaglia:</b> mette\nuna Bomba nel mazzo\n dell'avversario. Quando viene\n____pescata, infligge 5 danni.\n\t\t[x]<b>雄叫び:</b>\n相手のデッキに「爆弾」1枚\nを混ぜる。「爆弾」は\n引かれた際に爆発し\n__5ダメージを与える。\n\t\t[x]<b>전투의 함성:</b> 상대편의 덱에\n폭탄을 섞어 넣습니다.\n폭탄을 뽑으면, 폭발하며\n피해를 5 줍니다.\n\t\t<b>Okrzyk bojowy:</b> Wtasuj „Bombę” do talii przeciwnika. Jeśli zostanie dobrana, eksploduje, zadając 5 pkt. obrażeń.\n\t\t<b>Grito de Guerra:</b> Coloque uma Bomba no deck do seu oponente. Ao ser comprada, ela explode, causando 5 de dano.\n\t\t<b>Боевой клич:</b> замешивает бомбу в колоду противника. При взятии бомба взрывается, нанося 5 ед. урона.\n\t\t<b>คำรามสู้ศึก:</b>_สับระเบิดหนึ่งใบ[b]เข้าเด็คคู่ต่อสู้_ซึ่งสร้างความ[b]เสียหาย_5_แต้มเมื่อจั่วได้\n\t\t<b>战吼：</b>将一张“炸弹” 牌洗入你对手的牌库。当抽到“炸弹”时，便会受到5点伤害。\n\t\t<b>戰吼：</b>將一顆炸彈洗入對手的牌堆。抽中時對其造成5點傷害\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Bomben sind die besten Freunde einer Goblinfrau."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Dress for the bomb you want, not the bomb you have."
+          },
+          "esES": {
+            "present": true,
+            "value": "La bomba te elige a ti, no tú a la bomba."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Lanzar bombas es un trabajo como cualquier otro."
+          },
+          "frFR": {
+            "present": true,
+            "value": "L’hydroglycérine, c’est de la bombe !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "È bello condividere con gli altri le proprie passioni."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ダメなんだよ‥‥‥！そういうのが実にダメ‥‥！せっかく爆弾でスカッとしようって時に‥‥その妥協は傷ましすぎる‥‥‥‥！‥‥爆弾ってやつはさ‥‥‥‥小出しはダメなんだ‥‥‥‥！"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"지뢰를 섞어 넣는 기계가 있었다고? 그거 괜찮네!\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "Nie ma ryzyka, nie ma zabawy!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "A única coisa melhor que Cequatrum é Cecincum."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Дорогая, одеваться нужно так, как будто собираешься метать царь-бомбу!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "อย่าแต่งตัวให้เหมาะกับระเบิดที่มี จงแต่งตัวให้เหมาะกับระเบิดที่ต้องการ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "穿爱穿的衣服，炸爱炸的坏蛋。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "堅持好東西要和好朋友分享的理念。"
+          }
+        },
+        "textContent": "\n\t\tBomben sind die besten Freunde einer Goblinfrau.\n\t\tDress for the bomb you want, not the bomb you have.\n\t\tLa bomba te elige a ti, no tú a la bomba.\n\t\tLanzar bombas es un trabajo como cualquier otro.\n\t\tL’hydroglycérine, c’est de la bombe !\n\t\tÈ bello condividere con gli altri le proprie passioni.\n\t\tダメなんだよ‥‥‥！そういうのが実にダメ‥‥！せっかく爆弾でスカッとしようって時に‥‥その妥協は傷ましすぎる‥‥‥‥！‥‥爆弾ってやつはさ‥‥‥‥小出しはダメなんだ‥‥‥‥！\n\t\t\"지뢰를 섞어 넣는 기계가 있었다고? 그거 괜찮네!\"\n\t\tNie ma ryzyka, nie ma zabawy!\n\t\tA única coisa melhor que Cequatrum é Cecincum.\n\t\tДорогая, одеваться нужно так, как будто собираешься метать царь-бомбу!\n\t\tอย่าแต่งตัวให้เหมาะกับระเบิดที่มี จงแต่งตัวให้เหมาะกับระเบิดที่ต้องการ\n\t\t穿爱穿的衣服，炸爱炸的坏蛋。\n\t\t堅持好東西要和好朋友分享的理念。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Ivan Fomin"
+      }
     }
   },
   "_current": {

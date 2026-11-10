@@ -83,6 +83,546 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verrückte Chemikerin"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Crazed Chemist"
+          },
+          "esES": {
+            "present": true,
+            "value": "Química enloquecida"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Boticaria demente"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Chimiste démente"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Chimica Folle"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "イカレた化学者"
+          },
+          "koKR": {
+            "present": true,
+            "value": "미쳐버린 화학자"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Szalona chemiczka"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Química Enlouquecida"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Безумный химик"
+          },
+          "thTH": {
+            "present": true,
+            "value": "นักเคมีเสียสติ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "疯狂的药剂师"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "瘋狂的化學家"
+          }
+        },
+        "textContent": "\n\t\t\tVerrückte Chemikerin\n\t\t\tCrazed Chemist\n\t\t\tQuímica enloquecida\n\t\t\tBoticaria demente\n\t\t\tChimiste démente\n\t\t\tChimica Folle\n\t\t\tイカレた化学者\n\t\t\t미쳐버린 화학자\n\t\t\tSzalona chemiczka\n\t\t\tQuímica Enlouquecida\n\t\t\tБезумный химик\n\t\t\tนักเคมีเสียสติ\n\t\t\t疯狂的药剂师\n\t\t\t瘋狂的化學家\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Combo:</b> Verleiht einem befreundeten Diener\n+4 Angriff."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Combo:</b> Give a friendly minion +4 Attack."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Combo:</b> Otorga +4_p.\nde ataque a un esbirro amistoso."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Combo:</b> otorga +4 de Ataque a un esbirro aliado."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Combo_:</b> donne +4_ATQ\nà un serviteur allié."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Combo:</b> +4 Attacco\na un tuo servitore."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>コンボ:</b>\n味方のミニオン1体に\n__攻撃力+4を付与する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>연계:</b> 아군 하수인 하나에게 공격력을\n+4 부여합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Kombinacja:</b> Daj przyjaznemu stronnikowi +4 do ataku."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Combo:</b> Conceda +4 de Ataque a um lacaio aliado."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Серия приемов:</b> ваше выбранное существо получает +4 к атаке."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คอมโบ:</b> มอบพลังโจมตี +4 ให้มินเนี่ยนฝ่ายคุณหนึ่งตัว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>连击：</b>使一个友方随从获得+4攻击力。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>連擊：</b>賦予一個友方手下+4攻擊力"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Combo:</b> Verleiht einem befreundeten Diener\n+4 Angriff.\n\t\t\t<b>Combo:</b> Give a friendly minion +4 Attack.\n\t\t\t<b>Combo:</b> Otorga +4_p.\nde ataque a un esbirro amistoso.\n\t\t\t<b>Combo:</b> otorga +4 de Ataque a un esbirro aliado.\n\t\t\t<b>Combo_:</b> donne +4_ATQ\nà un serviteur allié.\n\t\t\t[x]<b>Combo:</b> +4 Attacco\na un tuo servitore.\n\t\t\t[x]<b>コンボ:</b>\n味方のミニオン1体に\n__攻撃力+4を付与する。\n\t\t\t<b>연계:</b> 아군 하수인 하나에게 공격력을\n+4 부여합니다.\n\t\t\t<b>Kombinacja:</b> Daj przyjaznemu stronnikowi +4 do ataku.\n\t\t\t<b>Combo:</b> Conceda +4 de Ataque a um lacaio aliado.\n\t\t\t<b>Серия приемов:</b> ваше выбранное существо получает +4 к атаке.\n\t\t\t<b>คอมโบ:</b> มอบพลังโจมตี +4 ให้มินเนี่ยนฝ่ายคุณหนึ่งตัว\n\t\t\t<b>连击：</b>使一个友方随从获得+4攻击力。\n\t\t\t<b>連擊：</b>賦予一個友方手下+4攻擊力\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Man muss nicht wirklich verrückt sein, um hier zu arbeiten, aber schaden tut es auch nicht."
+          },
+          "enUS": {
+            "present": true,
+            "value": "You don't have to be crazy to work here, but it helps."
+          },
+          "esES": {
+            "present": true,
+            "value": "No hay que estar loco para trabajar aquí, pero ayudar, ayuda."
+          },
+          "esMX": {
+            "present": true,
+            "value": "No tienes que estar demente para trabajar aquí, pero es un buen comienzo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Il n’est pas obligatoire d’être fou pour travailler au labo du Dr Boum… mais ça aide."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Non devi essere pazzo per lavorare qui, ma di certo aiuta."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ここで働くにあたっては、必ずしもイカレてる必要はないが、助けになるのは確かだ。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "굳이 미쳐버릴 필요는 없지만, 그래야 편합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "W Laboratorium Huka szaleństwo nie jest wymogiem, ale to mile widziana cecha."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Não é preciso ser louco para trabalhar aqui, mas ajuda."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Безумие в такой работе не требуется, но приветствуется."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ทำงานที่นี่ไม่จำเป็นต้องบ้า แต่ถ้าบ้าได้ก็จะดี"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "不疯魔，不成活。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "在這裡工作不一定要瘋狂，但瘋狂對工作絕對有幫助。"
+          }
+        },
+        "textContent": "\n\t\t\tMan muss nicht wirklich verrückt sein, um hier zu arbeiten, aber schaden tut es auch nicht.\n\t\t\tYou don't have to be crazy to work here, but it helps.\n\t\t\tNo hay que estar loco para trabajar aquí, pero ayudar, ayuda.\n\t\t\tNo tienes que estar demente para trabajar aquí, pero es un buen comienzo.\n\t\t\tIl n’est pas obligatoire d’être fou pour travailler au labo du Dr Boum… mais ça aide.\n\t\t\tNon devi essere pazzo per lavorare qui, ma di certo aiuta.\n\t\t\tここで働くにあたっては、必ずしもイカレてる必要はないが、助けになるのは確かだ。\n\t\t\t굳이 미쳐버릴 필요는 없지만, 그래야 편합니다.\n\t\t\tW Laboratorium Huka szaleństwo nie jest wymogiem, ale to mile widziana cecha.\n\t\t\tNão é preciso ser louco para trabalhar aqui, mas ajuda.\n\t\t\tБезумие в такой работе не требуется, но приветствуется.\n\t\t\tทำงานที่นี่ไม่จำเป็นต้องบ้า แต่ถ้าบ้าได้ก็จะดี\n\t\t\t不疯魔，不成活。\n\t\t\t在這裡工作不一定要瘋狂，但瘋狂對工作絕對有幫助。\n\t\t"
+      },
+      "325": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verleiht +4 Angriff."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Give +4 Attack."
+          },
+          "esES": {
+            "present": true,
+            "value": "Otorga +4 p. de ataque."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Otorga +4 de Ataque."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Donne +4_ATQ."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Fornisce +4 Attacco."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "攻撃力+4を付与する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "공격력 +4"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Daj +4 do ataku."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Conceda +4 de Ataque."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "+4 к атаке."
+          },
+          "thTH": {
+            "present": true,
+            "value": "มอบพลังโจมตี +4"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "获得+4攻击力。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "賦予+4攻擊力"
+          }
+        },
+        "textContent": "\n\t\t\tVerleiht +4 Angriff.\n\t\t\tGive +4 Attack.\n\t\t\tOtorga +4 p. de ataque.\n\t\t\tOtorga +4 de Ataque.\n\t\t\tDonne +4_ATQ.\n\t\t\tFornisce +4 Attacco.\n\t\t\t攻撃力+4を付与する。\n\t\t\t공격력 +4\n\t\t\tDaj +4 do ataku.\n\t\t\tConceda +4 de Ataque.\n\t\t\t+4 к атаке.\n\t\t\tมอบพลังโจมตี +4\n\t\t\t获得+4攻击力。\n\t\t\t賦予+4攻擊力\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Max Greck"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verrückte Chemikerin"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Crazed Chemist"
+          },
+          "esES": {
+            "present": true,
+            "value": "Química enloquecida"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Boticaria demente"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Chimiste démente"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Chimica Folle"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "イカレた化学者"
+          },
+          "koKR": {
+            "present": true,
+            "value": "미쳐버린 화학자"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Szalona chemiczka"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Química Enlouquecida"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Безумный химик"
+          },
+          "thTH": {
+            "present": true,
+            "value": "นักเคมีเสียสติ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "疯狂的药剂师"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "瘋狂的化學家"
+          }
+        },
+        "textContent": "\n\t\tVerrückte Chemikerin\n\t\tCrazed Chemist\n\t\tQuímica enloquecida\n\t\tBoticaria demente\n\t\tChimiste démente\n\t\tChimica Folle\n\t\tイカレた化学者\n\t\t미쳐버린 화학자\n\t\tSzalona chemiczka\n\t\tQuímica Enlouquecida\n\t\tБезумный химик\n\t\tนักเคมีเสียสติ\n\t\t疯狂的药剂师\n\t\t瘋狂的化學家\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Combo:</b> Verleiht einem befreundeten Diener\n+4 Angriff."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Combo:</b> Give a friendly minion +4 Attack."
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Combo:</b> Otorga +4_p.\nde ataque a un esbirro amistoso."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Combo:</b> otorga +4 de Ataque a un esbirro aliado."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Combo_:</b> donne +4_ATQ\nà un serviteur allié."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Combo:</b> +4 Attacco\na un tuo servitore."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>コンボ:</b>\n味方のミニオン1体に\n__攻撃力+4を付与する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>연계:</b> 아군 하수인에게\n공격력을 +4 부여합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Kombinacja:</b> Daj przyjaznemu stronnikowi +4 do ataku."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Combo:</b> Conceda +4 de Ataque a um lacaio aliado."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Серия приемов:</b> ваше существо получает +4_к_атаке."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คอมโบ:</b> มอบพลังโจมตี +4 ให้มินเนี่ยนฝ่ายคุณหนึ่งตัว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>连击：</b>使一个友方随从获得+4攻击力。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>連擊：</b>賦予一個友方手下+4攻擊力"
+          }
+        },
+        "textContent": "\n\t\t<b>Combo:</b> Verleiht einem befreundeten Diener\n+4 Angriff.\n\t\t<b>Combo:</b> Give a friendly minion +4 Attack.\n\t\t<b>Combo:</b> Otorga +4_p.\nde ataque a un esbirro amistoso.\n\t\t<b>Combo:</b> otorga +4 de Ataque a un esbirro aliado.\n\t\t<b>Combo_:</b> donne +4_ATQ\nà un serviteur allié.\n\t\t[x]<b>Combo:</b> +4 Attacco\na un tuo servitore.\n\t\t[x]<b>コンボ:</b>\n味方のミニオン1体に\n__攻撃力+4を付与する。\n\t\t<b>연계:</b> 아군 하수인에게\n공격력을 +4 부여합니다.\n\t\t<b>Kombinacja:</b> Daj przyjaznemu stronnikowi +4 do ataku.\n\t\t<b>Combo:</b> Conceda +4 de Ataque a um lacaio aliado.\n\t\t<b>Серия приемов:</b> ваше существо получает +4_к_атаке.\n\t\t<b>คอมโบ:</b> มอบพลังโจมตี +4 ให้มินเนี่ยนฝ่ายคุณหนึ่งตัว\n\t\t<b>连击：</b>使一个友方随从获得+4攻击力。\n\t\t<b>連擊：</b>賦予一個友方手下+4攻擊力\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Man muss nicht wirklich verrückt sein, um hier zu arbeiten, aber schaden tut es auch nicht."
+          },
+          "enUS": {
+            "present": true,
+            "value": "You don't have to be crazy to work here, but it helps."
+          },
+          "esES": {
+            "present": true,
+            "value": "No hay que estar loco para trabajar aquí, pero ayudar, ayuda."
+          },
+          "esMX": {
+            "present": true,
+            "value": "No tienes que estar demente para trabajar aquí, pero es un buen comienzo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Il n’est pas obligatoire d’être fou pour travailler au labo du Dr Boum… mais ça aide."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Non devi essere pazzo per lavorare qui, ma di certo aiuta."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ここで働くにあたっては、必ずしもイカレてる必要はないが、助けになるのは確かだ。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "굳이 미쳐버릴 필요는 없지만, 그래야 편합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "W Laboratorium Huka szaleństwo nie jest wymogiem, ale to mile widziana cecha."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Não é preciso ser louco para trabalhar aqui, mas ajuda."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Безумие в такой работе не требуется, но приветствуется."
+          },
+          "thTH": {
+            "present": true,
+            "value": "ทำงานที่นี่ไม่จำเป็นต้องบ้า แต่ถ้าบ้าได้ก็จะดี"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "不疯魔，不成活。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "在這裡工作不一定要瘋狂，但瘋狂對工作絕對有幫助。"
+          }
+        },
+        "textContent": "\n\t\tMan muss nicht wirklich verrückt sein, um hier zu arbeiten, aber schaden tut es auch nicht.\n\t\tYou don't have to be crazy to work here, but it helps.\n\t\tNo hay que estar loco para trabajar aquí, pero ayudar, ayuda.\n\t\tNo tienes que estar demente para trabajar aquí, pero es un buen comienzo.\n\t\tIl n’est pas obligatoire d’être fou pour travailler au labo du Dr Boum… mais ça aide.\n\t\tNon devi essere pazzo per lavorare qui, ma di certo aiuta.\n\t\tここで働くにあたっては、必ずしもイカレてる必要はないが、助けになるのは確かだ。\n\t\t굳이 미쳐버릴 필요는 없지만, 그래야 편합니다.\n\t\tW Laboratorium Huka szaleństwo nie jest wymogiem, ale to mile widziana cecha.\n\t\tNão é preciso ser louco para trabalhar aqui, mas ajuda.\n\t\tБезумие в такой работе не требуется, но приветствуется.\n\t\tทำงานที่นี่ไม่จำเป็นต้องบ้า แต่ถ้าบ้าได้ก็จะดี\n\t\t不疯魔，不成活。\n\t\t在這裡工作不一定要瘋狂，但瘋狂對工作絕對有幫助。\n\t"
+      },
+      "325": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verleiht +4 Angriff."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Give +4 Attack."
+          },
+          "esES": {
+            "present": true,
+            "value": "Otorga +4 p. de ataque."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Otorga +4 de Ataque."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Donne +4_ATQ."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Fornisce +4 Attacco."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "攻撃力+4を付与する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "공격력 +4"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Daj +4 do ataku."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Conceda +4 de Ataque."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "+4 к атаке."
+          },
+          "thTH": {
+            "present": true,
+            "value": "มอบพลังโจมตี +4"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "获得+4攻击力。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "賦予+4攻擊力"
+          }
+        },
+        "textContent": "\n\t\tVerleiht +4 Angriff.\n\t\tGive +4 Attack.\n\t\tOtorga +4 p. de ataque.\n\t\tOtorga +4 de Ataque.\n\t\tDonne +4_ATQ.\n\t\tFornisce +4 Attacco.\n\t\t攻撃力+4を付与する。\n\t\t공격력 +4\n\t\tDaj +4 do ataku.\n\t\tConceda +4 de Ataque.\n\t\t+4 к атаке.\n\t\tมอบพลังโจมตี +4\n\t\t获得+4攻击力。\n\t\t賦予+4攻擊力\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Max Grecke"
+      }
     }
   },
   "_current": {

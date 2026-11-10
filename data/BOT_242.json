@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Myras instabiles Element"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Myra's Unstable Element"
+          },
+          "esES": {
+            "present": true,
+            "value": "Elemento inestable de Myra"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Elemento inestable de Myra"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Élément instable de Myra"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Elemento Instabile di Myra"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "マイラの不安定元素"
+          },
+          "koKR": {
+            "present": true,
+            "value": "마이라의 불안정한 원소"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Niestabilny pierwiastek Miry"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Elemento Instável de Myra"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Новый элемент Миры"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ธาตุไม่เสถียรของไมร่า"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "迈拉的不稳定元素"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "麥菈的不穩定元素"
+          }
+        },
+        "textContent": "\n\t\t\tMyras instabiles Element\n\t\t\tMyra's Unstable Element\n\t\t\tElemento inestable de Myra\n\t\t\tElemento inestable de Myra\n\t\t\tÉlément instable de Myra\n\t\t\tElemento Instabile di Myra\n\t\t\tマイラの不安定元素\n\t\t\t마이라의 불안정한 원소\n\t\t\tNiestabilny pierwiastek Miry\n\t\t\tElemento Instável de Myra\n\t\t\tНовый элемент Миры\n\t\t\tธาตุไม่เสถียรของไมร่า\n\t\t\t迈拉的不稳定元素\n\t\t\t麥菈的不穩定元素\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Zieht Euer\nrestliches Deck."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Draw the rest of\nyour deck."
+          },
+          "esES": {
+            "present": true,
+            "value": "Roba el resto\nde tu mazo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Roba el resto de tu mazo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Vous piochez le reste de votre deck."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Pesca il resto\ndel tuo mazzo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]自分のデッキの\n残りのカードを\n__全て引く。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]내 덱의 남은 카드를\n모두 뽑습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Dobierz resztę twojej talii."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Compre o resto do seu deck."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Вы берете все карты из колоды."
+          },
+          "thTH": {
+            "present": true,
+            "value": "จั่วการ์ดจนหมด[b]เด็คของคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "抽取你牌库剩下的牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "抽出你牌堆中剩下的牌"
+          }
+        },
+        "textContent": "\n\t\t\tZieht Euer\nrestliches Deck.\n\t\t\tDraw the rest of\nyour deck.\n\t\t\tRoba el resto\nde tu mazo.\n\t\t\tRoba el resto de tu mazo.\n\t\t\tVous piochez le reste de votre deck.\n\t\t\t[x]Pesca il resto\ndel tuo mazzo.\n\t\t\t[x]自分のデッキの\n残りのカードを\n__全て引く。\n\t\t\t[x]내 덱의 남은 카드를\n모두 뽑습니다.\n\t\t\tDobierz resztę twojej talii.\n\t\t\tCompre o resto do seu deck.\n\t\t\tВы берете все карты из колоды.\n\t\t\tจั่วการ์ดจนหมด[b]เด็คของคุณ\n\t\t\t抽取你牌库剩下的牌。\n\t\t\t抽出你牌堆中剩下的牌\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Was kann schon schiefgehen?"
+          },
+          "enUS": {
+            "present": true,
+            "value": "What could go wrong?"
+          },
+          "esES": {
+            "present": true,
+            "value": "¿Qué podría salir mal?"
+          },
+          "esMX": {
+            "present": true,
+            "value": "¿Qué podría salir mal?"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Aucune raison que ça tourne mal !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Cosa mai potrebbe andare storto?"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "大丈夫だ、問題ない。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "설마 뭔가 잘못되기라도 하겠어요?"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Co może pójść nie tak?"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "O que poderia dar errado?"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Что может пойти не так?"
+          },
+          "thTH": {
+            "present": true,
+            "value": "มันจะแย่ซักแค่ไหนกันเชียว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "你一定是疯了才会这么做……"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "怎麼可能會出事啦？"
+          }
+        },
+        "textContent": "\n\t\t\tWas kann schon schiefgehen?\n\t\t\tWhat could go wrong?\n\t\t\t¿Qué podría salir mal?\n\t\t\t¿Qué podría salir mal?\n\t\t\tAucune raison que ça tourne mal !\n\t\t\tCosa mai potrebbe andare storto?\n\t\t\t大丈夫だ、問題ない。\n\t\t\t설마 뭔가 잘못되기라도 하겠어요?\n\t\t\tCo może pójść nie tak?\n\t\t\tO que poderia dar errado?\n\t\t\tЧто может пойти не так?\n\t\t\tมันจะแย่ซักแค่ไหนกันเชียว\n\t\t\t你一定是疯了才会这么做……\n\t\t\t怎麼可能會出事啦？\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Arthur Gimaldinov"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Myras instabiles Element"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Myra's Unstable Element"
+          },
+          "esES": {
+            "present": true,
+            "value": "Elemento inestable de Myra"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Elemento inestable de Myra"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Élément instable de Myra"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Elemento Instabile di Myra"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "マイラの不安定元素"
+          },
+          "koKR": {
+            "present": true,
+            "value": "마이라의 불안정한 원소"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Niestabilny pierwiastek Miry"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Elemento Instável de Myra"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Новый элемент Миры"
+          },
+          "thTH": {
+            "present": true,
+            "value": "ธาตุไม่เสถียรของไมร่า"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "迈拉的不稳定元素"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "麥菈的不穩定元素"
+          }
+        },
+        "textContent": "\n\t\tMyras instabiles Element\n\t\tMyra's Unstable Element\n\t\tElemento inestable de Myra\n\t\tElemento inestable de Myra\n\t\tÉlément instable de Myra\n\t\tElemento Instabile di Myra\n\t\tマイラの不安定元素\n\t\t마이라의 불안정한 원소\n\t\tNiestabilny pierwiastek Miry\n\t\tElemento Instável de Myra\n\t\tНовый элемент Миры\n\t\tธาตุไม่เสถียรของไมร่า\n\t\t迈拉的不稳定元素\n\t\t麥菈的不穩定元素\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Zieht Euer\nrestliches Deck."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Draw the rest of\nyour deck."
+          },
+          "esES": {
+            "present": true,
+            "value": "Roba el resto\nde tu mazo."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Roba el resto de tu mazo."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Vous piochez le reste de votre deck."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Pesca il resto\ndel tuo mazzo."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]自分のデッキの\n残りのカードを\n__全て引く。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]내 덱의 남은 카드를\n모두 뽑습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Dobierz resztę twojej talii."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Compre o resto do seu deck."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Вы берете все карты из колоды."
+          },
+          "thTH": {
+            "present": true,
+            "value": "จั่วการ์ดจนหมด[b]เด็คของคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "抽取你牌库剩下的牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "抽出你牌堆中剩下的牌"
+          }
+        },
+        "textContent": "\n\t\tZieht Euer\nrestliches Deck.\n\t\tDraw the rest of\nyour deck.\n\t\tRoba el resto\nde tu mazo.\n\t\tRoba el resto de tu mazo.\n\t\tVous piochez le reste de votre deck.\n\t\t[x]Pesca il resto\ndel tuo mazzo.\n\t\t[x]自分のデッキの\n残りのカードを\n__全て引く。\n\t\t[x]내 덱의 남은 카드를\n모두 뽑습니다.\n\t\tDobierz resztę twojej talii.\n\t\tCompre o resto do seu deck.\n\t\tВы берете все карты из колоды.\n\t\tจั่วการ์ดจนหมด[b]เด็คของคุณ\n\t\t抽取你牌库剩下的牌。\n\t\t抽出你牌堆中剩下的牌\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Was kann schon schiefgehen?"
+          },
+          "enUS": {
+            "present": true,
+            "value": "What could go wrong?"
+          },
+          "esES": {
+            "present": true,
+            "value": "¿Qué podría salir mal?"
+          },
+          "esMX": {
+            "present": true,
+            "value": "¿Qué podría salir mal?"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Aucune raison que ça tourne mal !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Cosa mai potrebbe andare storto?"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "大丈夫だ、問題ない。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "설마 뭔가 잘못되기라도 하겠어요?"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Co może pójść nie tak?"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "O que poderia dar errado?"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Что может пойти не так?"
+          },
+          "thTH": {
+            "present": true,
+            "value": "มันจะแย่ซักแค่ไหนกันเชียว"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "你一定是疯了才会这么做……"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "怎麼可能會出事啦？"
+          }
+        },
+        "textContent": "\n\t\tWas kann schon schiefgehen?\n\t\tWhat could go wrong?\n\t\t¿Qué podría salir mal?\n\t\t¿Qué podría salir mal?\n\t\tAucune raison que ça tourne mal !\n\t\tCosa mai potrebbe andare storto?\n\t\t大丈夫だ、問題ない。\n\t\t설마 뭔가 잘못되기라도 하겠어요?\n\t\tCo może pójść nie tak?\n\t\tO que poderia dar errado?\n\t\tЧто может пойти не так?\n\t\tมันจะแย่ซักแค่ไหนกันเชียว\n\t\t你一定是疯了才会这么做……\n\t\t怎麼可能會出事啦？\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Arthur Gimaldinov"
+      }
     }
   },
   "_current": {

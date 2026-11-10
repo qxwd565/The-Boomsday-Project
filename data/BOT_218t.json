@@ -83,6 +83,286 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Wachbot"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Guard Bot"
+          },
+          "esES": {
+            "present": true,
+            "value": "Guardabot"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Guardiabot"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Robot gardien"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Guardiabot"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ガードロボ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "경비로봇"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Strażobot"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Robô de Guarda"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Охранобот"
+          },
+          "thTH": {
+            "present": true,
+            "value": "หุ่นทหารยาม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "警卫机器人"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "守衛機器人"
+          }
+        },
+        "textContent": "\n\t\t\tWachbot\n\t\t\tGuard Bot\n\t\t\tGuardabot\n\t\t\tGuardiabot\n\t\t\tRobot gardien\n\t\t\tGuardiabot\n\t\t\tガードロボ\n\t\t\t경비로봇\n\t\t\tStrażobot\n\t\t\tRobô de Guarda\n\t\t\tОхранобот\n\t\t\tหุ่นทหารยาม\n\t\t\t警卫机器人\n\t\t\t守衛機器人\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Spott</b>"
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Taunt</b>"
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Provocar</b>"
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Provocación</b>"
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Provocation</b>"
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>Provocazione</b>"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>挑発</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>도발</b>"
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Prowokacja</b>"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Provocar</b>"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Провокация</b>"
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>ยั่วยุ</b>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>嘲讽</b>"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>嘲諷</b>"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Spott</b>\n\t\t\t<b>Taunt</b>\n\t\t\t<b>Provocar</b>\n\t\t\t<b>Provocación</b>\n\t\t\t<b>Provocation</b>\n\t\t\t<b>Provocazione</b>\n\t\t\t<b>挑発</b>\n\t\t\t<b>도발</b>\n\t\t\t<b>Prowokacja</b>\n\t\t\t<b>Provocar</b>\n\t\t\t<b>Провокация</b>\n\t\t\t<b>ยั่วยุ</b>\n\t\t\t<b>嘲讽</b>\n\t\t\t<b>嘲諷</b>\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Sam Nielsen"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Wachbot"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Guard Bot"
+          },
+          "esES": {
+            "present": true,
+            "value": "Guardabot"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Guardiabot"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Robot gardien"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Guardiabot"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "ガードロボ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "경비로봇"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Strażobot"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Robô de Guarda"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Охранобот"
+          },
+          "thTH": {
+            "present": true,
+            "value": "หุ่นทหารยาม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "警卫机器人"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "守衛機器人"
+          }
+        },
+        "textContent": "\n\t\tWachbot\n\t\tGuard Bot\n\t\tGuardabot\n\t\tGuardiabot\n\t\tRobot gardien\n\t\tGuardiabot\n\t\tガードロボ\n\t\t경비로봇\n\t\tStrażobot\n\t\tRobô de Guarda\n\t\tОхранобот\n\t\tหุ่นทหารยาม\n\t\t警卫机器人\n\t\t守衛機器人\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Spott</b>"
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Taunt</b>"
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Provocar</b>"
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Provocación</b>"
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Provocation</b>"
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>Provocazione</b>"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>挑発</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>도발</b>"
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Prowokacja</b>"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Provocar</b>"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Провокация</b>"
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>ยั่วยุ</b>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>嘲讽</b>"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>嘲諷</b>"
+          }
+        },
+        "textContent": "\n\t\t<b>Spott</b>\n\t\t<b>Taunt</b>\n\t\t<b>Provocar</b>\n\t\t<b>Provocación</b>\n\t\t<b>Provocation</b>\n\t\t<b>Provocazione</b>\n\t\t<b>挑発</b>\n\t\t<b>도발</b>\n\t\t<b>Prowokacja</b>\n\t\t<b>Provocar</b>\n\t\t<b>Провокация</b>\n\t\t<b>ยั่วยุ</b>\n\t\t<b>嘲讽</b>\n\t\t<b>嘲諷</b>\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Sam Nielson"
+      }
     }
   },
   "_current": {

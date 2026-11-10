@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Seelenmaschine"
+          },
+          "enUS": {
+            "present": true,
+            "value": "The Soularium"
+          },
+          "esES": {
+            "present": true,
+            "value": "El Alma-cén"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Vertedero de almas"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Le séjour des âmes"
+          },
+          "itIT": {
+            "present": true,
+            "value": "L'Animario"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "魂箱"
+          },
+          "koKR": {
+            "present": true,
+            "value": "영혼관"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Duszarium"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Lampiânima"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Душеворот"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โซลลาเรียม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "莫瑞甘的灵界"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "靈魂收藏器"
+          }
+        },
+        "textContent": "\n\t\t\tSeelenmaschine\n\t\t\tThe Soularium\n\t\t\tEl Alma-cén\n\t\t\tVertedero de almas\n\t\t\tLe séjour des âmes\n\t\t\tL'Animario\n\t\t\t魂箱\n\t\t\t영혼관\n\t\t\tDuszarium\n\t\t\tLampiânima\n\t\t\tДушеворот\n\t\t\tโซลลาเรียม\n\t\t\t莫瑞甘的灵界\n\t\t\t靈魂收藏器\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Zieht 3 Karten.\nWerft sie am Ende Eures Zuges ab."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Draw 3 cards.\nAt the end of your turn, discard them."
+          },
+          "esES": {
+            "present": true,
+            "value": "Roba 3 cartas.\nAl final de tu turno,\nse descartan si no\nlas has jugado."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Roba 3 cartas. Al final de tu turno, descártalas."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Vous piochez 3_cartes. À la fin de votre tour, vous vous en défaussez."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Pesca 3 carte. Alla fine del tuo turno, scartale."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]カードを3枚引く。\n自分のターンの終了時\nそれらのカードを\n破棄する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]카드를 3장 뽑습니다.\n내 턴이 끝날 때,\n그 카드들을 버립니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Dobierz 3 karty. Na_koniec twojej tury odrzuć je."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Compre 3 cards. No final do seu turno, descarte-os."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Вы берете 3 карты. В_конце вашего хода вы их сбрасываете."
+          },
+          "thTH": {
+            "present": true,
+            "value": "จั่วการ์ด 3 ใบ ทิ้งการ์ดเหล่านั้น[b]เมื่อจบเทิร์นของคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "抽三张牌。在你的回合结束时，弃掉它们。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "抽3張牌。在你的回合結束時，捨棄它們"
+          }
+        },
+        "textContent": "\n\t\t\tZieht 3 Karten.\nWerft sie am Ende Eures Zuges ab.\n\t\t\tDraw 3 cards.\nAt the end of your turn, discard them.\n\t\t\tRoba 3 cartas.\nAl final de tu turno,\nse descartan si no\nlas has jugado.\n\t\t\tRoba 3 cartas. Al final de tu turno, descártalas.\n\t\t\tVous piochez 3_cartes. À la fin de votre tour, vous vous en défaussez.\n\t\t\tPesca 3 carte. Alla fine del tuo turno, scartale.\n\t\t\t[x]カードを3枚引く。\n自分のターンの終了時\nそれらのカードを\n破棄する。\n\t\t\t[x]카드를 3장 뽑습니다.\n내 턴이 끝날 때,\n그 카드들을 버립니다.\n\t\t\tDobierz 3 karty. Na_koniec twojej tury odrzuć je.\n\t\t\tCompre 3 cards. No final do seu turno, descarte-os.\n\t\t\tВы берете 3 карты. В_конце вашего хода вы их сбрасываете.\n\t\t\tจั่วการ์ด 3 ใบ ทิ้งการ์ดเหล่านั้น[b]เมื่อจบเทิร์นของคุณ\n\t\t\t抽三张牌。在你的回合结束时，弃掉它们。\n\t\t\t抽3張牌。在你的回合結束時，捨棄它們\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Wer hätte denn ahnen können, dass diese Maschine für finstere Zwecke missbraucht wird?!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Worst field trip ever."
+          },
+          "esES": {
+            "present": true,
+            "value": "En realidad, la experiencia no es nada «zen» para el alma."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Si las almas pudieran tener pesadillas, esta sería la peor."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Le séjour, on le paie… de son âme !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Io sono Gul'dan... sono l'incarnazione dell'oscurità... e ora pescherò tre carte pagando un solo Mana."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "開けてびっくり魂箱。恐怖のあまり、一瞬で白髪になるという。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "어차피 영혼은 일회용이니까요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Coś duszno tutaj... to normalne?”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "O lugar com as piores notas nas páginas de turismo."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Аттракцион не для слабонервных."
+          },
+          "thTH": {
+            "present": true,
+            "value": "นี่คือการทัศนศึกษา[b]ครั้งที่เลวร้ายที่สุด"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "最烂的旅游景点，没有之一。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "早知道會這樣，就不要出來放風了…"
+          }
+        },
+        "textContent": "\n\t\t\tWer hätte denn ahnen können, dass diese Maschine für finstere Zwecke missbraucht wird?!\n\t\t\tWorst field trip ever.\n\t\t\tEn realidad, la experiencia no es nada «zen» para el alma.\n\t\t\tSi las almas pudieran tener pesadillas, esta sería la peor.\n\t\t\tLe séjour, on le paie… de son âme !\n\t\t\tIo sono Gul'dan... sono l'incarnazione dell'oscurità... e ora pescherò tre carte pagando un solo Mana.\n\t\t\t開けてびっくり魂箱。恐怖のあまり、一瞬で白髪になるという。\n\t\t\t어차피 영혼은 일회용이니까요.\n\t\t\t„Coś duszno tutaj... to normalne?”.\n\t\t\tO lugar com as piores notas nas páginas de turismo.\n\t\t\tАттракцион не для слабонервных.\n\t\t\tนี่คือการทัศนศึกษา[b]ครั้งที่เลวร้ายที่สุด\n\t\t\t最烂的旅游景点，没有之一。\n\t\t\t早知道會這樣，就不要出來放風了…\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Arthur Bozonnet"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Seelenmaschine"
+          },
+          "enUS": {
+            "present": true,
+            "value": "The Soularium"
+          },
+          "esES": {
+            "present": true,
+            "value": "El Alma-cén"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Vertedero de almas"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Le séjour des âmes"
+          },
+          "itIT": {
+            "present": true,
+            "value": "L'Animario"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "魂箱"
+          },
+          "koKR": {
+            "present": true,
+            "value": "영혼관"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Duszarium"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Lampiânima"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Душеворот"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โซลลาเรียม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "莫瑞甘的灵界"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "靈魂收藏器"
+          }
+        },
+        "textContent": "\n\t\tSeelenmaschine\n\t\tThe Soularium\n\t\tEl Alma-cén\n\t\tVertedero de almas\n\t\tLe séjour des âmes\n\t\tL'Animario\n\t\t魂箱\n\t\t영혼관\n\t\tDuszarium\n\t\tLampiânima\n\t\tДушеворот\n\t\tโซลลาเรียม\n\t\t莫瑞甘的灵界\n\t\t靈魂收藏器\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Zieht 3_Karten.\nSie sind <b>temporär</b>."
+          },
+          "enUS": {
+            "present": true,
+            "value": "Draw 3 cards.\nThey are <b>Temporary</b>."
+          },
+          "esES": {
+            "present": true,
+            "value": "Roba 3 cartas <b>Temporales</b>."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Roba 3 cartas. Son_<b>temporales</b>."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Vous piochez 3_cartes. Elles_sont_<b>temporaires</b>."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Pesca 3 carte. Sono <b>Temporanee</b>."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]カードを3枚引く。\nそれらは<b>一時的</b>。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]카드를 3장 뽑습니다.\n그 카드들은 <b>일시적</b>입니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Dobierz 3 karty. Są_<b>Tymczasowe</b>."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Compre 3 cards.\nEles são <b>temporários</b>."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]Вы берете 3 карты. Они\nстановятся <b>временными</b>."
+          },
+          "thTH": {
+            "present": true,
+            "value": "จั่วการ์ด 3_ใบ พวกมันเป็นการ์ด <b>ชั่วคราว</b>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "抽三张牌。这些牌为<b>临时</b>牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "抽3張牌。這些牌皆為<b>暫時</b>的"
+          }
+        },
+        "textContent": "\n\t\tZieht 3_Karten.\nSie sind <b>temporär</b>.\n\t\tDraw 3 cards.\nThey are <b>Temporary</b>.\n\t\tRoba 3 cartas <b>Temporales</b>.\n\t\tRoba 3 cartas. Son_<b>temporales</b>.\n\t\tVous piochez 3_cartes. Elles_sont_<b>temporaires</b>.\n\t\tPesca 3 carte. Sono <b>Temporanee</b>.\n\t\t[x]カードを3枚引く。\nそれらは<b>一時的</b>。\n\t\t[x]카드를 3장 뽑습니다.\n그 카드들은 <b>일시적</b>입니다.\n\t\tDobierz 3 karty. Są_<b>Tymczasowe</b>.\n\t\tCompre 3 cards.\nEles são <b>temporários</b>.\n\t\t[x]Вы берете 3 карты. Они\nстановятся <b>временными</b>.\n\t\tจั่วการ์ด 3_ใบ พวกมันเป็นการ์ด <b>ชั่วคราว</b>\n\t\t抽三张牌。这些牌为<b>临时</b>牌。\n\t\t抽3張牌。這些牌皆為<b>暫時</b>的\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Wer hätte denn ahnen können, dass diese Maschine für finstere Zwecke missbraucht wird?!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Worst field trip ever."
+          },
+          "esES": {
+            "present": true,
+            "value": "En realidad, la experiencia no es nada «zen» para el alma."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Si las almas pudieran tener pesadillas, esta sería la peor."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Le séjour, on le paie… de son âme !"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Io sono Gul'dan... sono l'incarnazione dell'oscurità... e ora pescherò tre carte pagando un solo Mana."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "開けてびっくり魂箱。恐怖のあまり、一瞬で白髪になるという。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "어차피 영혼은 일회용이니까요."
+          },
+          "plPL": {
+            "present": true,
+            "value": "„Coś duszno tutaj... to normalne?”."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "O lugar com as piores notas nas páginas de turismo."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Аттракцион не для слабонервных."
+          },
+          "thTH": {
+            "present": true,
+            "value": "นี่คือการทัศนศึกษา[b]ครั้งที่เลวร้ายที่สุด"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "最烂的旅游景点，没有之一。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "早知道會這樣，就不要出來放風了…"
+          }
+        },
+        "textContent": "\n\t\tWer hätte denn ahnen können, dass diese Maschine für finstere Zwecke missbraucht wird?!\n\t\tWorst field trip ever.\n\t\tEn realidad, la experiencia no es nada «zen» para el alma.\n\t\tSi las almas pudieran tener pesadillas, esta sería la peor.\n\t\tLe séjour, on le paie… de son âme !\n\t\tIo sono Gul'dan... sono l'incarnazione dell'oscurità... e ora pescherò tre carte pagando un solo Mana.\n\t\t開けてびっくり魂箱。恐怖のあまり、一瞬で白髪になるという。\n\t\t어차피 영혼은 일회용이니까요.\n\t\t„Coś duszno tutaj... to normalne?”.\n\t\tO lugar com as piores notas nas páginas de turismo.\n\t\tАттракцион не для слабонервных.\n\t\tนี่คือการทัศนศึกษา[b]ครั้งที่เลวร้ายที่สุด\n\t\t最烂的旅游景点，没有之一。\n\t\t早知道會這樣，就不要出來放風了…\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Arthur Bozonnet"
+      }
     }
   },
   "_current": {

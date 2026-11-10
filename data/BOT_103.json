@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Sternenschauerin Luna"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Stargazer Luna"
+          },
+          "esES": {
+            "present": true,
+            "value": "Astrónoma Luna"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Astrónoma Luna"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Luna l’astronome"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Scrutastelle Luna"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "占星術師ルナ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "별관찰자 루나"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Luna Gwiazdowidząca"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Miráster Luna"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Звездочет Луна"
+          },
+          "thTH": {
+            "present": true,
+            "value": "นักดูดาวลูน่า"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "观星者露娜"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "觀星者露娜"
+          }
+        },
+        "textContent": "\n\t\t\tSternenschauerin Luna\n\t\t\tStargazer Luna\n\t\t\tAstrónoma Luna\n\t\t\tAstrónoma Luna\n\t\t\tLuna l’astronome\n\t\t\tScrutastelle Luna\n\t\t\t占星術師ルナ\n\t\t\t별관찰자 루나\n\t\t\tLuna Gwiazdowidząca\n\t\t\tMiráster Luna\n\t\t\tЗвездочет Луна\n\t\t\tนักดูดาวลูน่า\n\t\t\t观星者露娜\n\t\t\t觀星者露娜\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "[x]Zieht eine Karte,\nnachdem Ihr die Karte\nganz rechts auf Eurer Hand\nausgespielt habt."
+          },
+          "enUS": {
+            "present": true,
+            "value": "After you play the\nright-most card in your hand, draw a card."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Tras jugar la última carta\nmás a la derecha de tu mano,\nroba una carta."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Después de que juegas la carta del extremo derecho de tu mano, roba una carta."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Une fois que vous avez joué la carte la plus à droite de votre_main,_vous_piochez une carte."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Dopo che hai giocato\nla carta più a destra\nnella tua mano,\npesca una carta."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]自分が手札の一番右の\nカードを使用した後\nカードを1枚引く。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]내가 내 손에서 가장\n오른쪽에 있는 카드를\n낸 후에, 카드를 1장\n뽑습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Gdy zagrasz najbardziej wysuniętą na prawo kartę w_twojej ręce, dobierz kartę."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "[x]Depois que você jogar o\n card mais à direita na sua\n mão, compre um card."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "После того как вы разыгрываете крайнюю правую карту в руке, вы берете карту."
+          },
+          "thTH": {
+            "present": true,
+            "value": "หลังจากคุณเล่นการ์ด[b]ใบขวาสุดในมือคุณ จั่วการ์ดหนึ่งใบ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "在你使用最右边的一张手牌后，抽\n一张牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "在你打出手中最右邊的牌後，抽一張牌"
+          }
+        },
+        "textContent": "\n\t\t\t[x]Zieht eine Karte,\nnachdem Ihr die Karte\nganz rechts auf Eurer Hand\nausgespielt habt.\n\t\t\tAfter you play the\nright-most card in your hand, draw a card.\n\t\t\t[x]Tras jugar la última carta\nmás a la derecha de tu mano,\nroba una carta.\n\t\t\tDespués de que juegas la carta del extremo derecho de tu mano, roba una carta.\n\t\t\tUne fois que vous avez joué la carte la plus à droite de votre_main,_vous_piochez une carte.\n\t\t\t[x]Dopo che hai giocato\nla carta più a destra\nnella tua mano,\npesca una carta.\n\t\t\t[x]自分が手札の一番右の\nカードを使用した後\nカードを1枚引く。\n\t\t\t[x]내가 내 손에서 가장\n오른쪽에 있는 카드를\n낸 후에, 카드를 1장\n뽑습니다.\n\t\t\tGdy zagrasz najbardziej wysuniętą na prawo kartę w_twojej ręce, dobierz kartę.\n\t\t\t[x]Depois que você jogar o\n card mais à direita na sua\n mão, compre um card.\n\t\t\tПосле того как вы разыгрываете крайнюю правую карту в руке, вы берете карту.\n\t\t\tหลังจากคุณเล่นการ์ด[b]ใบขวาสุดในมือคุณ จั่วการ์ดหนึ่งใบ\n\t\t\t在你使用最右边的一张手牌后，抽\n一张牌。\n\t\t\t在你打出手中最右邊的牌後，抽一張牌\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Schaut nicht so lange in den Nachthimmel, davon bekommt man sternförmige Augen!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "She's Dr. Boom's right-hand mage."
+          },
+          "esES": {
+            "present": true,
+            "value": "La mano derecha del Dr. Bum."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Esta maga es la mano derecha del Dr. Bum."
+          },
+          "frFR": {
+            "present": true,
+            "value": "C’est la mage la plus « à droite » du Dr Boum."
+          },
+          "itIT": {
+            "present": true,
+            "value": "È il braccio destro del Dott. Boom."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "彼女こそ、ドクター・ブームのメイジの最右翼だ。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "박사 붐의 오른팔이라 할 수 있는 마법사입니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Sprawi, że i ty zobaczysz gwiazdy."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Essa maga é o braço direito do Dr. Cabum."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Правая рука доктора Бума."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เธอเป็นเมจมือขวา[b]ของด็อกเตอร์บูม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "她是砰砰博士的左右手。准确来讲，是右手。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "她是爆爆博士的左右手，但更精確地說，只有右手。"
+          }
+        },
+        "textContent": "\n\t\t\tSchaut nicht so lange in den Nachthimmel, davon bekommt man sternförmige Augen!\n\t\t\tShe's Dr. Boom's right-hand mage.\n\t\t\tLa mano derecha del Dr. Bum.\n\t\t\tEsta maga es la mano derecha del Dr. Bum.\n\t\t\tC’est la mage la plus « à droite » du Dr Boum.\n\t\t\tÈ il braccio destro del Dott. Boom.\n\t\t\t彼女こそ、ドクター・ブームのメイジの最右翼だ。\n\t\t\t박사 붐의 오른팔이라 할 수 있는 마법사입니다.\n\t\t\tSprawi, że i ty zobaczysz gwiazdy.\n\t\t\tEssa maga é o braço direito do Dr. Cabum.\n\t\t\tПравая рука доктора Бума.\n\t\t\tเธอเป็นเมจมือขวา[b]ของด็อกเตอร์บูม\n\t\t\t她是砰砰博士的左右手。准确来讲，是右手。\n\t\t\t她是爆爆博士的左右手，但更精確地說，只有右手。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "L. Lullabi & K. Turovec"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Sternenschauerin Luna"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Stargazer Luna"
+          },
+          "esES": {
+            "present": true,
+            "value": "Astrónoma Luna"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Astrónoma Luna"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Luna l’astronome"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Scrutastelle Luna"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "占星術師ルナ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "별관찰자 루나"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Luna Gwiazdowidząca"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Miráster Luna"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Звездочет Луна"
+          },
+          "thTH": {
+            "present": true,
+            "value": "นักดูดาวลูน่า"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "观星者露娜"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "觀星者露娜"
+          }
+        },
+        "textContent": "\n\t\tSternenschauerin Luna\n\t\tStargazer Luna\n\t\tAstrónoma Luna\n\t\tAstrónoma Luna\n\t\tLuna l’astronome\n\t\tScrutastelle Luna\n\t\t占星術師ルナ\n\t\t별관찰자 루나\n\t\tLuna Gwiazdowidząca\n\t\tMiráster Luna\n\t\tЗвездочет Луна\n\t\tนักดูดาวลูน่า\n\t\t观星者露娜\n\t\t觀星者露娜\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "[x]Zieht eine Karte,\nnachdem Ihr die Karte\nganz rechts auf Eurer Hand\nausgespielt habt."
+          },
+          "enUS": {
+            "present": true,
+            "value": "After you play the\nright-most card in your hand, draw a card."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Tras jugar la última carta\nmás a la derecha de tu mano,\nroba una carta."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Después de que juegas la carta del extremo derecho de tu mano, roba una carta."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Une fois que vous avez joué la carte la plus à droite de votre_main,_vous_piochez une carte."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]Dopo che hai giocato\nla carta più a destra\nnella tua mano,\npesca una carta."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]自分が手札の一番右の\nカードを使用した後\nカードを1枚引く。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "내가 내 손에서 가장 오른쪽에 있는 카드를 낸 후에, 카드를 뽑습니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Gdy zagrasz najbardziej wysuniętą na prawo kartę w_twojej ręce, dobierz kartę."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "[x]Depois que você jogar o\n card mais à direita na sua\n mão, compre um card."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "После того как вы разыгрываете крайнюю правую карту в руке, вы берете карту."
+          },
+          "thTH": {
+            "present": true,
+            "value": "หลังจากคุณเล่นการ์ด[b]ใบขวาสุดในมือคุณ จั่วการ์ดหนึ่งใบ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "在你使用最右边的一张手牌后，抽\n一张牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "在你打出手中最右邊的牌後，抽一張牌"
+          }
+        },
+        "textContent": "\n\t\t[x]Zieht eine Karte,\nnachdem Ihr die Karte\nganz rechts auf Eurer Hand\nausgespielt habt.\n\t\tAfter you play the\nright-most card in your hand, draw a card.\n\t\t[x]Tras jugar la última carta\nmás a la derecha de tu mano,\nroba una carta.\n\t\tDespués de que juegas la carta del extremo derecho de tu mano, roba una carta.\n\t\tUne fois que vous avez joué la carte la plus à droite de votre_main,_vous_piochez une carte.\n\t\t[x]Dopo che hai giocato\nla carta più a destra\nnella tua mano,\npesca una carta.\n\t\t[x]自分が手札の一番右の\nカードを使用した後\nカードを1枚引く。\n\t\t내가 내 손에서 가장 오른쪽에 있는 카드를 낸 후에, 카드를 뽑습니다.\n\t\tGdy zagrasz najbardziej wysuniętą na prawo kartę w_twojej ręce, dobierz kartę.\n\t\t[x]Depois que você jogar o\n card mais à direita na sua\n mão, compre um card.\n\t\tПосле того как вы разыгрываете крайнюю правую карту в руке, вы берете карту.\n\t\tหลังจากคุณเล่นการ์ด[b]ใบขวาสุดในมือคุณ จั่วการ์ดหนึ่งใบ\n\t\t在你使用最右边的一张手牌后，抽\n一张牌。\n\t\t在你打出手中最右邊的牌後，抽一張牌\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Schaut nicht so lange in den Nachthimmel, davon bekommt man sternförmige Augen!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "She's Dr. Boom's right-hand mage."
+          },
+          "esES": {
+            "present": true,
+            "value": "La mano derecha del Dr. Bum."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Esta maga es la mano derecha del Dr. Bum."
+          },
+          "frFR": {
+            "present": true,
+            "value": "C’est la mage la plus « à droite » du Dr Boum."
+          },
+          "itIT": {
+            "present": true,
+            "value": "È il braccio destro del Dott. Boom."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "彼女こそ、ドクター・ブームのメイジの最右翼だ。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "박사 붐의 오른팔이라 할 수 있는 마법사입니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Sprawi, że i ty zobaczysz gwiazdy."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Essa maga é o braço direito do Dr. Cabum."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Правая рука доктора Бума."
+          },
+          "thTH": {
+            "present": true,
+            "value": "เธอเป็นเมจมือขวา[b]ของด็อกเตอร์บูม"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "她是砰砰博士的左右手。准确来讲，是右手。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "她是爆爆博士的左右手，但更精確地說，只有右手。"
+          }
+        },
+        "textContent": "\n\t\tSchaut nicht so lange in den Nachthimmel, davon bekommt man sternförmige Augen!\n\t\tShe's Dr. Boom's right-hand mage.\n\t\tLa mano derecha del Dr. Bum.\n\t\tEsta maga es la mano derecha del Dr. Bum.\n\t\tC’est la mage la plus « à droite » du Dr Boum.\n\t\tÈ il braccio destro del Dott. Boom.\n\t\t彼女こそ、ドクター・ブームのメイジの最右翼だ。\n\t\t박사 붐의 오른팔이라 할 수 있는 마법사입니다.\n\t\tSprawi, że i ty zobaczysz gwiazdy.\n\t\tEssa maga é o braço direito do Dr. Cabum.\n\t\tПравая рука доктора Бума.\n\t\tเธอเป็นเมจมือขวา[b]ของด็อกเตอร์บูม\n\t\t她是砰砰博士的左右手。准确来讲，是右手。\n\t\t她是爆爆博士的左右手，但更精確地說，只有右手。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "L. Lullabi & K. Turovec"
+      }
     }
   },
   "_current": {

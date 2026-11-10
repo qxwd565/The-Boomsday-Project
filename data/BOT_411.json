@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Electra Sturmschlag"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Electra Stormsurge"
+          },
+          "esES": {
+            "present": true,
+            "value": "Electra Cargatormenta"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Electra Truenoferoz"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Électra Raz-de-Tempête"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Elettra Destatempeste"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "エレクトラ・ストームサージ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "엘렉트라 스톰서지"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Elektra Gromowładna"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Electra Surtormenta"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Электра Бурешквал"
+          },
+          "thTH": {
+            "present": true,
+            "value": "อีเล็กตร้า สตอร์มเซิร์จ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "伊莱克特拉·风潮"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "伊雷特拉‧風暴怒濤"
+          }
+        },
+        "textContent": "\n\t\t\tElectra Sturmschlag\n\t\t\tElectra Stormsurge\n\t\t\tElectra Cargatormenta\n\t\t\tElectra Truenoferoz\n\t\t\tÉlectra Raz-de-Tempête\n\t\t\tElettra Destatempeste\n\t\t\tエレクトラ・ストームサージ\n\t\t\t엘렉트라 스톰서지\n\t\t\tElektra Gromowładna\n\t\t\tElectra Surtormenta\n\t\t\tЭлектра Бурешквал\n\t\t\tอีเล็กตร้า สตอร์มเซิร์จ\n\t\t\t伊莱克特拉·风潮\n\t\t\t伊雷特拉‧風暴怒濤\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Euer nächster Zauber in diesem Zug wird zweimal gewirkt."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Your next spell this turn casts twice."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b>\nTu próximo hechizo\nen este turno se lanza\ndos veces."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> tu próximo hechizo en este turno se lanza dos veces."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> votre prochain sort pendant ce tour_est_lancé_deux_fois."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nla prossima Magia che\nlanci in questo turno viene\nlanciata due volte."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\nこのターン、自分が\n次に使用する呪文は\n___2回使用される。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n이번 턴의 내 다음 주문을 2번 시전합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Twoje następne zaklęcie w tej turze rzucane jest dwukrotnie."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> \nSeu próximo feitiço \nneste turno é lançado duas vezes."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]<b>Боевой клич:</b> ваше\nследующее заклинание\nна этом ходу срабатывает\nдважды."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> เวทมนตร์ใบถัดไปของคุณ[b]ในเทิร์นนี้ร่ายสองครั้ง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>在本回合中，你的下一个法术将施放两次。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>本回合\n你的下一個法術\n會施放兩次"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Euer nächster Zauber in diesem Zug wird zweimal gewirkt.\n\t\t\t<b>Battlecry:</b> Your next spell this turn casts twice.\n\t\t\t[x]<b>Grito de batalla:</b>\nTu próximo hechizo\nen este turno se lanza\ndos veces.\n\t\t\t<b>Grito de batalla:</b> tu próximo hechizo en este turno se lanza dos veces.\n\t\t\t<b>Cri de guerre_:</b> votre prochain sort pendant ce tour_est_lancé_deux_fois.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nla prossima Magia che\nlanci in questo turno viene\nlanciata due volte.\n\t\t\t[x]<b>雄叫び:</b>\nこのターン、自分が\n次に使用する呪文は\n___2回使用される。\n\t\t\t<b>전투의 함성:</b>\n이번 턴의 내 다음 주문을 2번 시전합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Twoje następne zaklęcie w tej turze rzucane jest dwukrotnie.\n\t\t\t<b>Grito de Guerra:</b> \nSeu próximo feitiço \nneste turno é lançado duas vezes.\n\t\t\t[x]<b>Боевой клич:</b> ваше\nследующее заклинание\nна этом ходу срабатывает\nдважды.\n\t\t\t<b>คำรามสู้ศึก:</b> เวทมนตร์ใบถัดไปของคุณ[b]ในเทิร์นนี้ร่ายสองครั้ง\n\t\t\t<b>战吼：</b>在本回合中，你的下一个法术将施放两次。\n\t\t\t<b>戰吼：</b>本回合\n你的下一個法術\n會施放兩次\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "„Die Münze? Ihr habt mich wegen der Münze ausgespielt?“"
+          },
+          "enUS": {
+            "present": true,
+            "value": "\"The coin? You used me for THE COIN!?\""
+          },
+          "esES": {
+            "present": true,
+            "value": "«¿La moneda? ¿En serio? ¿Me has usado con... LA MONEDA?»."
+          },
+          "esMX": {
+            "present": true,
+            "value": "\"¿La moneda? ¡¿Me usaste para LA MONEDA?!\""
+          },
+          "frFR": {
+            "present": true,
+            "value": "« La Pièce ? Vous m’avez utilisée pour LA PIÈCE ?! »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "\"La Moneta? Mi hai usato per LA MONETA?\""
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「『コイン』？\nお前は『コイン』のために私を使ったっていうの？！」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"동전?! 동전을 두 번 쓰려고 날 냈다는 거요?!\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "Jej poczucie humoru jest PORAŻAJĄCE."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "A moeda? É sério que você me usou para A MOEDA!?\""
+          },
+          "ruRU": {
+            "present": true,
+            "value": "«\"Монетка\"? Ты используешь меня для финансовых махинаций?!»"
+          },
+          "thTH": {
+            "present": true,
+            "value": "\"เหรียญ? เจ้าใช้ข้าเพื่อเหรียญเนี่ยนะ!\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "“什么？你就用了个幸运币！？”"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "「幸運幣？你居然只為了多出一個幸運幣？」"
+          }
+        },
+        "textContent": "\n\t\t\t„Die Münze? Ihr habt mich wegen der Münze ausgespielt?“\n\t\t\t\"The coin? You used me for THE COIN!?\"\n\t\t\t«¿La moneda? ¿En serio? ¿Me has usado con... LA MONEDA?».\n\t\t\t\"¿La moneda? ¡¿Me usaste para LA MONEDA?!\"\n\t\t\t« La Pièce ? Vous m’avez utilisée pour LA PIÈCE ?! »\n\t\t\t\"La Moneta? Mi hai usato per LA MONETA?\"\n\t\t\t「『コイン』？\nお前は『コイン』のために私を使ったっていうの？！」\n\t\t\t\"동전?! 동전을 두 번 쓰려고 날 냈다는 거요?!\"\n\t\t\tJej poczucie humoru jest PORAŻAJĄCE.\n\t\t\tA moeda? É sério que você me usou para A MOEDA!?\"\n\t\t\t«\"Монетка\"? Ты используешь меня для финансовых махинаций?!»\n\t\t\t\"เหรียญ? เจ้าใช้ข้าเพื่อเหรียญเนี่ยนะ!\"\n\t\t\t“什么？你就用了个幸运币！？”\n\t\t\t「幸運幣？你居然只為了多出一個幸運幣？」\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "L. Lullabi & K. Turovec"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Electra Sturmschlag"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Electra Stormsurge"
+          },
+          "esES": {
+            "present": true,
+            "value": "Electra Cargatormenta"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Electra Truenoferoz"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Électra Raz-de-Tempête"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Elettra Destatempeste"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "エレクトラ・ストームサージ"
+          },
+          "koKR": {
+            "present": true,
+            "value": "엘렉트라 스톰서지"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Elektra Gromowładna"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Electra Surtormenta"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Электра Бурешквал"
+          },
+          "thTH": {
+            "present": true,
+            "value": "อีเล็กตร้า สตอร์มเซิร์จ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "伊莱克特拉·风潮"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "伊雷特拉‧風暴怒濤"
+          }
+        },
+        "textContent": "\n\t\tElectra Sturmschlag\n\t\tElectra Stormsurge\n\t\tElectra Cargatormenta\n\t\tElectra Truenoferoz\n\t\tÉlectra Raz-de-Tempête\n\t\tElettra Destatempeste\n\t\tエレクトラ・ストームサージ\n\t\t엘렉트라 스톰서지\n\t\tElektra Gromowładna\n\t\tElectra Surtormenta\n\t\tЭлектра Бурешквал\n\t\tอีเล็กตร้า สตอร์มเซิร์จ\n\t\t伊莱克特拉·风潮\n\t\t伊雷特拉‧風暴怒濤\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Kampfschrei:</b> Euer nächster Zauber in diesem Zug wird zweimal gewirkt."
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Your next spell this turn casts twice."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]<b>Grito de batalla:</b>\nTu próximo hechizo\nen este turno se lanza\ndos veces."
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Grito de batalla:</b> tu próximo hechizo en este turno se lanza dos veces."
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Cri de guerre_:</b> votre prochain sort pendant ce tour_est_lancé_deux_fois."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]<b>Grido di Battaglia:</b>\nla prossima Magia che\nlanci in questo turno viene\nlanciata due volte."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]<b>雄叫び:</b>\nこのターン、自分が\n次に使用する呪文は\n___2回使用される。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n이번 턴의 내 다음 주문을 2번 시전합니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Okrzyk bojowy:</b> Twoje następne zaklęcie w tej turze rzucane jest dwukrotnie."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Grito de Guerra:</b> \nSeu próximo feitiço \nneste turno é lançado duas vezes."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "[x]<b>Боевой клич:</b> ваше\nследующее заклинание\nна этом ходу срабатывает\nдважды."
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>คำรามสู้ศึก:</b> เวทมนตร์ใบถัดไปของคุณ[b]ในเทิร์นนี้ร่ายสองครั้ง"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>战吼：</b>在本回合中，你的下一个法术将施放两次。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>戰吼：</b>本回合\n你的下一個法術\n會施放兩次"
+          }
+        },
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Euer nächster Zauber in diesem Zug wird zweimal gewirkt.\n\t\t<b>Battlecry:</b> Your next spell this turn casts twice.\n\t\t[x]<b>Grito de batalla:</b>\nTu próximo hechizo\nen este turno se lanza\ndos veces.\n\t\t<b>Grito de batalla:</b> tu próximo hechizo en este turno se lanza dos veces.\n\t\t<b>Cri de guerre_:</b> votre prochain sort pendant ce tour_est_lancé_deux_fois.\n\t\t[x]<b>Grido di Battaglia:</b>\nla prossima Magia che\nlanci in questo turno viene\nlanciata due volte.\n\t\t[x]<b>雄叫び:</b>\nこのターン、自分が\n次に使用する呪文は\n___2回使用される。\n\t\t<b>전투의 함성:</b>\n이번 턴의 내 다음 주문을 2번 시전합니다.\n\t\t<b>Okrzyk bojowy:</b> Twoje następne zaklęcie w tej turze rzucane jest dwukrotnie.\n\t\t<b>Grito de Guerra:</b> \nSeu próximo feitiço \nneste turno é lançado duas vezes.\n\t\t[x]<b>Боевой клич:</b> ваше\nследующее заклинание\nна этом ходу срабатывает\nдважды.\n\t\t<b>คำรามสู้ศึก:</b> เวทมนตร์ใบถัดไปของคุณ[b]ในเทิร์นนี้ร่ายสองครั้ง\n\t\t<b>战吼：</b>在本回合中，你的下一个法术将施放两次。\n\t\t<b>戰吼：</b>本回合\n你的下一個法術\n會施放兩次\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "„Die Münze? Ihr habt mich wegen der Münze ausgespielt?“"
+          },
+          "enUS": {
+            "present": true,
+            "value": "\"The coin? You used me for THE COIN!?\""
+          },
+          "esES": {
+            "present": true,
+            "value": "«¿La moneda? ¿En serio? ¿Me has usado con... LA MONEDA?»."
+          },
+          "esMX": {
+            "present": true,
+            "value": "\"¿La moneda? ¡¿Me usaste para LA MONEDA?!\""
+          },
+          "frFR": {
+            "present": true,
+            "value": "« La Pièce ? Vous m’avez utilisée pour LA PIÈCE ?! »"
+          },
+          "itIT": {
+            "present": true,
+            "value": "\"La Moneta? Mi hai usato per LA MONETA?\""
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「『コイン』？\nお前は『コイン』のために私を使ったっていうの？！」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "\"동전?! 동전을 두 번 쓰려고 날 냈다는 거요?!\""
+          },
+          "plPL": {
+            "present": true,
+            "value": "Jej poczucie humoru jest PORAŻAJĄCE."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "A moeda? É sério que você me usou para A MOEDA!?\""
+          },
+          "ruRU": {
+            "present": true,
+            "value": "«\"Монетка\"? Ты используешь меня для финансовых махинаций?!»"
+          },
+          "thTH": {
+            "present": true,
+            "value": "\"เหรียญ? เจ้าใช้ข้าเพื่อเหรียญเนี่ยนะ!\""
+          },
+          "zhCN": {
+            "present": true,
+            "value": "“什么？你就用了个幸运币！？”"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "「幸運幣？你居然只為了多出一個幸運幣？」"
+          }
+        },
+        "textContent": "\n\t\t„Die Münze? Ihr habt mich wegen der Münze ausgespielt?“\n\t\t\"The coin? You used me for THE COIN!?\"\n\t\t«¿La moneda? ¿En serio? ¿Me has usado con... LA MONEDA?».\n\t\t\"¿La moneda? ¡¿Me usaste para LA MONEDA?!\"\n\t\t« La Pièce ? Vous m’avez utilisée pour LA PIÈCE ?! »\n\t\t\"La Moneta? Mi hai usato per LA MONETA?\"\n\t\t「『コイン』？\nお前は『コイン』のために私を使ったっていうの？！」\n\t\t\"동전?! 동전을 두 번 쓰려고 날 냈다는 거요?!\"\n\t\tJej poczucie humoru jest PORAŻAJĄCE.\n\t\tA moeda? É sério que você me usou para A MOEDA!?\"\n\t\t«\"Монетка\"? Ты используешь меня для финансовых махинаций?!»\n\t\t\"เหรียญ? เจ้าใช้ข้าเพื่อเหรียญเนี่ยนะ!\"\n\t\t“什么？你就用了个幸运币！？”\n\t\t「幸運幣？你居然只為了多出一個幸運幣？」\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "L. Lullabi & K. Turovec"
+      }
     }
   },
   "_current": {

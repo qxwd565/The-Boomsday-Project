@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Extraarme"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Extra Arms"
+          },
+          "esES": {
+            "present": true,
+            "value": "Brazos extras"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Brazos extra"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Bras supplémentaires"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Braccia Aggiuntive"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "倍増する腕"
+          },
+          "koKR": {
+            "present": true,
+            "value": "여분 팔"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Dodatkowe ręce"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Braços Extras"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Пара рук"
+          },
+          "thTH": {
+            "present": true,
+            "value": "แขนงอก"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "增生手臂"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "額外的手臂"
+          }
+        },
+        "textContent": "\n\t\t\tExtraarme\n\t\t\tExtra Arms\n\t\t\tBrazos extras\n\t\t\tBrazos extra\n\t\t\tBras supplémentaires\n\t\t\tBraccia Aggiuntive\n\t\t\t倍増する腕\n\t\t\t여분 팔\n\t\t\tDodatkowe ręce\n\t\t\tBraços Extras\n\t\t\tПара рук\n\t\t\tแขนงอก\n\t\t\t增生手臂\n\t\t\t額外的手臂\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verleiht einem Diener +2/+2. Erhaltet Mehr Arme auf die Hand (verleiht +2/+2)."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]Give a minion +2/+2.\nAdd 'More Arms!' to your\nhand that gives +2/+2."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Otorga a un esbirro +2/+2.\nAñade «¡Más brazos!»\na tu mano, que otorga\n+2/+2 al jugarla."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Otorga +2/+2 a un esbirro. Agrega a tu mano \"¡Más brazos!\", que otorga +2/+2."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Donne_+2/+2 à un serviteur. Ajoute dans votre main la carte À tour de bras qui donne_+2/+2 à un serviteur."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]+2/+2 a un servitore.\nMette nella tua mano\nuna Magia Più Braccia\nche fornisce +2/+2."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]ミニオン1体に\n+2/+2を付与する。\n「増殖する腕」\n（+2/+2を付与）1枚を\n__自分の手札に追加する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "하수인 하나에게 +2/+2를 부여합니다. +2/+2를 부여하는\n'더 많은 팔!'을 내 손으로 가져옵니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Daj_stronnikowi_+2/+2. Dodaj „Zręczność!” do twojej ręki. Daje_+2/+2."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Conceda +2/+2 a um lacaio. Adicione \"Mais Braços!\" à sua mão, que concede +2/+2."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Выбранное существо получает +2/+2. Вы кладете в руку «Лишние руки», которые дают +2/+2."
+          },
+          "thTH": {
+            "present": true,
+            "value": "มอบ +2/+2 ให้มินเนี่ยนหนึ่งตัว เพิ่มการ์ด 'แขนงอกเพิ่ม!' ที่มอบ +2/+2 หนึ่งใบในมือคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "使一个随从获得+2/+2。将一张可使一个随从获得+2/+2的“更多手臂”置入你的手牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "賦予一個手下\n+2/+2，並放可賦予\n+2/+2的<i><b>更多手臂！</b></i>\n到你的手中"
+          }
+        },
+        "textContent": "\n\t\t\tVerleiht einem Diener +2/+2. Erhaltet Mehr Arme auf die Hand (verleiht +2/+2).\n\t\t\t[x]Give a minion +2/+2.\nAdd 'More Arms!' to your\nhand that gives +2/+2.\n\t\t\t[x]Otorga a un esbirro +2/+2.\nAñade «¡Más brazos!»\na tu mano, que otorga\n+2/+2 al jugarla.\n\t\t\tOtorga +2/+2 a un esbirro. Agrega a tu mano \"¡Más brazos!\", que otorga +2/+2.\n\t\t\tDonne_+2/+2 à un serviteur. Ajoute dans votre main la carte À tour de bras qui donne_+2/+2 à un serviteur.\n\t\t\t[x]+2/+2 a un servitore.\nMette nella tua mano\nuna Magia Più Braccia\nche fornisce +2/+2.\n\t\t\t[x]ミニオン1体に\n+2/+2を付与する。\n「増殖する腕」\n（+2/+2を付与）1枚を\n__自分の手札に追加する。\n\t\t\t하수인 하나에게 +2/+2를 부여합니다. +2/+2를 부여하는\n'더 많은 팔!'을 내 손으로 가져옵니다.\n\t\t\tDaj_stronnikowi_+2/+2. Dodaj „Zręczność!” do twojej ręki. Daje_+2/+2.\n\t\t\tConceda +2/+2 a um lacaio. Adicione \"Mais Braços!\" à sua mão, que concede +2/+2.\n\t\t\tВыбранное существо получает +2/+2. Вы кладете в руку «Лишние руки», которые дают +2/+2.\n\t\t\tมอบ +2/+2 ให้มินเนี่ยนหนึ่งตัว เพิ่มการ์ด 'แขนงอกเพิ่ม!' ที่มอบ +2/+2 หนึ่งใบในมือคุณ\n\t\t\t使一个随从获得+2/+2。将一张可使一个随从获得+2/+2的“更多手臂”置入你的手牌。\n\t\t\t賦予一個手下\n+2/+2，並放可賦予\n+2/+2的<i><b>更多手臂！</b></i>\n到你的手中\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Großmutter, warum hast du so viele Arme? – Damit ich dich besser drücken kann!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "All the better to hug you with!"
+          },
+          "esES": {
+            "present": true,
+            "value": "¡Son para abrazarte mejor!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "¡Para abrazarte mejor!"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Tout ça parce qu’on lui a dit « Pas de bras, pas de chocolat »…"
+          },
+          "itIT": {
+            "present": true,
+            "value": "È per abbracciarti meglio!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「それはね…お前を抱きしめるためさ！」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "안아 줄 팔이 더 생겼군요!"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Jak przytulać, to na całego!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "É para te abraçar melhor!"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Кому бесплатные обнимашки?"
+          },
+          "thTH": {
+            "present": true,
+            "value": "จะได้กอดเจ้าถนัดๆ ไงล่ะ!"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "让我好好抱抱你！"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "這樣才好抱你啊！"
+          }
+        },
+        "textContent": "\n\t\t\tGroßmutter, warum hast du so viele Arme? – Damit ich dich besser drücken kann!\n\t\t\tAll the better to hug you with!\n\t\t\t¡Son para abrazarte mejor!\n\t\t\t¡Para abrazarte mejor!\n\t\t\tTout ça parce qu’on lui a dit « Pas de bras, pas de chocolat »…\n\t\t\tÈ per abbracciarti meglio!\n\t\t\t「それはね…お前を抱きしめるためさ！」\n\t\t\t안아 줄 팔이 더 생겼군요!\n\t\t\tJak przytulać, to na całego!\n\t\t\tÉ para te abraçar melhor!\n\t\t\tКому бесплатные обнимашки?\n\t\t\tจะได้กอดเจ้าถนัดๆ ไงล่ะ!\n\t\t\t让我好好抱抱你！\n\t\t\t這樣才好抱你啊！\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Nicola Saviori"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Extraarme"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Extra Arms"
+          },
+          "esES": {
+            "present": true,
+            "value": "Brazos extras"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Brazos extra"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Bras supplémentaires"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Braccia Aggiuntive"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "倍増する腕"
+          },
+          "koKR": {
+            "present": true,
+            "value": "여분 팔"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Dodatkowe ręce"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Braços Extras"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Пара рук"
+          },
+          "thTH": {
+            "present": true,
+            "value": "แขนงอก"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "增生手臂"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "額外的手臂"
+          }
+        },
+        "textContent": "\n\t\tExtraarme\n\t\tExtra Arms\n\t\tBrazos extras\n\t\tBrazos extra\n\t\tBras supplémentaires\n\t\tBraccia Aggiuntive\n\t\t倍増する腕\n\t\t여분 팔\n\t\tDodatkowe ręce\n\t\tBraços Extras\n\t\tПара рук\n\t\tแขนงอก\n\t\t增生手臂\n\t\t額外的手臂\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Verleiht einem Diener +2/+2. Erhaltet Mehr Arme auf die Hand (verleiht +2/+2)."
+          },
+          "enUS": {
+            "present": true,
+            "value": "[x]Give a minion +2/+2.\nAdd 'More Arms!' to your\nhand that gives +2/+2."
+          },
+          "esES": {
+            "present": true,
+            "value": "[x]Otorga a un esbirro +2/+2.\nAñade «¡Más brazos!»\na tu mano, que otorga\n+2/+2 al jugarla."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Otorga +2/+2 a un esbirro. Agrega a tu mano \"¡Más brazos!\", que otorga +2/+2."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Donne_+2/+2 à un serviteur. Ajoute dans votre main la carte À tour de bras qui donne_+2/+2 à un serviteur."
+          },
+          "itIT": {
+            "present": true,
+            "value": "[x]+2/+2 a un servitore.\nMette nella tua mano\nuna Magia Più Braccia\nche fornisce +2/+2."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "[x]ミニオン1体に\n+2/+2を付与する。\n「増殖する腕」\n（+2/+2を付与）1枚を\n__自分の手札に追加する。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]하수인에게 +2/+2를\n부여합니다. +2/+2를\n부여하는 '더 많은 팔!'을\n내 손으로 가져옵니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Daj_stronnikowi_+2/+2. Dodaj „Zręczność!” do twojej ręki. Daje_+2/+2."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Conceda +2/+2 a um lacaio. Adicione \"Mais Braços!\" à sua mão, que concede +2/+2."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Существо получает +2/+2. Вы кладете в руку «Лишние руки», которые дают +2/+2."
+          },
+          "thTH": {
+            "present": true,
+            "value": "มอบ_+2/+2_ให้มินเนี่ยน[b]หนึ่งตัว_เพิ่ม_'แขนงอกเพิ่ม!'_ที่[b]มอบ_+2/+2_หนึ่งใบในมือคุณ"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "使一个随从获得+2/+2。将一张可使一个随从获得+2/+2的“更多手臂”置入你的手牌。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "賦予一個手下\n+2/+2，並放可賦予\n+2/+2的<i><b>更多手臂！</b></i>\n到你的手中"
+          }
+        },
+        "textContent": "\n\t\tVerleiht einem Diener +2/+2. Erhaltet Mehr Arme auf die Hand (verleiht +2/+2).\n\t\t[x]Give a minion +2/+2.\nAdd 'More Arms!' to your\nhand that gives +2/+2.\n\t\t[x]Otorga a un esbirro +2/+2.\nAñade «¡Más brazos!»\na tu mano, que otorga\n+2/+2 al jugarla.\n\t\tOtorga +2/+2 a un esbirro. Agrega a tu mano \"¡Más brazos!\", que otorga +2/+2.\n\t\tDonne_+2/+2 à un serviteur. Ajoute dans votre main la carte À tour de bras qui donne_+2/+2 à un serviteur.\n\t\t[x]+2/+2 a un servitore.\nMette nella tua mano\nuna Magia Più Braccia\nche fornisce +2/+2.\n\t\t[x]ミニオン1体に\n+2/+2を付与する。\n「増殖する腕」\n（+2/+2を付与）1枚を\n__自分の手札に追加する。\n\t\t[x]하수인에게 +2/+2를\n부여합니다. +2/+2를\n부여하는 '더 많은 팔!'을\n내 손으로 가져옵니다.\n\t\tDaj_stronnikowi_+2/+2. Dodaj „Zręczność!” do twojej ręki. Daje_+2/+2.\n\t\tConceda +2/+2 a um lacaio. Adicione \"Mais Braços!\" à sua mão, que concede +2/+2.\n\t\tСущество получает +2/+2. Вы кладете в руку «Лишние руки», которые дают +2/+2.\n\t\tมอบ_+2/+2_ให้มินเนี่ยน[b]หนึ่งตัว_เพิ่ม_'แขนงอกเพิ่ม!'_ที่[b]มอบ_+2/+2_หนึ่งใบในมือคุณ\n\t\t使一个随从获得+2/+2。将一张可使一个随从获得+2/+2的“更多手臂”置入你的手牌。\n\t\t賦予一個手下\n+2/+2，並放可賦予\n+2/+2的<i><b>更多手臂！</b></i>\n到你的手中\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Großmutter, warum hast du so viele Arme? – Damit ich dich besser drücken kann!"
+          },
+          "enUS": {
+            "present": true,
+            "value": "All the better to hug you with!"
+          },
+          "esES": {
+            "present": true,
+            "value": "¡Son para abrazarte mejor!"
+          },
+          "esMX": {
+            "present": true,
+            "value": "¡Para abrazarte mejor!"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Tout ça parce qu’on lui a dit « Pas de bras, pas de chocolat »…"
+          },
+          "itIT": {
+            "present": true,
+            "value": "È per abbracciarti meglio!"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "「それはね…お前を抱きしめるためさ！」"
+          },
+          "koKR": {
+            "present": true,
+            "value": "안아 줄 팔이 더 생겼군요!"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Jak przytulać, to na całego!"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "É para te abraçar melhor!"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Кому бесплатные обнимашки?"
+          },
+          "thTH": {
+            "present": true,
+            "value": "จะได้กอดเจ้าถนัดๆ ไงล่ะ!"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "让我好好抱抱你！"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "這樣才好抱你啊！"
+          }
+        },
+        "textContent": "\n\t\tGroßmutter, warum hast du so viele Arme? – Damit ich dich besser drücken kann!\n\t\tAll the better to hug you with!\n\t\t¡Son para abrazarte mejor!\n\t\t¡Para abrazarte mejor!\n\t\tTout ça parce qu’on lui a dit « Pas de bras, pas de chocolat »…\n\t\tÈ per abbracciarti meglio!\n\t\t「それはね…お前を抱きしめるためさ！」\n\t\t안아 줄 팔이 더 생겼군요!\n\t\tJak przytulać, to na całego!\n\t\tÉ para te abraçar melhor!\n\t\tКому бесплатные обнимашки?\n\t\tจะได้กอดเจ้าถนัดๆ ไงล่ะ!\n\t\t让我好好抱抱你！\n\t\t這樣才好抱你啊！\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Nicola Saviori"
+      }
     }
   },
   "_current": {

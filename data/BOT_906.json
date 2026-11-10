@@ -83,6 +83,416 @@
     "currentStringTagPresence": {
       "184": true,
       "185": true
+    },
+    "launchStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Leuchtron"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Glow-Tron"
+          },
+          "esES": {
+            "present": true,
+            "value": "Brillotrón"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Brillotrón"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Lumitron"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Brillatron"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "グロウトロン"
+          },
+          "koKR": {
+            "present": true,
+            "value": "발광로봇"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Migotron"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Brilhotron"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Яркотрон"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โกลว์-ทรอน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "格洛顿"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "光亮機器人"
+          }
+        },
+        "textContent": "\n\t\t\tLeuchtron\n\t\t\tGlow-Tron\n\t\t\tBrillotrón\n\t\t\tBrillotrón\n\t\t\tLumitron\n\t\t\tBrillatron\n\t\t\tグロウトロン\n\t\t\t발광로봇\n\t\t\tMigotron\n\t\t\tBrilhotron\n\t\t\tЯркотрон\n\t\t\tโกลว์-ทรอน\n\t\t\t格洛顿\n\t\t\t光亮機器人\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Magnetisch</b>"
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Magnetic</b>"
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Magnetismo</b>"
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Magnetismo</b>"
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Magnétisme</b>"
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>Magnetismo</b>"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>超電磁</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>합체</b>"
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Magnetyzm</b>"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Magnético</b>"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Магнетизм</b>"
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>แม่เหล็ก</b>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>磁力</b>"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>合體</b>"
+          }
+        },
+        "textContent": "\n\t\t\t<b>Magnetisch</b>\n\t\t\t<b>Magnetic</b>\n\t\t\t<b>Magnetismo</b>\n\t\t\t<b>Magnetismo</b>\n\t\t\t<b>Magnétisme</b>\n\t\t\t<b>Magnetismo</b>\n\t\t\t<b>超電磁</b>\n\t\t\t<b>합체</b>\n\t\t\t<b>Magnetyzm</b>\n\t\t\t<b>Magnético</b>\n\t\t\t<b>Магнетизм</b>\n\t\t\t<b>แม่เหล็ก</b>\n\t\t\t<b>磁力</b>\n\t\t\t<b>合體</b>\n\t\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Wochenlang haben sie versucht, eine Tarnversion mit Verstohlenheit zu erschaffen, aber irgendwann hat es auch ihnen_... eingeleuchtet."
+          },
+          "enUS": {
+            "present": true,
+            "value": "They tried for weeks to make a stealth version, but eventually decided to just let it glow."
+          },
+          "esES": {
+            "present": true,
+            "value": "Durante semanas, intentaron crear una versión que se pudiera camuflar, pero al final decidieron dejarle brillar."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Pasaron semanas tratando de hacer una versión sigilosa, pero al final decidieron dejar que brillara."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Ils ont tenté de l’améliorer pendant des semaines mais se sont vite retrouvés à court d’idées lumineuses."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Hanno provato per settimane a crearne una versione furtiva, ma l'idea si è rivelata poco brillante."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "研究員たちは何週間もかけてステルス性能を持たせようと試行錯誤したが、結局あきらめて好きに光らせるようにした。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "물지 않아요. 빛이 나서 발광입니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Projekt zakładał budowę niewykrywalnego bota do infiltracji, ale coś poszło nie tak."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Pensaram em fazer uma versão com furtividade, mas mudaram de ideia quando alguém deu uma luz."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "После долгих попыток сделать более незаметную модель инженеры решили: да гори оно синим пламенем!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "พวกเขาเคยพยายามสร้างรุ่นที่ซ่อนตัวได้ แต่สุดท้ายก็ตัดสินใจ[b]ปล่อยให้มันได้เปล่งประกาย"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "设计师耗费数周试图打造潜行版，最终还是因为罩子太亮而放弃了。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "花了好幾週開發潛行功能，但因為太光亮只好放棄了。"
+          }
+        },
+        "textContent": "\n\t\t\tWochenlang haben sie versucht, eine Tarnversion mit Verstohlenheit zu erschaffen, aber irgendwann hat es auch ihnen_... eingeleuchtet.\n\t\t\tThey tried for weeks to make a stealth version, but eventually decided to just let it glow.\n\t\t\tDurante semanas, intentaron crear una versión que se pudiera camuflar, pero al final decidieron dejarle brillar.\n\t\t\tPasaron semanas tratando de hacer una versión sigilosa, pero al final decidieron dejar que brillara.\n\t\t\tIls ont tenté de l’améliorer pendant des semaines mais se sont vite retrouvés à court d’idées lumineuses.\n\t\t\tHanno provato per settimane a crearne una versione furtiva, ma l'idea si è rivelata poco brillante.\n\t\t\t研究員たちは何週間もかけてステルス性能を持たせようと試行錯誤したが、結局あきらめて好きに光らせるようにした。\n\t\t\t물지 않아요. 빛이 나서 발광입니다.\n\t\t\tProjekt zakładał budowę niewykrywalnego bota do infiltracji, ale coś poszło nie tak.\n\t\t\tPensaram em fazer uma versão com furtividade, mas mudaram de ideia quando alguém deu uma luz.\n\t\t\tПосле долгих попыток сделать более незаметную модель инженеры решили: да гори оно синим пламенем!\n\t\t\tพวกเขาเคยพยายามสร้างรุ่นที่ซ่อนตัวได้ แต่สุดท้ายก็ตัดสินใจ[b]ปล่อยให้มันได้เปล่งประกาย\n\t\t\t设计师耗费数周试图打造潜行版，最终还是因为罩子太亮而放弃了。\n\t\t\t花了好幾週開發潛行功能，但因為太光亮只好放棄了。\n\t\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Mike Azevedo"
+      }
+    },
+    "currentStringTags": {
+      "185": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Leuchtron"
+          },
+          "enUS": {
+            "present": true,
+            "value": "Glow-Tron"
+          },
+          "esES": {
+            "present": true,
+            "value": "Brillotrón"
+          },
+          "esMX": {
+            "present": true,
+            "value": "Brillotrón"
+          },
+          "frFR": {
+            "present": true,
+            "value": "Lumitron"
+          },
+          "itIT": {
+            "present": true,
+            "value": "Brillatron"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "グロウトロン"
+          },
+          "koKR": {
+            "present": true,
+            "value": "발광로봇"
+          },
+          "plPL": {
+            "present": true,
+            "value": "Migotron"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Brilhotron"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "Яркотрон"
+          },
+          "thTH": {
+            "present": true,
+            "value": "โกลว์-ทรอน"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "格洛顿"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "光亮機器人"
+          }
+        },
+        "textContent": "\n\t\tLeuchtron\n\t\tGlow-Tron\n\t\tBrillotrón\n\t\tBrillotrón\n\t\tLumitron\n\t\tBrillatron\n\t\tグロウトロン\n\t\t발광로봇\n\t\tMigotron\n\t\tBrilhotron\n\t\tЯркотрон\n\t\tโกลว์-ทรอน\n\t\t格洛顿\n\t\t光亮機器人\n\t"
+      },
+      "184": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "<b>Magnetisch</b>"
+          },
+          "enUS": {
+            "present": true,
+            "value": "<b>Magnetic</b>"
+          },
+          "esES": {
+            "present": true,
+            "value": "<b>Magnetismo</b>"
+          },
+          "esMX": {
+            "present": true,
+            "value": "<b>Magnetismo</b>"
+          },
+          "frFR": {
+            "present": true,
+            "value": "<b>Magnétisme</b>"
+          },
+          "itIT": {
+            "present": true,
+            "value": "<b>Magnetismo</b>"
+          },
+          "jaJP": {
+            "present": true,
+            "value": "<b>超電磁</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>합체</b>"
+          },
+          "plPL": {
+            "present": true,
+            "value": "<b>Magnetyzm</b>"
+          },
+          "ptBR": {
+            "present": true,
+            "value": "<b>Magnético</b>"
+          },
+          "ruRU": {
+            "present": true,
+            "value": "<b>Магнетизм</b>"
+          },
+          "thTH": {
+            "present": true,
+            "value": "<b>แม่เหล็ก</b>"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "<b>磁力</b>"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "<b>合體</b>"
+          }
+        },
+        "textContent": "\n\t\t<b>Magnetisch</b>\n\t\t<b>Magnetic</b>\n\t\t<b>Magnetismo</b>\n\t\t<b>Magnetismo</b>\n\t\t<b>Magnétisme</b>\n\t\t<b>Magnetismo</b>\n\t\t<b>超電磁</b>\n\t\t<b>합체</b>\n\t\t<b>Magnetyzm</b>\n\t\t<b>Magnético</b>\n\t\t<b>Магнетизм</b>\n\t\t<b>แม่เหล็ก</b>\n\t\t<b>磁力</b>\n\t\t<b>合體</b>\n\t"
+      },
+      "351": {
+        "present": true,
+        "type": "LocString",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {
+          "deDE": {
+            "present": true,
+            "value": "Wochenlang haben sie versucht, eine Tarnversion mit Verstohlenheit zu erschaffen, aber irgendwann hat es auch ihnen_... eingeleuchtet."
+          },
+          "enUS": {
+            "present": true,
+            "value": "They tried for weeks to make a stealth version, but eventually decided to just let it glow."
+          },
+          "esES": {
+            "present": true,
+            "value": "Durante semanas, intentaron crear una versión que se pudiera camuflar, pero al final decidieron dejarle brillar."
+          },
+          "esMX": {
+            "present": true,
+            "value": "Pasaron semanas tratando de hacer una versión sigilosa, pero al final decidieron dejar que brillara."
+          },
+          "frFR": {
+            "present": true,
+            "value": "Ils ont tenté de l’améliorer pendant des semaines mais se sont vite retrouvés à court d’idées lumineuses."
+          },
+          "itIT": {
+            "present": true,
+            "value": "Hanno provato per settimane a crearne una versione furtiva, ma l'idea si è rivelata poco brillante."
+          },
+          "jaJP": {
+            "present": true,
+            "value": "研究員たちは何週間もかけてステルス性能を持たせようと試行錯誤したが、結局あきらめて好きに光らせるようにした。"
+          },
+          "koKR": {
+            "present": true,
+            "value": "물지 않아요. 빛이 나서 발광입니다."
+          },
+          "plPL": {
+            "present": true,
+            "value": "Projekt zakładał budowę niewykrywalnego bota do infiltracji, ale coś poszło nie tak."
+          },
+          "ptBR": {
+            "present": true,
+            "value": "Pensaram em fazer uma versão com furtividade, mas mudaram de ideia quando alguém deu uma luz."
+          },
+          "ruRU": {
+            "present": true,
+            "value": "После долгих попыток сделать более незаметную модель инженеры решили: да гори оно синим пламенем!"
+          },
+          "thTH": {
+            "present": true,
+            "value": "พวกเขาเคยพยายามสร้างรุ่นที่ซ่อนตัวได้ แต่สุดท้ายก็ตัดสินใจ[b]ปล่อยให้มันได้เปล่งประกาย"
+          },
+          "zhCN": {
+            "present": true,
+            "value": "设计师耗费数周试图打造潜行版，最终还是因为罩子太亮而放弃了。"
+          },
+          "zhTW": {
+            "present": true,
+            "value": "花了好幾週開發潛行功能，但因為太光亮只好放棄了。"
+          }
+        },
+        "textContent": "\n\t\tWochenlang haben sie versucht, eine Tarnversion mit Verstohlenheit zu erschaffen, aber irgendwann hat es auch ihnen_... eingeleuchtet.\n\t\tThey tried for weeks to make a stealth version, but eventually decided to just let it glow.\n\t\tDurante semanas, intentaron crear una versión que se pudiera camuflar, pero al final decidieron dejarle brillar.\n\t\tPasaron semanas tratando de hacer una versión sigilosa, pero al final decidieron dejar que brillara.\n\t\tIls ont tenté de l’améliorer pendant des semaines mais se sont vite retrouvés à court d’idées lumineuses.\n\t\tHanno provato per settimane a crearne una versione furtiva, ma l'idea si è rivelata poco brillante.\n\t\t研究員たちは何週間もかけてステルス性能を持たせようと試行錯誤したが、結局あきらめて好きに光らせるようにした。\n\t\t물지 않아요. 빛이 나서 발광입니다.\n\t\tProjekt zakładał budowę niewykrywalnego bota do infiltracji, ale coś poszło nie tak.\n\t\tPensaram em fazer uma versão com furtividade, mas mudaram de ideia quando alguém deu uma luz.\n\t\tПосле долгих попыток сделать более незаметную модель инженеры решили: да гори оно синим пламенем!\n\t\tพวกเขาเคยพยายามสร้างรุ่นที่ซ่อนตัวได้ แต่สุดท้ายก็ตัดสินใจ[b]ปล่อยให้มันได้เปล่งประกาย\n\t\t设计师耗费数周试图打造潜行版，最终还是因为罩子太亮而放弃了。\n\t\t花了好幾週開發潛行功能，但因為太光亮只好放棄了。\n\t"
+      },
+      "342": {
+        "present": true,
+        "type": "String",
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "locales": {},
+        "textContent": "Mike Azevedo"
+      }
     }
   },
   "_current": {
