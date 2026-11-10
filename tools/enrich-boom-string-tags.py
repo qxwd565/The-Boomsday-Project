@@ -29,10 +29,12 @@ def extract(path, wanted, expected_sha, expected_count):
             entity.clear()
             continue
         tags={}
+        owned={}
         for tag in list(entity):
             if tag.tag.rsplit("}",1)[-1] != "Tag" or "enumID" not in tag.attrib:
                 continue
             tid=str(int(tag.attrib["enumID"]))
+            owned[tid]=str(tag.attrib.get("value",""))
             locales={}
             for child in list(tag):
                 locale=child.tag.rsplit("}",1)[-1]
@@ -53,7 +55,7 @@ def extract(path, wanted, expected_sha, expected_count):
         if cid in out:
             raise ValueError(f"{cid}: duplicate entity in {path.name}")
         dbf=entity.attrib.get("ID")
-        out[cid]={"dbfId":int(dbf) if dbf and dbf.isdigit() else None,"stringTags":tags}
+        out[cid]={"dbfId":int(dbf) if dbf and dbf.isdigit() else None,"owned":owned,"stringTags":tags}
         entity.clear()
     if len(out)!=expected_count:
         raise ValueError(f"{path.name}: parsed {len(out)} cards, expected {expected_count}")
@@ -83,7 +85,7 @@ def main():
         if cid=="BOT_270t":
             initial=source["2018-08-08"]
             if "rarity" not in initial:
-                if launch[cid]["stringTags"] is None or initial.get("nativeTagsOwned",{}).get("203")!="1":
+                if launch[cid]["owned"].get("203")!="1" or initial.get("nativeTagsOwned",{}).get("203")!="1":
                     raise ValueError("BOT_270t: launch RARITY=COMMON evidence missing")
                 initial["rarity"]="COMMON"
             if initial["rarity"]!="COMMON":
