@@ -54,13 +54,92 @@ def main():
  cards=catalog["cards"]; ids={x["id"] for x in cards}; byid={x["id"]:x for x in cards}; rbyid={x["id"]:x for x in render["cards"]}
  assert len(manifest["entries"])==37 and all(len(x["commit"])==40 and len(x["xmlSha256"])==64 and len(x["extractionSha256"])==64 and len(x["gitBlobSHA1"])==40 for x in manifest["entries"])
  xml={}
- for build in (25770,26757,27358,31022,31268,33157,33402,44222,77662,155409,158725,163976,165029,168129,168788,170126,170824,198314,198608,209698,210009,195316,195635,217489,217964,237510,247416,256589):
+ for build in sorted(bybuild):
   meta=bybuild[build]; path=xml_dir/f"{build}.xml"
   assert hashlib.sha256(path.read_bytes()).hexdigest()==meta["xmlSha256"],(build,"XML SHA")
   parsed=parse_xml(path,ids)
   assert len(parsed)==meta["observedCardCount"],(build,"entity count")
   assert set(ids)-set(parsed)==set(meta.get("absentOriginalIds",[])),(build,"missing original IDs")
   xml[build]=parsed
+ # Parse and inspect every immutable archive in the 37-entry manifest, including
+ # intermediate snapshots used only to establish undated representation changes.
+ assert len(xml)==37 and set(xml)==set(bybuild)
+ def xml_tag(cid,build,role,tag_id):
+  return xml[build][cid][role].get(str(tag_id),"ABSENT")
+ def xml_text(cid,build,locale="koKR"):
+  return xml[build][cid]["strings"].get("184",{}).get("locales",{}).get(locale,{}).get("value")
+ def undated_tag(cid,tag_id,role,before,after):
+  matches=[x for x in central.get("observations",{}).get("undatedRawTags",{}).get(cid,[])
+           if x["tagId"]==tag_id and x["role"]==role]
+  assert any(x["before"]==before and x["after"]==after and x["date"] is None for x in matches),(
+   cid,tag_id,role,before,after,"undated raw-tag observation")
+ # R001: choice UI cost metadata only; no dated gameplay COST event.
+ for cid in ("BOT_422a","BOT_422b"):
+  assert xml_tag(cid,30103,"owned",48)=="ABSENT" and xml_tag(cid,30795,"owned",48)=="6",(cid,"choice COST XML")
+ assert xml_text("BOT_422a",30103)=="[x]내 다른 하수인들에게\\n+1/+1을 부여합니다."
+ assert xml_text("BOT_422a",30795)==xml_text("BOT_422a",30103)
+ assert xml_text("BOT_422b",30103)=="2/2 나무정령을 둘 소환합니다."
+ assert xml_text("BOT_422b",30795)==xml_text("BOT_422b",30103)
+ for cid in ("BOT_422a","BOT_422b"):
+  undated=central["observations"]["undated"][cid]["cost"]
+  assert undated["date"] is None and undated["before"]=="ABSENT" and undated["after"]==6,(cid,"undated choice cost")
+  undated_tag(cid,48,"owned","ABSENT","6")
+ # R002: non-collectible token rarity metadata removal, not gameplay.
+ assert xml_tag("BOT_270t",27358,"owned",203)=="1"
+ assert xml_tag("BOT_270t",27405,"owned",203)=="ABSENT"
+ assert xml_text("BOT_270t",27358)==xml_text("BOT_270t",27405)
+ undated_tag("BOT_270t",203,"owned","1","ABSENT")
+ # R003: OVERLOAD_OWED removal does not change owned OVERLOAD or printed wording.
+ for cid,value in (("BOT_246","2"),("BOT_451","1")):
+  assert xml_tag(cid,28556,"owned",296)==value
+  assert xml_tag(cid,28855,"owned",296)=="ABSENT"
+  assert xml_tag(cid,28556,"owned",215)==value and xml_tag(cid,28855,"owned",215)==value
+  assert xml_text(cid,28556)==xml_text(cid,28855)
+  undated_tag(cid,296,"owned",value,"ABSENT")
+ # R004: SPELLPOWER raw normalization leaves printed +2 text intact.
+ assert xml_tag("BOT_604",209698,"owned",192)=="2"
+ assert xml_tag("BOT_604",210009,"owned",192)=="1"
+ assert xml_text("BOT_604",209698)=="<b>주문 공격력 +2</b>"
+ assert xml_text("BOT_604",210009)==xml_text("BOT_604",209698)
+ undated_tag("BOT_604",192,"owned","2","1")
+ # R007: temporary wording is an undated observation, with exact [x] and LF.
+ bot568_before="[x]카드를 3장 뽑습니다.\\n내 턴이 끝날 때,\\n그 카드들을 버립니다."
+ bot568_after="[x]카드를 3장 뽑습니다.\\n그 카드들은 <b>일시적</b>입니다."
+ assert xml_text("BOT_568",202360)==bot568_before
+ assert xml_text("BOT_568",203120)==bot568_after
+ assert xml_tag("BOT_568",202360,"referenced",3630)=="ABSENT"
+ assert xml_tag("BOT_568",203120,"referenced",3630)=="1"
+ for field,value in (("text",display_text(bot568_before)),("nativeRawText",bot568_before)):
+  observation=central["observations"]["undated"]["BOT_568"][field]
+  assert observation["date"] is None and observation["before"]==value,(field,"BOT_568 undated before")
+ assert central["observations"]["undated"]["BOT_568"]["nativeRawText"]["after"]==bot568_after
+ undated_tag("BOT_568",3630,"referenced","ABSENT","1")
+ # R008: original bomb text keeps [x]; later keyword wording has no invented date.
+ bot511_before="[x]내게 피해를 5 줍니다.\\n카드를 1장 뽑습니다.\\n이 카드를 뽑아도\\n폭발합니다."
+ bot511_after="<b>뽑을 때 시전</b>\\n내게 피해를 5 줍니다."
+ assert xml_text("BOT_511t",25770)==bot511_before
+ assert xml_text("BOT_511t",26757)==bot511_after
+ assert xml_tag("BOT_511t",26757,"referenced",1077)=="1"
+ undated=central["observations"]["undated"]["BOT_511t"]["nativeRawText"]
+ assert undated["date"] is None and undated["before"]==bot511_before,("BOT_511t undated raw")
+ # R009: six Discover references move from ReferencedTag 415 to owned Tag 415.
+ discover_cards=("BOT_238p4","BOT_243","BOT_402","BOT_419","BOT_435","BOT_539")
+ for cid in discover_cards:
+  assert xml_tag(cid,31761,"referenced",415)=="1",(cid,"discover reference before")
+  assert xml_tag(cid,32708,"referenced",415)=="ABSENT",(cid,"discover reference after")
+  assert xml_tag(cid,32708,"owned",415)=="1",(cid,"discover owned after")
+  undated_tag(cid,415,"referenced","1","ABSENT")
+  undated_tag(cid,415,"owned","ABSENT","1")
+ for cid in ("BOT_238p4","BOT_435"):
+  assert xml_tag(cid,31761,"referenced",1052)=="1"
+  assert xml_tag(cid,32708,"owned",1052)=="1" and xml_tag(cid,32708,"referenced",1052)=="ABSENT"
+ for cid in ("BOT_243","BOT_402","BOT_419","BOT_539"):
+  assert xml_tag(cid,32708,"owned",1342)=="1"
+ # BOT_237: launch wording is not the later pre-29.0 wording; only the confirmed
+ # 2024 representation transition is dated.
+ assert xml_text("BOT_237",25770)=="<b>합체</b>, 이 하수인은 주문이나 영웅 능력의 대상으로 지정되지 않습니다."
+ assert xml_text("BOT_237",195316)=="[x]<b>합체</b>, 주문이나\\n영웅 능력의 대상으로\\n지정되지 않습니다."
+ assert xml_text("BOT_237",195635)=="<b>합체</b>, <b>모면</b>"
  assert len(cards)==155 and sum(bool(x.get("collectible")) for x in cards)==136
  assert len(obs["intentionalRulesAndAvailability"])==9 and len(obs["displayAndNativeRepresentationContext"])==11
  assert sum(not bool(x.get("collectible")) for x in cards)==19
