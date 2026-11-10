@@ -40,7 +40,7 @@ def main():
   current=src["_current"]
   # Verify date-first logical replay against current, but retain unresolved differences as undated evidence.
   logical_diff={}
-  for field in set(state)|set(current):
+  for field in sorted(set(state)|set(current)):
    if field.startswith("nativeTags") or field in ("rawTagDelta","source"): continue
    a=state.get(field,"ABSENT"); b=current.get(field,"ABSENT")
    if a!=b: logical_diff[field]={"before":copy.deepcopy(a),"after":copy.deepcopy(b),"date":None}
