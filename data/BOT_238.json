@@ -1,1 +1,655 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_238","dbfId":48146,"name":"정신 나간 천재 박사 붐","type":"HERO","cardClass":"WARRIOR","rarity":"LEGENDARY","collectible":true,"cost":7,"text":"<b>전투의 함성:</b><br></br>이번 게임 동안<br></br>내 기계들이 <b>속공</b>을 얻습니다.","attack":0,"health":30,"durability":0,"armor":7,"flavor":"\"당연히 정신이 나갔지. 천재 중에 안 그런 사람이 있어?\"","spellSchool":"","portrait":"HS14-020_H.psd:01abf2132abe86e488640c0cb9b85156","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":30},{"id":48,"name":"마나 비용","value":7},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":3},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":292,"name":"방어도","value":7},{"id":321,"name":"수집 가능","value":1},{"id":380,"name":"영웅 능력","value":48145},{"id":791,"name":"속공","value":1},{"id":2839,"name":"감정 표현 캐릭터","value":511}],"races":[],"race":"","classes":[],"art":"art/BOT_238.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-020_H.psd:01abf2132abe86e488640c0cb9b85156","goldenMaterial":"BOT_238_PremiumCard.mat:61bfcfb9ecad9c7468f22559f3e01e05","goldenAnimation":"BOT_238_PremiumCard.asset:21ced90795f99644391199a2971f4588"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-020_H.psd:01abf2132abe86e488640c0cb9b85156",
+      "goldenMaterial": "BOT_238_PremiumCard.mat:61bfcfb9ecad9c7468f22559f3e01e05",
+      "goldenAnimation": "BOT_238_PremiumCard.asset:21ced90795f99644391199a2971f4588"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Dr. Boom, Mad Genius"
+          },
+          "koKR": {
+            "present": true,
+            "value": "정신 나간 천재 박사 붐"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tIrres Genie Dr. Bumm\n\t\t\tDr. Boom, Mad Genius\n\t\t\tDr. Bum, el Genio Loco\n\t\t\tDr. Bum, científico loco\n\t\t\tDr Boum, savant fou\n\t\t\tDott. Boom il Genio Folle\n\t\t\t狂気の天才ドクター・ブーム\n\t\t\t정신 나간 천재 박사 붐\n\t\t\tDoktor Huk, Szalony Geniusz\n\t\t\tDr. Cabum, o Gênio Louco\n\t\t\tБезумный гений Бум\n\t\t\tด็อกเตอร์บูม อัจฉริยะผู้บ้าคลั่ง\n\t\t\t“科学狂人”砰砰博士\n\t\t\t瘋狂天才爆爆博士\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> For the rest of the game, your Mechs have <b>Rush</b>."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n이번 게임 동안\n내 기계들이 <b>속공</b>을 얻습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Für den Rest des Spiels haben Eure Mechs <b>Eifer</b>.\n\t\t\t<b>Battlecry:</b> For the rest of the game, your Mechs have <b>Rush</b>.\n\t\t\t<b>Grito de batalla:</b>\nDurante el resto\nde la partida, tus robots tienen <b>Embestir</b>.\n\t\t\t<b>Grito de batalla:</b> durante el resto de la partida, tus Mecas tienen <b>Acometida</b>.\n\t\t\t<b>Cri de guerre_:</b> pendant le reste de la partie, vos Méca ont <b>Ruée</b>.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nper il resto della\npartita, i tuoi Robot\nhanno <b>Assalto</b>.\n\t\t\t[x]<b>雄叫び:</b>\nこの対戦中\n自分のメカは全て\n__<b>急襲</b>を得る。\n\t\t\t<b>전투의 함성:</b>\n이번 게임 동안\n내 기계들이 <b>속공</b>을 얻습니다.\n\t\t\t<b>Okrzyk bojowy:</b>\nDo końca gry twoje Mechy mają <b>Zryw</b>.\n\t\t\t<b>Grito de Guerra:</b> Pelo resto da partida, seus Mecanoides têm <b>Rapidez</b>.\n\t\t\t[x]<b>Боевой клич:</b> до конца\nматча у ваших механизмов\nесть <b>«Натиск»</b>.\n\t\t\t<b>คำรามสู้ศึก:</b> เครื่องจักรของคุณมี <b>จู่โจม</b> จนจบเกม\n\t\t\t<b>战吼：</b>在本局对战的剩余时间内，你的所有机械获得\n<b>突袭</b>。\n\t\t\t<b>戰吼：</b>在本賽局中，你的機械獲得<b>衝刺</b>\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Dr. Boom, Mad Genius"
+          },
+          "koKR": {
+            "present": true,
+            "value": "정신 나간 천재 박사 붐"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tIrres Genie Dr. Bumm\n\t\tDr. Boom, Mad Genius\n\t\tDr. Bum, el Genio Loco\n\t\tDr. Bum, científico loco\n\t\tDr Boum, savant fou\n\t\tDott. Boom il Genio Folle\n\t\t狂気の天才ドクター・ブーム\n\t\t정신 나간 천재 박사 붐\n\t\tDoktor Huk, Szalony Geniusz\n\t\tDr. Cabum, o Gênio Louco\n\t\tБезумный гений Бум\n\t\tด็อกเตอร์บูม อัจฉริยะผู้บ้าคลั่ง\n\t\t“科学狂人”砰砰博士\n\t\t瘋狂天才爆爆博士\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> For the rest of the game, your Mechs have <b>Rush</b>."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n이번 게임 동안\n내 기계들이 <b>속공</b>을 얻습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Für den Rest des Spiels haben Eure Mechs <b>Eifer</b>.\n\t\t<b>Battlecry:</b> For the rest of the game, your Mechs have <b>Rush</b>.\n\t\t<b>Grito de batalla:</b>\nDurante el resto\nde la partida, tus robots tienen <b>Embestir</b>.\n\t\t<b>Grito de batalla:</b> durante el resto de la partida, tus Mecas tienen <b>Acometida</b>.\n\t\t<b>Cri de guerre_:</b> pendant le reste de la partie, vos Méca ont <b>Ruée</b>.\n\t\t[x]<b>Grido di Battaglia:</b>\nper il resto della\npartita, i tuoi Robot\nhanno <b>Assalto</b>.\n\t\t[x]<b>雄叫び:</b>\nこの対戦中\n自分のメカは全て\n__<b>急襲</b>を得る。\n\t\t<b>전투의 함성:</b>\n이번 게임 동안\n내 기계들이 <b>속공</b>을 얻습니다.\n\t\t<b>Okrzyk bojowy:</b>\nDo końca gry twoje Mechy mają <b>Zryw</b>.\n\t\t<b>Grito de Guerra:</b> Pelo resto da partida, seus Mecanoides têm <b>Rapidez</b>.\n\t\t[x]<b>Боевой клич:</b> до конца\nматча у ваших механизмов\nесть <b>«Натиск»</b>.\n\t\t<b>คำรามสู้ศึก:</b>_เครื่องจักร[b]ของคุณมี_<b>จู่โจม</b>_จากนี้[b]ไปจนจบเกม\n\t\t<b>战吼：</b>在本局对战的剩余时间内，你的所有机械拥有\n<b>突袭</b>。\n\t\t<b>戰吼：</b>在本賽局中，你的機械獲得<b>衝刺</b>\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_238",
+    "dbfId": 48146,
+    "name": "정신 나간 천재 박사 붐",
+    "type": "HERO",
+    "cardClass": "WARRIOR",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>전투의 함성:</b><br></br>이번 게임 동안<br></br>내 기계들이 <b>속공</b>을 얻습니다.",
+    "health": 30,
+    "armor": 7,
+    "flavor": "\"당연히 정신이 나갔지. 천재 중에 안 그런 사람이 있어?\"",
+    "portrait": "HS14-020_H.psd:01abf2132abe86e488640c0cb9b85156",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 30
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 3
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 292,
+        "name": "방어도",
+        "value": 7
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 380,
+        "name": "영웅 능력",
+        "value": 48145
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 2839,
+        "name": "감정 표현 캐릭터",
+        "value": 511
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_238.png",
+    "nativeRawText": "<b>전투의 함성:</b>\n이번 게임 동안\n내 기계들이 <b>속공</b>을 얻습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "30",
+      "48": "7",
+      "114": "1",
+      "183": "1127",
+      "199": "10",
+      "202": "3",
+      "203": "5",
+      "218": "1",
+      "292": "7",
+      "321": "1",
+      "380": "48145",
+      "2839": "511"
+    },
+    "nativeTagsReferenced": {
+      "791": "1"
+    }
+  },
+  "2018-08-08": {
+    "id": "BOT_238",
+    "dbfId": 48146,
+    "name": "정신 나간 천재 박사 붐",
+    "type": "HERO",
+    "cardClass": "WARRIOR",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>전투의 함성:</b><br></br>이번 게임 동안<br></br>내 기계들이 <b>속공</b>을 얻습니다.",
+    "health": 30,
+    "armor": 7,
+    "flavor": "\"당연히 정신이 나갔지. 천재 중에 안 그런 사람이 있어?\"",
+    "portrait": "HS14-020_H.psd:01abf2132abe86e488640c0cb9b85156",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 30
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 3
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 292,
+        "name": "방어도",
+        "value": 7
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 380,
+        "name": "영웅 능력",
+        "value": 48145
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_238.png",
+    "nativeRawText": "<b>전투의 함성:</b>\n이번 게임 동안\n내 기계들이 <b>속공</b>을 얻습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "30",
+      "48": "7",
+      "114": "1",
+      "183": "1127",
+      "199": "10",
+      "202": "3",
+      "203": "5",
+      "218": "1",
+      "292": "7",
+      "321": "1",
+      "380": "48145"
+    },
+    "nativeTagsReferenced": {
+      "791": "1"
+    },
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2019-08-27": {
+    "cost": 9,
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 30
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 9
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 3
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 292,
+        "name": "방어도",
+        "value": 7
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 380,
+        "name": "영웅 능력",
+        "value": 48145
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 48,
+        "before": "7",
+        "after": "9"
+      }
+    ],
+    "source": {
+      "beforeBuild": 33157,
+      "afterBuild": 33402,
+      "beforeCommit": "85b5a219afe49d5015725c344fd7412945a346b7",
+      "afterCommit": "dd224aedef671a1bad6479df2a0e9cb2ea6da3cc",
+      "beforeXmlSha256": "82b6923cd7304131586c3acdbbca4a9ff9a64cb1d6db7403bdaf3d4ef4f5b8d1",
+      "afterXmlSha256": "71d952172884246deac0bed81d20421f31b6d6796d684efee87abb0cc4625afa",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Dr. Boom, Mad Genius"
+            },
+            "koKR": {
+              "present": true,
+              "value": "정신 나간 천재 박사 붐"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tIrres Genie Dr. Bumm\n\t\t\tDr. Boom, Mad Genius\n\t\t\tDr. Bum, el Genio Loco\n\t\t\tDr. Bum, científico loco\n\t\t\tDr Boum, savant fou\n\t\t\tDott. Boom il Genio Folle\n\t\t\t狂気の天才ドクター・ブーム\n\t\t\t정신 나간 천재 박사 붐\n\t\t\tDoktor Huk, Szalony Geniusz\n\t\t\tDr. Cabum, o Gênio Louco\n\t\t\tБезумный гений Бум\n\t\t\tด็อกเตอร์บูม อัจฉริยะผู้บ้าคลั่ง\n\t\t\t“科学狂人”砰砰博士\n\t\t\t瘋狂天才爆爆博士\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Battlecry:</b> For the rest of the game, your Mechs have <b>Rush</b>."
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>전투의 함성:</b>\n이번 게임 동안\n내 기계들이 <b>속공</b>을 얻습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Kampfschrei:</b> Für den Rest des Spiels haben Eure Mechs <b>Eifer</b>.\n\t\t\t<b>Battlecry:</b> For the rest of the game, your Mechs have <b>Rush</b>.\n\t\t\t<b>Grito de batalla:</b>\nDurante el resto\nde la partida, tus robots tienen <b>Embestir</b>.\n\t\t\t<b>Grito de batalla:</b> durante el resto de la partida, tus Mecas tienen <b>Acometida</b>.\n\t\t\t<b>Cri de guerre_:</b> pendant le reste de la partie, vos Méca ont <b>Ruée</b>.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nper il resto della\npartita, i tuoi Robot\nhanno <b>Assalto</b>.\n\t\t\t[x]<b>雄叫び:</b>\nこの対戦中\n自分のメカは全て\n__<b>急襲</b>を得る。\n\t\t\t<b>전투의 함성:</b>\n이번 게임 동안\n내 기계들이 <b>속공</b>을 얻습니다.\n\t\t\t<b>Okrzyk bojowy:</b>\nDo końca gry twoje Mechy mają <b>Zryw</b>.\n\t\t\t<b>Grito de Guerra:</b> Pelo resto da partida, seus Mecanoides têm <b>Rapidez</b>.\n\t\t\t[x]<b>Боевой клич:</b> до конца\nматча у ваших механизмов\nесть <b>«Натиск»</b>.\n\t\t\t<b>คำรามสู้ศึก:</b> เครื่องจักรของคุณมี <b>จู่โจม</b> จนจบเกม\n\t\t\t<b>战吼：</b>在本局对战的剩余时间内，你的所有机械获得\n<b>突袭</b>。\n\t\t\t<b>戰吼：</b>在本賽局中，你的機械獲得<b>衝刺</b>\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Dr. Boom, Mad Genius"
+            },
+            "koKR": {
+              "present": true,
+              "value": "정신 나간 천재 박사 붐"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tIrres Genie Dr. Bumm\n\t\t\tDr. Boom, Mad Genius\n\t\t\tDr. Bum, el Genio Loco\n\t\t\tDr. Bum, científico loco\n\t\t\tDr Boum, savant fou\n\t\t\tDott. Boom il Genio Folle\n\t\t\t狂気の天才ドクター・ブーム\n\t\t\t정신 나간 천재 박사 붐\n\t\t\tDoktor Huk, Szalony Geniusz\n\t\t\tDr. Cabum, o Gênio Louco\n\t\t\tБезумный гений Бум\n\t\t\tด็อกเตอร์บูม อัจฉริยะผู้บ้าคลั่ง\n\t\t\t“科学狂人”砰砰博士\n\t\t\t瘋狂天才爆爆博士\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Battlecry:</b> For the rest of the game, your Mechs have <b>Rush</b>."
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>전투의 함성:</b>\n이번 게임 동안\n내 기계들이 <b>속공</b>을 얻습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Kampfschrei:</b> Für den Rest des Spiels haben Eure Mechs <b>Eifer</b>.\n\t\t\t<b>Battlecry:</b> For the rest of the game, your Mechs have <b>Rush</b>.\n\t\t\t<b>Grito de batalla:</b>\nDurante el resto\nde la partida, tus robots tienen <b>Embestir</b>.\n\t\t\t<b>Grito de batalla:</b> durante el resto de la partida, tus Mecas tienen <b>Acometida</b>.\n\t\t\t<b>Cri de guerre_:</b> pendant le reste de la partie, vos Méca ont <b>Ruée</b>.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nper il resto della\npartita, i tuoi Robot\nhanno <b>Assalto</b>.\n\t\t\t[x]<b>雄叫び:</b>\nこの対戦中\n自分のメカは全て\n__<b>急襲</b>を得る。\n\t\t\t<b>전투의 함성:</b>\n이번 게임 동안\n내 기계들이 <b>속공</b>을 얻습니다.\n\t\t\t<b>Okrzyk bojowy:</b>\nDo końca gry twoje Mechy mają <b>Zryw</b>.\n\t\t\t<b>Grito de Guerra:</b> Pelo resto da partida, seus Mecanoides têm <b>Rapidez</b>.\n\t\t\t[x]<b>Боевой клич:</b> до конца\nматча у ваших механизмов\nесть <b>«Натиск»</b>.\n\t\t\t<b>คำรามสู้ศึก:</b> เครื่องจักรของคุณมี <b>จู่โจม</b> จนจบเกม\n\t\t\t<b>战吼：</b>在本局对战的剩余时间内，你的所有机械获得\n<b>突袭</b>。\n\t\t\t<b>戰吼：</b>在本賽局中，你的機械獲得<b>衝刺</b>\n\t\t"
+        }
+      }
+    }
+  },
+  "2020-03-27": {
+    "cost": 7,
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 30
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 3
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 292,
+        "name": "방어도",
+        "value": 7
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 380,
+        "name": "영웅 능력",
+        "value": 48145
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 48,
+        "before": "9",
+        "after": "7"
+      }
+    ],
+    "source": {
+      "beforeBuild": 33402,
+      "afterBuild": 44222,
+      "beforeCommit": "dd224aedef671a1bad6479df2a0e9cb2ea6da3cc",
+      "afterCommit": "fc67953f6f6eee064badde3f4a7bd07011508642",
+      "beforeXmlSha256": "71d952172884246deac0bed81d20421f31b6d6796d684efee87abb0cc4625afa",
+      "afterXmlSha256": "abe292d304af3fec9d84707b8326cf4104e370b8fc93e8adfa2c1156988cfdf5",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Dr. Boom, Mad Genius"
+            },
+            "koKR": {
+              "present": true,
+              "value": "정신 나간 천재 박사 붐"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tIrres Genie Dr. Bumm\n\t\t\tDr. Boom, Mad Genius\n\t\t\tDr. Bum, el Genio Loco\n\t\t\tDr. Bum, científico loco\n\t\t\tDr Boum, savant fou\n\t\t\tDott. Boom il Genio Folle\n\t\t\t狂気の天才ドクター・ブーム\n\t\t\t정신 나간 천재 박사 붐\n\t\t\tDoktor Huk, Szalony Geniusz\n\t\t\tDr. Cabum, o Gênio Louco\n\t\t\tБезумный гений Бум\n\t\t\tด็อกเตอร์บูม อัจฉริยะผู้บ้าคลั่ง\n\t\t\t“科学狂人”砰砰博士\n\t\t\t瘋狂天才爆爆博士\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Battlecry:</b> For the rest of the game, your Mechs have <b>Rush</b>."
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>전투의 함성:</b>\n이번 게임 동안\n내 기계들이 <b>속공</b>을 얻습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Kampfschrei:</b> Für den Rest des Spiels haben Eure Mechs <b>Eifer</b>.\n\t\t\t<b>Battlecry:</b> For the rest of the game, your Mechs have <b>Rush</b>.\n\t\t\t<b>Grito de batalla:</b>\nDurante el resto\nde la partida, tus robots tienen <b>Embestir</b>.\n\t\t\t<b>Grito de batalla:</b> durante el resto de la partida, tus Mecas tienen <b>Acometida</b>.\n\t\t\t<b>Cri de guerre_:</b> pendant le reste de la partie, vos Méca ont <b>Ruée</b>.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nper il resto della\npartita, i tuoi Robot\nhanno <b>Assalto</b>.\n\t\t\t[x]<b>雄叫び:</b>\nこの対戦中\n自分のメカは全て\n__<b>急襲</b>を得る。\n\t\t\t<b>전투의 함성:</b>\n이번 게임 동안\n내 기계들이 <b>속공</b>을 얻습니다.\n\t\t\t<b>Okrzyk bojowy:</b>\nDo końca gry twoje Mechy mają <b>Zryw</b>.\n\t\t\t<b>Grito de Guerra:</b> Pelo resto da partida, seus Mecanoides têm <b>Rapidez</b>.\n\t\t\t[x]<b>Боевой клич:</b> до конца\nматча у ваших механизмов\nесть <b>«Натиск»</b>.\n\t\t\t<b>คำรามสู้ศึก:</b> เครื่องจักรของคุณมี <b>จู่โจม</b> จนจบเกม\n\t\t\t<b>战吼：</b>在本局对战的剩余时间内，你的所有机械获得\n<b>突袭</b>。\n\t\t\t<b>戰吼：</b>在本賽局中，你的機械獲得<b>衝刺</b>\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Dr. Boom, Mad Genius"
+            },
+            "koKR": {
+              "present": true,
+              "value": "정신 나간 천재 박사 붐"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tIrres Genie Dr. Bumm\n\t\t\tDr. Boom, Mad Genius\n\t\t\tDr. Bum, el Genio Loco\n\t\t\tDr. Bum, científico loco\n\t\t\tDr Boum, savant fou\n\t\t\tDott. Boom il Genio Folle\n\t\t\t狂気の天才ドクター・ブーム\n\t\t\t정신 나간 천재 박사 붐\n\t\t\tDoktor Huk, Szalony Geniusz\n\t\t\tDr. Cabum, o Gênio Louco\n\t\t\tБезумный гений Бум\n\t\t\tด็อกเตอร์บูม อัจฉริยะผู้บ้าคลั่ง\n\t\t\t“科学狂人”砰砰博士\n\t\t\t瘋狂天才爆爆博士\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Battlecry:</b> For the rest of the game, your Mechs have <b>Rush</b>."
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>전투의 함성:</b>\n이번 게임 동안\n내 기계들이 <b>속공</b>을 얻습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Kampfschrei:</b> Für den Rest des Spiels haben Eure Mechs <b>Eifer</b>.\n\t\t\t<b>Battlecry:</b> For the rest of the game, your Mechs have <b>Rush</b>.\n\t\t\t<b>Grito de batalla:</b>\nDurante el resto\nde la partida, tus robots tienen <b>Embestir</b>.\n\t\t\t<b>Grito de batalla:</b> durante el resto de la partida, tus Mecas tienen <b>Acometida</b>.\n\t\t\t<b>Cri de guerre_:</b> pendant le reste de la partie, vos Méca ont <b>Ruée</b>.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nper il resto della\npartita, i tuoi Robot\nhanno <b>Assalto</b>.\n\t\t\t[x]<b>雄叫び:</b>\nこの対戦中\n自分のメカは全て\n__<b>急襲</b>を得る。\n\t\t\t<b>전투의 함성:</b>\n이번 게임 동안\n내 기계들이 <b>속공</b>을 얻습니다.\n\t\t\t<b>Okrzyk bojowy:</b>\nDo końca gry twoje Mechy mają <b>Zryw</b>.\n\t\t\t<b>Grito de Guerra:</b> Pelo resto da partida, seus Mecanoides têm <b>Rapidez</b>.\n\t\t\t[x]<b>Боевой клич:</b> до конца\nматча у ваших механизмов\nесть <b>«Натиск»</b>.\n\t\t\t<b>คำรามสู้ศึก:</b> เครื่องจักรของคุณมี <b>จู่โจม</b> จนจบเกม\n\t\t\t<b>战吼：</b>在本局对战的剩余时间内，你的所有机械获得\n<b>突袭</b>。\n\t\t\t<b>戰吼：</b>在本賽局中，你的機械獲得<b>衝刺</b>\n\t\t"
+        }
+      }
+    }
+  }
+}

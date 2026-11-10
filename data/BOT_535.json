@@ -1,1 +1,310 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_535","dbfId":49164,"name":"초소형 로봇 조종사","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>전투의 함성:</b><br></br>1/1 초소형 로봇을<br></br>둘 소환합니다.","attack":2,"health":1,"durability":0,"armor":0,"flavor":"불티나게 팔리고 있는 책인 \"내가 완벽하게 조종할 수 있는 친구 만들기\"의 저자입니다.","spellSchool":"","portrait":"HS14-174_M.psd:d898e2e7a798b6542b080e5120e094c8","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":48842}],"races":[],"race":"","classes":[],"art":"art/BOT_535.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-174_M.psd:d898e2e7a798b6542b080e5120e094c8","goldenMaterial":"BOT_535_PremiumCard.mat:63cb65f322c7c764fbfd64149978c8a0","goldenAnimation":"BOT_535_PremiumCard.asset:05697b9a71d344641b0d927558bfa6c1"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-174_M.psd:d898e2e7a798b6542b080e5120e094c8",
+      "goldenMaterial": "BOT_535_PremiumCard.mat:63cb65f322c7c764fbfd64149978c8a0",
+      "goldenAnimation": "BOT_535_PremiumCard.asset:05697b9a71d344641b0d927558bfa6c1"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Microtech Controller"
+          },
+          "koKR": {
+            "present": true,
+            "value": "초소형 로봇 조종사"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tMikrotechnikerin\n\t\t\tMicrotech Controller\n\t\t\tPiloto de microbots\n\t\t\tControladora técnica\n\t\t\tContrôleuse de microbots\n\t\t\tPilota di Microbot\n\t\t\tマイクロロボ操縦者\n\t\t\t초소형 로봇 조종사\n\t\t\tKontrolerka mikrobotów\n\t\t\tMicrotécnica de Controle\n\t\t\tМикроконтроллер\n\t\t\tนักควบคุมหุ่นจิ๋ว\n\t\t\t微机操控者\n\t\t\t微機器遙控師\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Summon two 1/1 Microbots."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b>\n1/1 초소형 로봇을\n둘 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Ruft\n2 Mikrobots (1/1) herbei.\n\t\t\t<b>Battlecry:</b> Summon two 1/1 Microbots.\n\t\t\t<b>Grito de batalla:</b>\nInvoca dos microbots 1/1.\n\t\t\t<b>Grito de batalla:</b> invoca dos Microbots 1/1.\n\t\t\t<b>Cri de guerre_:</b> invoque deux microbots_1/1.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nevoca due Microbot 1/1.\n\t\t\t[x]<b>雄叫び:</b>\n1/1の\n「マイクロロボ」を\n___2体召喚する。\n\t\t\t[x]<b>전투의 함성:</b>\n1/1 초소형 로봇을\n둘 소환합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Przyzwij dwa Mikroboty 1/1.\n\t\t\t<b>Grito de Guerra:</b> Evoque dois Microrrobôs 1/1.\n\t\t\t<b>Боевой клич:</b> призывает двух микроботов 1/1.\n\t\t\t<b>คำรามสู้ศึก:</b> เรียกไมโครบอท 1/1 สองตัว\n\t\t\t<b>战吼：</b>召唤两个1/1的微型机器人。\n\t\t\t<b>戰吼：</b>召喚兩個\n1/1微型機器人\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Microtech Controller"
+          },
+          "koKR": {
+            "present": true,
+            "value": "초소형 로봇 조종사"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tMikrotechnikerin\n\t\tMicrotech Controller\n\t\tPiloto de microbots\n\t\tControladora técnica\n\t\tContrôleuse de microbots\n\t\tPilota di Microbot\n\t\tマイクロロボ操縦者\n\t\t초소형 로봇 조종사\n\t\tKontrolerka mikrobotów\n\t\tMicrotécnica de Controle\n\t\tМикроконтроллер\n\t\tนักควบคุมหุ่นจิ๋ว\n\t\t微机操控者\n\t\t微機器遙控師\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Summon two 1/1 Microbots."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b>\n1/1 초소형 로봇을\n둘 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Ruft\n2 Mikrobots (1/1) herbei.\n\t\t<b>Battlecry:</b> Summon two 1/1 Microbots.\n\t\t<b>Grito de batalla:</b>\nInvoca dos microbots 1/1.\n\t\t<b>Grito de batalla:</b> invoca dos Microbots 1/1.\n\t\t<b>Cri de guerre_:</b> invoque deux microbots_1/1.\n\t\t[x]<b>Grido di Battaglia:</b>\nevoca due Microbot 1/1.\n\t\t[x]<b>雄叫び:</b>\n1/1の\n「マイクロロボ」を\n___2体召喚する。\n\t\t[x]<b>전투의 함성:</b>\n1/1 초소형 로봇을\n둘 소환합니다.\n\t\t<b>Okrzyk bojowy:</b> Przyzwij dwa Mikroboty 1/1.\n\t\t<b>Grito de Guerra:</b> Evoque dois Microrrobôs 1/1.\n\t\t<b>Боевой клич:</b> призывает двух микроботов 1/1.\n\t\t<b>คำรามสู้ศึก:</b> เรียก[b]ไมโครบอท_1/1_สองตัว\n\t\t<b>战吼：</b>召唤两个1/1的微型机器人。\n\t\t<b>戰吼：</b>召喚兩個\n1/1微型機器人\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_535",
+    "dbfId": 49164,
+    "name": "초소형 로봇 조종사",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b><br></br>1/1 초소형 로봇을<br></br>둘 소환합니다.",
+    "attack": 2,
+    "health": 1,
+    "flavor": "불티나게 팔리고 있는 책인 \"내가 완벽하게 조종할 수 있는 친구 만들기\"의 저자입니다.",
+    "portrait": "HS14-174_M.psd:d898e2e7a798b6542b080e5120e094c8",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 48842
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_535.png",
+    "nativeRawText": "[x]<b>전투의 함성:</b>\n1/1 초소형 로봇을\n둘 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "1",
+      "47": "2",
+      "48": "3",
+      "183": "1127",
+      "199": "12",
+      "201": "3",
+      "202": "4",
+      "203": "1",
+      "218": "1",
+      "321": "1",
+      "1452": "48842"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_535",
+    "dbfId": 49164,
+    "name": "초소형 로봇 조종사",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b><br></br>1/1 초소형 로봇을<br></br>둘 소환합니다.",
+    "attack": 2,
+    "health": 1,
+    "flavor": "불티나게 팔리고 있는 책인 \"내가 완벽하게 조종할 수 있는 친구 만들기\"의 저자입니다.",
+    "portrait": "HS14-174_M.psd:d898e2e7a798b6542b080e5120e094c8",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_535.png",
+    "nativeRawText": "[x]<b>전투의 함성:</b>\n1/1 초소형 로봇을\n둘 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "1",
+      "47": "2",
+      "48": "3",
+      "183": "1127",
+      "199": "12",
+      "201": "3",
+      "202": "4",
+      "203": "1",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

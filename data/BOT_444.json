@@ -1,1 +1,482 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_444","dbfId":48837,"name":"플룹의 수상망측한 수액","type":"SPELL","cardClass":"DRUID","rarity":"LEGENDARY","collectible":true,"cost":1,"text":"이번 턴에 하수인이<br></br>죽을 때마다 마나 수정을<br></br>1개 회복합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"수많은 수순을 수없이 수립하고 수정하여 수습한 수상망측한 수액입니다!","spellSchool":"NATURE","portrait":"HS14-129_S.psd:96a61bf97dda7394897e0ecbfc6d299b","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":4}],"races":[],"race":"","classes":[],"art":"art/BOT_444.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-129_S.psd:96a61bf97dda7394897e0ecbfc6d299b","goldenMaterial":"BOT_444_PremiumCard.mat:ad4efe9325c2e604f97787489687b03f","goldenAnimation":"BOT_444_PremiumCard.asset:61d24206dee3f534ba729bb77f7ebf58"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-129_S.psd:96a61bf97dda7394897e0ecbfc6d299b",
+      "goldenMaterial": "BOT_444_PremiumCard.mat:ad4efe9325c2e604f97787489687b03f",
+      "goldenAnimation": "BOT_444_PremiumCard.asset:61d24206dee3f534ba729bb77f7ebf58"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Floop's Glorious Gloop"
+          },
+          "koKR": {
+            "present": true,
+            "value": "플룹의 수상망측한 수액"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tFlurps grandioser Glibber\n\t\t\tFloop's Glorious Gloop\n\t\t\tBaba gloriosa de Salívez\n\t\t\tViscosidad gloriosa de Mucus\n\t\t\tGloup glorieux de Floup\n\t\t\tMuco Glorioso di Melmo\n\t\t\tフループのスーパー肥料\n\t\t\t플룹의 수상망측한 수액\n\t\t\tFikuśny szlam Flusia\n\t\t\tGlub Magnífico do Flupe\n\t\t\tДивный охлюп\n\t\t\tกลู๊ปแสนวิเศษของฟลู๊ป\n\t\t\t弗洛普的神奇黏液\n\t\t\t弗洛普的神奇黏液\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Whenever a minion dies this turn, gain 1 Mana Crystal this turn only."
+          },
+          "koKR": {
+            "present": true,
+            "value": "이번 턴에\n하수인이 죽을 때마다 이번 턴에만 마나_수정을 1개 획득합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t[x]Jedes Mal, wenn in\ndiesem Zug ein Diener stirbt,\nerhaltet Ihr 1 Manakristall\nnur für diesen Zug.\n\t\t\tWhenever a minion dies this turn, gain 1 Mana Crystal this turn only.\n\t\t\t[x]Cada vez que un esbirro\nmuere en este turno,\nobtienes 1 cristal de maná\nsolo en este turno.\n\t\t\tCada vez que un esbirro muere durante este turno, obtienes 1 Cristal de maná solo en este turno.\n\t\t\tPendant ce tour uniquement, gagne 1_cristal de mana chaque fois qu’un serviteur meurt.\n\t\t\t[x]Quando muore un servitore\nin questo turno, fornisce\n1 Cristallo di Mana\n_solo per questo turno.\n\t\t\t[x]このターンに\nミニオンが死亡する度\nこのターンの間のみ\nマナクリスタルを1つ\n獲得する。\n\t\t\t이번 턴에\n하수인이 죽을 때마다 이번 턴에만 마나_수정을 1개 획득합니다.\n\t\t\tZa każdym razem, gdy w tej turze zginie stronnik, otrzymujesz 1 kryształ many na tę turę.\n\t\t\tSempre que um lacaio morrer neste turno, receba \n1 Cristal de Mana somente neste turno.\n\t\t\tКогда на этом ходу погибает существо, вы получаете 1 кристалл маны до конца хода.\n\t\t\tทุกครั้งที่มินเนี่ยนตาย[b]ในเทิร์นนี้ ได้รับคริสตัลมานา 1 อันเฉพาะเทิร์นนี้\n\t\t\t在本回合中，每当一个随从死亡，便获得一个仅限本回合可用的法力水晶。\n\t\t\t本回合每當有手下死亡，在本回合獲得額外1顆法力水晶\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Floop's Glorious Gloop"
+          },
+          "koKR": {
+            "present": true,
+            "value": "플룹의 수상망측한 수액"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tFlurps grandioser Glibber\n\t\tFloop's Glorious Gloop\n\t\tBaba gloriosa de Salívez\n\t\tViscosidad gloriosa de Mucus\n\t\tGloup glorieux de Floup\n\t\tMuco Glorioso di Melmo\n\t\tフループのスーパー肥料\n\t\t플룹의 수상망측한 수액\n\t\tFikuśny szlam Flusia\n\t\tGlub Magnífico do Flupe\n\t\tДивный охлюп\n\t\tกลู๊ปแสนวิเศษของฟลู้ป\n\t\t弗洛普的神奇黏液\n\t\t弗洛普的神奇黏液\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Whenever a minion dies this turn, refresh\na Mana Crystal."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]이번 턴에 하수인이\n죽을 때마다 마나 수정을\n1개 회복합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tFüllt jedes Mal einen Manakristall wieder auf, wenn in diesem Zug ein Diener stirbt.\n\t\tWhenever a minion dies this turn, refresh\na Mana Crystal.\n\t\t[x]Cada vez que un esbirro\nmuere en este turno,\nrepone un cristal de maná.\n\t\tCada vez que un esbirro muere durante este turno, restablece un Cristal de maná.\n\t\tPendant ce tour uniquement, réinitialise un cristal de mana chaque fois qu’un serviteur_meurt.\n\t\tQuando muore un servitore in questo turno, ricarica un Cristallo\ndi Mana.\n\t\t[x]このターンに\nミニオンが死亡する度\nマナクリスタル1つを\n再補充する。\n\t\t[x]이번 턴에 하수인이\n죽을 때마다 마나 수정을\n1개 회복합니다.\n\t\tOdśwież_kryształ_many za każdym razem, gdy_w_tej turze zginie_stronnik.\n\t\tSempre que um lacaio morrer neste turno, restaure um Cristal_de Mana.\n\t\tКогда на этом ходу погибает существо, вы восстанавливаете кристалл маны.\n\t\tทุกครั้งที่มินเนี่ยนตาย[b]ในเทิร์นนี้ ฟื้นฟู[b]คริสตัลมานาหนึ่งอัน\n\t\t在本回合中，每当一个随从死亡，复原一个法力水晶。\n\t\t每當本回合有手下死亡時，回復一顆法力水晶\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_444",
+    "dbfId": 48837,
+    "name": "플룹의 수상망측한 수액",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 1,
+    "text": "이번 턴에 하수인이<br></br>죽을 때마다 마나 수정을<br></br>1개 회복합니다.",
+    "flavor": "수많은 수순을 수없이 수립하고 수정하여 수습한 수상망측한 수액입니다!",
+    "spellSchool": "NATURE",
+    "portrait": "HS14-129_S.psd:96a61bf97dda7394897e0ecbfc6d299b",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_444.png",
+    "nativeRawText": "[x]이번 턴에 하수인이\n죽을 때마다 마나 수정을\n1개 회복합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "1",
+      "114": "1",
+      "183": "1127",
+      "199": "2",
+      "202": "5",
+      "203": "5",
+      "321": "1",
+      "1635": "4"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_444",
+    "dbfId": 48837,
+    "name": "플룹의 수상망측한 수액",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 1,
+    "text": "이번 턴에<br></br>하수인이 죽을 때마다 이번 턴에만 마나 수정을 1개 획득합니다.",
+    "flavor": "수많은 수순을 수없이 수립하고 수정하여 수습한 수상망측한 수액입니다!",
+    "spellSchool": "",
+    "portrait": "HS14-129_S.psd:96a61bf97dda7394897e0ecbfc6d299b",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_444.png",
+    "nativeRawText": "이번 턴에\n하수인이 죽을 때마다 이번 턴에만 마나_수정을 1개 획득합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "1",
+      "114": "1",
+      "183": "1127",
+      "199": "2",
+      "202": "5",
+      "203": "5",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2021-03-26": {
+    "spellSchool": "NATURE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 1635,
+        "before": "ABSENT",
+        "after": "4"
+      }
+    ],
+    "source": {
+      "beforeBuild": 44222,
+      "afterBuild": 77662,
+      "beforeCommit": "fc67953f6f6eee064badde3f4a7bd07011508642",
+      "afterCommit": "9e10b526eed8a9c5ece2f73f0c2a6a3b60109d62",
+      "beforeXmlSha256": "abe292d304af3fec9d84707b8326cf4104e370b8fc93e8adfa2c1156988cfdf5",
+      "afterXmlSha256": "36879caf88f629052e57d728d1fb3649a21f7198f649ab1cdc916c72ab1b8e29",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Floop's Glorious Gloop"
+            },
+            "koKR": {
+              "present": true,
+              "value": "플룹의 수상망측한 수액"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tFlurps grandioser Glibber\n\t\t\tFloop's Glorious Gloop\n\t\t\tBaba gloriosa de Salívez\n\t\t\tViscosidad gloriosa de Mucus\n\t\t\tGloup glorieux de Floup\n\t\t\tMuco Glorioso di Melmo\n\t\t\tフループのスーパー肥料\n\t\t\t플룹의 수상망측한 수액\n\t\t\tFikuśny szlam Flusia\n\t\t\tGlub Magnífico do Flupe\n\t\t\tДивный охлюп\n\t\t\tกลู๊ปแสนวิเศษของฟลู้ป\n\t\t\t弗洛普的神奇黏液\n\t\t\t弗洛普的神奇黏液\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Whenever a minion dies this turn, gain 1 Mana Crystal this turn only."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]이번 턴에 하수인이\n죽을 때마다 이번\n턴에만 마나_수정을\n1개 얻습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t[x]Jedes Mal, wenn in\ndiesem Zug ein Diener stirbt,\nerhaltet Ihr 1 Manakristall\nnur für diesen Zug.\n\t\t\tWhenever a minion dies this turn, gain 1 Mana Crystal this turn only.\n\t\t\t[x]Cada vez que un esbirro\nmuere en este turno,\nobtienes 1 cristal de maná\nsolo en este turno.\n\t\t\tCada vez que un esbirro muere durante este turno, obtienes 1 Cristal de maná solo en este turno.\n\t\t\tPendant ce tour uniquement, gagne 1_cristal de mana chaque fois qu’un serviteur meurt.\n\t\t\t[x]Quando muore un servitore\nin questo turno, fornisce\n1 Cristallo di Mana\n_solo per questo turno.\n\t\t\t[x]このターンに\nミニオンが死亡する度\nこのターンの間のみ\nマナクリスタルを1つ\n獲得する。\n\t\t\t[x]이번 턴에 하수인이\n죽을 때마다 이번\n턴에만 마나_수정을\n1개 얻습니다.\n\t\t\tZa każdym razem, gdy w tej turze zginie stronnik, otrzymujesz 1 kryształ many na tę turę.\n\t\t\tSempre que um lacaio morrer neste turno, receba \n1 Cristal de Mana somente neste turno.\n\t\t\tКогда на этом ходу погибает существо, вы получаете 1 кристалл маны до конца хода.\n\t\t\tทุกครั้งที่มินเนี่ยนตาย[b]ในเทิร์นนี้ ได้รับคริสตัลมานา 1 อันเฉพาะเทิร์นนี้\n\t\t\t在本回合中，每当一个随从死亡，便获得一个仅限本回合可用的法力水晶。\n\t\t\t本回合每當有手下死亡，在本回合獲得額外1顆法力水晶\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Floop's Glorious Gloop"
+            },
+            "koKR": {
+              "present": true,
+              "value": "플룹의 수상망측한 수액"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tFlurps grandioser Glibber\n\t\t\tFloop's Glorious Gloop\n\t\t\tBaba gloriosa de Salívez\n\t\t\tViscosidad gloriosa de Mucus\n\t\t\tGloup glorieux de Floup\n\t\t\tMuco Glorioso di Melmo\n\t\t\tフループのスーパー肥料\n\t\t\t플룹의 수상망측한 수액\n\t\t\tFikuśny szlam Flusia\n\t\t\tGlub Magnífico do Flupe\n\t\t\tДивный охлюп\n\t\t\tกลู๊ปแสนวิเศษของฟลู้ป\n\t\t\t弗洛普的神奇黏液\n\t\t\t弗洛普的神奇黏液\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Whenever a minion dies this turn, gain 1 Mana Crystal this turn only."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]이번 턴에 하수인이\n죽을 때마다 이번\n턴에만 마나_수정을\n1개 얻습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t[x]Jedes Mal, wenn in\ndiesem Zug ein Diener stirbt,\nerhaltet Ihr 1 Manakristall\nnur für diesen Zug.\n\t\t\tWhenever a minion dies this turn, gain 1 Mana Crystal this turn only.\n\t\t\t[x]Cada vez que un esbirro\nmuere en este turno,\nobtienes 1 cristal de maná\nsolo en este turno.\n\t\t\tCada vez que un esbirro muere durante este turno, obtienes 1 Cristal de maná solo en este turno.\n\t\t\tPendant ce tour uniquement, gagne 1_cristal de mana chaque fois qu’un serviteur meurt.\n\t\t\t[x]Quando muore un servitore\nin questo turno, fornisce\n1 Cristallo di Mana\n_solo per questo turno.\n\t\t\t[x]このターンに\nミニオンが死亡する度\nこのターンの間のみ\nマナクリスタルを1つ\n獲得する。\n\t\t\t[x]이번 턴에 하수인이\n죽을 때마다 이번\n턴에만 마나_수정을\n1개 얻습니다.\n\t\t\tZa każdym razem, gdy w tej turze zginie stronnik, otrzymujesz 1 kryształ many na tę turę.\n\t\t\tSempre que um lacaio morrer neste turno, receba \n1 Cristal de Mana somente neste turno.\n\t\t\tКогда на этом ходу погибает существо, вы получаете 1 кристалл маны до конца хода.\n\t\t\tทุกครั้งที่มินเนี่ยนตาย[b]ในเทิร์นนี้ ได้รับคริสตัลมานา 1 อันเฉพาะเทิร์นนี้\n\t\t\t在本回合中，每当一个随从死亡，便获得一个仅限本回合可用的法力水晶。\n\t\t\t本回合每當有手下死亡，在本回合獲得額外1顆法力水晶\n\t\t"
+        }
+      }
+    }
+  },
+  "2024-04-26": {
+    "text": "이번 턴에 하수인이<br></br>죽을 때마다 마나 수정을<br></br>1개 회복합니다.",
+    "nativeRawText": "[x]이번 턴에 하수인이\n죽을 때마다 마나 수정을\n1개 회복합니다.",
+    "source": {
+      "beforeBuild": 198314,
+      "afterBuild": 198608,
+      "beforeCommit": "ddc1e086647527fc739452d94d45a5c6c420b5f5",
+      "afterCommit": "006fdf0942b023459dded469f95aa613d81579c8",
+      "beforeXmlSha256": "9afc170ffd706ba492d273929af56f1e7030d77fefe4c2af5bf1934bb42d1b41",
+      "afterXmlSha256": "515c60eb13b4e9c3eff014f2d97865198769f586363a0680df7e10417e4dbfde",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Floop's Glorious Gloop"
+            },
+            "koKR": {
+              "present": true,
+              "value": "플룹의 수상망측한 수액"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tFlurps grandioser Glibber\n\t\t\tFloop's Glorious Gloop\n\t\t\tBaba gloriosa de Salívez\n\t\t\tViscosidad gloriosa de Mucus\n\t\t\tGloup glorieux de Floup\n\t\t\tMuco Glorioso di Melmo\n\t\t\tフループのスーパー肥料\n\t\t\t플룹의 수상망측한 수액\n\t\t\tFikuśny szlam Flusia\n\t\t\tGlub Magnífico do Flupe\n\t\t\tДивный охлюп\n\t\t\tกลู๊ปแสนวิเศษของฟลู้ป\n\t\t\t弗洛普的神奇黏液\n\t\t\t弗洛普的神奇黏液\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Whenever a minion dies this turn, gain 1 Mana Crystal this turn only."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]이번 턴에 하수인이\n죽을 때마다 이번\n턴에만 마나_수정을\n1개 얻습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t[x]Jedes Mal, wenn in\ndiesem Zug ein Diener stirbt,\nerhaltet Ihr 1 Manakristall\nnur für diesen Zug.\n\t\t\tWhenever a minion dies this turn, gain 1 Mana Crystal this turn only.\n\t\t\t[x]Cada vez que un esbirro\nmuere en este turno,\nobtienes 1 cristal de maná\nsolo en este turno.\n\t\t\tCada vez que un esbirro muere durante este turno, obtienes 1 Cristal de maná solo en este turno.\n\t\t\tPendant ce tour uniquement, gagne 1_cristal de mana chaque fois qu’un serviteur meurt.\n\t\t\t[x]Quando muore un servitore\nin questo turno, fornisce\n1 Cristallo di Mana\n_solo per questo turno.\n\t\t\t[x]このターンに\nミニオンが死亡する度\nこのターンの間のみ\nマナクリスタルを1つ\n獲得する。\n\t\t\t[x]이번 턴에 하수인이\n죽을 때마다 이번\n턴에만 마나_수정을\n1개 얻습니다.\n\t\t\tZa każdym razem, gdy w tej turze zginie stronnik, otrzymujesz 1 kryształ many na tę turę.\n\t\t\tSempre que um lacaio morrer neste turno, receba \n1 Cristal de Mana somente neste turno.\n\t\t\tКогда на этом ходу погибает существо, вы получаете 1 кристалл маны до конца хода.\n\t\t\tทุกครั้งที่มินเนี่ยนตาย[b]ในเทิร์นนี้ ได้รับคริสตัลมานา 1 อันเฉพาะเทิร์นนี้\n\t\t\t在本回合中，每当一个随从死亡，便获得一个仅限本回合可用的法力水晶。\n\t\t\t本回合每當有手下死亡，在本回合獲得額外1顆法力水晶\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Floop's Glorious Gloop"
+            },
+            "koKR": {
+              "present": true,
+              "value": "플룹의 수상망측한 수액"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tFlurps grandioser Glibber\n\t\t\tFloop's Glorious Gloop\n\t\t\tBaba gloriosa de Salívez\n\t\t\tViscosidad gloriosa de Mucus\n\t\t\tGloup glorieux de Floup\n\t\t\tMuco Glorioso di Melmo\n\t\t\tフループのスーパー肥料\n\t\t\t플룹의 수상망측한 수액\n\t\t\tFikuśny szlam Flusia\n\t\t\tGlub Magnífico do Flupe\n\t\t\tДивный охлюп\n\t\t\tกลู๊ปแสนวิเศษของฟลู้ป\n\t\t\t弗洛普的神奇黏液\n\t\t\t弗洛普的神奇黏液\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Whenever a minion dies this turn, refresh\na Mana Crystal."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]이번 턴에 하수인이\n죽을 때마다 마나 수정을\n1개 회복합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tFüllt jedes Mal einen Manakristall wieder auf, wenn in diesem Zug ein Diener stirbt.\n\t\t\tWhenever a minion dies this turn, refresh\na Mana Crystal.\n\t\t\t[x]Cada vez que un esbirro\nmuere en este turno,\nrepone un cristal de maná.\n\t\t\tCada vez que un esbirro muere durante este turno, restablece un Cristal de maná.\n\t\t\tPendant ce tour uniquement, réinitialise un cristal de mana chaque fois qu’un serviteur_meurt.\n\t\t\tQuando muore un servitore in questo turno, ricarica un Cristallo\ndi Mana.\n\t\t\t[x]このターンに\nミニオンが死亡する度\nマナクリスタル1つを\n再補充する。\n\t\t\t[x]이번 턴에 하수인이\n죽을 때마다 마나 수정을\n1개 회복합니다.\n\t\t\tOdśwież_kryształ_many za każdym razem, gdy_w_tej turze zginie_stronnik.\n\t\t\tSempre que um lacaio morrer neste turno, restaure um Cristal_de Mana.\n\t\t\tКогда на этом ходу погибает существо, вы восстанавливаете кристалл маны.\n\t\t\tทุกครั้งที่มินเนี่ยนตาย[b]ในเทิร์นนี้ ฟื้นฟู[b]คริสตัลมานาหนึ่งอัน\n\t\t\t在本回合中，每当一个随从死亡，复原一个法力水晶。\n\t\t\t每當本回合有手下死亡時，回復一顆法力水晶\n\t\t"
+        }
+      }
+    }
+  }
+}

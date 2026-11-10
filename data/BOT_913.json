@@ -1,1 +1,385 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_913","dbfId":50432,"name":"악마학 프로젝트","type":"SPELL","cardClass":"WARLOCK","rarity":"COMMON","collectible":true,"cost":2,"text":"각 플레이어의 손에 있는<br></br>무작위 하수인을 무작위<br></br>악마로 변신시킵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"조별 과제지만 자락서스는 역시나 하는 게 없군요.","spellSchool":"SHADOW","portrait":"HS14-152_S.psd:18e0caf59f8db364eb40d483ecba0cbc","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":6}],"races":[],"race":"","classes":[],"art":"art/BOT_913.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-152_S.psd:18e0caf59f8db364eb40d483ecba0cbc","goldenMaterial":"BOT_913_PremiumCard.mat:b4f99459b19616a49a13ce51075bf910","goldenAnimation":"BOT_913_PremiumCard.asset:66034972ccda1424ab82febff43be35e"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-152_S.psd:18e0caf59f8db364eb40d483ecba0cbc",
+      "goldenMaterial": "BOT_913_PremiumCard.mat:b4f99459b19616a49a13ce51075bf910",
+      "goldenAnimation": "BOT_913_PremiumCard.asset:66034972ccda1424ab82febff43be35e"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Demonic Project"
+          },
+          "koKR": {
+            "present": true,
+            "value": "악마학 프로젝트"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tDämonisches Projekt\n\t\t\tDemonic Project\n\t\t\tProyecto demoníaco\n\t\t\tProyecto demoníaco\n\t\t\tProjet démoniaque\n\t\t\tProgetto: Demoni\n\t\t\t悪魔化プロジェクト\n\t\t\t악마학 프로젝트\n\t\t\tDemoniczny projekt\n\t\t\tProjeto Demoníaco\n\t\t\tПроект по демонологии\n\t\t\tโครงการปลุกปีศาจ\n\t\t\t恶魔计划\n\t\t\t惡魔研究計畫\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Each player transforms a random minion in their hand into a Demon."
+          },
+          "koKR": {
+            "present": true,
+            "value": "각 플레이어의 손에 있는 무작위 하수인 하나씩을 무작위 악마로 변신시킵니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tVerwandelt einen zufälligen Diener auf der Hand jedes Spielers in einen Dämon.\n\t\t\tEach player transforms a random minion in their hand into a Demon.\n\t\t\t[x]Cada jugador transforma\na un esbirro aleatorio\nde su mano en un\ndemonio.\n\t\t\tCada jugador transforma un esbirro aleatorio de su mano en un Demonio.\n\t\t\tChaque joueur transforme un serviteur aléatoire de sa main en démon.\n\t\t\tOgni giocatore trasforma un servitore casuale nella propria mano in un Demone.\n\t\t\t[x]各プレイヤーは\n手札のランダムな\nミニオン1体を悪魔に\n変身させる。\n\t\t\t각 플레이어의 손에 있는 무작위 하수인 하나씩을 무작위 악마로 변신시킵니다.\n\t\t\tKażdy gracz przemienia losowego stronnika w swojej ręce w Demona.\n\t\t\tCada jogador transforma um lacaio aleatório da mão em um Demônio.\n\t\t\tПревращает по случайному существу в_руке каждого игрока в демона.\n\t\t\tสุ่มเปลี่ยนมินเนี่ยน[b]หนึ่งใบในมือผู้เล่นทุกคน[b]เป็นมินเนี่ยนปีศาจ\n\t\t\t每个玩家将其手牌中的一张随机随从牌变形成为一张\n恶魔牌。\n\t\t\t雙方將手中的一個隨機手下變形為惡魔\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Demonic Project"
+          },
+          "koKR": {
+            "present": true,
+            "value": "악마학 프로젝트"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tDämonisches Projekt\n\t\tDemonic Project\n\t\tProyecto demoníaco\n\t\tProyecto demoníaco\n\t\tProjet démoniaque\n\t\tProgetto: Demoni\n\t\t悪魔化プロジェクト\n\t\t악마학 프로젝트\n\t\tDemoniczny projekt\n\t\tProjeto Demoníaco\n\t\tПроект по демонологии\n\t\tโครงการปลุกปีศาจ\n\t\t恶魔计划\n\t\t惡魔研究計畫\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Each player transforms a random minion in their hand into a Demon."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]각 플레이어의 손에 있는\n무작위 하수인을 무작위\n악마로 변신시킵니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tVerwandelt einen zufälligen Diener auf der Hand jedes Spielers in einen Dämon.\n\t\tEach player transforms a random minion in their hand into a Demon.\n\t\t[x]Cada jugador transforma\na un esbirro aleatorio\nde su mano en un\ndemonio.\n\t\tCada jugador transforma un esbirro aleatorio de su mano en un Demonio.\n\t\tChaque joueur transforme un serviteur aléatoire de sa main en Démon.\n\t\tOgni giocatore trasforma un servitore casuale nella propria mano in un Demone.\n\t\t[x]各プレイヤーは\n手札のランダムな\nミニオン1体を悪魔に\n変身させる。\n\t\t[x]각 플레이어의 손에 있는\n무작위 하수인을 무작위\n악마로 변신시킵니다.\n\t\tKażdy gracz przemienia losowego stronnika w swojej ręce w Demona.\n\t\tCada jogador transforma um lacaio aleatório da mão em um Demônio.\n\t\tПревращает по случайному существу в_руке каждого игрока в демона.\n\t\tสุ่มเปลี่ยนมินเนี่ยน[b]หนึ่งใบในมือผู้เล่น[b]ทุกคนเป็นปีศาจ\n\t\t随机将每个玩家手牌中的一张随从牌变形成为一张\n恶魔牌。\n\t\t雙方將手中的一個隨機手下變形為惡魔\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_913",
+    "dbfId": 50432,
+    "name": "악마학 프로젝트",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "각 플레이어의 손에 있는<br></br>무작위 하수인을 무작위<br></br>악마로 변신시킵니다.",
+    "flavor": "조별 과제지만 자락서스는 역시나 하는 게 없군요.",
+    "spellSchool": "SHADOW",
+    "portrait": "HS14-152_S.psd:18e0caf59f8db364eb40d483ecba0cbc",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_913.png",
+    "nativeRawText": "[x]각 플레이어의 손에 있는\n무작위 하수인을 무작위\n악마로 변신시킵니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "2",
+      "183": "1127",
+      "199": "9",
+      "202": "5",
+      "203": "1",
+      "321": "1",
+      "1635": "6"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_913",
+    "dbfId": 50432,
+    "name": "악마학 프로젝트",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "각 플레이어의 손에 있는 무작위 하수인 하나씩을 무작위 악마로 변신시킵니다.",
+    "flavor": "조별 과제지만 자락서스는 역시나 하는 게 없군요.",
+    "spellSchool": "",
+    "portrait": "HS14-152_S.psd:18e0caf59f8db364eb40d483ecba0cbc",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_913.png",
+    "nativeRawText": "각 플레이어의 손에 있는 무작위 하수인 하나씩을 무작위 악마로 변신시킵니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "2",
+      "183": "1127",
+      "199": "9",
+      "202": "5",
+      "203": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2021-03-26": {
+    "spellSchool": "SHADOW",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 1635,
+        "before": "ABSENT",
+        "after": "6"
+      }
+    ],
+    "source": {
+      "beforeBuild": 44222,
+      "afterBuild": 77662,
+      "beforeCommit": "fc67953f6f6eee064badde3f4a7bd07011508642",
+      "afterCommit": "9e10b526eed8a9c5ece2f73f0c2a6a3b60109d62",
+      "beforeXmlSha256": "abe292d304af3fec9d84707b8326cf4104e370b8fc93e8adfa2c1156988cfdf5",
+      "afterXmlSha256": "36879caf88f629052e57d728d1fb3649a21f7198f649ab1cdc916c72ab1b8e29",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Demonic Project"
+            },
+            "koKR": {
+              "present": true,
+              "value": "악마학 프로젝트"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tDämonisches Projekt\n\t\t\tDemonic Project\n\t\t\tProyecto demoníaco\n\t\t\tProyecto demoníaco\n\t\t\tProjet démoniaque\n\t\t\tProgetto: Demoni\n\t\t\t悪魔化プロジェクト\n\t\t\t악마학 프로젝트\n\t\t\tDemoniczny projekt\n\t\t\tProjeto Demoníaco\n\t\t\tПроект по демонологии\n\t\t\tโครงการปลุกปีศาจ\n\t\t\t恶魔计划\n\t\t\t惡魔研究計畫\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Each player transforms a random minion in their hand into a Demon."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]각 플레이어의 손에 있는\n무작위 하수인을 무작위\n악마로 변신시킵니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tVerwandelt einen zufälligen Diener auf der Hand jedes Spielers in einen Dämon.\n\t\t\tEach player transforms a random minion in their hand into a Demon.\n\t\t\t[x]Cada jugador transforma\na un esbirro aleatorio\nde su mano en un\ndemonio.\n\t\t\tCada jugador transforma un esbirro aleatorio de su mano en un Demonio.\n\t\t\tChaque joueur transforme un serviteur aléatoire de sa main en Démon.\n\t\t\tOgni giocatore trasforma un servitore casuale nella propria mano in un Demone.\n\t\t\t[x]各プレイヤーは\n手札のランダムな\nミニオン1体を悪魔に\n変身させる。\n\t\t\t[x]각 플레이어의 손에 있는\n무작위 하수인을 무작위\n악마로 변신시킵니다.\n\t\t\tKażdy gracz przemienia losowego stronnika w swojej ręce w Demona.\n\t\t\tCada jogador transforma um lacaio aleatório da mão em um Demônio.\n\t\t\tПревращает по случайному существу в_руке каждого игрока в демона.\n\t\t\tสุ่มเปลี่ยนมินเนี่ยน[b]หนึ่งใบในมือผู้เล่นทุกคน[b]เป็นมินเนี่ยนปีศาจ\n\t\t\t随机将每个玩家手牌中的一张随从牌变形成为一张\n恶魔牌。\n\t\t\t雙方將手中的一個隨機手下變形為惡魔\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Demonic Project"
+            },
+            "koKR": {
+              "present": true,
+              "value": "악마학 프로젝트"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tDämonisches Projekt\n\t\t\tDemonic Project\n\t\t\tProyecto demoníaco\n\t\t\tProyecto demoníaco\n\t\t\tProjet démoniaque\n\t\t\tProgetto: Demoni\n\t\t\t悪魔化プロジェクト\n\t\t\t악마학 프로젝트\n\t\t\tDemoniczny projekt\n\t\t\tProjeto Demoníaco\n\t\t\tПроект по демонологии\n\t\t\tโครงการปลุกปีศาจ\n\t\t\t恶魔计划\n\t\t\t惡魔研究計畫\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Each player transforms a random minion in their hand into a Demon."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]각 플레이어의 손에 있는\n무작위 하수인을 무작위\n악마로 변신시킵니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tVerwandelt einen zufälligen Diener auf der Hand jedes Spielers in einen Dämon.\n\t\t\tEach player transforms a random minion in their hand into a Demon.\n\t\t\t[x]Cada jugador transforma\na un esbirro aleatorio\nde su mano en un\ndemonio.\n\t\t\tCada jugador transforma un esbirro aleatorio de su mano en un Demonio.\n\t\t\tChaque joueur transforme un serviteur aléatoire de sa main en Démon.\n\t\t\tOgni giocatore trasforma un servitore casuale nella propria mano in un Demone.\n\t\t\t[x]各プレイヤーは\n手札のランダムな\nミニオン1体を悪魔に\n変身させる。\n\t\t\t[x]각 플레이어의 손에 있는\n무작위 하수인을 무작위\n악마로 변신시킵니다.\n\t\t\tKażdy gracz przemienia losowego stronnika w swojej ręce w Demona.\n\t\t\tCada jogador transforma um lacaio aleatório da mão em um Demônio.\n\t\t\tПревращает по случайному существу в_руке каждого игрока в демона.\n\t\t\tสุ่มเปลี่ยนมินเนี่ยน[b]หนึ่งใบในมือผู้เล่นทุกคน[b]เป็นมินเนี่ยนปีศาจ\n\t\t\t随机将每个玩家手牌中的一张随从牌变形成为一张\n恶魔牌。\n\t\t\t雙方將手中的一個隨機手下變形為惡魔\n\t\t"
+        }
+      }
+    }
+  }
+}

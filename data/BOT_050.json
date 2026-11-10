@@ -1,1 +1,320 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_050","dbfId":47888,"name":"녹슨 청소부","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":5,"text":"<b>도발</b><br></br><b>생명력 흡수</b>","attack":2,"health":6,"durability":0,"armor":0,"flavor":"자기 자신은 청소할 수 없습니다.","spellSchool":"","portrait":"HS14-171_M.psd:23cae0092baccaa4080ca13fca0668cf","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":0},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":685,"name":"생명력 흡수","value":1}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/BOT_050.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-171_M.psd:23cae0092baccaa4080ca13fca0668cf","goldenMaterial":"BOT_050_PremiumCard.mat:2d4ecfd2f2b34d644989d2c0fa4676ff","goldenAnimation":"BOT_050_PremiumCard.asset:9ddcecd0593b0734e9cf5c5286c402a0"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-171_M.psd:23cae0092baccaa4080ca13fca0668cf",
+      "goldenMaterial": "BOT_050_PremiumCard.mat:2d4ecfd2f2b34d644989d2c0fa4676ff",
+      "goldenAnimation": "BOT_050_PremiumCard.asset:9ddcecd0593b0734e9cf5c5286c402a0"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Rusty Recycler"
+          },
+          "koKR": {
+            "present": true,
+            "value": "녹슨 청소부"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tRostiger Recycler\n\t\t\tRusty Recycler\n\t\t\tReciclador oxidado\n\t\t\tReciclador oxidado\n\t\t\tRecycleur rouillé\n\t\t\tRiciclatore Arrugginito\n\t\t\t錆びついたリサイクラー\n\t\t\t녹슨 청소부\n\t\t\tZardzewiały śmieciobot\n\t\t\tReciclador Enferrujado\n\t\t\tРжавый утилизатор\n\t\t\tหุ่นรีไซเคิลขึ้นสนิม\n\t\t\t生锈的回收机器人\n\t\t\t生鏽的回收者\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Taunt</b>\n<b>Lifesteal</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>도발</b>\n<b>생명력 흡수</b>"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Spott</b>, <b>Lebensentzug</b>\n\t\t\t<b>Taunt</b>\n<b>Lifesteal</b>\n\t\t\t<b>Provocar</b>\n<b>Robo de vida</b>\n\t\t\t<b>Provocación</b>\n<b>Robavida</b>\n\t\t\t<b>Provocation</b>\n<b>Vol de vie</b>\n\t\t\t[x]<b>Provocazione</b>.\n<b>Furto Vitale</b>.\n\t\t\t<b>挑発</b>\n<b>生命奪取</b>\n\t\t\t<b>도발</b>\n<b>생명력 흡수</b>\n\t\t\t<b>Prowokacja</b>\n<b>Kradzież życia</b>\n\t\t\t<b>Provocar</b>\n<b>Roubar Vida</b>\n\t\t\t<b>Провокация</b>\n<b>Похищение жизни</b>\n\t\t\t<b>ยั่วยุ</b>\n<b>สูบชีวิต</b>\n\t\t\t<b>嘲讽</b>\n<b>吸血</b>\n\t\t\t<b>嘲諷</b>\n<b>生命竊取</b>\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Rusty Recycler"
+          },
+          "koKR": {
+            "present": true,
+            "value": "녹슨 청소부"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tRostiger Recycler\n\t\tRusty Recycler\n\t\tReciclador oxidado\n\t\tReciclador oxidado\n\t\tRecycleur rouillé\n\t\tRiciclatore Arrugginito\n\t\t錆びついたリサイクラー\n\t\t녹슨 청소부\n\t\tZardzewiały śmieciobot\n\t\tReciclador Enferrujado\n\t\tРжавый утилизатор\n\t\tหุ่นรีไซเคิลขึ้นสนิม\n\t\t生锈的回收机器人\n\t\t生鏽的回收者\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Taunt</b>\n<b>Lifesteal</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>도발</b>\n<b>생명력 흡수</b>"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Spott</b>, <b>Lebensentzug</b>\n\t\t<b>Taunt</b>\n<b>Lifesteal</b>\n\t\t<b>Provocar</b>\n<b>Robo de vida</b>\n\t\t<b>Provocación</b>\n<b>Robavida</b>\n\t\t<b>Provocation</b>\n<b>Vol de vie</b>\n\t\t[x]<b>Provocazione</b>.\n<b>Furto Vitale</b>.\n\t\t<b>挑発</b>\n<b>生命奪取</b>\n\t\t<b>도발</b>\n<b>생명력 흡수</b>\n\t\t<b>Prowokacja</b>\n<b>Kradzież życia</b>\n\t\t<b>Provocar</b>\n<b>Roubar Vida</b>\n\t\t<b>Провокация</b>\n<b>Похищение жизни</b>\n\t\t<b>ยั่วยุ</b>\n<b>สูบชีวิต</b>\n\t\t<b>嘲讽，吸血</b>\n\t\t<b>嘲諷</b>\n<b>生命竊取</b>\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_050",
+    "dbfId": 47888,
+    "name": "녹슨 청소부",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>도발</b><br></br><b>생명력 흡수</b>",
+    "attack": 2,
+    "health": 6,
+    "flavor": "자기 자신은 청소할 수 없습니다.",
+    "portrait": "HS14-171_M.psd:23cae0092baccaa4080ca13fca0668cf",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_050.png",
+    "nativeRawText": "<b>도발</b>\n<b>생명력 흡수</b>",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "6",
+      "47": "2",
+      "48": "5",
+      "183": "1127",
+      "190": "1",
+      "199": "12",
+      "200": "17",
+      "202": "4",
+      "203": "1",
+      "321": "1",
+      "685": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_050",
+    "dbfId": 47888,
+    "name": "녹슨 청소부",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>도발</b><br></br><b>생명력 흡수</b>",
+    "attack": 2,
+    "health": 6,
+    "flavor": "자기 자신은 청소할 수 없습니다.",
+    "portrait": "HS14-171_M.psd:23cae0092baccaa4080ca13fca0668cf",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_050.png",
+    "nativeRawText": "<b>도발</b>\n<b>생명력 흡수</b>",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "6",
+      "47": "2",
+      "48": "5",
+      "183": "1127",
+      "190": "1",
+      "199": "12",
+      "200": "17",
+      "202": "4",
+      "203": "1",
+      "321": "1",
+      "685": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

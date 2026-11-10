@@ -1,1 +1,361 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_066t","dbfId":48897,"name":"기계용","type":"MINION","cardClass":"NEUTRAL","collectible":false,"cost":7,"text":"","attack":7,"health":7,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS14-005_M.psd:f8bd65d4cc1516943be91d38cf8091c3","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":7},{"id":48,"name":"마나 비용","value":7},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":17},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":321,"name":"수집 가능","value":0},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":2523,"name":"게임 태그 2523","value":1}],"races":["MECHANICAL","DRAGON"],"race":"기계, 용족","classes":[],"art":"art/BOT_066t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-005_M.psd:f8bd65d4cc1516943be91d38cf8091c3","goldenMaterial":"BOT_066t_PremiumCard.mat:36ebc1e0913270446bbf6be3b4481e98","goldenAnimation":"BOT_066t_PremiumCard.asset:f535b00cdd1e231439239fc85466cfc5"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-005_M.psd:f8bd65d4cc1516943be91d38cf8091c3",
+      "goldenMaterial": "BOT_066t_PremiumCard.mat:36ebc1e0913270446bbf6be3b4481e98",
+      "goldenAnimation": "BOT_066t_PremiumCard.asset:f535b00cdd1e231439239fc85466cfc5"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Mechanical Dragon"
+          },
+          "koKR": {
+            "present": true,
+            "value": "기계용"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tMechanischer Drache\n\t\t\tMechanical Dragon\n\t\t\tDragón mecánico\n\t\t\tDragón mecánico\n\t\t\tDragon mécanique\n\t\t\tDrago Meccanico\n\t\t\tメカ・ドラゴン\n\t\t\t기계용\n\t\t\tMechasmok\n\t\t\tDragão Mecânico\n\t\t\tМеханический дракон\n\t\t\tมังกรจักรกล\n\t\t\t机械巨龙\n\t\t\t機械龍\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Mechanical Dragon"
+          },
+          "koKR": {
+            "present": true,
+            "value": "기계용"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tMechanischer Drache\n\t\tMechanical Dragon\n\t\tDragón mecánico\n\t\tDragón mecánico\n\t\tDragon mécanique\n\t\tDrago Meccanico\n\t\tメカ・ドラゴン\n\t\t기계용\n\t\tMechasmok\n\t\tDragão Mecânico\n\t\tМеханический дракон\n\t\tมังกรจักรกล\n\t\t机械巨龙\n\t\t機械龍\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": false,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": false,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_066t",
+    "dbfId": 48897,
+    "name": "기계용",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 7,
+    "text": "",
+    "attack": 7,
+    "health": 7,
+    "flavor": "",
+    "portrait": "HS14-005_M.psd:f8bd65d4cc1516943be91d38cf8091c3",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 7
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 0
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 2523,
+        "name": "게임 태그 2523",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL",
+      "DRAGON"
+    ],
+    "race": "기계, 용족",
+    "classes": [],
+    "art": "art/BOT_066t.png",
+    "nativeTagsOwned": {
+      "185": "",
+      "342": "",
+      "45": "7",
+      "47": "7",
+      "48": "7",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "201": "3",
+      "202": "4",
+      "2523": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_066t",
+    "dbfId": 48897,
+    "name": "기계용",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 7,
+    "attack": 7,
+    "health": 7,
+    "flavor": "",
+    "portrait": "HS14-005_M.psd:f8bd65d4cc1516943be91d38cf8091c3",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 7
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_066t.png",
+    "nativeTagsOwned": {
+      "185": "",
+      "342": "",
+      "45": "7",
+      "47": "7",
+      "48": "7",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "201": "3",
+      "202": "4"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2023-02-15": {
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 7
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 2523,
+        "name": "게임 태그 2523",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL",
+      "DRAGON"
+    ],
+    "race": "기계, 용족",
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 2523,
+        "before": "ABSENT",
+        "after": "1"
+      }
+    ],
+    "source": {
+      "beforeBuild": 163976,
+      "afterBuild": 165029,
+      "beforeCommit": "cf08a2eee9159a63ff589cfe2deabc4035673871",
+      "afterCommit": "ef8297aadee616ea2ffbc941a7b55a84b6cfc819",
+      "beforeXmlSha256": "73043cbecbfadd4cc6ffe42ddd977a6667ac60fb2efd8aec19d2abfe1977b6d4",
+      "afterXmlSha256": "1fa3e9bae99d369dbbcb622f964f225a1506d48344c5535ac1c83543b4bc3d53",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Mechanical Dragon"
+            },
+            "koKR": {
+              "present": true,
+              "value": "기계용"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tMechanischer Drache\n\t\t\tMechanical Dragon\n\t\t\tDragón mecánico\n\t\t\tDragón mecánico\n\t\t\tDragon mécanique\n\t\t\tDrago Meccanico\n\t\t\tメカ・ドラゴン\n\t\t\t기계용\n\t\t\tMechasmok\n\t\t\tDragão Mecânico\n\t\t\tМеханический дракон\n\t\t\tมังกรจักรกล\n\t\t\t机械巨龙\n\t\t\t機械龍\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Mechanical Dragon"
+            },
+            "koKR": {
+              "present": true,
+              "value": "기계용"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tMechanischer Drache\n\t\t\tMechanical Dragon\n\t\t\tDragón mecánico\n\t\t\tDragón mecánico\n\t\t\tDragon mécanique\n\t\t\tDrago Meccanico\n\t\t\tメカ・ドラゴン\n\t\t\t기계용\n\t\t\tMechasmok\n\t\t\tDragão Mecânico\n\t\t\tМеханический дракон\n\t\t\tมังกรจักรกล\n\t\t\t机械巨龙\n\t\t\t機械龍\n\t\t"
+        }
+      }
+    }
+  }
+}

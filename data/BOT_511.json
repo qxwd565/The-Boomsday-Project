@@ -1,1 +1,298 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_511","dbfId":48753,"name":"시포리움 폭격수","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":5,"text":"<b>전투의 함성:</b> 상대편의 덱에<br></br>폭탄을 섞어 넣습니다.<br></br>폭탄을 뽑으면, 폭발하며<br></br>피해를 5 줍니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"\"지뢰를 섞어 넣는 기계가 있었다고? 그거 괜찮네!\"","spellSchool":"","portrait":"HS14-182_M.psd:e99d191a139203646a86412527982ce1","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":48752}],"races":[],"race":"","classes":[],"art":"art/BOT_511.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-182_M.psd:e99d191a139203646a86412527982ce1","goldenMaterial":"BOT_511_PremiumCard.mat:d48cee212cb7a264a84bf0f3cdbd4a6b","goldenAnimation":"BOT_511_PremiumCard.asset:83339547009f88f4391b642a4664b6e9"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-182_M.psd:e99d191a139203646a86412527982ce1",
+      "goldenMaterial": "BOT_511_PremiumCard.mat:d48cee212cb7a264a84bf0f3cdbd4a6b",
+      "goldenAnimation": "BOT_511_PremiumCard.asset:83339547009f88f4391b642a4664b6e9"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Seaforium Bomber"
+          },
+          "koKR": {
+            "present": true,
+            "value": "시포리움 폭격수"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tZephyriumbomberin\n\t\t\tSeaforium Bomber\n\t\t\tBombardeadora de seforio\n\t\t\tBombardera de seforio\n\t\t\tLance hydroglycérine\n\t\t\tBombarola di Nitronite\n\t\t\tシーフォーリウム・ボンバー\n\t\t\t시포리움 폭격수\n\t\t\tSpecjalistka od ceczterium\n\t\t\tBombardeira de Cequatrum\n\t\t\tСефориевая бомбистка\n\t\t\tมือระเบิดซีโฟเรียม\n\t\t\t爆盐投弹手\n\t\t\t爆鹽炸彈客\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> Shuffle a Bomb\ninto your opponent's deck.\nWhen drawn, it explodes\nfor 5 damage."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b> 상대편의 덱에\n폭탄을 섞어 넣습니다.\n폭탄을 뽑으면, 폭발하며\n피해를 5 줍니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t[x]<b>Kampfschrei:</b> Mischt eine\nBombe in das Deck Eures\nGegners. Wenn sie gezogen wird,\nverursacht sie 5 Schaden.\n\t\t\t[x]<b>Battlecry:</b> Shuffle a Bomb\ninto your opponent's deck.\nWhen drawn, it explodes\nfor 5 damage.\n\t\t\t[x]<b>Grito de batalla:</b> Mete una\nbomba en el mazo de tu\noponente. Al robarla, explota\n    y le inflige 5 p. de daño.\n\t\t\t<b>Grito de batalla:</b> coloca una Bomba en el mazo de tu adversario. Cuando la robe, explotará por 5 de daño.\n\t\t\t<b>Cri de guerre_:</b> place une bombe dans le deck de votre adversaire. Quand elle est piochée, explose et inflige_5_points_de_dégâts.\n\t\t\t[x]<b>Grido di Battaglia:</b> mette\nuna Bomba nel mazzo\n dell'avversario. Quando viene\n____pescata, infligge 5 danni.\n\t\t\t[x]<b>雄叫び:</b>\n相手のデッキに「爆弾」1枚\nを混ぜる。「爆弾」は\n引かれた際に爆発し\n__5ダメージを与える。\n\t\t\t[x]<b>전투의 함성:</b> 상대편의 덱에\n폭탄을 섞어 넣습니다.\n폭탄을 뽑으면, 폭발하며\n피해를 5 줍니다.\n\t\t\t<b>Okrzyk bojowy:</b> Wtasuj „Bombę” do talii przeciwnika. Jeśli zostanie dobrana, eksploduje, zadając 5 pkt. obrażeń.\n\t\t\t<b>Grito de Guerra:</b> Coloque uma Bomba no deck do seu oponente. Ao ser comprada, ela explode, causando 5 de dano.\n\t\t\t[x]<b>Боевой клич:</b> замешивает\nбомбу в колоду противника.\nКогда он берет ее,\nбомба взрывается,\nнанося 5 ед. урона.\n\t\t\t<b>คำรามสู้ศึก:</b> สับการ์ดระเบิด[b]หนึ่งใบเข้าเด็คคู่ต่อสู้ และ[b]สร้างความเสียหาย_5_แต้ม[b]เมื่อถูกจั่วได้\n\t\t\t<b>战吼：</b>将一张“炸弹” 牌洗入你的对手的牌库。当你的对手抽到该牌，便对其造成5点伤害。\n\t\t\t<b>戰吼：</b>將一顆炸彈洗入對手的牌堆。抽中時對其造成5點傷害\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Seaforium Bomber"
+          },
+          "koKR": {
+            "present": true,
+            "value": "시포리움 폭격수"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tZephyriumbomberin\n\t\tSeaforium Bomber\n\t\tBombardeadora de seforio\n\t\tBombardera de seforio\n\t\tLance hydroglycérine\n\t\tBombarola di Nitronite\n\t\tシーフォーリウム・ボンバー\n\t\t시포리움 폭격수\n\t\tSpecjalistka od ceczterium\n\t\tBombardeira de Cequatrum\n\t\tСефориевая бомбистка\n\t\tมือระเบิดซีโฟเรียม\n\t\t爆盐投弹手\n\t\t爆鹽炸彈客\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> Shuffle a Bomb\ninto your opponent's deck.\nWhen drawn, it explodes\nfor 5 damage."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b> 상대편의 덱에\n폭탄을 섞어 넣습니다.\n폭탄을 뽑으면, 폭발하며\n피해를 5 줍니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t[x]<b>Kampfschrei:</b> Mischt eine\nBombe in das Deck Eures\nGegners. Wenn sie gezogen wird,\nverursacht sie 5 Schaden.\n\t\t[x]<b>Battlecry:</b> Shuffle a Bomb\ninto your opponent's deck.\nWhen drawn, it explodes\nfor 5 damage.\n\t\t[x]<b>Grito de batalla:</b> Mete una\nbomba en el mazo de tu\noponente. Al robarla, explota\n    y le inflige 5 p. de daño.\n\t\t<b>Grito de batalla:</b> coloca una Bomba en el mazo de tu adversario. Cuando la robe, explotará por 5 de daño.\n\t\t<b>Cri de guerre_:</b> place une bombe dans le deck de votre adversaire. Quand elle est piochée, explose et inflige_5_points_de_dégâts.\n\t\t[x]<b>Grido di Battaglia:</b> mette\nuna Bomba nel mazzo\n dell'avversario. Quando viene\n____pescata, infligge 5 danni.\n\t\t[x]<b>雄叫び:</b>\n相手のデッキに「爆弾」1枚\nを混ぜる。「爆弾」は\n引かれた際に爆発し\n__5ダメージを与える。\n\t\t[x]<b>전투의 함성:</b> 상대편의 덱에\n폭탄을 섞어 넣습니다.\n폭탄을 뽑으면, 폭발하며\n피해를 5 줍니다.\n\t\t<b>Okrzyk bojowy:</b> Wtasuj „Bombę” do talii przeciwnika. Jeśli zostanie dobrana, eksploduje, zadając 5 pkt. obrażeń.\n\t\t<b>Grito de Guerra:</b> Coloque uma Bomba no deck do seu oponente. Ao ser comprada, ela explode, causando 5 de dano.\n\t\t<b>Боевой клич:</b> замешивает бомбу в колоду противника. При взятии бомба взрывается, нанося 5 ед. урона.\n\t\t<b>คำรามสู้ศึก:</b>_สับระเบิดหนึ่งใบ[b]เข้าเด็คคู่ต่อสู้_ซึ่งสร้างความ[b]เสียหาย_5_แต้มเมื่อจั่วได้\n\t\t<b>战吼：</b>将一张“炸弹” 牌洗入你对手的牌库。当抽到“炸弹”时，便会受到5点伤害。\n\t\t<b>戰吼：</b>將一顆炸彈洗入對手的牌堆。抽中時對其造成5點傷害\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_511",
+    "dbfId": 48753,
+    "name": "시포리움 폭격수",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> 상대편의 덱에<br></br>폭탄을 섞어 넣습니다.<br></br>폭탄을 뽑으면, 폭발하며<br></br>피해를 5 줍니다.",
+    "attack": 5,
+    "health": 5,
+    "flavor": "\"지뢰를 섞어 넣는 기계가 있었다고? 그거 괜찮네!\"",
+    "portrait": "HS14-182_M.psd:e99d191a139203646a86412527982ce1",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 48752
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_511.png",
+    "nativeRawText": "[x]<b>전투의 함성:</b> 상대편의 덱에\n폭탄을 섞어 넣습니다.\n폭탄을 뽑으면, 폭발하며\n피해를 5 줍니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "5",
+      "47": "5",
+      "48": "5",
+      "183": "1127",
+      "199": "12",
+      "202": "4",
+      "203": "4",
+      "218": "1",
+      "321": "1",
+      "1452": "48752"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_511",
+    "dbfId": 48753,
+    "name": "시포리움 폭격수",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> 상대편의 덱에<br></br>폭탄을 섞어 넣습니다.<br></br>폭탄을 뽑으면, 폭발하며<br></br>피해를 5 줍니다.",
+    "attack": 5,
+    "health": 5,
+    "flavor": "\"지뢰를 섞어 넣는 기계가 있었다고? 그거 괜찮네!\"",
+    "portrait": "HS14-182_M.psd:e99d191a139203646a86412527982ce1",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_511.png",
+    "nativeRawText": "[x]<b>전투의 함성:</b> 상대편의 덱에\n폭탄을 섞어 넣습니다.\n폭탄을 뽑으면, 폭발하며\n피해를 5 줍니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "5",
+      "47": "5",
+      "48": "5",
+      "183": "1127",
+      "199": "12",
+      "202": "4",
+      "203": "4",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

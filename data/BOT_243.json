@@ -1,1 +1,516 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_243","dbfId":48159,"name":"마이라 로트스프링","type":"MINION","cardClass":"ROGUE","rarity":"LEGENDARY","collectible":true,"cost":5,"text":"<b>전투의 함성:</b> <b>죽음의 메아리</b><br></br>하수인을 <b>발견</b>합니다.<br></br>그 하수인의 <b>죽음의 메아리</b><br></br>능력도 얻습니다.","attack":4,"health":2,"durability":0,"armor":0,"flavor":"부임 첫 날, 마이라 로트스프링은 우선 연구실에 있는 화재 경보기를 모두 없앴습니다.","spellSchool":"","portrait":"HS14-134_M.psd:16f68bdd51b35b44f95154f33d0217d6","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":7},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":217,"name":"죽음의 메아리","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1}],"races":["UNDEAD"],"race":"언데드","classes":[],"art":"art/BOT_243.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-134_M.psd:16f68bdd51b35b44f95154f33d0217d6","goldenMaterial":"BOT_243_PremiumCard.mat:5cf9dcefa2073714382fc4c5180bf3c0","goldenAnimation":"BOT_243_PremiumCard.asset:92c86c45882bdcf4aaa5f425fc4951ac"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-134_M.psd:16f68bdd51b35b44f95154f33d0217d6",
+      "goldenMaterial": "BOT_243_PremiumCard.mat:5cf9dcefa2073714382fc4c5180bf3c0",
+      "goldenAnimation": "BOT_243_PremiumCard.asset:92c86c45882bdcf4aaa5f425fc4951ac"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Myra Rotspring"
+          },
+          "koKR": {
+            "present": true,
+            "value": "마이라 로트스프링"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tMyra Modertrank\n\t\t\tMyra Rotspring\n\t\t\tMyra Putregás\n\t\t\tMyra Poza Podrida\n\t\t\tMyra Sourcepus\n\t\t\tMyra Fontemarcia\n\t\t\tマイラ・ロットスプリング\n\t\t\t마이라 로트스프링\n\t\t\tGnijąca Mira\n\t\t\tMyra Molapodre\n\t\t\tМира Гниллинг\n\t\t\tไมร่า ร็อตสปริง\n\t\t\t迈拉·腐泉\n\t\t\t麥菈‧腐泉\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> <b>Discover</b> a\n<b>Deathrattle</b> minion. Also\ngain its <b>Deathrattle</b>."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b> <b>죽음의 메아리</b>\n하수인을 하나 <b>발견</b>합니다.\n그 하수인의 <b>죽음의 메아리</b>\n능력을 얻습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t[x]<b>Kampfschrei:</b> <b>Entdeckt</b>\neinen Diener mit\n<b>Todesröcheln</b> und erhält\ndessen <b>Todesröcheln</b>.\n\t\t\t[x]<b>Battlecry:</b> <b>Discover</b> a\n<b>Deathrattle</b> minion. Also\ngain its <b>Deathrattle</b>.\n\t\t\t<b>Grito de batalla:</b>\n<b>Descubre</b> un esbirro con\n<b>Último aliento</b> y copia\nese <b>Último aliento</b>\nen esta carta.\n\t\t\t<b>Grito de batalla:</b> <b>Devela</b> un esbirro con <b>Estertor</b>. También obtiene su <b>Estertor</b>.\n\t\t\t<b>Cri de guerre_:</b> <b>découvre</b>\nun serviteur avec <b>Râle d’agonie</b>_et_gagne_son <b>Râle d’agonie</b>.\n\t\t\t[x]<b>Grido di Battaglia:</b> <b>Rinvieni</b>\nun servitore con <b>Rantolo di\nMorte</b>. Ne ottiene il\n<b>Rantolo di Morte</b>.\n\t\t\t[x]<b>雄叫び:</b>\n<b>断末魔</b>を持つミニオンを\n1体<b>発見</b>する。\nさらにそのミニオンの\n__<b>断末魔</b>を獲得する。\n\t\t\t[x]<b>전투의 함성:</b> <b>죽음의 메아리</b>\n하수인을 하나 <b>발견</b>합니다.\n그 하수인의 <b>죽음의 메아리</b>\n능력을 얻습니다.\n\t\t\t<b>Okrzyk bojowy:</b> <b>Odkryj</b> stronnika z <b>Agonią</b>. Dodatkowo Mira otrzyma jego <b>Agonię</b>.\n\t\t\t<b>Grito de Guerra:</b> <b>Descubra</b> um lacaio com <b>Último Suspiro</b>. Receba também esse <b>Último Suspiro</b>.\n\t\t\t<b>Боевой клич:</b> вы <b>раскапываете</b> существо с <b>«Предсмертным\nхрипом»</b>. Получает этот <b>«Предсмертный хрип»</b>.\n\t\t\t<b>คำรามสู้ศึก:</b> <b>ค้นพบ</b> มินเนี่ยนที่มี_<b>เสียงสุดท้าย</b> พร้อมกับมอบ_<b>เสียงสุดท้าย</b> ของมันให้มินเนี่ยนตัวนี้\n\t\t\t<b>战吼：</b>\n<b>发现</b>一张<b>亡语</b>随从牌，并获得其<b>亡语</b>。\n\t\t\t<b>戰吼：</b><b>發現</b>一個\n<b>死亡之聲</b>手下並獲得其<b>死亡之聲</b>效果\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Myra Rotspring"
+          },
+          "koKR": {
+            "present": true,
+            "value": "마이라 로트스프링"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tMyra Modertrank\n\t\tMyra Rotspring\n\t\tMyra Putregás\n\t\tMyra Poza Podrida\n\t\tMyra Sourcepus\n\t\tMyra Fontemarcia\n\t\tマイラ・ロットスプリング\n\t\t마이라 로트스프링\n\t\tGnijąca Mira\n\t\tMyra Molapodre\n\t\tМира Гниллинг\n\t\tไมร่า ร็อตสปริง\n\t\t迈拉·腐泉\n\t\t麥菈‧腐泉\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> <b>Discover</b> a\n<b>Deathrattle</b> minion. Also\ngain its <b>Deathrattle</b>."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b> <b>죽음의 메아리</b>\n하수인을 <b>발견</b>합니다.\n그 하수인의 <b>죽음의 메아리</b>\n능력도 얻습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t[x]<b>Kampfschrei:</b> <b>Entdeckt</b>\neinen Diener mit\n<b>Todesröcheln</b> und erhält\ndessen <b>Todesröcheln</b>.\n\t\t[x]<b>Battlecry:</b> <b>Discover</b> a\n<b>Deathrattle</b> minion. Also\ngain its <b>Deathrattle</b>.\n\t\t<b>Grito de batalla:</b>\n<b>Descubre</b> un esbirro con\n<b>Último aliento</b> y copia\nese <b>Último aliento</b>\nen esta carta.\n\t\t<b>Grito de batalla:</b> <b>Devela</b> un esbirro con <b>Estertor</b>. También obtiene su <b>Estertor</b>.\n\t\t<b>Cri de guerre_:</b> <b>découvre</b>\nun serviteur avec <b>Râle d’agonie</b>_et_gagne_son <b>Râle d’agonie</b>.\n\t\t[x]<b>Grido di Battaglia:</b> <b>Rinvieni</b>\nun servitore con <b>Rantolo di\nMorte</b>. Ne ottiene il\n<b>Rantolo di Morte</b>.\n\t\t[x]<b>雄叫び:</b>\n<b>断末魔</b>を持つミニオンを\n1体<b>発見</b>する。\nさらにそのミニオンの\n__<b>断末魔</b>を獲得する。\n\t\t[x]<b>전투의 함성:</b> <b>죽음의 메아리</b>\n하수인을 <b>발견</b>합니다.\n그 하수인의 <b>죽음의 메아리</b>\n능력도 얻습니다.\n\t\t<b>Okrzyk bojowy:</b> <b>Odkryj</b> stronnika z <b>Agonią</b>. Dodatkowo Mira otrzyma jego <b>Agonię</b>.\n\t\t<b>Grito de Guerra:</b> <b>Descubra</b> um lacaio com <b>Último Suspiro</b>. Receba também esse <b>Último Suspiro</b>.\n\t\t<b>Боевой клич:</b> вы <b>раскапываете</b> существо с <b>«Предсмертным\nхрипом»</b>. Получает этот <b>«Предсмертный хрип»</b>.\n\t\t<b>คำรามสู้ศึก:</b> <b>ค้นพบ</b> มินเนี่ยนที่มี_<b>เสียงสุดท้าย</b> พร้อมกับมอบ_<b>เสียงสุดท้าย</b> ของมันให้มินเนี่ยนตัวนี้\n\t\t<b>战吼：</b>\n<b>发现</b>一张<b>亡语</b>随从牌，并获得其<b>亡语</b>。\n\t\t<b>戰吼：</b><b>發現</b>一個\n<b>死亡之聲</b>手下並獲得其<b>死亡之聲</b>效果\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_243",
+    "dbfId": 48159,
+    "name": "마이라 로트스프링",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> <b>죽음의 메아리</b><br></br>하수인을 <b>발견</b>합니다.<br></br>그 하수인의 <b>죽음의 메아리</b><br></br>능력도 얻습니다.",
+    "attack": 4,
+    "health": 2,
+    "flavor": "부임 첫 날, 마이라 로트스프링은 우선 연구실에 있는 화재 경보기를 모두 없앴습니다.",
+    "portrait": "HS14-134_M.psd:16f68bdd51b35b44f95154f33d0217d6",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD"
+    ],
+    "race": "언데드",
+    "classes": [],
+    "art": "art/BOT_243.png",
+    "nativeRawText": "[x]<b>전투의 함성:</b> <b>죽음의 메아리</b>\n하수인을 <b>발견</b>합니다.\n그 하수인의 <b>죽음의 메아리</b>\n능력도 얻습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "2",
+      "47": "4",
+      "48": "5",
+      "114": "1",
+      "183": "1127",
+      "199": "7",
+      "200": "11",
+      "202": "4",
+      "203": "5",
+      "218": "1",
+      "321": "1",
+      "415": "1",
+      "1342": "1"
+    },
+    "nativeTagsReferenced": {
+      "217": "1"
+    }
+  },
+  "2018-08-08": {
+    "id": "BOT_243",
+    "dbfId": 48159,
+    "name": "마이라 로트스프링",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> <b>죽음의 메아리</b><br></br>하수인을 하나 <b>발견</b>합니다.<br></br>그 하수인의 <b>죽음의 메아리</b><br></br>능력을 얻습니다.",
+    "attack": 4,
+    "health": 2,
+    "flavor": "부임 첫 날, 마이라 로트스프링은 우선 연구실에 있는 화재 경보기를 모두 없앴습니다.",
+    "portrait": "HS14-134_M.psd:16f68bdd51b35b44f95154f33d0217d6",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_243.png",
+    "nativeRawText": "[x]<b>전투의 함성:</b> <b>죽음의 메아리</b>\n하수인을 하나 <b>발견</b>합니다.\n그 하수인의 <b>죽음의 메아리</b>\n능력을 얻습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "2",
+      "47": "4",
+      "48": "5",
+      "114": "1",
+      "183": "1127",
+      "199": "7",
+      "202": "4",
+      "203": "5",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {
+      "217": "1",
+      "415": "1"
+    },
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2022-11-30": {
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD"
+    ],
+    "race": "언데드",
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 200,
+        "before": "ABSENT",
+        "after": "11"
+      }
+    ],
+    "source": {
+      "beforeBuild": 155409,
+      "afterBuild": 158725,
+      "beforeCommit": "beaa46cc24c1332ad91d4f7ae096024f6ff7d394",
+      "afterCommit": "54141c4a6bf3efeedaf69d7510b987f216ff00e6",
+      "beforeXmlSha256": "6b0cc04e3181ee49d34372eb14d7f57760aeb308f3b614b2f6729b44f9295d90",
+      "afterXmlSha256": "5a01259c4f9b13b0ddecce04718ef5de16ec4cae3867957835559946f89ff439",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Myra Rotspring"
+            },
+            "koKR": {
+              "present": true,
+              "value": "마이라 로트스프링"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tMyra Modertrank\n\t\t\tMyra Rotspring\n\t\t\tMyra Putregás\n\t\t\tMyra Poza Podrida\n\t\t\tMyra Sourcepus\n\t\t\tMyra Fontemarcia\n\t\t\tマイラ・ロットスプリング\n\t\t\t마이라 로트스프링\n\t\t\tGnijąca Mira\n\t\t\tMyra Molapodre\n\t\t\tМира Гниллинг\n\t\t\tไมร่า ร็อตสปริง\n\t\t\t迈拉·腐泉\n\t\t\t麥菈‧腐泉\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "[x]<b>Battlecry:</b> <b>Discover</b> a\n<b>Deathrattle</b> minion. Also\ngain its <b>Deathrattle</b>."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]<b>전투의 함성:</b> <b>죽음의 메아리</b>\n하수인을 <b>발견</b>합니다.\n그 하수인의 <b>죽음의 메아리</b>\n능력도 얻습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t[x]<b>Kampfschrei:</b> <b>Entdeckt</b>\neinen Diener mit\n<b>Todesröcheln</b> und erhält\ndessen <b>Todesröcheln</b>.\n\t\t\t[x]<b>Battlecry:</b> <b>Discover</b> a\n<b>Deathrattle</b> minion. Also\ngain its <b>Deathrattle</b>.\n\t\t\t<b>Grito de batalla:</b>\n<b>Descubre</b> un esbirro con\n<b>Último aliento</b> y copia\nese <b>Último aliento</b>\nen esta carta.\n\t\t\t<b>Grito de batalla:</b> <b>Devela</b> un esbirro con <b>Estertor</b>. También obtiene su <b>Estertor</b>.\n\t\t\t<b>Cri de guerre_:</b> <b>découvre</b>\nun serviteur avec <b>Râle d’agonie</b>_et_gagne_son <b>Râle d’agonie</b>.\n\t\t\t[x]<b>Grido di Battaglia:</b> <b>Rinvieni</b>\nun servitore con <b>Rantolo di\nMorte</b>. Ne ottiene il\n<b>Rantolo di Morte</b>.\n\t\t\t[x]<b>雄叫び:</b>\n<b>断末魔</b>を持つミニオンを\n1体<b>発見</b>する。\nさらにそのミニオンの\n__<b>断末魔</b>を獲得する。\n\t\t\t[x]<b>전투의 함성:</b> <b>죽음의 메아리</b>\n하수인을 <b>발견</b>합니다.\n그 하수인의 <b>죽음의 메아리</b>\n능력도 얻습니다.\n\t\t\t<b>Okrzyk bojowy:</b> <b>Odkryj</b> stronnika z <b>Agonią</b>. Dodatkowo Mira otrzyma jego <b>Agonię</b>.\n\t\t\t<b>Grito de Guerra:</b> <b>Descubra</b> um lacaio com <b>Último Suspiro</b>. Receba também esse <b>Último Suspiro</b>.\n\t\t\t<b>Боевой клич:</b> вы <b>раскапываете</b> существо с <b>«Предсмертным\nхрипом»</b>. Получает этот <b>«Предсмертный хрип»</b>.\n\t\t\t<b>คำรามสู้ศึก:</b> <b>ค้นพบ</b> มินเนี่ยนที่มี_<b>เสียงสุดท้าย</b> พร้อมกับมอบ_<b>เสียงสุดท้าย</b> ของมันให้มินเนี่ยนตัวนี้\n\t\t\t<b>战吼：</b>\n<b>发现</b>一张<b>亡语</b>随从牌，并获得其<b>亡语</b>。\n\t\t\t<b>戰吼：</b><b>發現</b>一個\n<b>死亡之聲</b>手下並獲得其<b>死亡之聲</b>效果\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Myra Rotspring"
+            },
+            "koKR": {
+              "present": true,
+              "value": "마이라 로트스프링"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tMyra Modertrank\n\t\t\tMyra Rotspring\n\t\t\tMyra Putregás\n\t\t\tMyra Poza Podrida\n\t\t\tMyra Sourcepus\n\t\t\tMyra Fontemarcia\n\t\t\tマイラ・ロットスプリング\n\t\t\t마이라 로트스프링\n\t\t\tGnijąca Mira\n\t\t\tMyra Molapodre\n\t\t\tМира Гниллинг\n\t\t\tไมร่า ร็อตสปริง\n\t\t\t迈拉·腐泉\n\t\t\t麥菈‧腐泉\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "[x]<b>Battlecry:</b> <b>Discover</b> a\n<b>Deathrattle</b> minion. Also\ngain its <b>Deathrattle</b>."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]<b>전투의 함성:</b> <b>죽음의 메아리</b>\n하수인을 <b>발견</b>합니다.\n그 하수인의 <b>죽음의 메아리</b>\n능력도 얻습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t[x]<b>Kampfschrei:</b> <b>Entdeckt</b>\neinen Diener mit\n<b>Todesröcheln</b> und erhält\ndessen <b>Todesröcheln</b>.\n\t\t\t[x]<b>Battlecry:</b> <b>Discover</b> a\n<b>Deathrattle</b> minion. Also\ngain its <b>Deathrattle</b>.\n\t\t\t<b>Grito de batalla:</b>\n<b>Descubre</b> un esbirro con\n<b>Último aliento</b> y copia\nese <b>Último aliento</b>\nen esta carta.\n\t\t\t<b>Grito de batalla:</b> <b>Devela</b> un esbirro con <b>Estertor</b>. También obtiene su <b>Estertor</b>.\n\t\t\t<b>Cri de guerre_:</b> <b>découvre</b>\nun serviteur avec <b>Râle d’agonie</b>_et_gagne_son <b>Râle d’agonie</b>.\n\t\t\t[x]<b>Grido di Battaglia:</b> <b>Rinvieni</b>\nun servitore con <b>Rantolo di\nMorte</b>. Ne ottiene il\n<b>Rantolo di Morte</b>.\n\t\t\t[x]<b>雄叫び:</b>\n<b>断末魔</b>を持つミニオンを\n1体<b>発見</b>する。\nさらにそのミニオンの\n__<b>断末魔</b>を獲得する。\n\t\t\t[x]<b>전투의 함성:</b> <b>죽음의 메아리</b>\n하수인을 <b>발견</b>합니다.\n그 하수인의 <b>죽음의 메아리</b>\n능력도 얻습니다.\n\t\t\t<b>Okrzyk bojowy:</b> <b>Odkryj</b> stronnika z <b>Agonią</b>. Dodatkowo Mira otrzyma jego <b>Agonię</b>.\n\t\t\t<b>Grito de Guerra:</b> <b>Descubra</b> um lacaio com <b>Último Suspiro</b>. Receba também esse <b>Último Suspiro</b>.\n\t\t\t<b>Боевой клич:</b> вы <b>раскапываете</b> существо с <b>«Предсмертным\nхрипом»</b>. Получает этот <b>«Предсмертный хрип»</b>.\n\t\t\t<b>คำรามสู้ศึก:</b> <b>ค้นพบ</b> มินเนี่ยนที่มี_<b>เสียงสุดท้าย</b> พร้อมกับมอบ_<b>เสียงสุดท้าย</b> ของมันให้มินเนี่ยนตัวนี้\n\t\t\t<b>战吼：</b>\n<b>发现</b>一张<b>亡语</b>随从牌，并获得其<b>亡语</b>。\n\t\t\t<b>戰吼：</b><b>發現</b>一個\n<b>死亡之聲</b>手下並獲得其<b>死亡之聲</b>效果\n\t\t"
+        }
+      }
+    }
+  }
+}

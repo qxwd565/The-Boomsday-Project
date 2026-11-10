@@ -1,1 +1,417 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_101","dbfId":47978,"name":"천공의 균열","type":"SPELL","cardClass":"MAGE","rarity":"RARE","collectible":true,"cost":2,"text":"무작위 하수인 둘을<br></br>내 손으로 가져옵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"1번 균열 뒤에는 무엇이 있을까요!","spellSchool":"ARCANE","portrait":"HS14-163_S.psd:939eee9baa6579646b80ae186fbb7d4b","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":4},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":1635,"name":"주문 속성","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_101.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-163_S.psd:939eee9baa6579646b80ae186fbb7d4b","goldenMaterial":"BOT_101_PremiumCard.mat:fc4110d77a170e54280365c91feab1ab","goldenAnimation":"BOT_101_PremiumCard.asset:0b6c611f8f5875f4d97a5c391a343039"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-163_S.psd:939eee9baa6579646b80ae186fbb7d4b",
+      "goldenMaterial": "BOT_101_PremiumCard.mat:fc4110d77a170e54280365c91feab1ab",
+      "goldenAnimation": "BOT_101_PremiumCard.asset:0b6c611f8f5875f4d97a5c391a343039"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Astral Rift"
+          },
+          "koKR": {
+            "present": true,
+            "value": "천공의 균열"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tAstraler Riss\n\t\t\tAstral Rift\n\t\t\tFalla astral\n\t\t\tFisura astral\n\t\t\tFaille astrale\n\t\t\tVarco Astrale\n\t\t\t星霊の亀裂\n\t\t\t천공의 균열\n\t\t\tSzczelina astralna\n\t\t\tFissura Astral\n\t\t\tАстральный разлом\n\t\t\tรอยแยกจักรวาล\n\t\t\t星界裂隙\n\t\t\t星界裂隙\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Add 2 random minions to your hand."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]무작위 하수인 둘을\n내 손으로 가져옵니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tErhaltet 2 zufällige Diener auf die Hand.\n\t\t\tAdd 2 random minions to your hand.\n\t\t\tAñade 2 esbirros aleatorios a tu mano.\n\t\t\tAgrega 2 esbirros aleatorios a tu mano.\n\t\t\tAjoute 2_serviteurs aléatoires dans votre main.\n\t\t\tMette nella tua mano due servitori casuali.\n\t\t\t[x]ランダムな\nミニオン2体を\n自分の手札に\n_追加する。\n\t\t\t[x]무작위 하수인 둘을\n내 손으로 가져옵니다.\n\t\t\tDodaj 2 losowych stronników do twojej ręki.\n\t\t\tAdicione 2 lacaios aleatórios à sua mão.\n\t\t\tВы кладете в руку 2_случайных существ.\n\t\t\tสุ่มเพิ่มการ์ดมินเนี่ยน 2 ใบในมือคุณ\n\t\t\t随机将两张随从牌置入你的\n手牌。\n\t\t\t放2個隨機\n手下到你的手中\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Astral Rift"
+          },
+          "koKR": {
+            "present": true,
+            "value": "천공의 균열"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tAstraler Riss\n\t\tAstral Rift\n\t\tFalla astral\n\t\tFisura astral\n\t\tFaille astrale\n\t\tVarco Astrale\n\t\t星霊の亀裂\n\t\t천공의 균열\n\t\tSzczelina astralna\n\t\tFissura Astral\n\t\tАстральный разлом\n\t\tรอยแยกจักรวาล\n\t\t星界裂隙\n\t\t星界裂隙\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Add 2 random minions to your hand."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]무작위 하수인 둘을\n내 손으로 가져옵니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tErhaltet 2 zufällige Diener auf die Hand.\n\t\tAdd 2 random minions to your hand.\n\t\tAñade 2 esbirros aleatorios a tu mano.\n\t\tAgrega 2 esbirros aleatorios a tu mano.\n\t\tAjoute 2_serviteurs aléatoires dans votre main.\n\t\tMette nella tua mano due servitori casuali.\n\t\t[x]ランダムな\nミニオン2体を\n自分の手札に\n_追加する。\n\t\t[x]무작위 하수인 둘을\n내 손으로 가져옵니다.\n\t\tDodaj 2 losowych stronników do twojej ręki.\n\t\tAdicione 2 lacaios aleatórios à sua mão.\n\t\tВы кладете в руку 2_случайных существ.\n\t\tสุ่มเพิ่มมินเนี่ยน 2_ใบในมือคุณ\n\t\t随机将两张随从牌置入你的\n手牌。\n\t\t放2個隨機\n手下到你的手中\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_101",
+    "dbfId": 47978,
+    "name": "천공의 균열",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "무작위 하수인 둘을<br></br>내 손으로 가져옵니다.",
+    "flavor": "1번 균열 뒤에는 무엇이 있을까요!",
+    "spellSchool": "ARCANE",
+    "portrait": "HS14-163_S.psd:939eee9baa6579646b80ae186fbb7d4b",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 1
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_101.png",
+    "nativeRawText": "[x]무작위 하수인 둘을\n내 손으로 가져옵니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "2",
+      "183": "1127",
+      "199": "4",
+      "201": "3",
+      "202": "5",
+      "203": "3",
+      "321": "1",
+      "1635": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_101",
+    "dbfId": 47978,
+    "name": "천공의 균열",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "무작위 하수인 둘을<br></br>내 손으로 가져옵니다.",
+    "flavor": "1번 균열 뒤에는 무엇이 있을까요!",
+    "spellSchool": "",
+    "portrait": "HS14-163_S.psd:939eee9baa6579646b80ae186fbb7d4b",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_101.png",
+    "nativeRawText": "[x]무작위 하수인 둘을\n내 손으로 가져옵니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "2",
+      "183": "1127",
+      "199": "4",
+      "201": "3",
+      "202": "5",
+      "203": "3",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2021-03-26": {
+    "spellSchool": "ARCANE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 1
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 1635,
+        "before": "ABSENT",
+        "after": "1"
+      }
+    ],
+    "source": {
+      "beforeBuild": 44222,
+      "afterBuild": 77662,
+      "beforeCommit": "fc67953f6f6eee064badde3f4a7bd07011508642",
+      "afterCommit": "9e10b526eed8a9c5ece2f73f0c2a6a3b60109d62",
+      "beforeXmlSha256": "abe292d304af3fec9d84707b8326cf4104e370b8fc93e8adfa2c1156988cfdf5",
+      "afterXmlSha256": "36879caf88f629052e57d728d1fb3649a21f7198f649ab1cdc916c72ab1b8e29",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Astral Rift"
+            },
+            "koKR": {
+              "present": true,
+              "value": "천공의 균열"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tAstraler Riss\n\t\t\tAstral Rift\n\t\t\tFalla astral\n\t\t\tFisura astral\n\t\t\tFaille astrale\n\t\t\tVarco Astrale\n\t\t\t星霊の亀裂\n\t\t\t천공의 균열\n\t\t\tSzczelina astralna\n\t\t\tFissura Astral\n\t\t\tАстральный разлом\n\t\t\tรอยแยกจักรวาล\n\t\t\t星界裂隙\n\t\t\t星界裂隙\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Add 2 random minions to your hand."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]무작위 하수인 둘을\n내 손으로 가져옵니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tErhaltet 2 zufällige Diener auf die Hand.\n\t\t\tAdd 2 random minions to your hand.\n\t\t\tAñade 2 esbirros aleatorios a tu mano.\n\t\t\tAgrega 2 esbirros aleatorios a tu mano.\n\t\t\tAjoute 2_serviteurs aléatoires dans votre main.\n\t\t\tMette nella tua mano due servitori casuali.\n\t\t\t[x]ランダムな\nミニオン2体を\n自分の手札に\n_追加する。\n\t\t\t[x]무작위 하수인 둘을\n내 손으로 가져옵니다.\n\t\t\tDodaj 2 losowych stronników do twojej ręki.\n\t\t\tAdicione 2 lacaios aleatórios à sua mão.\n\t\t\tВы кладете в руку 2_случайных существ.\n\t\t\tสุ่มเพิ่มการ์ดมินเนี่ยน 2 ใบในมือคุณ\n\t\t\t随机将两张随从牌置入你的\n手牌。\n\t\t\t放2個隨機\n手下到你的手中\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Astral Rift"
+            },
+            "koKR": {
+              "present": true,
+              "value": "천공의 균열"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tAstraler Riss\n\t\t\tAstral Rift\n\t\t\tFalla astral\n\t\t\tFisura astral\n\t\t\tFaille astrale\n\t\t\tVarco Astrale\n\t\t\t星霊の亀裂\n\t\t\t천공의 균열\n\t\t\tSzczelina astralna\n\t\t\tFissura Astral\n\t\t\tАстральный разлом\n\t\t\tรอยแยกจักรวาล\n\t\t\t星界裂隙\n\t\t\t星界裂隙\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Add 2 random minions to your hand."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]무작위 하수인 둘을\n내 손으로 가져옵니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tErhaltet 2 zufällige Diener auf die Hand.\n\t\t\tAdd 2 random minions to your hand.\n\t\t\tAñade 2 esbirros aleatorios a tu mano.\n\t\t\tAgrega 2 esbirros aleatorios a tu mano.\n\t\t\tAjoute 2_serviteurs aléatoires dans votre main.\n\t\t\tMette nella tua mano due servitori casuali.\n\t\t\t[x]ランダムな\nミニオン2体を\n自分の手札に\n_追加する。\n\t\t\t[x]무작위 하수인 둘을\n내 손으로 가져옵니다.\n\t\t\tDodaj 2 losowych stronników do twojej ręki.\n\t\t\tAdicione 2 lacaios aleatórios à sua mão.\n\t\t\tВы кладете в руку 2_случайных существ.\n\t\t\tสุ่มเพิ่มการ์ดมินเนี่ยน 2 ใบในมือคุณ\n\t\t\t随机将两张随从牌置入你的\n手牌。\n\t\t\t放2個隨機\n手下到你的手中\n\t\t"
+        }
+      }
+    }
+  }
+}

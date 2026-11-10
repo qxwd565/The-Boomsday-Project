@@ -1,1 +1,200 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_238p1","dbfId":49364,"name":"광선포","type":"HERO_POWER","cardClass":"WARRIOR","collectible":false,"cost":2,"text":"피해를 $3 줍니다.<br></br>매 턴마다 바뀝니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS14-116_HP.psd:0f1db293fe79b4a40a4c62188fa5ac53","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":10}],"races":[],"race":"","classes":[],"art":"art/BOT_238p1.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-116_HP.psd:0f1db293fe79b4a40a4c62188fa5ac53","goldenMaterial":"BOT_238p1_PremiumCard.mat:4374a4dbccfa6e54689d71e578f664fa","goldenAnimation":"BOT_238p1_PremiumCard.asset:2555ca6cfd9dcb94695e98dd15f67107"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-116_HP.psd:0f1db293fe79b4a40a4c62188fa5ac53",
+      "goldenMaterial": "BOT_238p1_PremiumCard.mat:4374a4dbccfa6e54689d71e578f664fa",
+      "goldenAnimation": "BOT_238p1_PremiumCard.asset:2555ca6cfd9dcb94695e98dd15f67107"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Zap Cannon"
+          },
+          "koKR": {
+            "present": true,
+            "value": "광선포"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tLaserbrutzler\n\t\t\tZap Cannon\n\t\t\tCañón de energía\n\t\t\tCañón destructor\n\t\t\tCanon électrique\n\t\t\tCannone Fulminante\n\t\t\tザップキャノン\n\t\t\t광선포\n\t\t\tDziało rażące\n\t\t\tCanhão Fulminante\n\t\t\tЭлектропушка\n\t\t\tปืนใหญ่สายฟ้า\n\t\t\t电磁炮\n\t\t\t電擊砲\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Hero Power</b>\nDeal $3 damage.\nSwaps each turn."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>영웅 능력</b>\n피해를 $3 줍니다.\n매 턴마다 바뀝니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Heldenfähigkeit</b>\nVerursacht $3 Schaden. [x]Wechselt in jedem Zug.\n\t\t\t<b>Hero Power</b>\nDeal $3 damage.\nSwaps each turn.\n\t\t\t[x]<b>Poder de héroe</b>\nInflige $3 p. de daño.\nCambia cada turno.\n\t\t\t<b>Poder de héroe</b>\nInflige $3 de daño. Cambia con cada turno.\n\t\t\t<b>Pouvoir héroïque</b>\nInflige $3_|4(point,points) de dégâts. Change_à_chaque_tour.\n\t\t\t<b>Potere Eroe</b>\nInfligge $3 danni. Cambia ogni turno.\n\t\t\t[x]<b>ヒーローパワー</b>\n$3ダメージを与える。\nパワーは毎ターン\n入れ替わる。\n\t\t\t<b>영웅 능력</b>\n피해를 $3 줍니다.\n매 턴마다 바뀝니다.\n\t\t\t<b>Moc specjalna</b>\nZadaj $3 pkt. obrażeń. Zmienia się w_każdej turze.\n\t\t\t<b>Poder Heroico</b>\nCause $3 de dano.\nMuda a cada turno.\n\t\t\t<b>Сила героя</b>\nНаносит $3 ед. урона. Меняется каждый ход.\n\t\t\t<b>พลังฮีโร่</b>\nสร้างความเสียหาย $3 แต้ม เปลี่ยนพลังใหม่ทุกเทิร์น\n\t\t\t<b>英雄技能</b>\n造成$3点伤害。每回合切换。\n\t\t\t<b>英雄能力</b>\n造成$3點傷害\n(每回合換能力)\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Zap Cannon"
+          },
+          "koKR": {
+            "present": true,
+            "value": "광선포"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tLaserbrutzler\n\t\tZap Cannon\n\t\tCañón de energía\n\t\tCañón destructor\n\t\tCanon électrique\n\t\tCannone Fulminante\n\t\tザップキャノン\n\t\t광선포\n\t\tDziało rażące\n\t\tCanhão Fulminante\n\t\tЭлектропушка\n\t\tปืนใหญ่สายฟ้า\n\t\t电磁炮\n\t\t電擊砲\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Deal $3 damage.\nSwaps each turn."
+          },
+          "koKR": {
+            "present": true,
+            "value": "피해를 $3 줍니다.\n매 턴마다 바뀝니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tVerursacht $3 Schaden.\nWechselt in jedem Zug.\n\t\tDeal $3 damage.\nSwaps each turn.\n\t\tInflige $3 p. de daño. Cambia cada turno.\n\t\tInflige $3 de daño. Cambia_con_cada_turno.\n\t\tInflige $3_|4(point,points) de dégâts. Change à chaque tour.\n\t\tInfligge $3 danni. Cambia ogni turno.\n\t\t[x]$3ダメージを与える。\nパワーは毎ターン\n入れ替わる。\n\t\t피해를 $3 줍니다.\n매 턴마다 바뀝니다.\n\t\tZadaj $3_pkt. obrażeń. Zmienia się w_każdej turze.\n\t\tCause $3 de dano.\nMuda a cada turno.\n\t\tНаносит $3 ед. урона. Меняется каждый ход.\n\t\tสร้างความเสียหาย $3_แต้ม_สลับพลัง[b]ทุกเทิร์น\n\t\t造成$3点伤害。每回合切换。\n\t\t造成$3點傷害(每回合換能力)\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_238p1",
+    "dbfId": 49364,
+    "name": "광선포",
+    "type": "HERO_POWER",
+    "cardClass": "WARRIOR",
+    "collectible": false,
+    "cost": 2,
+    "text": "피해를 $3 줍니다.<br></br>매 턴마다 바뀝니다.",
+    "flavor": "",
+    "portrait": "HS14-116_HP.psd:0f1db293fe79b4a40a4c62188fa5ac53",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 10
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_238p1.png",
+    "nativeRawText": "피해를 $3 줍니다.\n매 턴마다 바뀝니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "342": "",
+      "48": "2",
+      "183": "1127",
+      "199": "10",
+      "202": "10"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_238p1",
+    "dbfId": 49364,
+    "name": "광선포",
+    "type": "HERO_POWER",
+    "cardClass": "WARRIOR",
+    "collectible": false,
+    "cost": 2,
+    "text": "<b>영웅 능력</b><br></br>피해를 $3 줍니다.<br></br>매 턴마다 바뀝니다.",
+    "flavor": "",
+    "portrait": "HS14-116_HP.psd:0f1db293fe79b4a40a4c62188fa5ac53",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 10
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_238p1.png",
+    "nativeRawText": "<b>영웅 능력</b>\n피해를 $3 줍니다.\n매 턴마다 바뀝니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "342": "",
+      "48": "2",
+      "183": "1127",
+      "199": "10",
+      "202": "10"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

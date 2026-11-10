@@ -1,1 +1,561 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_222","dbfId":48113,"name":"영혼 폭탄","type":"SPELL","cardClass":"WARLOCK","rarity":"COMMON","collectible":true,"cost":1,"text":"하수인과 내 영웅에게<br></br>피해를 $4씩 줍니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"어딘가에선 원기옥이라고 부릅니다.","spellSchool":"SHADOW","portrait":"HS14-016_S.psd:def574e98c882fc4b984d0f731817e98","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":9},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":1635,"name":"주문 속성","value":6}],"races":[],"race":"","classes":[],"art":"art/BOT_222.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-016_S.psd:def574e98c882fc4b984d0f731817e98","goldenMaterial":"BOT_222_PremiumCard.mat:6942391199ffddc4ab3a0b9d28fc5c83","goldenAnimation":"BOT_222_PremiumCard.asset:7be231cc1b8087449996449299721555"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-016_S.psd:def574e98c882fc4b984d0f731817e98",
+      "goldenMaterial": "BOT_222_PremiumCard.mat:6942391199ffddc4ab3a0b9d28fc5c83",
+      "goldenAnimation": "BOT_222_PremiumCard.asset:7be231cc1b8087449996449299721555"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Spirit Bomb"
+          },
+          "koKR": {
+            "present": true,
+            "value": "영혼 폭탄"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tSeelenbombe\n\t\t\tSpirit Bomb\n\t\t\tBomba de espíritus\n\t\t\tBomba espiritual\n\t\t\tBombe spirituelle\n\t\t\tBomba Spirituale\n\t\t\t霊魂爆弾\n\t\t\t영혼 폭탄\n\t\t\tBomba duchowa\n\t\t\tBomba Espiritual\n\t\t\tВзрывной дух\n\t\t\tระเบิดวิญญาณ\n\t\t\t灵魂炸弹\n\t\t\t靈魂炸彈\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Deal $4 damage to a minion and your hero."
+          },
+          "koKR": {
+            "present": true,
+            "value": "하수인 하나와 내 영웅에게 피해를 $4 줍니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tFügt einem Diener\nund Eurem Helden\n$4 Schaden zu.\n\t\t\tDeal $4 damage to a minion and your hero.\n\t\t\t[x]Inflige $4 p. de daño\na un esbirro y a tu héroe.\n\t\t\tInflige $4 de daño a un esbirro y a tu héroe.\n\t\t\tInflige $4_|4(point,points) de dégâts à un serviteur et à votre héros.\n\t\t\tInfligge $4 danni a un servitore e al tuo eroe.\n\t\t\t[x]ミニオン1体と\n自分のヒーローに\n$4ダメージを与える。\n\t\t\t하수인 하나와 내 영웅에게 피해를 $4 줍니다.\n\t\t\tZadaj $4 pkt. obrażeń stronnikowi oraz twojemu bohaterowi.\n\t\t\tCause $4 de dano a um lacaio e ao seu herói.\n\t\t\tНаносит $4 ед. урона выбранному существу и вашему герою.\n\t\t\tสร้างความเสียหาย $4_แต้มให้มินเนี่ยนหนึ่งตัว[b]และฮีโร่ของคุณ\n\t\t\t对一个随从和你的英雄各造成$4点伤害。\n\t\t\t對一個手下\n和你的英雄造成\n$4點傷害\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Spirit Bomb"
+          },
+          "koKR": {
+            "present": true,
+            "value": "영혼 폭탄"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tSeelenbombe\n\t\tSpirit Bomb\n\t\tBomba de espíritus\n\t\tBomba espiritual\n\t\tBombe spirituelle\n\t\tBomba Spirituale\n\t\t霊魂爆弾\n\t\t영혼 폭탄\n\t\tBomba duchowa\n\t\tBomba Espiritual\n\t\tВзрывной дух\n\t\tระเบิดวิญญาณ\n\t\t灵魂炸弹\n\t\t靈魂炸彈\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Deal $4 damage to a minion and your hero."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]하수인과 내 영웅에게\n피해를 $4씩 줍니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tFügt einem Diener\nund Eurem Helden\n$4 Schaden zu.\n\t\tDeal $4 damage to a minion and your hero.\n\t\t[x]Inflige $4 p. de daño\na un esbirro y a tu héroe.\n\t\tInflige $4 de daño a un esbirro y a tu héroe.\n\t\tInflige $4_|4(point,points) de dégâts à un serviteur et à votre héros.\n\t\tInfligge $4 danni a un servitore e al tuo eroe.\n\t\t[x]ミニオン1体と\n自分のヒーローに\n$4ダメージを与える。\n\t\t[x]하수인과 내 영웅에게\n피해를 $4씩 줍니다.\n\t\tZadaj $4 pkt. obrażeń stronnikowi oraz twojemu bohaterowi.\n\t\tCause $4 de dano a um lacaio e ao seu herói.\n\t\tНаносит $4 ед. урона существу и вашему герою.\n\t\tสร้างความเสียหาย $4_แต้มให้มินเนี่ยนหนึ่งตัว[b]และฮีโร่ของคุณ\n\t\t对一个随从和你的英雄各造成$4点伤害。\n\t\t對一個手下\n和你的英雄造成\n$4點傷害\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_222",
+    "dbfId": 48113,
+    "name": "영혼 폭탄",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "하수인과 내 영웅에게<br></br>피해를 $4씩 줍니다.",
+    "flavor": "어딘가에선 원기옥이라고 부릅니다.",
+    "spellSchool": "SHADOW",
+    "portrait": "HS14-016_S.psd:def574e98c882fc4b984d0f731817e98",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_222.png",
+    "nativeRawText": "[x]하수인과 내 영웅에게\n피해를 $4씩 줍니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "1",
+      "183": "1127",
+      "199": "9",
+      "201": "3",
+      "202": "5",
+      "203": "1",
+      "321": "1",
+      "1635": "6"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_222",
+    "dbfId": 48113,
+    "name": "영혼 폭탄",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "하수인 하나와 내 영웅에게 피해를 $4 줍니다.",
+    "flavor": "어딘가에선 원기옥이라고 부릅니다.",
+    "spellSchool": "",
+    "portrait": "HS14-016_S.psd:def574e98c882fc4b984d0f731817e98",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_222.png",
+    "nativeRawText": "하수인 하나와 내 영웅에게 피해를 $4 줍니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "2",
+      "183": "1127",
+      "199": "9",
+      "201": "3",
+      "202": "5",
+      "203": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2019-06-04": {
+    "cost": 1,
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 48,
+        "before": "2",
+        "after": "1"
+      }
+    ],
+    "source": {
+      "beforeBuild": 31022,
+      "afterBuild": 31268,
+      "beforeCommit": "089a94c2fc524cc52ee7697ad4430fd52240d6a0",
+      "afterCommit": "d4dcf70622f19beddd0d6d56fdd5f053da99d223",
+      "beforeXmlSha256": "95219fea6d5638fa31890deb6468518c9a9189155f3e1f29512ec5758fe2adbe",
+      "afterXmlSha256": "016adca4cafcd19f2d9eb3397b7acd3035db594b5c5bd91e77370f57bdb483c4",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Spirit Bomb"
+            },
+            "koKR": {
+              "present": true,
+              "value": "영혼 폭탄"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tSeelenbombe\n\t\t\tSpirit Bomb\n\t\t\tBomba de espíritus\n\t\t\tBomba espiritual\n\t\t\tBombe spirituelle\n\t\t\tBomba Spirituale\n\t\t\t霊魂爆弾\n\t\t\t영혼 폭탄\n\t\t\tBomba duchowa\n\t\t\tBomba Espiritual\n\t\t\tВзрывной дух\n\t\t\tระเบิดวิญญาณ\n\t\t\t灵魂炸弹\n\t\t\t靈魂炸彈\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Deal $4 damage to a minion and your hero."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]하수인과 내 영웅에게\n피해를 $4씩 줍니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tFügt einem Diener\nund Eurem Helden\n$4 Schaden zu.\n\t\t\tDeal $4 damage to a minion and your hero.\n\t\t\t[x]Inflige $4 p. de daño\na un esbirro y a tu héroe.\n\t\t\tInflige $4 de daño a un esbirro y a tu héroe.\n\t\t\tInflige $4_|4(point,points) de dégâts à un serviteur et à votre héros.\n\t\t\tInfligge $4 danni a un servitore e al tuo eroe.\n\t\t\t[x]ミニオン1体と\n自分のヒーローに\n$4ダメージを与える。\n\t\t\t[x]하수인과 내 영웅에게\n피해를 $4씩 줍니다.\n\t\t\tZadaj $4 pkt. obrażeń stronnikowi oraz twojemu bohaterowi.\n\t\t\tCause $4 de dano a um lacaio e ao seu herói.\n\t\t\tНаносит $4 ед. урона выбранному существу и вашему герою.\n\t\t\tสร้างความเสียหาย $4_แต้มให้มินเนี่ยนหนึ่งตัว[b]และฮีโร่ของคุณ\n\t\t\t对一个随从和你的英雄各造成$4点伤害。\n\t\t\t對一個手下\n和你的英雄造成\n$4點傷害\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Spirit Bomb"
+            },
+            "koKR": {
+              "present": true,
+              "value": "영혼 폭탄"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tSeelenbombe\n\t\t\tSpirit Bomb\n\t\t\tBomba de espíritus\n\t\t\tBomba espiritual\n\t\t\tBombe spirituelle\n\t\t\tBomba Spirituale\n\t\t\t霊魂爆弾\n\t\t\t영혼 폭탄\n\t\t\tBomba duchowa\n\t\t\tBomba Espiritual\n\t\t\tВзрывной дух\n\t\t\tระเบิดวิญญาณ\n\t\t\t灵魂炸弹\n\t\t\t靈魂炸彈\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Deal $4 damage to a minion and your hero."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]하수인과 내 영웅에게\n피해를 $4씩 줍니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tFügt einem Diener\nund Eurem Helden\n$4 Schaden zu.\n\t\t\tDeal $4 damage to a minion and your hero.\n\t\t\t[x]Inflige $4 p. de daño\na un esbirro y a tu héroe.\n\t\t\tInflige $4 de daño a un esbirro y a tu héroe.\n\t\t\tInflige $4_|4(point,points) de dégâts à un serviteur et à votre héros.\n\t\t\tInfligge $4 danni a un servitore e al tuo eroe.\n\t\t\t[x]ミニオン1体と\n自分のヒーローに\n$4ダメージを与える。\n\t\t\t[x]하수인과 내 영웅에게\n피해를 $4씩 줍니다.\n\t\t\tZadaj $4 pkt. obrażeń stronnikowi oraz twojemu bohaterowi.\n\t\t\tCause $4 de dano a um lacaio e ao seu herói.\n\t\t\tНаносит $4 ед. урона выбранному существу и вашему герою.\n\t\t\tสร้างความเสียหาย $4_แต้มให้มินเนี่ยนหนึ่งตัว[b]และฮีโร่ของคุณ\n\t\t\t对一个随从和你的英雄各造成$4点伤害。\n\t\t\t對一個手下\n和你的英雄造成\n$4點傷害\n\t\t"
+        }
+      }
+    }
+  },
+  "2021-03-26": {
+    "spellSchool": "SHADOW",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 1635,
+        "before": "ABSENT",
+        "after": "6"
+      }
+    ],
+    "source": {
+      "beforeBuild": 44222,
+      "afterBuild": 77662,
+      "beforeCommit": "fc67953f6f6eee064badde3f4a7bd07011508642",
+      "afterCommit": "9e10b526eed8a9c5ece2f73f0c2a6a3b60109d62",
+      "beforeXmlSha256": "abe292d304af3fec9d84707b8326cf4104e370b8fc93e8adfa2c1156988cfdf5",
+      "afterXmlSha256": "36879caf88f629052e57d728d1fb3649a21f7198f649ab1cdc916c72ab1b8e29",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Spirit Bomb"
+            },
+            "koKR": {
+              "present": true,
+              "value": "영혼 폭탄"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tSeelenbombe\n\t\t\tSpirit Bomb\n\t\t\tBomba de espíritus\n\t\t\tBomba espiritual\n\t\t\tBombe spirituelle\n\t\t\tBomba Spirituale\n\t\t\t霊魂爆弾\n\t\t\t영혼 폭탄\n\t\t\tBomba duchowa\n\t\t\tBomba Espiritual\n\t\t\tВзрывной дух\n\t\t\tระเบิดวิญญาณ\n\t\t\t灵魂炸弹\n\t\t\t靈魂炸彈\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Deal $4 damage to a minion and your hero."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]하수인과 내 영웅에게\n피해를 $4씩 줍니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tFügt einem Diener\nund Eurem Helden\n$4 Schaden zu.\n\t\t\tDeal $4 damage to a minion and your hero.\n\t\t\t[x]Inflige $4 p. de daño\na un esbirro y a tu héroe.\n\t\t\tInflige $4 de daño a un esbirro y a tu héroe.\n\t\t\tInflige $4_|4(point,points) de dégâts à un serviteur et à votre héros.\n\t\t\tInfligge $4 danni a un servitore e al tuo eroe.\n\t\t\t[x]ミニオン1体と\n自分のヒーローに\n$4ダメージを与える。\n\t\t\t[x]하수인과 내 영웅에게\n피해를 $4씩 줍니다.\n\t\t\tZadaj $4 pkt. obrażeń stronnikowi oraz twojemu bohaterowi.\n\t\t\tCause $4 de dano a um lacaio e ao seu herói.\n\t\t\tНаносит $4 ед. урона выбранному существу и вашему герою.\n\t\t\tสร้างความเสียหาย $4_แต้มให้มินเนี่ยนหนึ่งตัว[b]และฮีโร่ของคุณ\n\t\t\t对一个随从和你的英雄各造成$4点伤害。\n\t\t\t對一個手下\n和你的英雄造成\n$4點傷害\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Spirit Bomb"
+            },
+            "koKR": {
+              "present": true,
+              "value": "영혼 폭탄"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tSeelenbombe\n\t\t\tSpirit Bomb\n\t\t\tBomba de espíritus\n\t\t\tBomba espiritual\n\t\t\tBombe spirituelle\n\t\t\tBomba Spirituale\n\t\t\t霊魂爆弾\n\t\t\t영혼 폭탄\n\t\t\tBomba duchowa\n\t\t\tBomba Espiritual\n\t\t\tВзрывной дух\n\t\t\tระเบิดวิญญาณ\n\t\t\t灵魂炸弹\n\t\t\t靈魂炸彈\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Deal $4 damage to a minion and your hero."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]하수인과 내 영웅에게\n피해를 $4씩 줍니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tFügt einem Diener\nund Eurem Helden\n$4 Schaden zu.\n\t\t\tDeal $4 damage to a minion and your hero.\n\t\t\t[x]Inflige $4 p. de daño\na un esbirro y a tu héroe.\n\t\t\tInflige $4 de daño a un esbirro y a tu héroe.\n\t\t\tInflige $4_|4(point,points) de dégâts à un serviteur et à votre héros.\n\t\t\tInfligge $4 danni a un servitore e al tuo eroe.\n\t\t\t[x]ミニオン1体と\n自分のヒーローに\n$4ダメージを与える。\n\t\t\t[x]하수인과 내 영웅에게\n피해를 $4씩 줍니다.\n\t\t\tZadaj $4 pkt. obrażeń stronnikowi oraz twojemu bohaterowi.\n\t\t\tCause $4 de dano a um lacaio e ao seu herói.\n\t\t\tНаносит $4 ед. урона существу и вашему герою.\n\t\t\tสร้างความเสียหาย $4_แต้มให้มินเนี่ยนหนึ่งตัว[b]และฮีโร่ของคุณ\n\t\t\t对一个随从和你的英雄各造成$4点伤害。\n\t\t\t對一個手下\n和你的英雄造成\n$4點傷害\n\t\t"
+        }
+      }
+    }
+  }
+}

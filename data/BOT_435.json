@@ -1,1 +1,413 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_435","dbfId":48759,"name":"복제 장치","type":"SPELL","cardClass":"PRIEST","rarity":"COMMON","collectible":true,"cost":1,"text":"상대편의 덱에서 하수인을 <b>발견</b>해서 복사해옵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"리모컨을 두고 싸우는 것에 제레크가 넌더리가 났나 봅니다.","spellSchool":"","portrait":"HS14-040_S.psd:8ade52dacd32989458ff415f3f5565f7","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":415,"name":"발견","value":1},{"id":1052,"name":"기계 장치","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_435.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-040_S.psd:8ade52dacd32989458ff415f3f5565f7","goldenMaterial":"BOT_435_PremiumCard.mat:860a5c9a482f5a14f862fd6b9364e4f6","goldenAnimation":"BOT_435_PremiumCard.asset:ba197c121c060b5419668838d1b36ec2"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-040_S.psd:8ade52dacd32989458ff415f3f5565f7",
+      "goldenMaterial": "BOT_435_PremiumCard.mat:860a5c9a482f5a14f862fd6b9364e4f6",
+      "goldenAnimation": "BOT_435_PremiumCard.asset:ba197c121c060b5419668838d1b36ec2"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Cloning Device"
+          },
+          "koKR": {
+            "present": true,
+            "value": "복제 장치"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tKlonomat\n\t\t\tCloning Device\n\t\t\tDispositivo de clonación\n\t\t\tDispositivo de clonación\n\t\t\tAppareil de clonage\n\t\t\tDispositivo di Clonazione\n\t\t\tクローン装置\n\t\t\t복제 장치\n\t\t\tMaszyna klonująca\n\t\t\tDispositivo de Clonagem\n\t\t\tКлонирователь\n\t\t\tเครื่องโคลนนิ่ง\n\t\t\t克隆装置\n\t\t\t複製裝置\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Discover</b> a copy of a minion in your opponent's deck."
+          },
+          "koKR": {
+            "present": true,
+            "value": "상대편의 덱에서 하수인을 하나 <b>발견</b>합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Entdeckt</b> eine Kopie eines Dieners aus dem Deck Eures Gegners.\n\t\t\t<b>Discover</b> a copy of a minion in your opponent's deck.\n\t\t\t[x]<b>Descubre</b> una copia\nde un esbirro del mazo\nde tu oponente.\n\t\t\t<b>Devela</b> una copia de un esbirro del mazo de tu adversario.\n\t\t\t<b>Découvre</b> une copie d’un serviteur du deck de votre adversaire.\n\t\t\t<b>Rinvieni</b> una copia di un servitore dal mazzo dell'avversario.\n\t\t\t[x]相手のデッキの\nミニオンのコピーを\n1体<b>発見</b>する。\n\t\t\t상대편의 덱에서 하수인을 하나 <b>발견</b>합니다.\n\t\t\t<b>Odkryj</b> kopię stronnika z talii przeciwnika.\n\t\t\t<b>Descubra</b> uma cópia de um lacaio do deck do oponente.\n\t\t\tВы <b>раскапываете</b> копию существа из_колоды противника.\n\t\t\t<b>ค้นพบ</b> ก๊อปปี้ของมินเนี่ยน[b]หนึ่งตัวในเด็คคู่ต่อสู้\n\t\t\t从你对手的牌库中<b>发现</b>一张随从牌，复制该随从牌并置入你的手牌。\n\t\t\t<b>發現</b>對手牌堆中的一個手下\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Cloning Device"
+          },
+          "koKR": {
+            "present": true,
+            "value": "복제 장치"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tKlonomat\n\t\tCloning Device\n\t\tDispositivo de clonación\n\t\tDispositivo de clonación\n\t\tAppareil de clonage\n\t\tDispositivo di Clonazione\n\t\tクローン装置\n\t\t복제 장치\n\t\tMaszyna klonująca\n\t\tDispositivo de Clonagem\n\t\tКлонирователь\n\t\tเครื่องโคลนนิ่ง\n\t\t克隆装置\n\t\t複製裝置\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Discover</b> a copy of a minion in your opponent's deck."
+          },
+          "koKR": {
+            "present": true,
+            "value": "상대편의 덱에서 하수인을 <b>발견</b>해서 복사해옵니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Entdeckt</b> eine Kopie eines Dieners aus dem Deck Eures Gegners.\n\t\t<b>Discover</b> a copy of a minion in your opponent's deck.\n\t\t[x]<b>Descubre</b> una copia\nde un esbirro del mazo\nde tu oponente.\n\t\t<b>Devela</b> una copia de un esbirro del mazo de tu adversario.\n\t\t<b>Découvre</b> une copie d’un serviteur du deck de votre adversaire.\n\t\t<b>Rinvieni</b> una copia di un servitore dal mazzo dell'avversario.\n\t\t[x]相手のデッキの\nミニオンのコピーを\n1体<b>発見</b>する。\n\t\t상대편의 덱에서 하수인을 <b>발견</b>해서 복사해옵니다.\n\t\t<b>Odkryj</b> kopię stronnika z talii przeciwnika.\n\t\t<b>Descubra</b> uma cópia de um lacaio do deck do oponente.\n\t\tВы <b>раскапываете</b> копию существа из_колоды противника.\n\t\t<b>ค้นพบ</b> ก๊อปปี้ของมินเนี่ยน[b]หนึ่งตัวในเด็คคู่ต่อสู้\n\t\t从你对手的牌库中<b>发现</b>一张随从牌的复制。\n\t\t<b>發現</b>對手牌堆中的一個手下\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_435",
+    "dbfId": 48759,
+    "name": "복제 장치",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "상대편의 덱에서 하수인을 <b>발견</b>해서 복사해옵니다.",
+    "flavor": "리모컨을 두고 싸우는 것에 제레크가 넌더리가 났나 봅니다.",
+    "spellSchool": "",
+    "portrait": "HS14-040_S.psd:8ade52dacd32989458ff415f3f5565f7",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1052,
+        "name": "기계 장치",
+        "value": 1
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_435.png",
+    "nativeRawText": "상대편의 덱에서 하수인을 <b>발견</b>해서 복사해옵니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "1",
+      "183": "1127",
+      "199": "6",
+      "202": "5",
+      "203": "1",
+      "321": "1",
+      "415": "1",
+      "1052": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_435",
+    "dbfId": 48759,
+    "name": "복제 장치",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "상대편의 덱에서 하수인을 하나 <b>발견</b>합니다.",
+    "flavor": "리모컨을 두고 싸우는 것에 제레크가 넌더리가 났나 봅니다.",
+    "spellSchool": "",
+    "portrait": "HS14-040_S.psd:8ade52dacd32989458ff415f3f5565f7",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_435.png",
+    "nativeRawText": "상대편의 덱에서 하수인을 하나 <b>발견</b>합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "2",
+      "183": "1127",
+      "199": "6",
+      "202": "5",
+      "203": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {
+      "415": "1"
+    },
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2019-06-04": {
+    "cost": 1,
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 48,
+        "before": "2",
+        "after": "1"
+      }
+    ],
+    "source": {
+      "beforeBuild": 31022,
+      "afterBuild": 31268,
+      "beforeCommit": "089a94c2fc524cc52ee7697ad4430fd52240d6a0",
+      "afterCommit": "d4dcf70622f19beddd0d6d56fdd5f053da99d223",
+      "beforeXmlSha256": "95219fea6d5638fa31890deb6468518c9a9189155f3e1f29512ec5758fe2adbe",
+      "afterXmlSha256": "016adca4cafcd19f2d9eb3397b7acd3035db594b5c5bd91e77370f57bdb483c4",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Cloning Device"
+            },
+            "koKR": {
+              "present": true,
+              "value": "복제 장치"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tKlonomat\n\t\t\tCloning Device\n\t\t\tDispositivo de clonación\n\t\t\tDispositivo de clonación\n\t\t\tAppareil de clonage\n\t\t\tDispositivo di Clonazione\n\t\t\tクローン装置\n\t\t\t복제 장치\n\t\t\tMaszyna klonująca\n\t\t\tDispositivo de Clonagem\n\t\t\tКлонирователь\n\t\t\tเครื่องโคลนนิ่ง\n\t\t\t克隆装置\n\t\t\t複製裝置\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Discover</b> a copy of a minion in your opponent's deck."
+            },
+            "koKR": {
+              "present": true,
+              "value": "상대편의 덱에서 하수인을 <b>발견</b>합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Entdeckt</b> eine Kopie eines Dieners aus dem Deck Eures Gegners.\n\t\t\t<b>Discover</b> a copy of a minion in your opponent's deck.\n\t\t\t[x]<b>Descubre</b> una copia\nde un esbirro del mazo\nde tu oponente.\n\t\t\t<b>Devela</b> una copia de un esbirro del mazo de tu adversario.\n\t\t\t<b>Découvre</b> une copie d’un serviteur du deck de votre adversaire.\n\t\t\t<b>Rinvieni</b> una copia di un servitore dal mazzo dell'avversario.\n\t\t\t[x]相手のデッキの\nミニオンのコピーを\n1体<b>発見</b>する。\n\t\t\t상대편의 덱에서 하수인을 <b>발견</b>합니다.\n\t\t\t<b>Odkryj</b> kopię stronnika z talii przeciwnika.\n\t\t\t<b>Descubra</b> uma cópia de um lacaio do deck do oponente.\n\t\t\tВы <b>раскапываете</b> копию существа из_колоды противника.\n\t\t\t<b>ค้นพบ</b> ก๊อปปี้ของมินเนี่ยน[b]หนึ่งตัวในเด็คคู่ต่อสู้\n\t\t\t从你对手的牌库中<b>发现</b>一张随从牌的复制。\n\t\t\t<b>發現</b>對手牌堆中的一個手下\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Cloning Device"
+            },
+            "koKR": {
+              "present": true,
+              "value": "복제 장치"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tKlonomat\n\t\t\tCloning Device\n\t\t\tDispositivo de clonación\n\t\t\tDispositivo de clonación\n\t\t\tAppareil de clonage\n\t\t\tDispositivo di Clonazione\n\t\t\tクローン装置\n\t\t\t복제 장치\n\t\t\tMaszyna klonująca\n\t\t\tDispositivo de Clonagem\n\t\t\tКлонирователь\n\t\t\tเครื่องโคลนนิ่ง\n\t\t\t克隆装置\n\t\t\t複製裝置\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Discover</b> a copy of a minion in your opponent's deck."
+            },
+            "koKR": {
+              "present": true,
+              "value": "상대편의 덱에서 하수인을 <b>발견</b>합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Entdeckt</b> eine Kopie eines Dieners aus dem Deck Eures Gegners.\n\t\t\t<b>Discover</b> a copy of a minion in your opponent's deck.\n\t\t\t[x]<b>Descubre</b> una copia\nde un esbirro del mazo\nde tu oponente.\n\t\t\t<b>Devela</b> una copia de un esbirro del mazo de tu adversario.\n\t\t\t<b>Découvre</b> une copie d’un serviteur du deck de votre adversaire.\n\t\t\t<b>Rinvieni</b> una copia di un servitore dal mazzo dell'avversario.\n\t\t\t[x]相手のデッキの\nミニオンのコピーを\n1体<b>発見</b>する。\n\t\t\t상대편의 덱에서 하수인을 <b>발견</b>합니다.\n\t\t\t<b>Odkryj</b> kopię stronnika z talii przeciwnika.\n\t\t\t<b>Descubra</b> uma cópia de um lacaio do deck do oponente.\n\t\t\tВы <b>раскапываете</b> копию существа из_колоды противника.\n\t\t\t<b>ค้นพบ</b> ก๊อปปี้ของมินเนี่ยน[b]หนึ่งตัวในเด็คคู่ต่อสู้\n\t\t\t从你对手的牌库中<b>发现</b>一张随从牌的复制。\n\t\t\t<b>發現</b>對手牌堆中的一個手下\n\t\t"
+        }
+      }
+    }
+  }
+}

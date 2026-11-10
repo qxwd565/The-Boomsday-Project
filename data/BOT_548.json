@@ -1,1 +1,365 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_548","dbfId":49184,"name":"질리악스","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":5,"text":"<b>합체</b>, <b>천상의 보호막</b><br></br><b>도발</b>, <b>생명력 흡수</b>, <b>속공</b>","attack":3,"health":2,"durability":0,"armor":0,"flavor":"파이널 퓨전! 승인!","spellSchool":"","portrait":"HS14-193_M.psd:df73b6cf63756e54fbb9388f69d5a711","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":190,"name":"도발","value":1},{"id":194,"name":"천상의 보호막","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":685,"name":"생명력 흡수","value":1},{"id":791,"name":"속공","value":1},{"id":849,"name":"합체","value":1},{"id":1932,"name":"다이아몬드 카드 존재","value":1},{"id":2787,"name":"게임 태그 2787","value":49183}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/BOT_548.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-193_M.psd:df73b6cf63756e54fbb9388f69d5a711","goldenMaterial":"BOT_548_PremiumCard.mat:bec2059a216c10c499875c4fa9ace9d6","goldenAnimation":"BOT_548_PremiumCard.asset:3909d4912bd40fd4fa5cddb42cad9e19"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-193_M.psd:df73b6cf63756e54fbb9388f69d5a711",
+      "goldenMaterial": "BOT_548_PremiumCard.mat:bec2059a216c10c499875c4fa9ace9d6",
+      "goldenAnimation": "BOT_548_PremiumCard.asset:3909d4912bd40fd4fa5cddb42cad9e19"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Zilliax"
+          },
+          "koKR": {
+            "present": true,
+            "value": "질리악스"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tZilliax\n\t\t\tZilliax\n\t\t\tZilliax\n\t\t\tZilliax\n\t\t\tZilliax\n\t\t\tZilliax\n\t\t\tジリアックス\n\t\t\t질리악스\n\t\t\tZiliax\n\t\t\tZilliax\n\t\t\tЗиллиакс\n\t\t\tซิลิแอกซ์\n\t\t\t奇利亚斯\n\t\t\t齊里亞斯\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Magnetic</b>\n<b><b>Divine Shield</b>, <b>Taunt</b>, Lifesteal, Rush</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>합체</b>, <b>천상의 보호막</b>\n<b>도발</b>, <b>생명력 흡수</b>, <b>속공</b>"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Magnetisch</b>, <b>Gottesschild</b>, <b>Spott</b>, <b>Lebensentzug</b>, <b>Eifer</b>\n\t\t\t<b>Magnetic</b>\n<b><b>Divine Shield</b>, <b>Taunt</b>, Lifesteal, Rush</b>\n\t\t\t<b>Magnetismo</b>\n<b><b>Escudo divino</b>\n<b>Provocar</b>\nRobo de vida\nEmbestir</b>\n\t\t\t<b>Magnetismo</b>\n<b><b>Escudo divino</b>, <b>Provocación</b>, Robavida,_Acometida</b>\n\t\t\t<b>Magnétisme</b>, <b>Bouclier_divin</b>, <b>Provocation</b>,\n<b>Vol_de_vie</b>, <b>Ruée</b>\n\t\t\t<b>Magnetismo</b>. <b>Scudo Divino</b>. <b>Provocazione</b>. <b>Furto Vitale</b>. <b>Assalto</b>.\n\t\t\t<b>超電磁</b>\n<b>聖なる盾</b>、<b>挑発</b>\n<b>生命奪取</b>、<b>急襲</b>\n\t\t\t<b>합체</b>, <b>천상의 보호막</b>\n<b>도발</b>, <b>생명력 흡수</b>, <b>속공</b>\n\t\t\t<b>Magnetyzm</b>\n<b>Boska tarcza</b>\n<b>Prowokacja</b>\n<b>Kradzież_życia</b>\n<b>Zryw</b>\n\t\t\t<b>Magnético,</b>\n<b><b>Escudo Divino</b>, <b>Provocar</b>, Roubar Vida, Rapidez</b>\n\t\t\t<b>Магнетизм. Божественный щит. Провокация. Похищение жизни. Натиск.</b>\n\t\t\t<b>แม่เหล็ก</b>\n<b><b>โล่ศักดิ์สิทธิ์</b>, <b>ยั่วยุ</b>, สูบชีวิต, จู่โจม</b>\n\t\t\t<b>磁力，圣盾，嘲讽，吸血，突袭</b>\n\t\t\t<b>合體</b>\n<b>聖盾術</b>、<b>嘲諷</b>\n<b>生命竊取</b>、<b>衝刺</b>\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Zilliax"
+          },
+          "koKR": {
+            "present": true,
+            "value": "질리악스"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tZilliax\n\t\tZilliax\n\t\tZilliax\n\t\tZilliax\n\t\tZilliax\n\t\tZilliax\n\t\tジリアックス\n\t\t질리악스\n\t\tZiliax\n\t\tZilliax\n\t\tЗиллиакс\n\t\tซิลิแอกซ์\n\t\t奇利亚斯\n\t\t齊里亞斯\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Magnetic</b>\n<b><b>Divine Shield</b>, <b>Taunt</b>, Lifesteal, Rush</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>합체</b>, <b>천상의 보호막</b>\n<b>도발</b>, <b>생명력 흡수</b>, <b>속공</b>"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Magnetisch</b>, <b>Gottesschild</b>, <b>Spott</b>, <b>Lebensentzug</b>, <b>Eifer</b>\n\t\t<b>Magnetic</b>\n<b><b>Divine Shield</b>, <b>Taunt</b>, Lifesteal, Rush</b>\n\t\t<b>Magnetismo</b>\n<b><b>Escudo divino</b>\n<b>Provocar</b>\nRobo de vida\nEmbestir</b>\n\t\t<b>Magnetismo</b>\n<b><b>Escudo divino</b>, <b>Provocación</b>, Robavida,_Acometida</b>\n\t\t<b>Magnétisme</b>, <b>Bouclier_divin</b>, <b>Provocation</b>,\n<b>Vol_de_vie</b>, <b>Ruée</b>\n\t\t<b>Magnetismo</b>. <b>Scudo Divino</b>. <b>Provocazione</b>. <b>Furto Vitale</b>. <b>Assalto</b>.\n\t\t<b>超電磁</b>\n<b>聖なる盾</b>、<b>挑発</b>\n<b>生命奪取</b>、<b>急襲</b>\n\t\t<b>합체</b>, <b>천상의 보호막</b>\n<b>도발</b>, <b>생명력 흡수</b>, <b>속공</b>\n\t\t<b>Magnetyzm</b>\n<b>Boska tarcza</b>\n<b>Prowokacja</b>\n<b>Kradzież_życia</b>\n<b>Zryw</b>\n\t\t<b>Magnético,</b>\n<b><b>Escudo Divino</b>, <b>Provocar</b>, Roubar Vida, Rapidez</b>\n\t\t<b>Магнетизм\nБожественный щит\nПровокация\nПохищение жизни\nНатиск</b>\n\t\t<b>แม่เหล็ก</b>_<b><b>โล่ศักดิ์สิทธิ์</b> <b>ยั่วยุ</b>_สูบชีวิต_จู่โจม</b>\n\t\t<b>磁力，圣盾，嘲讽，吸血，突袭</b>\n\t\t<b>合體</b>\n<b>聖盾術</b>、<b>嘲諷</b>\n<b>生命竊取</b>、<b>衝刺</b>\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_548",
+    "dbfId": 49184,
+    "name": "질리악스",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>합체</b>, <b>천상의 보호막</b><br></br><b>도발</b>, <b>생명력 흡수</b>, <b>속공</b>",
+    "attack": 3,
+    "health": 2,
+    "flavor": "파이널 퓨전! 승인!",
+    "portrait": "HS14-193_M.psd:df73b6cf63756e54fbb9388f69d5a711",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 849,
+        "name": "합체",
+        "value": 1
+      },
+      {
+        "id": 1932,
+        "name": "다이아몬드 카드 존재",
+        "value": 1
+      },
+      {
+        "id": 2787,
+        "name": "게임 태그 2787",
+        "value": 49183
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_548.png",
+    "nativeRawText": "<b>합체</b>, <b>천상의 보호막</b>\n<b>도발</b>, <b>생명력 흡수</b>, <b>속공</b>",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "2",
+      "47": "3",
+      "48": "5",
+      "114": "1",
+      "183": "1127",
+      "190": "1",
+      "194": "1",
+      "199": "12",
+      "200": "17",
+      "202": "4",
+      "203": "5",
+      "321": "1",
+      "685": "1",
+      "791": "1",
+      "849": "1",
+      "1932": "1",
+      "2787": "49183"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_548",
+    "dbfId": 49184,
+    "name": "질리악스",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>합체</b>, <b>천상의 보호막</b><br></br><b>도발</b>, <b>생명력 흡수</b>, <b>속공</b>",
+    "attack": 3,
+    "health": 2,
+    "flavor": "파이널 퓨전! 승인!",
+    "portrait": "HS14-193_M.psd:df73b6cf63756e54fbb9388f69d5a711",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 849,
+        "name": "합체",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_548.png",
+    "nativeRawText": "<b>합체</b>, <b>천상의 보호막</b>\n<b>도발</b>, <b>생명력 흡수</b>, <b>속공</b>",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "2",
+      "47": "3",
+      "48": "5",
+      "114": "1",
+      "183": "1127",
+      "190": "1",
+      "194": "1",
+      "199": "12",
+      "200": "17",
+      "202": "4",
+      "203": "5",
+      "321": "1",
+      "685": "1",
+      "791": "1",
+      "849": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

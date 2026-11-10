@@ -1,1 +1,419 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_508","dbfId":48748,"name":"네크리움 약병","type":"SPELL","cardClass":"ROGUE","rarity":"EPIC","collectible":true,"cost":5,"text":"아군 하수인의<br></br><b>죽음의 메아리</b> 능력을 2번 발동시킵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"죽을 뻔한 경험을 두 번 연속으로 체험하게 해드립니다!","spellSchool":"SHADOW","portrait":"HS14-049_S.psd:78c9f3fad85a4904780d98e5e597994b","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":1635,"name":"주문 속성","value":6}],"races":[],"race":"","classes":[],"art":"art/BOT_508.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-049_S.psd:78c9f3fad85a4904780d98e5e597994b","goldenMaterial":"BOT_508_PremiumCard.mat:26b31e0ca162a1b4ab3dc8a412f02c8a","goldenAnimation":"BOT_508_PremiumCard.asset:f016518a1dd8323448738f4c7e933505"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-049_S.psd:78c9f3fad85a4904780d98e5e597994b",
+      "goldenMaterial": "BOT_508_PremiumCard.mat:26b31e0ca162a1b4ab3dc8a412f02c8a",
+      "goldenAnimation": "BOT_508_PremiumCard.asset:f016518a1dd8323448738f4c7e933505"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Necrium Vial"
+          },
+          "koKR": {
+            "present": true,
+            "value": "네크리움 약병"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tNekriumphiole\n\t\t\tNecrium Vial\n\t\t\tVial de nécrium\n\t\t\tVial de necrio\n\t\t\tFiole de nécrium\n\t\t\tFiala di Necrium\n\t\t\tネクリウムの小瓶\n\t\t\t네크리움 약병\n\t\t\tFiolka nekrium\n\t\t\tFrasco de Necrium\n\t\t\tСклянка с некрием\n\t\t\tขวดเนเครียม\n\t\t\t死金药剂\n\t\t\t死金藥劑\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Trigger a friendly minion's <b>Deathrattle</b> twice."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]아군 하수인 하나의\n<b>죽음의 메아리</b> 능력을\n2번 발동시킵니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tLöst das <b>Todesröcheln</b> eines befreundeten Dieners zweimal aus.\n\t\t\tTrigger a friendly minion's <b>Deathrattle</b> twice.\n\t\t\t[x]Activa el <b>Último aliento</b>\nde un esbirro amistoso\ndos veces.\n\t\t\tActiva dos veces el <b>Estertor</b> de un esbirro aliado.\n\t\t\tDéclenche le <b>Râle d’agonie</b> d’un serviteur allié deux fois.\n\t\t\t[x]Attiva due volte\nil <b>Rantolo di Morte</b>\ndi un tuo servitore.\n\t\t\t[x]味方の\nミニオン1体の\n<b>断末魔</b>を\n___2回発動させる。\n\t\t\t[x]아군 하수인 하나의\n<b>죽음의 메아리</b> 능력을\n2번 발동시킵니다.\n\t\t\tAktywuj dwukrotnie <b>Agonię</b> przyjaznego stronnika.\n\t\t\tAtive o <b>Último Suspiro</b> de um lacaio aliado duas vezes.\n\t\t\tЗаставляет дважды сработать <b>«Предсмертный хрип»</b> вашего выбранного существа.\n\t\t\tบังคับใช้ผล <b>เสียงสุดท้าย</b> ของมินเนี่ยนฝ่ายคุณหนึ่งตัว[b]สองครั้ง\n\t\t\t触发一个友方随从的<b>亡语</b>两次。\n\t\t\t觸發一個友方手下的<b>死亡之聲</b>\n兩次\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Necrium Vial"
+          },
+          "koKR": {
+            "present": true,
+            "value": "네크리움 약병"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tNekriumphiole\n\t\tNecrium Vial\n\t\tVial de nécrium\n\t\tVial de necrio\n\t\tFiole de nécrium\n\t\tFiala di Necrium\n\t\tネクリウムの小瓶\n\t\t네크리움 약병\n\t\tFiolka nekrium\n\t\tFrasco de Necrium\n\t\tСклянка с некрием\n\t\tขวดเนเครียม\n\t\t死金药剂\n\t\t死金藥劑\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Trigger a friendly minion's <b>Deathrattle</b> twice."
+          },
+          "koKR": {
+            "present": true,
+            "value": "아군 하수인의\n<b>죽음의 메아리</b> 능력을 2번 발동시킵니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tLöst das <b>Todesröcheln</b> eines befreundeten Dieners zweimal aus.\n\t\tTrigger a friendly minion's <b>Deathrattle</b> twice.\n\t\t[x]Activa el <b>Último aliento</b>\nde un esbirro amistoso\ndos veces.\n\t\tActiva dos veces el <b>Estertor</b> de un esbirro aliado.\n\t\tDéclenche le <b>Râle d’agonie</b> d’un serviteur allié deux fois.\n\t\t[x]Attiva due volte\nil <b>Rantolo di Morte</b>\ndi un tuo servitore.\n\t\t[x]味方の\nミニオン1体の\n<b>断末魔</b>を\n___2回発動させる。\n\t\t아군 하수인의\n<b>죽음의 메아리</b> 능력을 2번 발동시킵니다.\n\t\tAktywuj dwukrotnie <b>Agonię</b> przyjaznego stronnika.\n\t\tAtive o <b>Último Suspiro</b> de um lacaio aliado duas vezes.\n\t\tДважды вызывает срабатывание <b>«Предсмертного хрипа»</b> вашего существа.\n\t\tบังคับใช้ผล <b>เสียงสุดท้าย</b> ของมินเนี่ยนฝ่ายคุณ[b]หนึ่งตัวสองครั้ง\n\t\t触发一个友方随从的<b>亡语</b>两次。\n\t\t觸發一個友方手下的<b>死亡之聲</b>\n兩次\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_508",
+    "dbfId": 48748,
+    "name": "네크리움 약병",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "아군 하수인의<br></br><b>죽음의 메아리</b> 능력을 2번 발동시킵니다.",
+    "flavor": "죽을 뻔한 경험을 두 번 연속으로 체험하게 해드립니다!",
+    "spellSchool": "SHADOW",
+    "portrait": "HS14-049_S.psd:78c9f3fad85a4904780d98e5e597994b",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_508.png",
+    "nativeRawText": "아군 하수인의\n<b>죽음의 메아리</b> 능력을 2번 발동시킵니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "5",
+      "183": "1127",
+      "199": "7",
+      "202": "5",
+      "203": "4",
+      "321": "1",
+      "1635": "6"
+    },
+    "nativeTagsReferenced": {
+      "217": "1"
+    }
+  },
+  "2018-08-08": {
+    "id": "BOT_508",
+    "dbfId": 48748,
+    "name": "네크리움 약병",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "아군 하수인 하나의<br></br><b>죽음의 메아리</b> 능력을<br></br>2번 발동시킵니다.",
+    "flavor": "죽을 뻔한 경험을 두 번 연속으로 체험하게 해드립니다!",
+    "spellSchool": "",
+    "portrait": "HS14-049_S.psd:78c9f3fad85a4904780d98e5e597994b",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_508.png",
+    "nativeRawText": "[x]아군 하수인 하나의\n<b>죽음의 메아리</b> 능력을\n2번 발동시킵니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "5",
+      "183": "1127",
+      "199": "7",
+      "202": "5",
+      "203": "4",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {
+      "217": "1"
+    },
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2021-03-26": {
+    "spellSchool": "SHADOW",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 1635,
+        "before": "ABSENT",
+        "after": "6"
+      }
+    ],
+    "source": {
+      "beforeBuild": 44222,
+      "afterBuild": 77662,
+      "beforeCommit": "fc67953f6f6eee064badde3f4a7bd07011508642",
+      "afterCommit": "9e10b526eed8a9c5ece2f73f0c2a6a3b60109d62",
+      "beforeXmlSha256": "abe292d304af3fec9d84707b8326cf4104e370b8fc93e8adfa2c1156988cfdf5",
+      "afterXmlSha256": "36879caf88f629052e57d728d1fb3649a21f7198f649ab1cdc916c72ab1b8e29",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Necrium Vial"
+            },
+            "koKR": {
+              "present": true,
+              "value": "네크리움 약병"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tNekriumphiole\n\t\t\tNecrium Vial\n\t\t\tVial de nécrium\n\t\t\tVial de necrio\n\t\t\tFiole de nécrium\n\t\t\tFiala di Necrium\n\t\t\tネクリウムの小瓶\n\t\t\t네크리움 약병\n\t\t\tFiolka nekrium\n\t\t\tFrasco de Necrium\n\t\t\tСклянка с некрием\n\t\t\tขวดเนเครียม\n\t\t\t死金药剂\n\t\t\t死金藥劑\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Trigger a friendly minion's <b>Deathrattle</b> twice."
+            },
+            "koKR": {
+              "present": true,
+              "value": "아군 하수인의\n<b>죽음의 메아리</b> 능력을 2번 발동시킵니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tLöst das <b>Todesröcheln</b> eines befreundeten Dieners zweimal aus.\n\t\t\tTrigger a friendly minion's <b>Deathrattle</b> twice.\n\t\t\t[x]Activa el <b>Último aliento</b>\nde un esbirro amistoso\ndos veces.\n\t\t\tActiva dos veces el <b>Estertor</b> de un esbirro aliado.\n\t\t\tDéclenche le <b>Râle d’agonie</b> d’un serviteur allié deux fois.\n\t\t\t[x]Attiva due volte\nil <b>Rantolo di Morte</b>\ndi un tuo servitore.\n\t\t\t[x]味方の\nミニオン1体の\n<b>断末魔</b>を\n___2回発動させる。\n\t\t\t아군 하수인의\n<b>죽음의 메아리</b> 능력을 2번 발동시킵니다.\n\t\t\tAktywuj dwukrotnie <b>Agonię</b> przyjaznego stronnika.\n\t\t\tAtive o <b>Último Suspiro</b> de um lacaio aliado duas vezes.\n\t\t\tДважды вызывает срабатывание <b>«Предсмертного хрипа»</b> вашего выбранного существа.\n\t\t\tบังคับใช้ผล <b>เสียงสุดท้าย</b> ของมินเนี่ยนฝ่ายคุณ[b]หนึ่งตัวสองครั้ง\n\t\t\t触发一个友方随从的<b>亡语</b>两次。\n\t\t\t觸發一個友方手下的<b>死亡之聲</b>\n兩次\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Necrium Vial"
+            },
+            "koKR": {
+              "present": true,
+              "value": "네크리움 약병"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tNekriumphiole\n\t\t\tNecrium Vial\n\t\t\tVial de nécrium\n\t\t\tVial de necrio\n\t\t\tFiole de nécrium\n\t\t\tFiala di Necrium\n\t\t\tネクリウムの小瓶\n\t\t\t네크리움 약병\n\t\t\tFiolka nekrium\n\t\t\tFrasco de Necrium\n\t\t\tСклянка с некрием\n\t\t\tขวดเนเครียม\n\t\t\t死金药剂\n\t\t\t死金藥劑\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Trigger a friendly minion's <b>Deathrattle</b> twice."
+            },
+            "koKR": {
+              "present": true,
+              "value": "아군 하수인의\n<b>죽음의 메아리</b> 능력을 2번 발동시킵니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tLöst das <b>Todesröcheln</b> eines befreundeten Dieners zweimal aus.\n\t\t\tTrigger a friendly minion's <b>Deathrattle</b> twice.\n\t\t\t[x]Activa el <b>Último aliento</b>\nde un esbirro amistoso\ndos veces.\n\t\t\tActiva dos veces el <b>Estertor</b> de un esbirro aliado.\n\t\t\tDéclenche le <b>Râle d’agonie</b> d’un serviteur allié deux fois.\n\t\t\t[x]Attiva due volte\nil <b>Rantolo di Morte</b>\ndi un tuo servitore.\n\t\t\t[x]味方の\nミニオン1体の\n<b>断末魔</b>を\n___2回発動させる。\n\t\t\t아군 하수인의\n<b>죽음의 메아리</b> 능력을 2번 발동시킵니다.\n\t\t\tAktywuj dwukrotnie <b>Agonię</b> przyjaznego stronnika.\n\t\t\tAtive o <b>Último Suspiro</b> de um lacaio aliado duas vezes.\n\t\t\tДважды вызывает срабатывание <b>«Предсмертного хрипа»</b> вашего существа.\n\t\t\tบังคับใช้ผล <b>เสียงสุดท้าย</b> ของมินเนี่ยนฝ่ายคุณ[b]หนึ่งตัวสองครั้ง\n\t\t\t触发一个友方随从的<b>亡语</b>两次。\n\t\t\t觸發一個友方手下的<b>死亡之聲</b>\n兩次\n\t\t"
+        }
+      }
+    }
+  }
+}

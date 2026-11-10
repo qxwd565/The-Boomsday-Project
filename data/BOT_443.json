@@ -1,1 +1,320 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_443","dbfId":48835,"name":"공허 분석가","type":"MINION","cardClass":"WARLOCK","rarity":"RARE","collectible":true,"cost":2,"text":"<b>죽음의 메아리:</b> 내 손에 있는 모든 악마에게 +1/+1을 부여합니다.","attack":2,"health":2,"durability":0,"armor":0,"flavor":"결론: 아무 것도 없음.","spellSchool":"","portrait":"HS14-150_M.psd:b24c4a53f47ca4449b88755f7dad6ee4","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":9},{"id":200,"name":"종족","value":15},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/BOT_443.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-150_M.psd:b24c4a53f47ca4449b88755f7dad6ee4","goldenMaterial":"BOT_443_PremiumCard.mat:e9b6331c72c6d194195c59f2959bbe5f","goldenAnimation":"BOT_443_PremiumCard.asset:ac4fb87f07b42f344b2dcd6da5d3e8ce"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-150_M.psd:b24c4a53f47ca4449b88755f7dad6ee4",
+      "goldenMaterial": "BOT_443_PremiumCard.mat:e9b6331c72c6d194195c59f2959bbe5f",
+      "goldenAnimation": "BOT_443_PremiumCard.asset:ac4fb87f07b42f344b2dcd6da5d3e8ce"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Void Analyst"
+          },
+          "koKR": {
+            "present": true,
+            "value": "공허 분석가"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tLeerenanalystin\n\t\t\tVoid Analyst\n\t\t\tAnalista del Vacío\n\t\t\tAnalista del Vacío\n\t\t\tAnalyste du Vide\n\t\t\tAnalista del Vuoto\n\t\t\t虚無分析学者\n\t\t\t공허 분석가\n\t\t\tAnalityczka Pustki\n\t\t\tAnalista do Caos\n\t\t\tАналитик Бездны\n\t\t\tนักวิเคราะห์วอยด์\n\t\t\t虚空分析师\n\t\t\t虛無分析師\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Give all Demons in your hand +1/+1."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b> 내 손에 있는 모든 악마에게 +1/+1을 부여합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Todesröcheln:</b> Verleiht allen Dämonen auf Eurer Hand +1/+1.\n\t\t\t<b>Deathrattle:</b> Give all Demons in your hand +1/+1.\n\t\t\t<b>Último aliento:</b>\nOtorga +1/+1 a todos\nlos demonios de tu mano.\n\t\t\t<b>Estertor:</b> otorga +1/+1 a todos los Demonios de tu mano.\n\t\t\t<b>Râle d’agonie_:</b> donne_+1/+1 à tous les démons_de_votre_main.\n\t\t\t[x]<b>Rantolo di Morte:</b>\n+1/+1 ai Demoni\nnella tua mano.\n\t\t\t<b>断末魔:</b>\n自分の手札の悪魔\n全てに+1/+1を\n付与する。\n\t\t\t<b>죽음의 메아리:</b> 내 손에 있는 모든 악마에게 +1/+1을 부여합니다.\n\t\t\t<b>Agonia:</b> Daj +1/+1 wszystkim Demonom w_twojej ręce.\n\t\t\t<b>Último Suspiro:</b> \nConceda +1/+1 \na todos os Demônios \nna sua mão.\n\t\t\t<b>Предсмертный хрип:</b> демоны у вас в руке получают +1/+1.\n\t\t\t<b>เสียงสุดท้าย:</b> มอบ_+1/+1_ให้ปีศาจ[b]ทั้งหมดในมือคุณ\n\t\t\t<b>亡语：</b>使你手牌中的所有恶魔牌获得+1/+1。\n\t\t\t<b>死亡之聲：</b>賦予你\n手中全部的惡魔+1/+1\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Void Analyst"
+          },
+          "koKR": {
+            "present": true,
+            "value": "공허 분석가"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tLeerenanalystin\n\t\tVoid Analyst\n\t\tAnalista del Vacío\n\t\tAnalista del Vacío\n\t\tAnalyste du Vide\n\t\tAnalista del Vuoto\n\t\t虚無分析学者\n\t\t공허 분석가\n\t\tAnalityczka Pustki\n\t\tAnalista do Caos\n\t\tАналитик Бездны\n\t\tนักวิเคราะห์วอยด์\n\t\t虚空分析师\n\t\t虛無分析師\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Give all Demons in your hand +1/+1."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b> 내 손에 있는 모든 악마에게 +1/+1을 부여합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Todesröcheln:</b> Verleiht allen Dämonen auf Eurer Hand +1/+1.\n\t\t<b>Deathrattle:</b> Give all Demons in your hand +1/+1.\n\t\t<b>Último aliento:</b>\nOtorga +1/+1 a todos\nlos demonios de tu mano.\n\t\t<b>Estertor:</b> otorga +1/+1 a todos los Demonios de tu mano.\n\t\t<b>Râle d’agonie_:</b> donne_+1/+1 à tous les Démons_de_votre_main.\n\t\t[x]<b>Rantolo di Morte:</b>\n+1/+1 ai Demoni\nnella tua mano.\n\t\t<b>断末魔:</b>\n自分の手札の悪魔\n全てに+1/+1を\n付与する。\n\t\t<b>죽음의 메아리:</b> 내 손에 있는 모든 악마에게 +1/+1을 부여합니다.\n\t\t<b>Agonia:</b> Daj +1/+1 wszystkim Demonom w_twojej ręce.\n\t\t<b>Último Suspiro:</b> \nConceda +1/+1 \na todos os Demônios \nna sua mão.\n\t\t<b>Предсмертный хрип:</b> демоны у вас в руке получают +1/+1.\n\t\t<b>เสียงสุดท้าย:</b> มอบ_+1/+1_ให้ปีศาจ[b]ทั้งหมดในมือคุณ\n\t\t<b>亡语：</b>使你手牌中的所有恶魔牌获得+1/+1。\n\t\t<b>死亡之聲：</b>賦予你\n手中全部的惡魔+1/+1\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_443",
+    "dbfId": 48835,
+    "name": "공허 분석가",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>죽음의 메아리:</b> 내 손에 있는 모든 악마에게 +1/+1을 부여합니다.",
+    "attack": 2,
+    "health": 2,
+    "flavor": "결론: 아무 것도 없음.",
+    "portrait": "HS14-150_M.psd:b24c4a53f47ca4449b88755f7dad6ee4",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/BOT_443.png",
+    "nativeRawText": "<b>죽음의 메아리:</b> 내 손에 있는 모든 악마에게 +1/+1을 부여합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "2",
+      "47": "2",
+      "48": "2",
+      "183": "1127",
+      "199": "9",
+      "200": "15",
+      "201": "3",
+      "202": "4",
+      "203": "3",
+      "217": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_443",
+    "dbfId": 48835,
+    "name": "공허 분석가",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>죽음의 메아리:</b> 내 손에 있는 모든 악마에게 +1/+1을 부여합니다.",
+    "attack": 2,
+    "health": 2,
+    "flavor": "결론: 아무 것도 없음.",
+    "portrait": "HS14-150_M.psd:b24c4a53f47ca4449b88755f7dad6ee4",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/BOT_443.png",
+    "nativeRawText": "<b>죽음의 메아리:</b> 내 손에 있는 모든 악마에게 +1/+1을 부여합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "2",
+      "47": "2",
+      "48": "2",
+      "183": "1127",
+      "199": "9",
+      "200": "15",
+      "201": "3",
+      "202": "4",
+      "203": "3",
+      "217": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

@@ -1,1 +1,264 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_437","dbfId":48770,"name":"고블린의 장난","type":"SPELL","cardClass":"HUNTER","rarity":"EPIC","collectible":true,"cost":2,"text":"아군 하수인에게 +3/+3과 <b>속공</b>을 부여합니다. 턴이 끝나면 그 하수인은 죽습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"하하! 속았지?! ...야, 괜찮아?\"","spellSchool":"","portrait":"HS14-041_S.psd:726bb8225c7e47a4b87424243522ffa2","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":791,"name":"속공","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_437.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-041_S.psd:726bb8225c7e47a4b87424243522ffa2","goldenMaterial":"BOT_437_PremiumCard.mat:64efbf8ced350af4b8e3276bcc4528bd","goldenAnimation":"BOT_437_PremiumCard.asset:0ab73f7908c0db146bf0e87c05a2358c"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-041_S.psd:726bb8225c7e47a4b87424243522ffa2",
+      "goldenMaterial": "BOT_437_PremiumCard.mat:64efbf8ced350af4b8e3276bcc4528bd",
+      "goldenAnimation": "BOT_437_PremiumCard.asset:0ab73f7908c0db146bf0e87c05a2358c"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Goblin Prank"
+          },
+          "koKR": {
+            "present": true,
+            "value": "고블린의 장난"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tGoblinstreich\n\t\t\tGoblin Prank\n\t\t\tTrastada goblin\n\t\t\tBroma goblin\n\t\t\tGaléjade gobeline\n\t\t\tScherzo Goblin\n\t\t\tゴブリンの悪ふざけ\n\t\t\t고블린의 장난\n\t\t\tGobliński psikus\n\t\t\tPegadinha Goblínica\n\t\t\tГоблинский прикол\n\t\t\tก็อบลินกลั่นแกล้ง\n\t\t\t地精的把戏\n\t\t\t哥布林整人法\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Give a friendly minion +3/+3 and <b>Rush</b>. It_dies at end of turn."
+          },
+          "koKR": {
+            "present": true,
+            "value": "아군 하수인 하나에게 +3/+3과 <b>속공</b>을 부여합니다. 턴이 끝나면\n그 하수인은 죽습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tVerleiht einem befreundeten Diener +3/+3 und <b>Eifer</b>. Er stirbt am Ende des Zuges.\n\t\t\tGive a friendly minion +3/+3 and <b>Rush</b>. It_dies at end of turn.\n\t\t\t[x]Otorga +3/+3 y <b>Embestir</b>\na un esbirro amistoso.\nMuere al final del turno.\n\t\t\tOtorga +3/+3 y <b>Acometida</b> a un esbirro aliado. Muere al final del turno.\n\t\t\tDonne +3/+3 et <b>Ruée</b> à un serviteur allié, qui meurt à la fin du tour.\n\t\t\t[x]+3/+3 e <b>Assalto</b> a un tuo\nservitore. Viene distrutto\nalla fine del turno.\n\t\t\t[x]味方のミニオン1体に\n+3/+3と<b>急襲</b>を付与する。\nターンの終了時\nそのミニオンは死亡する。\n\t\t\t아군 하수인 하나에게 +3/+3과 <b>속공</b>을 부여합니다. 턴이 끝나면\n그 하수인은 죽습니다.\n\t\t\tDaj przyjaznemu stronnikowi +3/+3 i_<b>Zryw</b>. Zginie na koniec_tury.\n\t\t\tConceda +3/+3 e <b>Rapidez</b> a um lacaio aliado. No final do turno, ele morre.\n\t\t\tВаше выбранное существо получает +3/+3 и <b>«Натиск»</b>. Оно погибает в конце хода.\n\t\t\tมอบ +3/+3 และ <b>จู่โจม</b> ให้มินเนี่ยนฝ่ายคุณหนึ่งตัว มันจะตายเมื่อจบเทิร์น\n\t\t\t使一个友方随从获得+3/+3和<b>突袭</b>，该随从会在回合结束时死亡。\n\t\t\t賦予一個友方手下+3/+3和<b>衝刺</b>，並在回合結束時死亡\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Goblin Prank"
+          },
+          "koKR": {
+            "present": true,
+            "value": "고블린의 장난"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tGoblinstreich\n\t\tGoblin Prank\n\t\tTrastada goblin\n\t\tBroma goblin\n\t\tGaléjade gobeline\n\t\tScherzo Goblin\n\t\tゴブリンの悪ふざけ\n\t\t고블린의 장난\n\t\tGobliński psikus\n\t\tPegadinha Goblínica\n\t\tГоблинский прикол\n\t\tก็อบลินกลั่นแกล้ง\n\t\t地精的把戏\n\t\t哥布林整人法\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Give a friendly minion +3/+3 and <b>Rush</b>. It_dies at end of turn."
+          },
+          "koKR": {
+            "present": true,
+            "value": "아군 하수인에게 +3/+3과 <b>속공</b>을 부여합니다. 턴이 끝나면 그 하수인은 죽습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tVerleiht einem befreundeten Diener +3/+3 und <b>Eifer</b>. Er stirbt am Ende des Zuges.\n\t\tGive a friendly minion +3/+3 and <b>Rush</b>. It_dies at end of turn.\n\t\t[x]Otorga +3/+3 y <b>Embestir</b>\na un esbirro amistoso.\nMuere al final del turno.\n\t\tOtorga +3/+3 y <b>Acometida</b> a un esbirro aliado. Muere al final del turno.\n\t\tDonne +3/+3 et <b>Ruée</b> à un serviteur allié, qui meurt à la fin du tour.\n\t\t[x]+3/+3 e <b>Assalto</b> a un tuo\nservitore. Viene distrutto\nalla fine del turno.\n\t\t[x]味方のミニオン1体に\n+3/+3と<b>急襲</b>を付与する。\nターンの終了時\nそのミニオンは死亡する。\n\t\t아군 하수인에게 +3/+3과 <b>속공</b>을 부여합니다. 턴이 끝나면 그 하수인은 죽습니다.\n\t\tDaj przyjaznemu stronnikowi +3/+3 i_<b>Zryw</b>. Zginie na koniec_tury.\n\t\tConceda +3/+3 e <b>Rapidez</b> a um lacaio aliado. No final do turno, ele morre.\n\t\tВаше существо получает +3/+3 и <b>«Натиск»</b>. Оно погибает в конце хода.\n\t\tมอบ +3/+3 และ <b>จู่โจม</b> ให้มินเนี่ยนฝ่ายคุณหนึ่งตัว มันจะตายเมื่อจบเทิร์น\n\t\t使一个友方随从获得+3/+3和<b>突袭</b>，该随从会在回合结束时死亡。\n\t\t賦予一個友方手下+3/+3和<b>衝刺</b>，並在回合結束時死亡\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_437",
+    "dbfId": 48770,
+    "name": "고블린의 장난",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 2,
+    "text": "아군 하수인에게 +3/+3과 <b>속공</b>을 부여합니다. 턴이 끝나면 그 하수인은 죽습니다.",
+    "flavor": "\"하하! 속았지?! ...야, 괜찮아?\"",
+    "spellSchool": "",
+    "portrait": "HS14-041_S.psd:726bb8225c7e47a4b87424243522ffa2",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_437.png",
+    "nativeRawText": "아군 하수인에게 +3/+3과 <b>속공</b>을 부여합니다. 턴이 끝나면 그 하수인은 죽습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "2",
+      "183": "1127",
+      "199": "3",
+      "202": "5",
+      "203": "4",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {
+      "791": "1"
+    }
+  },
+  "2018-08-08": {
+    "id": "BOT_437",
+    "dbfId": 48770,
+    "name": "고블린의 장난",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 2,
+    "text": "아군 하수인 하나에게 +3/+3과 <b>속공</b>을 부여합니다. 턴이 끝나면<br></br>그 하수인은 죽습니다.",
+    "flavor": "\"하하! 속았지?! ...야, 괜찮아?\"",
+    "spellSchool": "",
+    "portrait": "HS14-041_S.psd:726bb8225c7e47a4b87424243522ffa2",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_437.png",
+    "nativeRawText": "아군 하수인 하나에게 +3/+3과 <b>속공</b>을 부여합니다. 턴이 끝나면\n그 하수인은 죽습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "2",
+      "183": "1127",
+      "199": "3",
+      "202": "5",
+      "203": "4",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {
+      "791": "1"
+    },
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

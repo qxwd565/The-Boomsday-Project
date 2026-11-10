@@ -1,1 +1,299 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_906","dbfId":48982,"name":"발광로봇","type":"MINION","cardClass":"PALADIN","rarity":"COMMON","collectible":true,"cost":1,"text":"<b>합체</b>","attack":1,"health":3,"durability":0,"armor":0,"flavor":"물지 않아요. 빛이 나서 발광입니다.","spellSchool":"","portrait":"HS14-100_M.psd:378002c9c1db5ff468e1de62320dd407","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":5},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":849,"name":"합체","value":1},{"id":2787,"name":"게임 태그 2787","value":48979}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/BOT_906.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-100_M.psd:378002c9c1db5ff468e1de62320dd407","goldenMaterial":"BOT_906_PremiumCard.mat:a677244876cf0d045929e2f048178f88","goldenAnimation":"BOT_906_PremiumCard.asset:2a8cc6966ea10eb4ab4e32ca43c8d104"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-100_M.psd:378002c9c1db5ff468e1de62320dd407",
+      "goldenMaterial": "BOT_906_PremiumCard.mat:a677244876cf0d045929e2f048178f88",
+      "goldenAnimation": "BOT_906_PremiumCard.asset:2a8cc6966ea10eb4ab4e32ca43c8d104"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Glow-Tron"
+          },
+          "koKR": {
+            "present": true,
+            "value": "발광로봇"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tLeuchtron\n\t\t\tGlow-Tron\n\t\t\tBrillotrón\n\t\t\tBrillotrón\n\t\t\tLumitron\n\t\t\tBrillatron\n\t\t\tグロウトロン\n\t\t\t발광로봇\n\t\t\tMigotron\n\t\t\tBrilhotron\n\t\t\tЯркотрон\n\t\t\tโกลว์-ทรอน\n\t\t\t格洛顿\n\t\t\t光亮機器人\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Magnetic</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>합체</b>"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Magnetisch</b>\n\t\t\t<b>Magnetic</b>\n\t\t\t<b>Magnetismo</b>\n\t\t\t<b>Magnetismo</b>\n\t\t\t<b>Magnétisme</b>\n\t\t\t<b>Magnetismo</b>\n\t\t\t<b>超電磁</b>\n\t\t\t<b>합체</b>\n\t\t\t<b>Magnetyzm</b>\n\t\t\t<b>Magnético</b>\n\t\t\t<b>Магнетизм</b>\n\t\t\t<b>แม่เหล็ก</b>\n\t\t\t<b>磁力</b>\n\t\t\t<b>合體</b>\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Glow-Tron"
+          },
+          "koKR": {
+            "present": true,
+            "value": "발광로봇"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tLeuchtron\n\t\tGlow-Tron\n\t\tBrillotrón\n\t\tBrillotrón\n\t\tLumitron\n\t\tBrillatron\n\t\tグロウトロン\n\t\t발광로봇\n\t\tMigotron\n\t\tBrilhotron\n\t\tЯркотрон\n\t\tโกลว์-ทรอน\n\t\t格洛顿\n\t\t光亮機器人\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Magnetic</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>합체</b>"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Magnetisch</b>\n\t\t<b>Magnetic</b>\n\t\t<b>Magnetismo</b>\n\t\t<b>Magnetismo</b>\n\t\t<b>Magnétisme</b>\n\t\t<b>Magnetismo</b>\n\t\t<b>超電磁</b>\n\t\t<b>합체</b>\n\t\t<b>Magnetyzm</b>\n\t\t<b>Magnético</b>\n\t\t<b>Магнетизм</b>\n\t\t<b>แม่เหล็ก</b>\n\t\t<b>磁力</b>\n\t\t<b>合體</b>\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_906",
+    "dbfId": 48982,
+    "name": "발광로봇",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>합체</b>",
+    "attack": 1,
+    "health": 3,
+    "flavor": "물지 않아요. 빛이 나서 발광입니다.",
+    "portrait": "HS14-100_M.psd:378002c9c1db5ff468e1de62320dd407",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 849,
+        "name": "합체",
+        "value": 1
+      },
+      {
+        "id": 2787,
+        "name": "게임 태그 2787",
+        "value": 48979
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_906.png",
+    "nativeRawText": "<b>합체</b>",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "3",
+      "47": "1",
+      "48": "1",
+      "183": "1127",
+      "199": "5",
+      "200": "17",
+      "202": "4",
+      "203": "1",
+      "321": "1",
+      "849": "1",
+      "2787": "48979"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_906",
+    "dbfId": 48982,
+    "name": "발광로봇",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>합체</b>",
+    "attack": 1,
+    "health": 3,
+    "flavor": "물지 않아요. 빛이 나서 발광입니다.",
+    "portrait": "HS14-100_M.psd:378002c9c1db5ff468e1de62320dd407",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 849,
+        "name": "합체",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_906.png",
+    "nativeRawText": "<b>합체</b>",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "3",
+      "47": "1",
+      "48": "1",
+      "183": "1127",
+      "199": "5",
+      "200": "17",
+      "202": "4",
+      "203": "1",
+      "321": "1",
+      "849": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

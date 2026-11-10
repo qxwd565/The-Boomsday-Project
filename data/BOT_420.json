@@ -1,1 +1,423 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_420","dbfId":48607,"name":"조경 작업","type":"SPELL","cardClass":"DRUID","rarity":"COMMON","collectible":true,"cost":3,"text":"2/2 나무정령을 둘 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"여기에 방긋방긋 웃는 나무를 심어주고... 그 옆에 친구도 만들어 줘 볼게요.","spellSchool":"NATURE","portrait":"HS14-125_S.psd:ba0eab23e69be084397b7d270bd2c608","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":2},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":358},{"id":1635,"name":"주문 속성","value":4}],"races":[],"race":"","classes":[],"art":"art/BOT_420.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-125_S.psd:ba0eab23e69be084397b7d270bd2c608","goldenMaterial":"BOT_420_PremiumCard.mat:0b3656bf04807104882c8f4bc33e2ec0","goldenAnimation":"BOT_420_PremiumCard.asset:f49ef35da318a1748bcfcfabfcdbc9eb"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-125_S.psd:ba0eab23e69be084397b7d270bd2c608",
+      "goldenMaterial": "BOT_420_PremiumCard.mat:0b3656bf04807104882c8f4bc33e2ec0",
+      "goldenAnimation": "BOT_420_PremiumCard.asset:f49ef35da318a1748bcfcfabfcdbc9eb"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Landscaping"
+          },
+          "koKR": {
+            "present": true,
+            "value": "조경 작업"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tLandschaftsgestaltung\n\t\t\tLandscaping\n\t\t\tPaisajismo\n\t\t\tPaisajismo\n\t\t\tPaysagiste\n\t\t\tBotanica\n\t\t\t造園\n\t\t\t조경 작업\n\t\t\tOgrodnictwo\n\t\t\tPaisagismo\n\t\t\tОзеленение\n\t\t\tปรับภูมิทัศน์\n\t\t\t植树造林\n\t\t\t綠化造景\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Summon two 2/2 Treants."
+          },
+          "koKR": {
+            "present": true,
+            "value": "2/2 나무정령을 둘 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tRuft 2 Treants (2/2) herbei.\n\t\t\tSummon two 2/2 Treants.\n\t\t\tInvoca\ndos antárboles 2/2.\n\t\t\tInvoca dos Antárboles 2/2.\n\t\t\tInvoque deux tréants_2/2.\n\t\t\tEvoca due Treant 2/2.\n\t\t\t[x]2/2の\n「トレント」を\n___2体召喚する。\n\t\t\t2/2 나무정령을 둘 소환합니다.\n\t\t\tPrzyzwij dwa Drzewce 2/2.\n\t\t\tEvoque dois\nArvorosos 2/2.\n\t\t\tПризывает двух\nдревней 2/2.\n\t\t\tเรียกทรีแอนท์ 2/2 สองตัว\n\t\t\t召唤两个2/2的树人。\n\t\t\t召喚兩個2/2樹人\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Landscaping"
+          },
+          "koKR": {
+            "present": true,
+            "value": "조경 작업"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tLandschaftsgestaltung\n\t\tLandscaping\n\t\tPaisajismo\n\t\tPaisajismo\n\t\tPaysagiste\n\t\tBotanica\n\t\t造園\n\t\t조경 작업\n\t\tOgrodnictwo\n\t\tPaisagismo\n\t\tОзеленение\n\t\tปรับภูมิทัศน์\n\t\t植树造林\n\t\t綠化造景\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Summon two 2/2 Treants."
+          },
+          "koKR": {
+            "present": true,
+            "value": "2/2 나무정령을 둘 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tRuft 2 Treants (2/2) herbei.\n\t\tSummon two 2/2 Treants.\n\t\tInvoca\ndos antárboles 2/2.\n\t\tInvoca dos Antárboles 2/2.\n\t\tInvoque deux tréants_2/2.\n\t\tEvoca due Treant 2/2.\n\t\t[x]2/2の\n「トレント」を\n___2体召喚する。\n\t\t2/2 나무정령을 둘 소환합니다.\n\t\tPrzyzwij dwa Drzewce_2/2.\n\t\tEvoque dois\nArvorosos 2/2.\n\t\tПризывает двух\nдревней 2/2.\n\t\tเรียกทรีแอนท์ 2/2 สองตัว\n\t\t召唤两个2/2的树人。\n\t\t召喚兩個2/2樹人\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_420",
+    "dbfId": 48607,
+    "name": "조경 작업",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "2/2 나무정령을 둘 소환합니다.",
+    "flavor": "여기에 방긋방긋 웃는 나무를 심어주고... 그 옆에 친구도 만들어 줘 볼게요.",
+    "spellSchool": "NATURE",
+    "portrait": "HS14-125_S.psd:ba0eab23e69be084397b7d270bd2c608",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 358
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_420.png",
+    "nativeRawText": "2/2 나무정령을 둘 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "3",
+      "183": "1127",
+      "199": "2",
+      "201": "3",
+      "202": "5",
+      "203": "1",
+      "321": "1",
+      "1452": "358",
+      "1635": "4"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_420",
+    "dbfId": 48607,
+    "name": "조경 작업",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "2/2 나무정령을 둘 소환합니다.",
+    "flavor": "여기에 방긋방긋 웃는 나무를 심어주고... 그 옆에 친구도 만들어 줘 볼게요.",
+    "spellSchool": "",
+    "portrait": "HS14-125_S.psd:ba0eab23e69be084397b7d270bd2c608",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_420.png",
+    "nativeRawText": "2/2 나무정령을 둘 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "3",
+      "183": "1127",
+      "199": "2",
+      "201": "3",
+      "202": "5",
+      "203": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2021-03-26": {
+    "spellSchool": "NATURE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 1635,
+        "before": "ABSENT",
+        "after": "4"
+      }
+    ],
+    "source": {
+      "beforeBuild": 44222,
+      "afterBuild": 77662,
+      "beforeCommit": "fc67953f6f6eee064badde3f4a7bd07011508642",
+      "afterCommit": "9e10b526eed8a9c5ece2f73f0c2a6a3b60109d62",
+      "beforeXmlSha256": "abe292d304af3fec9d84707b8326cf4104e370b8fc93e8adfa2c1156988cfdf5",
+      "afterXmlSha256": "36879caf88f629052e57d728d1fb3649a21f7198f649ab1cdc916c72ab1b8e29",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Landscaping"
+            },
+            "koKR": {
+              "present": true,
+              "value": "조경 작업"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tLandschaftsgestaltung\n\t\t\tLandscaping\n\t\t\tPaisajismo\n\t\t\tPaisajismo\n\t\t\tPaysagiste\n\t\t\tBotanica\n\t\t\t造園\n\t\t\t조경 작업\n\t\t\tOgrodnictwo\n\t\t\tPaisagismo\n\t\t\tОзеленение\n\t\t\tปรับภูมิทัศน์\n\t\t\t植树造林\n\t\t\t綠化造景\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Summon two 2/2 Treants."
+            },
+            "koKR": {
+              "present": true,
+              "value": "2/2 나무정령을 둘 소환합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tRuft 2 Treants (2/2) herbei.\n\t\t\tSummon two 2/2 Treants.\n\t\t\tInvoca\ndos antárboles 2/2.\n\t\t\tInvoca dos Antárboles 2/2.\n\t\t\tInvoque deux tréants_2/2.\n\t\t\tEvoca due Treant 2/2.\n\t\t\t[x]2/2の\n「トレント」を\n___2体召喚する。\n\t\t\t2/2 나무정령을 둘 소환합니다.\n\t\t\tPrzyzwij dwa Drzewce 2/2.\n\t\t\tEvoque dois\nArvorosos 2/2.\n\t\t\tПризывает двух\nдревней 2/2.\n\t\t\tเรียกทรีแอนท์ 2/2 สองตัว\n\t\t\t召唤两个2/2的树人。\n\t\t\t召喚兩個2/2樹人\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Landscaping"
+            },
+            "koKR": {
+              "present": true,
+              "value": "조경 작업"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tLandschaftsgestaltung\n\t\t\tLandscaping\n\t\t\tPaisajismo\n\t\t\tPaisajismo\n\t\t\tPaysagiste\n\t\t\tBotanica\n\t\t\t造園\n\t\t\t조경 작업\n\t\t\tOgrodnictwo\n\t\t\tPaisagismo\n\t\t\tОзеленение\n\t\t\tปรับภูมิทัศน์\n\t\t\t植树造林\n\t\t\t綠化造景\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Summon two 2/2 Treants."
+            },
+            "koKR": {
+              "present": true,
+              "value": "2/2 나무정령을 둘 소환합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tRuft 2 Treants (2/2) herbei.\n\t\t\tSummon two 2/2 Treants.\n\t\t\tInvoca\ndos antárboles 2/2.\n\t\t\tInvoca dos Antárboles 2/2.\n\t\t\tInvoque deux tréants_2/2.\n\t\t\tEvoca due Treant 2/2.\n\t\t\t[x]2/2の\n「トレント」を\n___2体召喚する。\n\t\t\t2/2 나무정령을 둘 소환합니다.\n\t\t\tPrzyzwij dwa Drzewce 2/2.\n\t\t\tEvoque dois\nArvorosos 2/2.\n\t\t\tПризывает двух\nдревней 2/2.\n\t\t\tเรียกทรีแอนท์ 2/2 สองตัว\n\t\t\t召唤两个2/2的树人。\n\t\t\t召喚兩個2/2樹人\n\t\t"
+        }
+      }
+    }
+  }
+}

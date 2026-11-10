@@ -1,1 +1,293 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_434","dbfId":48757,"name":"푸르딩딩한 플룹","type":"MINION","cardClass":"DRUID","rarity":"LEGENDARY","collectible":true,"cost":4,"text":"이 하수인은 내 손에 있으면 내가 마지막으로 낸 하수인이 됩니다. 능력치는 3/4가 됩니다.","attack":3,"health":4,"durability":0,"armor":0,"flavor":"모든 과학자들 중에 지식이 가장 큽니다. 부피로 따지면요.","spellSchool":"","portrait":"HS14-039_M.psd:e672fd5bb8908d544bb8b2d369f084cc","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":4435,"name":"게임 태그 4435","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_434.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-039_M.psd:e672fd5bb8908d544bb8b2d369f084cc","goldenMaterial":"BOT_434_PremiumCard.mat:a09c64e16a761ea489e6d7d6911f2df5","goldenAnimation":"BOT_434_PremiumCard.asset:aadc4c9028f7eac4a8645febdb6ebe25"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-039_M.psd:e672fd5bb8908d544bb8b2d369f084cc",
+      "goldenMaterial": "BOT_434_PremiumCard.mat:a09c64e16a761ea489e6d7d6911f2df5",
+      "goldenAnimation": "BOT_434_PremiumCard.asset:aadc4c9028f7eac4a8645febdb6ebe25"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Flobbidinous Floop"
+          },
+          "koKR": {
+            "present": true,
+            "value": "푸르딩딩한 플룹"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tFlubbidinius Flurp\n\t\t\tFlobbidinous Floop\n\t\t\tFlema Salívez\n\t\t\tMucus Muquitinoso\n\t\t\tFloup le Flasquagineux\n\t\t\tMelmo il Melmoide\n\t\t\tプルンプルン・フループ\n\t\t\t푸르딩딩한 플룹\n\t\t\tFluś Farmiglut\n\t\t\tFlupe Fuzubúrdio\n\t\t\tУхлюпистый Хлюп\n\t\t\tฟลอบบิดินัส ฟลู๊ป\n\t\t\t软泥教授弗洛普\n\t\t\t黏糊糊的弗洛普\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "While in your hand, this is a 3/4 copy of the last minion you played."
+          },
+          "koKR": {
+            "present": true,
+            "value": "이 하수인은 내 손에 있으면 내가 마지막으로 낸 하수인이 됩니다. 능력치는 3/4가 됩니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tAuf Eurer Hand ist diese Karte eine Kopie (3/4) des letzten Dieners, den Ihr ausgespielt habt.\n\t\t\tWhile in your hand, this is a 3/4 copy of the last minion you played.\n\t\t\t[x]Mientras esta carta esté\n en tu mano, se transformará\nen una copia 3/4 del último\n   esbirro que hayas jugado.\n\t\t\tMientras está en tu mano, se transforma en una copia 3/4 del último esbirro que jugaste.\n\t\t\tCette carte est une copie_3/4 du dernier serviteur que vous avez joué tant qu’elle est dans votre main.\n\t\t\t[x]Finché resta nella tua mano,\nsi trasforma in una copia\n3/4 dell'ultimo servitore\nche hai giocato.\n\t\t\t[x]このカードが手札にある間\n自分が最後に手札から\n使用したミニオンの\n__3/4のコピーになる。\n\t\t\t이 하수인은 내 손에 있으면 내가 마지막으로 낸 하수인이 됩니다. 능력치는 3/4가 됩니다.\n\t\t\tW twojej ręce przemienia się w kopię 3/4 ostatniego zagranego przez ciebie stronnika.\n\t\t\tEnquanto estiver na sua mão, este lacaio é uma cópia 3/4 do último lacaio que você jogou.\n\t\t\tПока эта карта находится в руке, она превращается в копию 3/4 последнего разыгранного вами существа.\n\t\t\tขณะที่การ์ดนี้อยู่ในมือคุณ เปลี่ยนมันเป็นก๊อปปี้ 3/4 ของ[b]มินเนี่ยนใบล่าสุดที่คุณเล่น\n\t\t\t如果这张牌在你的手牌中，变成你使用的最后一张随从牌的3/4复制。\n\t\t\t若這張牌在你手中，變形為你最後打出手下的3/4分身\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Flobbidinous Floop"
+          },
+          "koKR": {
+            "present": true,
+            "value": "푸르딩딩한 플룹"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tFlubbidinius Flurp\n\t\tFlobbidinous Floop\n\t\tFlema Salívez\n\t\tMucus Muquitinoso\n\t\tFloup le Flasquagineux\n\t\tMelmo il Melmoide\n\t\tプルンプルン・フループ\n\t\t푸르딩딩한 플룹\n\t\tFluś Farmiglut\n\t\tFlupe Fuzubúrdio\n\t\tУхлюпистый Хлюп\n\t\tฟลอบบิดินัส ฟลู้ป\n\t\t软泥教授弗洛普\n\t\t黏糊糊的弗洛普\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "While in your hand, this is a 3/4 copy of the last minion you played."
+          },
+          "koKR": {
+            "present": true,
+            "value": "이 하수인은 내 손에 있으면 내가 마지막으로 낸 하수인이 됩니다. 능력치는 3/4가 됩니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tAuf Eurer Hand ist diese Karte eine Kopie (3/4) des letzten Dieners, den Ihr ausgespielt habt.\n\t\tWhile in your hand, this is a 3/4 copy of the last minion you played.\n\t\t[x]Mientras esta carta esté\n en tu mano, se transformará\nen una copia 3/4 del último\n   esbirro que hayas jugado.\n\t\tMientras está en tu mano, se transforma en una copia 3/4 del último esbirro que jugaste.\n\t\tCette carte est une copie_3/4 du dernier serviteur que vous avez joué tant qu’elle est dans votre main.\n\t\t[x]Finché resta nella tua mano,\nsi trasforma in una copia\n3/4 dell'ultimo servitore\nche hai giocato.\n\t\t[x]このカードが手札にある間\n自分が最後に手札から\n使用したミニオンの\n__3/4のコピーになる。\n\t\t이 하수인은 내 손에 있으면 내가 마지막으로 낸 하수인이 됩니다. 능력치는 3/4가 됩니다.\n\t\tW twojej ręce przemienia się w kopię 3/4 ostatniego zagranego przez ciebie stronnika.\n\t\tEnquanto estiver na sua mão, este lacaio é uma cópia 3/4 do último lacaio que você jogou.\n\t\tПока эта карта находится в руке, она превращается в копию 3/4 последнего разыгранного вами существа.\n\t\tขณะอยู่ในมือคุณ_การ์ดนี้_[b]เป็นก๊อปปี้_3/4_ของมินเนี่ยน[b]ใบล่าสุดที่คุณเล่น\n\t\t此牌在你的手牌中时，会变成你使用的上一张随从牌的3/4复制。\n\t\t若這張牌在你手中，變形為你最後打出手下的3/4分身\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_434",
+    "dbfId": 48757,
+    "name": "푸르딩딩한 플룹",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 4,
+    "text": "이 하수인은 내 손에 있으면 내가 마지막으로 낸 하수인이 됩니다. 능력치는 3/4가 됩니다.",
+    "attack": 3,
+    "health": 4,
+    "flavor": "모든 과학자들 중에 지식이 가장 큽니다. 부피로 따지면요.",
+    "portrait": "HS14-039_M.psd:e672fd5bb8908d544bb8b2d369f084cc",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 4435,
+        "name": "게임 태그 4435",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_434.png",
+    "nativeRawText": "이 하수인은 내 손에 있으면 내가 마지막으로 낸 하수인이 됩니다. 능력치는 3/4가 됩니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "4",
+      "47": "3",
+      "48": "4",
+      "114": "1",
+      "183": "1127",
+      "199": "2",
+      "202": "4",
+      "203": "5",
+      "321": "1",
+      "4435": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_434",
+    "dbfId": 48757,
+    "name": "푸르딩딩한 플룹",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 4,
+    "text": "이 하수인은 내 손에 있으면 내가 마지막으로 낸 하수인이 됩니다. 능력치는 3/4가 됩니다.",
+    "attack": 3,
+    "health": 4,
+    "flavor": "모든 과학자들 중에 지식이 가장 큽니다. 부피로 따지면요.",
+    "portrait": "HS14-039_M.psd:e672fd5bb8908d544bb8b2d369f084cc",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_434.png",
+    "nativeRawText": "이 하수인은 내 손에 있으면 내가 마지막으로 낸 하수인이 됩니다. 능력치는 3/4가 됩니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "4",
+      "47": "3",
+      "48": "4",
+      "114": "1",
+      "183": "1127",
+      "199": "2",
+      "202": "4",
+      "203": "5",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

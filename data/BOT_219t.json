@@ -1,1 +1,450 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_219t","dbfId":50657,"name":"더 많은 팔!","type":"SPELL","cardClass":"PRIEST","collectible":false,"cost":3,"text":"하수인에게<br></br>+2/+2를 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS14-197_S.psd:9912a02eb21f02a498643c0507aeb17b","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5}],"races":[],"race":"","classes":[],"art":"art/BOT_219t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-197_S.psd:9912a02eb21f02a498643c0507aeb17b","goldenMaterial":"BOT_219t_PremiumCard.mat:3767dcc6cbed3fa49a118b3617364eff","goldenAnimation":"BOT_219t_PremiumCard.asset:daa7fbe3895fcd043b5a7b1bcb57bccb"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-197_S.psd:9912a02eb21f02a498643c0507aeb17b",
+      "goldenMaterial": "BOT_219t_PremiumCard.mat:3767dcc6cbed3fa49a118b3617364eff",
+      "goldenAnimation": "BOT_219t_PremiumCard.asset:daa7fbe3895fcd043b5a7b1bcb57bccb"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "More Arms!"
+          },
+          "koKR": {
+            "present": true,
+            "value": "더 많은 팔!"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tMehr Arme!\n\t\t\tMore Arms!\n\t\t\t¡Más brazos!\n\t\t\t¡Más brazos!\n\t\t\tÀ tour de bras\n\t\t\tPiù Braccia\n\t\t\t増殖する腕\n\t\t\t더 많은 팔!\n\t\t\tZręczność!\n\t\t\tMais Braços!\n\t\t\tЛишние руки\n\t\t\tแขนงอกเพิ่ม!\n\t\t\t更多手臂\n\t\t\t更多手臂！\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Give a minion +2/+2."
+          },
+          "koKR": {
+            "present": true,
+            "value": "하수인 하나에게 +2/+2를 부여합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tVerleiht einem Diener +2/+2.\n\t\t\tGive a minion +2/+2.\n\t\t\tOtorga +2/+2\na un esbirro.\n\t\t\tOtorga +2/+2 a un esbirro.\n\t\t\tDonne_+2/+2 à un serviteur.\n\t\t\t+2/+2 a un servitore.\n\t\t\t[x]ミニオン1体に\n_+2/+2を付与する。\n\t\t\t하수인 하나에게 +2/+2를 부여합니다.\n\t\t\tDaj stronnikowi +2/+2.\n\t\t\tConceda +2/+2 a um lacaio.\n\t\t\tВыбранное существо получает +2/+2.\n\t\t\tมอบ +2/+2 ให้มินเนี่ยนหนึ่งตัว\n\t\t\t使一个随从获得+2/+2。\n\t\t\t賦予一個手下\n+2/+2\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "More Arms!"
+          },
+          "koKR": {
+            "present": true,
+            "value": "더 많은 팔!"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tMehr Arme!\n\t\tMore Arms!\n\t\t¡Más brazos!\n\t\t¡Más brazos!\n\t\tÀ tour de bras\n\t\tPiù Braccia\n\t\t増殖する腕\n\t\t더 많은 팔!\n\t\tZręczność!\n\t\tMais Braços!\n\t\tЛишние руки\n\t\tแขนงอกเพิ่ม!\n\t\t更多手臂\n\t\t更多手臂！\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Give a minion +2/+2."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]하수인에게\n+2/+2를 부여합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tVerleiht einem Diener +2/+2.\n\t\tGive a minion +2/+2.\n\t\tOtorga +2/+2\na un esbirro.\n\t\tOtorga +2/+2 a un esbirro.\n\t\tDonne_+2/+2 à un serviteur.\n\t\t+2/+2 a un servitore.\n\t\t[x]ミニオン1体に\n_+2/+2を付与する。\n\t\t[x]하수인에게\n+2/+2를 부여합니다.\n\t\tDaj stronnikowi +2/+2.\n\t\tConceda +2/+2 a um lacaio.\n\t\tСущество получает +2/+2.\n\t\tมอบ +2/+2 ให้มินเนี่ยนหนึ่งตัว\n\t\t使一个随从获得+2/+2。\n\t\t賦予一個手下\n+2/+2\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_219t",
+    "dbfId": 50657,
+    "name": "더 많은 팔!",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "collectible": false,
+    "cost": 3,
+    "text": "하수인에게<br></br>+2/+2를 부여합니다.",
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS14-197_S.psd:9912a02eb21f02a498643c0507aeb17b",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_219t.png",
+    "nativeRawText": "[x]하수인에게\n+2/+2를 부여합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "342": "",
+      "48": "3",
+      "183": "1127",
+      "199": "6",
+      "202": "5"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_219t",
+    "dbfId": 50657,
+    "name": "더 많은 팔!",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "collectible": false,
+    "cost": 3,
+    "text": "하수인 하나에게 +2/+2를 부여합니다.",
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS14-197_S.psd:9912a02eb21f02a498643c0507aeb17b",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_219t.png",
+    "nativeRawText": "하수인 하나에게 +2/+2를 부여합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "342": "",
+      "48": "3",
+      "183": "1127",
+      "199": "6",
+      "202": "5"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2019-06-04": {
+    "cost": 2,
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 48,
+        "before": "3",
+        "after": "2"
+      }
+    ],
+    "source": {
+      "beforeBuild": 31022,
+      "afterBuild": 31268,
+      "beforeCommit": "089a94c2fc524cc52ee7697ad4430fd52240d6a0",
+      "afterCommit": "d4dcf70622f19beddd0d6d56fdd5f053da99d223",
+      "beforeXmlSha256": "95219fea6d5638fa31890deb6468518c9a9189155f3e1f29512ec5758fe2adbe",
+      "afterXmlSha256": "016adca4cafcd19f2d9eb3397b7acd3035db594b5c5bd91e77370f57bdb483c4",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "More Arms!"
+            },
+            "koKR": {
+              "present": true,
+              "value": "더 많은 팔!"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tMehr Arme!\n\t\t\tMore Arms!\n\t\t\t¡Más brazos!\n\t\t\t¡Más brazos!\n\t\t\tÀ tour de bras\n\t\t\tPiù Braccia\n\t\t\t増殖する腕\n\t\t\t더 많은 팔!\n\t\t\tZręczność!\n\t\t\tMais Braços!\n\t\t\tЛишние руки\n\t\t\tแขนงอกเพิ่ม!\n\t\t\t更多手臂\n\t\t\t更多手臂！\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Give a minion +2/+2."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]하수인에게\n+2/+2를 부여합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tVerleiht einem Diener +2/+2.\n\t\t\tGive a minion +2/+2.\n\t\t\tOtorga +2/+2\na un esbirro.\n\t\t\tOtorga +2/+2 a un esbirro.\n\t\t\tDonne_+2/+2 à un serviteur.\n\t\t\t+2/+2 a un servitore.\n\t\t\t[x]ミニオン1体に\n_+2/+2を付与する。\n\t\t\t[x]하수인에게\n+2/+2를 부여합니다.\n\t\t\tDaj stronnikowi +2/+2.\n\t\t\tConceda +2/+2 a um lacaio.\n\t\t\tВыбранное существо получает +2/+2.\n\t\t\tมอบ +2/+2 ให้มินเนี่ยนหนึ่งตัว\n\t\t\t使一个随从获得+2/+2。\n\t\t\t賦予一個手下\n+2/+2\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "More Arms!"
+            },
+            "koKR": {
+              "present": true,
+              "value": "더 많은 팔!"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tMehr Arme!\n\t\t\tMore Arms!\n\t\t\t¡Más brazos!\n\t\t\t¡Más brazos!\n\t\t\tÀ tour de bras\n\t\t\tPiù Braccia\n\t\t\t増殖する腕\n\t\t\t더 많은 팔!\n\t\t\tZręczność!\n\t\t\tMais Braços!\n\t\t\tЛишние руки\n\t\t\tแขนงอกเพิ่ม!\n\t\t\t更多手臂\n\t\t\t更多手臂！\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Give a minion +2/+2."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]하수인에게\n+2/+2를 부여합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tVerleiht einem Diener +2/+2.\n\t\t\tGive a minion +2/+2.\n\t\t\tOtorga +2/+2\na un esbirro.\n\t\t\tOtorga +2/+2 a un esbirro.\n\t\t\tDonne_+2/+2 à un serviteur.\n\t\t\t+2/+2 a un servitore.\n\t\t\t[x]ミニオン1体に\n_+2/+2を付与する。\n\t\t\t[x]하수인에게\n+2/+2를 부여합니다.\n\t\t\tDaj stronnikowi +2/+2.\n\t\t\tConceda +2/+2 a um lacaio.\n\t\t\tВыбранное существо получает +2/+2.\n\t\t\tมอบ +2/+2 ให้มินเนี่ยนหนึ่งตัว\n\t\t\t使一个随从获得+2/+2。\n\t\t\t賦予一個手下\n+2/+2\n\t\t"
+        }
+      }
+    }
+  },
+  "2019-08-27": {
+    "cost": 3,
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 48,
+        "before": "2",
+        "after": "3"
+      }
+    ],
+    "source": {
+      "beforeBuild": 33157,
+      "afterBuild": 33402,
+      "beforeCommit": "85b5a219afe49d5015725c344fd7412945a346b7",
+      "afterCommit": "dd224aedef671a1bad6479df2a0e9cb2ea6da3cc",
+      "beforeXmlSha256": "82b6923cd7304131586c3acdbbca4a9ff9a64cb1d6db7403bdaf3d4ef4f5b8d1",
+      "afterXmlSha256": "71d952172884246deac0bed81d20421f31b6d6796d684efee87abb0cc4625afa",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "More Arms!"
+            },
+            "koKR": {
+              "present": true,
+              "value": "더 많은 팔!"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tMehr Arme!\n\t\t\tMore Arms!\n\t\t\t¡Más brazos!\n\t\t\t¡Más brazos!\n\t\t\tÀ tour de bras\n\t\t\tPiù Braccia\n\t\t\t増殖する腕\n\t\t\t더 많은 팔!\n\t\t\tZręczność!\n\t\t\tMais Braços!\n\t\t\tЛишние руки\n\t\t\tแขนงอกเพิ่ม!\n\t\t\t更多手臂\n\t\t\t更多手臂！\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Give a minion +2/+2."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]하수인에게\n+2/+2를 부여합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tVerleiht einem Diener +2/+2.\n\t\t\tGive a minion +2/+2.\n\t\t\tOtorga +2/+2\na un esbirro.\n\t\t\tOtorga +2/+2 a un esbirro.\n\t\t\tDonne_+2/+2 à un serviteur.\n\t\t\t+2/+2 a un servitore.\n\t\t\t[x]ミニオン1体に\n_+2/+2を付与する。\n\t\t\t[x]하수인에게\n+2/+2를 부여합니다.\n\t\t\tDaj stronnikowi +2/+2.\n\t\t\tConceda +2/+2 a um lacaio.\n\t\t\tВыбранное существо получает +2/+2.\n\t\t\tมอบ +2/+2 ให้มินเนี่ยนหนึ่งตัว\n\t\t\t使一个随从获得+2/+2。\n\t\t\t賦予一個手下\n+2/+2\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "More Arms!"
+            },
+            "koKR": {
+              "present": true,
+              "value": "더 많은 팔!"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tMehr Arme!\n\t\t\tMore Arms!\n\t\t\t¡Más brazos!\n\t\t\t¡Más brazos!\n\t\t\tÀ tour de bras\n\t\t\tPiù Braccia\n\t\t\t増殖する腕\n\t\t\t더 많은 팔!\n\t\t\tZręczność!\n\t\t\tMais Braços!\n\t\t\tЛишние руки\n\t\t\tแขนงอกเพิ่ม!\n\t\t\t更多手臂\n\t\t\t更多手臂！\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Give a minion +2/+2."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]하수인에게\n+2/+2를 부여합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tVerleiht einem Diener +2/+2.\n\t\t\tGive a minion +2/+2.\n\t\t\tOtorga +2/+2\na un esbirro.\n\t\t\tOtorga +2/+2 a un esbirro.\n\t\t\tDonne_+2/+2 à un serviteur.\n\t\t\t+2/+2 a un servitore.\n\t\t\t[x]ミニオン1体に\n_+2/+2を付与する。\n\t\t\t[x]하수인에게\n+2/+2를 부여합니다.\n\t\t\tDaj stronnikowi +2/+2.\n\t\t\tConceda +2/+2 a um lacaio.\n\t\t\tВыбранное существо получает +2/+2.\n\t\t\tมอบ +2/+2 ให้มินเนี่ยนหนึ่งตัว\n\t\t\t使一个随从获得+2/+2。\n\t\t\t賦予一個手下\n+2/+2\n\t\t"
+        }
+      }
+    }
+  }
+}

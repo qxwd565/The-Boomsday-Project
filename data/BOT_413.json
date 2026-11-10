@@ -1,1 +1,304 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_413","dbfId":48544,"name":"폭풍머리 과학자","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>전투의 함성:</b><br></br>내 손에 있는 주문 하나당<br></br>생명력을 +1 얻습니다.","attack":3,"health":1,"durability":0,"armor":0,"flavor":"사실 원래 머리가 저렇습니다.","spellSchool":"","portrait":"HS14-035_M.psd:2c3338d0ce4b38846ae6416246af2fb4","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0}],"races":[],"race":"","classes":[],"art":"art/BOT_413.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-035_M.psd:2c3338d0ce4b38846ae6416246af2fb4","goldenMaterial":"BOT_413_PremiumCard.mat:41cc9a6965270404abd6edd834b749ff","goldenAnimation":"BOT_413_PremiumCard.asset:e89afaef16bdb4543b415084a7e96bf3"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-035_M.psd:2c3338d0ce4b38846ae6416246af2fb4",
+      "goldenMaterial": "BOT_413_PremiumCard.mat:41cc9a6965270404abd6edd834b749ff",
+      "goldenAnimation": "BOT_413_PremiumCard.asset:e89afaef16bdb4543b415084a7e96bf3"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Brainstormer"
+          },
+          "koKR": {
+            "present": true,
+            "value": "폭풍머리 과학자"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tSuperhirn\n\t\t\tBrainstormer\n\t\t\tElectromaníaca\n\t\t\tAtormentadora mental\n\t\t\tNeurovolt\n\t\t\tCervellona\n\t\t\tブレインストーマー\n\t\t\t폭풍머리 과학자\n\t\t\tBurzgownica\n\t\t\tTempestífera Cerebrina\n\t\t\tПсихопатка\n\t\t\tนักระดมสมอง\n\t\t\t脑力激荡者\n\t\t\t超腦技師\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> Gain +1 Health\nfor each spell in your hand."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b>\n내 손에 있는 주문 하나당\n생명력을 +1 얻습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Erhält\n+1 Leben für jeden Zauber auf Eurer Hand.\n\t\t\t[x]<b>Battlecry:</b> Gain +1 Health\nfor each spell in your hand.\n\t\t\t[x]<b>Grito de batalla:</b> Obtiene\n+1 p. de salud por cada\nhechizo que tengas\nen tu mano.\n\t\t\t<b>Grito de batalla:</b> obtiene +1 de Salud por cada hechizo de tu mano.\n\t\t\t<b>Cri de guerre_:</b> gagne +1_PV pour chaque sort dans votre main.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nottiene +1 Salute per ogni\nMagia nella tua mano.\n\t\t\t[x]<b>雄叫び:</b>\n自分の手札の\n呪文1枚につき\n_____体力+1を獲得する。\n\t\t\t[x]<b>전투의 함성:</b>\n내 손에 있는 주문 하나당\n생명력을 +1 얻습니다.\n\t\t\t<b>Okrzyk bojowy:</b>\nOtrzymuje +1 do zdrowia za_każde zaklęcie w_twojej ręce.\n\t\t\t<b>Grito de Guerra:</b> Receba +1 de Vida para cada feitiço na sua mão.\n\t\t\t<b>Боевой клич:</b> получает\n+1 к здоровью за каждое заклинание в_руке.\n\t\t\t<b>คำรามสู้ศึก:</b> ได้รับพลังชีวิต_+1 ต่อการ์ด[b]_เวทมนตร์แต่ละใบในมือคุณ_\n\t\t\t<b>战吼：</b>你手牌中每有一张法术牌，便获得+1生命值。\n\t\t\t[x]<b>戰吼：</b>你手中的\n每張法術使其獲得\n+1生命值\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Brainstormer"
+          },
+          "koKR": {
+            "present": true,
+            "value": "폭풍머리 과학자"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tSuperhirn\n\t\tBrainstormer\n\t\tElectromaníaca\n\t\tAtormentadora mental\n\t\tNeurovolt\n\t\tCervellona\n\t\tブレインストーマー\n\t\t폭풍머리 과학자\n\t\tBurzgownica\n\t\tTempestífera Cerebrina\n\t\tПсихопатка\n\t\tนักระดมสมอง\n\t\t脑力激荡者\n\t\t超腦技師\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> Gain +1 Health\nfor each spell in your hand."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b>\n내 손에 있는 주문 하나당\n생명력을 +1 얻습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Erhält\n+1 Leben für jeden Zauber auf Eurer Hand.\n\t\t[x]<b>Battlecry:</b> Gain +1 Health\nfor each spell in your hand.\n\t\t[x]<b>Grito de batalla:</b> Obtiene\n+1 p. de salud por cada\nhechizo que tengas\nen tu mano.\n\t\t<b>Grito de batalla:</b> obtiene +1 de Salud por cada hechizo de tu mano.\n\t\t<b>Cri de guerre_:</b> gagne +1_PV pour chaque sort dans votre main.\n\t\t[x]<b>Grido di Battaglia:</b>\nottiene +1 Salute per ogni\nMagia nella tua mano.\n\t\t[x]<b>雄叫び:</b>\n自分の手札の\n呪文1枚につき\n_____体力+1を獲得する。\n\t\t[x]<b>전투의 함성:</b>\n내 손에 있는 주문 하나당\n생명력을 +1 얻습니다.\n\t\t<b>Okrzyk bojowy:</b>\nOtrzymuje +1 do zdrowia za_każde zaklęcie w_twojej ręce.\n\t\t<b>Grito de Guerra:</b> Receba +1 de Vida para cada feitiço na sua mão.\n\t\t<b>Боевой клич:</b> получает\n+1 к здоровью за каждое заклинание в_руке.\n\t\t<b>คำรามสู้ศึก:</b> ได้รับ[b]พลังชีวิต_+1_ต่อเวทมนตร์[b]แต่ละใบในมือคุณ\n\t\t<b>战吼：</b>你手牌中每有一张法术牌，便获得+1生命值。\n\t\t[x]<b>戰吼：</b>你手中的\n每張法術使其獲得\n+1生命值\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_413",
+    "dbfId": 48544,
+    "name": "폭풍머리 과학자",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b><br></br>내 손에 있는 주문 하나당<br></br>생명력을 +1 얻습니다.",
+    "attack": 3,
+    "health": 1,
+    "flavor": "사실 원래 머리가 저렇습니다.",
+    "portrait": "HS14-035_M.psd:2c3338d0ce4b38846ae6416246af2fb4",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_413.png",
+    "nativeRawText": "[x]<b>전투의 함성:</b>\n내 손에 있는 주문 하나당\n생명력을 +1 얻습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "1",
+      "47": "3",
+      "48": "3",
+      "183": "1127",
+      "199": "12",
+      "201": "3",
+      "202": "4",
+      "203": "1",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_413",
+    "dbfId": 48544,
+    "name": "폭풍머리 과학자",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b><br></br>내 손에 있는 주문 하나당<br></br>생명력을 +1 얻습니다.",
+    "attack": 3,
+    "health": 1,
+    "flavor": "사실 원래 머리가 저렇습니다.",
+    "portrait": "HS14-035_M.psd:2c3338d0ce4b38846ae6416246af2fb4",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_413.png",
+    "nativeRawText": "[x]<b>전투의 함성:</b>\n내 손에 있는 주문 하나당\n생명력을 +1 얻습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "1",
+      "47": "3",
+      "48": "3",
+      "183": "1127",
+      "199": "12",
+      "201": "3",
+      "202": "4",
+      "203": "1",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

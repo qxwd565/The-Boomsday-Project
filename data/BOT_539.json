@@ -1,1 +1,311 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_539","dbfId":49171,"name":"비전 발전기","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":6,"text":"<b>전투의 함성:</b><br></br>비용이 (5) 이상인<br></br>주문을 <b>발견</b>합니다.","attack":3,"health":4,"durability":0,"armor":0,"flavor":"뇌를 보관할 병이 모자라서 일단 아무 곳에나 넣어봤습니다.","spellSchool":"","portrait":"HS14-057_M.psd:71d9283244547f743867b9f6b3e52c2f","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_539.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-057_M.psd:71d9283244547f743867b9f6b3e52c2f","goldenMaterial":"BOT_539_PremiumCard.mat:7ab7b6ee422754e46bc5409d8a090f6e","goldenAnimation":"BOT_539_PremiumCard.asset:207ed64b6ca28d344bfa361581ac0e68"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-057_M.psd:71d9283244547f743867b9f6b3e52c2f",
+      "goldenMaterial": "BOT_539_PremiumCard.mat:7ab7b6ee422754e46bc5409d8a090f6e",
+      "goldenAnimation": "BOT_539_PremiumCard.asset:207ed64b6ca28d344bfa361581ac0e68"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Arcane Dynamo"
+          },
+          "koKR": {
+            "present": true,
+            "value": "비전 발전기"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tArkaner Dynamo\n\t\t\tArcane Dynamo\n\t\t\tDinamo Arcana\n\t\t\tDínamo arcano\n\t\t\tDynamo arcanique\n\t\t\tDinamo Arcana\n\t\t\t魔力ダイナモ\n\t\t\t비전 발전기\n\t\t\tTajemne dynamo\n\t\t\tDínamo Arcano\n\t\t\tМагический генератор\n\t\t\tอาร์เคนไดนาโม\n\t\t\t奥能水母\n\t\t\t秘法魔腦\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> <b>Discover</b> a spell that costs (5) or more."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b> 비용이\n(5) 이상인 주문을\n하나 <b>발견</b>합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> <b>Entdeckt</b> einen Zauber, der mind. (5) kostet.\n\t\t\t<b>Battlecry:</b> <b>Discover</b> a spell that costs (5) or more.\n\t\t\t[x]<b>Grito de batalla:</b>\n<b>Descubre</b> un hechizo\nque cueste\n(5) cristales o más.\n\t\t\t<b>Grito de batalla:</b> <b>Devela</b> un hechizo que cuesta (5) o más.\n\t\t\t<b>Cri de guerre_:</b> <b>découvre</b>\nun sort coûtant (5)_|4(cristal,cristaux) de mana ou plus.\n\t\t\t[x]<b>Grido di Battaglia:</b>\n<b>Rinvieni</b> una Magia\nda 5 o più Mana.\n\t\t\t[x]<b>雄叫び:</b>\nコスト（5）以上の呪文を\n1枚<b>発見</b>する。\n\t\t\t[x]<b>전투의 함성:</b> 비용이\n(5) 이상인 주문을\n하나 <b>발견</b>합니다.\n\t\t\t<b>Okrzyk bojowy:</b> <b>Odkryj</b> zaklęcie kosztujące (5) lub więcej.\n\t\t\t<b>Grito de Guerra:</b> <b>Descubra</b> um feitiço que custa\n(5) ou mais.\n\t\t\t<b>Боевой клич:</b> вы <b>раскапываете</b> заклинание за (5) или больше.\n\t\t\t<b>คำรามสู้ศึก:</b> <b>ค้นพบ</b> การ์ดเวทมนตร์ที่มีค่าร่าย (5) หรือสูงกว่า\n\t\t\t<b>战吼：</b><b>发现</b>一张法力值消耗大于或等于（5）的法术牌。\n\t\t\t<b>戰吼：</b><b>發現</b>一個消耗(5)以上的法術\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Arcane Dynamo"
+          },
+          "koKR": {
+            "present": true,
+            "value": "비전 발전기"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tArkaner Dynamo\n\t\tArcane Dynamo\n\t\tDinamo Arcana\n\t\tDínamo arcano\n\t\tDynamo arcanique\n\t\tDinamo Arcana\n\t\t魔力ダイナモ\n\t\t비전 발전기\n\t\tTajemne dynamo\n\t\tDínamo Arcano\n\t\tМагический генератор\n\t\tอาร์เคนไดนาโม\n\t\t奥能水母\n\t\t秘法魔腦\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> <b>Discover</b> a spell that costs (5) or more."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n비용이 (5) 이상인\n주문을 <b>발견</b>합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Kampfschrei:</b> <b>Entdeckt</b> einen Zauber, der mind. (5) kostet.\n\t\t<b>Battlecry:</b> <b>Discover</b> a spell that costs (5) or more.\n\t\t[x]<b>Grito de batalla:</b>\n<b>Descubre</b> un hechizo\nque cueste\n(5) cristales o más.\n\t\t<b>Grito de batalla:</b> <b>Devela</b> un hechizo que cuesta (5) o más.\n\t\t<b>Cri de guerre_:</b> <b>découvre</b>\nun sort coûtant (5)_|4(cristal,cristaux) de mana ou plus.\n\t\t[x]<b>Grido di Battaglia:</b>\n<b>Rinvieni</b> una Magia\nda 5 o più Mana.\n\t\t[x]<b>雄叫び:</b>\nコスト（5）以上の呪文を\n1枚<b>発見</b>する。\n\t\t<b>전투의 함성:</b>\n비용이 (5) 이상인\n주문을 <b>발견</b>합니다.\n\t\t<b>Okrzyk bojowy:</b> <b>Odkryj</b> zaklęcie kosztujące (5) lub więcej.\n\t\t<b>Grito de Guerra:</b> <b>Descubra</b> um feitiço que custa\n(5) ou mais.\n\t\t<b>Боевой клич:</b> вы <b>раскапываете</b> заклинание за (5) или больше.\n\t\t<b>คำรามสู้ศึก:</b> <b>ค้นพบ</b> เวทมนตร์ที่มีค่าร่าย_(5) หรือสูงกว่า\n\t\t<b>战吼：</b><b>发现</b>一张法力值消耗大于或等于（5）点的法术牌。\n\t\t<b>戰吼：</b><b>發現</b>一個消耗(5)以上的法術\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_539",
+    "dbfId": 49171,
+    "name": "비전 발전기",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>전투의 함성:</b><br></br>비용이 (5) 이상인<br></br>주문을 <b>발견</b>합니다.",
+    "attack": 3,
+    "health": 4,
+    "flavor": "뇌를 보관할 병이 모자라서 일단 아무 곳에나 넣어봤습니다.",
+    "portrait": "HS14-057_M.psd:71d9283244547f743867b9f6b3e52c2f",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_539.png",
+    "nativeRawText": "<b>전투의 함성:</b>\n비용이 (5) 이상인\n주문을 <b>발견</b>합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "4",
+      "47": "3",
+      "48": "6",
+      "183": "1127",
+      "199": "12",
+      "202": "4",
+      "203": "3",
+      "218": "1",
+      "321": "1",
+      "415": "1",
+      "1342": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_539",
+    "dbfId": 49171,
+    "name": "비전 발전기",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>전투의 함성:</b> 비용이<br></br>(5) 이상인 주문을<br></br>하나 <b>발견</b>합니다.",
+    "attack": 3,
+    "health": 4,
+    "flavor": "뇌를 보관할 병이 모자라서 일단 아무 곳에나 넣어봤습니다.",
+    "portrait": "HS14-057_M.psd:71d9283244547f743867b9f6b3e52c2f",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_539.png",
+    "nativeRawText": "[x]<b>전투의 함성:</b> 비용이\n(5) 이상인 주문을\n하나 <b>발견</b>합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "4",
+      "47": "3",
+      "48": "6",
+      "183": "1127",
+      "199": "12",
+      "202": "4",
+      "203": "3",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {
+      "415": "1"
+    },
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

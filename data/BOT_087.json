@@ -1,1 +1,274 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_087","dbfId":48040,"name":"학술적 첩보","type":"SPELL","cardClass":"ROGUE","rarity":"EPIC","collectible":true,"cost":4,"text":"<i>상대편 직업</i>의 무작위<br></br>카드 10장을 내 덱에 섞어<br></br>넣습니다. 그 카드들의<br></br>비용이 (1)이 됩니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"열 번째 불덩이 작렬을 썼을 때는 저 자신이 생각해도 좀 너무하다는 생각이 들었습니다.","spellSchool":"","portrait":"HS14-133_S.psd:213a431bb842d08479eb99c6a9ace904","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":7},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":251,"name":"게임 태그 251","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0}],"races":[],"race":"","classes":[],"art":"art/BOT_087.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-133_S.psd:213a431bb842d08479eb99c6a9ace904","goldenMaterial":"BOT_087_PremiumCard.mat:47c1427879466484eb0c12485e85aaec","goldenAnimation":"BOT_087_PremiumCard.asset:7561fb91b5cdb424da3884c427830e69"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-133_S.psd:213a431bb842d08479eb99c6a9ace904",
+      "goldenMaterial": "BOT_087_PremiumCard.mat:47c1427879466484eb0c12485e85aaec",
+      "goldenAnimation": "BOT_087_PremiumCard.asset:7561fb91b5cdb424da3884c427830e69"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Academic Espionage"
+          },
+          "koKR": {
+            "present": true,
+            "value": "학술적 첩보"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tWissensklau\n\t\t\tAcademic Espionage\n\t\t\tEspionaje académico\n\t\t\tEspionaje académico\n\t\t\tEspionnage académique\n\t\t\tSpionaggio Accademico\n\t\t\t学術スパイ\n\t\t\t학술적 첩보\n\t\t\tSzpiegostwo naukowe\n\t\t\tEspionagem Acadêmica\n\t\t\tНаучный шпионаж\n\t\t\tจารกรรมข้อมูล\n\t\t\t学术剽窃\n\t\t\t學術間諜\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Shuffle 10 cards from your opponent's class into your deck. They_cost (1)."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<i>상대편 직업</i>의 무작위\n카드 10장을 내 덱에 섞어\n넣습니다. 그 카드들의\n비용이 (1)이 됩니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tMischt 10 Karten von der Klasse Eures Gegners in Euer Deck. Sie kosten (1).\n\t\t\tShuffle 10 cards from your opponent's class into your deck. They_cost (1).\n\t\t\t[x]Mete 10 cartas\nde la clase de tu oponente\nen tu mazo.\nCuestan (1) cristal.\n\t\t\tColoca 10 cartas de la clase de tu adversario en tu mazo. Cuestan (1).\n\t\t\tPlace_10_cartes_de_la_classe de votre adversaire dans votre deck. Elles coûtent (1)_|4(cristal,cristaux) de mana.\n\t\t\t[x]Mette 10 carte della\nclasse dell'avversario nel\ntuo mazzo. Costano (1).\n\t\t\t[x]相手のクラスの\nカード10枚を\n__自分のデッキに混ぜる。\nそれらのコストは\n（1）になる。\n\t\t\t[x]<i>상대편 직업</i>의 무작위\n카드 10장을 내 덱에 섞어\n넣습니다. 그 카드들의\n비용이 (1)이 됩니다.\n\t\t\tWtasuj 10 kart z klasy przeciwnika do twojej talii. Kosztują (1).\n\t\t\tColoque 10 cards da classe do oponente no seu deck. \nEles custam (1).\n\t\t\tЗамешивает в_колоду 10 карт класса противника. Эти карты стоят (1).\n\t\t\tสับการ์ดจากคลาสของ[b]คู่ต่อสู้ 10 ใบเข้าเด็คคุณ พวกมันมีค่าร่ายเป็น (1)\n\t\t\t将十张你对手的职业牌洗入你的牌库，其法力值消耗为\n（1）点。\n\t\t\t將10張對手\n職業牌洗入你的牌堆，且消耗改為(1)\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Academic Espionage"
+          },
+          "koKR": {
+            "present": true,
+            "value": "학술적 첩보"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tWissensklau\n\t\tAcademic Espionage\n\t\tEspionaje académico\n\t\tEspionaje académico\n\t\tEspionnage académique\n\t\tSpionaggio Accademico\n\t\t学術スパイ\n\t\t학술적 첩보\n\t\tSzpiegostwo naukowe\n\t\tEspionagem Acadêmica\n\t\tНаучный шпионаж\n\t\tจารกรรมข้อมูล\n\t\t学术剽窃\n\t\t學術間諜\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Shuffle 10 cards from your opponent's class into your deck. They_cost (1)."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<i>상대편 직업</i>의 무작위\n카드 10장을 내 덱에 섞어\n넣습니다. 그 카드들의\n비용이 (1)이 됩니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tMischt 10 Karten von der Klasse Eures Gegners in Euer Deck. Sie kosten (1).\n\t\tShuffle 10 cards from your opponent's class into your deck. They_cost (1).\n\t\t[x]Mete 10 cartas\nde la clase de tu oponente\nen tu mazo.\nCuestan (1) cristal.\n\t\tColoca 10 cartas de la clase de tu adversario en tu mazo. Cuestan (1).\n\t\tPlace_10_cartes_de_la_classe de votre adversaire dans votre deck. Elles coûtent (1)_|4(cristal,cristaux) de mana.\n\t\t[x]Mette 10 carte della\nclasse dell'avversario nel\ntuo mazzo. Costano (1).\n\t\t[x]相手のクラスの\nカード10枚を\n__自分のデッキに混ぜる。\nそれらのコストは\n（1）になる。\n\t\t[x]<i>상대편 직업</i>의 무작위\n카드 10장을 내 덱에 섞어\n넣습니다. 그 카드들의\n비용이 (1)이 됩니다.\n\t\tWtasuj 10 kart z klasy przeciwnika do twojej talii. Kosztują (1).\n\t\tColoque 10 cards da classe do oponente no seu deck. \nEles custam (1).\n\t\tЗамешивает в_колоду 10 карт класса противника. Эти карты стоят (1).\n\t\tสับการ์ดจากคลาสของ[b]คู่ต่อสู้ 10 ใบเข้าเด็คคุณ พวกมันมีค่าร่ายเป็น (1)\n\t\t将十张你对手职业的卡牌洗入你的牌库，其法力值消耗为（1）点。\n\t\t將10張對手\n職業牌洗入你的牌堆，且消耗改為(1)\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_087",
+    "dbfId": 48040,
+    "name": "학술적 첩보",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 4,
+    "text": "<i>상대편 직업</i>의 무작위<br></br>카드 10장을 내 덱에 섞어<br></br>넣습니다. 그 카드들의<br></br>비용이 (1)이 됩니다.",
+    "flavor": "열 번째 불덩이 작렬을 썼을 때는 저 자신이 생각해도 좀 너무하다는 생각이 들었습니다.",
+    "spellSchool": "",
+    "portrait": "HS14-133_S.psd:213a431bb842d08479eb99c6a9ace904",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 251,
+        "name": "게임 태그 251",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_087.png",
+    "nativeRawText": "[x]<i>상대편 직업</i>의 무작위\n카드 10장을 내 덱에 섞어\n넣습니다. 그 카드들의\n비용이 (1)이 됩니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "4",
+      "183": "1127",
+      "199": "7",
+      "201": "3",
+      "202": "5",
+      "203": "4",
+      "251": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_087",
+    "dbfId": 48040,
+    "name": "학술적 첩보",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 4,
+    "text": "<i>상대편 직업</i>의 무작위<br></br>카드 10장을 내 덱에 섞어<br></br>넣습니다. 그 카드들의<br></br>비용이 (1)이 됩니다.",
+    "flavor": "열 번째 불덩이 작렬을 썼을 때는 저 자신이 생각해도 좀 너무하다는 생각이 들었습니다.",
+    "spellSchool": "",
+    "portrait": "HS14-133_S.psd:213a431bb842d08479eb99c6a9ace904",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 251,
+        "name": "게임 태그 251",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_087.png",
+    "nativeRawText": "[x]<i>상대편 직업</i>의 무작위\n카드 10장을 내 덱에 섞어\n넣습니다. 그 카드들의\n비용이 (1)이 됩니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "4",
+      "183": "1127",
+      "199": "7",
+      "201": "3",
+      "202": "5",
+      "203": "4",
+      "251": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

@@ -1,1 +1,465 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_039","dbfId":47856,"name":"강령기계공","type":"MINION","cardClass":"HUNTER","rarity":"EPIC","collectible":true,"cost":4,"text":"내 <b>죽음의 메아리</b> 능력이 2번 발동합니다.","attack":3,"health":6,"durability":0,"armor":0,"flavor":"연구소에 끌려가는 어린 기계로다!","spellSchool":"","portrait":"HS14-158_M.psd:06d3da9046415f5479750b8a4c0176e9","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":362,"name":"지속 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_039.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-158_M.psd:06d3da9046415f5479750b8a4c0176e9","goldenMaterial":"BOT_039_PremiumCard.mat:b9b1157a7cc822e4eb117054eeeba29a","goldenAnimation":"BOT_039_PremiumCard.asset:94dd10001cca2644589a75a0309f3143"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-158_M.psd:06d3da9046415f5479750b8a4c0176e9",
+      "goldenMaterial": "BOT_039_PremiumCard.mat:b9b1157a7cc822e4eb117054eeeba29a",
+      "goldenAnimation": "BOT_039_PremiumCard.asset:94dd10001cca2644589a75a0309f3143"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Necromechanic"
+          },
+          "koKR": {
+            "present": true,
+            "value": "강령기계공"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tNekromechanikerin\n\t\t\tNecromechanic\n\t\t\tNecromecánica\n\t\t\tNecromecánica\n\t\t\tNécromécanicienne\n\t\t\tNecromeccanica\n\t\t\tネクロメカニック\n\t\t\t강령기계공\n\t\t\tNekrotechniczka\n\t\t\tNecromecânica\n\t\t\tНекромеханик\n\t\t\tช่างประกอบศพ\n\t\t\t死灵机械师\n\t\t\t死靈技師\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Your <b>Deathrattles</b> trigger twice."
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 <b>죽음의 메아리</b> 능력이 2번 발동합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tEure <b>Todesröcheln</b>-Effekte werden zweimal ausgelöst.\n\t\t\tYour <b>Deathrattles</b> trigger twice.\n\t\t\tTus <b>Últimos alientos</b>\nse activan dos veces.\n\t\t\tTus <b>Estertores</b> se activan dos veces.\n\t\t\tVos <b>Râles d’agonie</b> se déclenchent deux fois.\n\t\t\t[x]Le tue carte attivano\ndue volte il proprio\n<b>Rantolo di Morte</b>.\n\t\t\t味方の<b>断末魔</b>は\n2回発動する。\n\t\t\t내 <b>죽음의 메아리</b> 능력이 2번 발동합니다.\n\t\t\tTwoje <b>Agonie</b> aktywowane są dwukrotnie.\n\t\t\tSeus <b>Últimos Suspiros</b> são ativados duas vezes.\n\t\t\tВаши\n<b>«Предсмертные хрипы»</b> срабатывают_дважды.\n\t\t\t<b>เสียงสุดท้าย</b> ทั้งหมด[b]ของคุณมีผลสองครั้ง\n\t\t\t你的<b>亡语</b>会触发\n两次。\n\t\t\t你的<b>死亡之聲</b>\n會觸發兩次\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Necromechanic"
+          },
+          "koKR": {
+            "present": true,
+            "value": "강령기계공"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tNekromechanikerin\n\t\tNecromechanic\n\t\tNecromecánica\n\t\tNecromecánica\n\t\tNécromécanicienne\n\t\tNecromeccanica\n\t\tネクロメカニック\n\t\t강령기계공\n\t\tNekrotechniczka\n\t\tNecromecânica\n\t\tНекромеханик\n\t\tช่างประกอบศพ\n\t\t死灵机械师\n\t\t死靈技師\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Your <b>Deathrattles</b> trigger twice."
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 <b>죽음의 메아리</b> 능력이 2번 발동합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tEure <b>Todesröcheln</b>-Effekte werden zweimal ausgelöst.\n\t\tYour <b>Deathrattles</b> trigger twice.\n\t\tTus <b>Últimos alientos</b>\nse activan dos veces.\n\t\tTus <b>Estertores</b> se activan dos veces.\n\t\tVos <b>Râles d’agonie</b> se déclenchent deux fois.\n\t\t[x]Le tue carte attivano\ndue volte il proprio\n<b>Rantolo di Morte</b>.\n\t\t味方の<b>断末魔</b>は\n2回発動する。\n\t\t내 <b>죽음의 메아리</b> 능력이 2번 발동합니다.\n\t\tTwoje <b>Agonie</b> aktywowane są dwukrotnie.\n\t\tSeus <b>Últimos Suspiros</b> são ativados duas vezes.\n\t\tВаши\n<b>«Предсмертные хрипы»</b> срабатывают_дважды.\n\t\t<b>เสียงสุดท้าย</b> ทั้งหมด[b]ของคุณมีผลสองครั้ง\n\t\t你的<b>亡语</b>会触发\n两次。\n\t\t你的<b>死亡之聲</b>\n會觸發兩次\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_039",
+    "dbfId": 47856,
+    "name": "강령기계공",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 4,
+    "text": "내 <b>죽음의 메아리</b> 능력이 2번 발동합니다.",
+    "attack": 3,
+    "health": 6,
+    "flavor": "연구소에 끌려가는 어린 기계로다!",
+    "portrait": "HS14-158_M.psd:06d3da9046415f5479750b8a4c0176e9",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 362,
+        "name": "지속 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_039.png",
+    "nativeRawText": "내 <b>죽음의 메아리</b> 능력이 2번 발동합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "6",
+      "47": "3",
+      "48": "4",
+      "183": "1127",
+      "199": "3",
+      "202": "4",
+      "203": "4",
+      "321": "1",
+      "362": "1"
+    },
+    "nativeTagsReferenced": {
+      "217": "1"
+    }
+  },
+  "2018-08-08": {
+    "id": "BOT_039",
+    "dbfId": 47856,
+    "name": "강령기계공",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "내 <b>죽음의 메아리</b> 능력이 2번 발동합니다.",
+    "attack": 3,
+    "health": 6,
+    "flavor": "연구소에 끌려가는 어린 기계로다!",
+    "portrait": "HS14-158_M.psd:06d3da9046415f5479750b8a4c0176e9",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 362,
+        "name": "지속 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_039.png",
+    "nativeRawText": "내 <b>죽음의 메아리</b> 능력이 2번 발동합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "6",
+      "47": "3",
+      "48": "5",
+      "183": "1127",
+      "199": "3",
+      "202": "4",
+      "203": "4",
+      "321": "1",
+      "362": "1"
+    },
+    "nativeTagsReferenced": {
+      "217": "1"
+    },
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2019-06-04": {
+    "cost": 4,
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 362,
+        "name": "지속 효과",
+        "value": 1
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 48,
+        "before": "5",
+        "after": "4"
+      }
+    ],
+    "source": {
+      "beforeBuild": 31022,
+      "afterBuild": 31268,
+      "beforeCommit": "089a94c2fc524cc52ee7697ad4430fd52240d6a0",
+      "afterCommit": "d4dcf70622f19beddd0d6d56fdd5f053da99d223",
+      "beforeXmlSha256": "95219fea6d5638fa31890deb6468518c9a9189155f3e1f29512ec5758fe2adbe",
+      "afterXmlSha256": "016adca4cafcd19f2d9eb3397b7acd3035db594b5c5bd91e77370f57bdb483c4",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Necromechanic"
+            },
+            "koKR": {
+              "present": true,
+              "value": "강령기계공"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tNekromechanikerin\n\t\t\tNecromechanic\n\t\t\tNecromecánica\n\t\t\tNecromecánica\n\t\t\tNécromécanicienne\n\t\t\tNecromeccanica\n\t\t\tネクロメカニック\n\t\t\t강령기계공\n\t\t\tNekrotechniczka\n\t\t\tNecromecânica\n\t\t\tНекромеханик\n\t\t\tช่างประกอบศพ\n\t\t\t死灵机械师\n\t\t\t死靈技師\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Your <b>Deathrattles</b> trigger twice."
+            },
+            "koKR": {
+              "present": true,
+              "value": "내 <b>죽음의 메아리</b> 능력이 2번 발동합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tEure <b>Todesröcheln</b>-Effekte werden zweimal ausgelöst.\n\t\t\tYour <b>Deathrattles</b> trigger twice.\n\t\t\tTus <b>Últimos alientos</b>\nse activan dos veces.\n\t\t\tTus <b>Estertores</b> se activan dos veces.\n\t\t\tVos <b>Râles d’agonie</b> se déclenchent deux fois.\n\t\t\t[x]Le tue carte attivano\ndue volte il proprio\n<b>Rantolo di Morte</b>.\n\t\t\t味方の<b>断末魔</b>は\n2回発動する。\n\t\t\t내 <b>죽음의 메아리</b> 능력이 2번 발동합니다.\n\t\t\tTwoje <b>Agonie</b> aktywowane są dwukrotnie.\n\t\t\tSeus <b>Últimos Suspiros</b> são ativados duas vezes.\n\t\t\tВаши\n<b>«Предсмертные хрипы»</b> срабатывают_дважды.\n\t\t\t<b>เสียงสุดท้าย</b> ทั้งหมด[b]ของคุณมีผลสองครั้ง\n\t\t\t你的<b>亡语</b>会触发\n两次。\n\t\t\t你的<b>死亡之聲</b>\n會觸發兩次\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Necromechanic"
+            },
+            "koKR": {
+              "present": true,
+              "value": "강령기계공"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tNekromechanikerin\n\t\t\tNecromechanic\n\t\t\tNecromecánica\n\t\t\tNecromecánica\n\t\t\tNécromécanicienne\n\t\t\tNecromeccanica\n\t\t\tネクロメカニック\n\t\t\t강령기계공\n\t\t\tNekrotechniczka\n\t\t\tNecromecânica\n\t\t\tНекромеханик\n\t\t\tช่างประกอบศพ\n\t\t\t死灵机械师\n\t\t\t死靈技師\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Your <b>Deathrattles</b> trigger twice."
+            },
+            "koKR": {
+              "present": true,
+              "value": "내 <b>죽음의 메아리</b> 능력이 2번 발동합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tEure <b>Todesröcheln</b>-Effekte werden zweimal ausgelöst.\n\t\t\tYour <b>Deathrattles</b> trigger twice.\n\t\t\tTus <b>Últimos alientos</b>\nse activan dos veces.\n\t\t\tTus <b>Estertores</b> se activan dos veces.\n\t\t\tVos <b>Râles d’agonie</b> se déclenchent deux fois.\n\t\t\t[x]Le tue carte attivano\ndue volte il proprio\n<b>Rantolo di Morte</b>.\n\t\t\t味方の<b>断末魔</b>は\n2回発動する。\n\t\t\t내 <b>죽음의 메아리</b> 능력이 2번 발동합니다.\n\t\t\tTwoje <b>Agonie</b> aktywowane są dwukrotnie.\n\t\t\tSeus <b>Últimos Suspiros</b> são ativados duas vezes.\n\t\t\tВаши\n<b>«Предсмертные хрипы»</b> срабатывают_дважды.\n\t\t\t<b>เสียงสุดท้าย</b> ทั้งหมด[b]ของคุณมีผลสองครั้ง\n\t\t\t你的<b>亡语</b>会触发\n两次。\n\t\t\t你的<b>死亡之聲</b>\n會觸發兩次\n\t\t"
+        }
+      }
+    }
+  }
+}

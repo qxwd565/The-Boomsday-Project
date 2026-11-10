@@ -1,1 +1,526 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_407","dbfId":48527,"name":"천둥불꽃","type":"MINION","cardClass":"SHAMAN","rarity":"EPIC","collectible":true,"cost":4,"text":"내가 <b>과부하</b> 카드를 낸 후에, <b>속공</b> 능력이 있는 1/1 불꽃을 둘 소환합니다.","attack":3,"health":6,"durability":0,"armor":0,"flavor":"\"두 유 워너 빌드 어 스톰?\"","spellSchool":"","portrait":"HS14-139_M.psd:a071f3b363c0e094aa78d2553370138e","set":"BOOMSDAY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":18},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":215,"name":"과부하","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":791,"name":"속공","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":48557}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/BOT_407.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-139_M.psd:a071f3b363c0e094aa78d2553370138e","goldenMaterial":"BOT_407_PremiumCard.mat:1e9c17821f0d01c4e8cfb28ff8ad3235","goldenAnimation":"BOT_407_PremiumCard.asset:64e4042b78f340d428fd92b35ea23546"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-139_M.psd:a071f3b363c0e094aa78d2553370138e",
+      "goldenMaterial": "BOT_407_PremiumCard.mat:1e9c17821f0d01c4e8cfb28ff8ad3235",
+      "goldenAnimation": "BOT_407_PremiumCard.asset:64e4042b78f340d428fd92b35ea23546"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Thunderhead"
+          },
+          "koKR": {
+            "present": true,
+            "value": "천둥불꽃"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tDonnerhaupt\n\t\t\tThunderhead\n\t\t\tCumulonimbo\n\t\t\tTestarrayo\n\t\t\tFront-de-Foudre\n\t\t\tImbrigliatuoni\n\t\t\t雷雲\n\t\t\t천둥불꽃\n\t\t\tGrzmotnica\n\t\t\tCabeça-de-trovão\n\t\t\tГромоголов\n\t\t\tธันเดอร์เฮด\n\t\t\t雷云元素\n\t\t\t雷雲元素\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]After you play a card with\n<b>Overload</b>, summon two\n1/1 Sparks with <b>Rush</b>."
+          },
+          "koKR": {
+            "present": true,
+            "value": "내가 <b>과부하</b> 카드를 낸 후에, <b>속공</b> 능력이 있는 1/1 불꽃을 둘 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tRuft 2 Funken (1/1) mit <b>Eifer</b> herbei, nachdem Ihr eine Karte mit <b>Überladung</b> ausgespielt habt.\n\t\t\t[x]After you play a card with\n<b>Overload</b>, summon two\n1/1 Sparks with <b>Rush</b>.\n\t\t\t[x]Cuando juegas una carta\ncon <b>Sobrecarga</b>, invoca\ndos chispas 1/1\ncon <b>Embestir</b>.\n\t\t\tDespués de jugar una carta con <b>Sobrecarga</b>, invoca dos Chispas 1/1 con <b>Acometida</b>.\n\t\t\tUne fois que vous avez joué\nune carte avec <b>Surcharge</b>,\ninvoque deux étincelles_1/1\navec_<b>Ruée</b>.\n\t\t\tDopo che hai giocato una carta con <b>Sovraccarico</b>, evoca due Scintille 1/1 con <b>Assalto</b>.\n\t\t\t[x]自分が<b>オーバーロード</b>を持つ\nカードを手札から使用した後\n<b>急襲</b>を持つ1/1の\n「スパーク」を2体召喚する。\n\t\t\t내가 <b>과부하</b> 카드를 낸 후에, <b>속공</b> 능력이 있는 1/1 불꽃을 둘 소환합니다.\n\t\t\tPo zagraniu karty z_<b>Przeciążeniem</b> przyzwij_dwie Iskry 1/1 ze <b>Zrywem</b>.\n\t\t\tDepois que você jogar um card com <b>Sobrecarga</b>, evoque duas Faíscas 1/1 com <b>Rapidez</b>.\n\t\t\tПосле того как вы разыгрываете карту с <b>«Перегрузкой»</b>, призывает две [x]искры 1/1 с_<b>«Натиском»</b>.\n\t\t\tหลังจากคุณเล่นการ์ดที่มี <b>โอเวอร์โหลด</b> เรียกประกายไฟ 1/1 ที่มี <b>จู่โจม</b> สองตัว\n\t\t\t在你使用一张<b>过载</b>牌后，召唤两个1/1并具有<b>突袭</b>的“火花”。\n\t\t\t[x]在你打出有<b>超載</b>\n的牌後，召喚兩個\n有<b>衝刺</b>的1/1火花\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Thunderhead"
+          },
+          "koKR": {
+            "present": true,
+            "value": "천둥불꽃"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tDonnerhaupt\n\t\tThunderhead\n\t\tCumulonimbo\n\t\tTestarrayo\n\t\tFront-de-Foudre\n\t\tImbrigliatuoni\n\t\t雷雲\n\t\t천둥불꽃\n\t\tGrzmotnica\n\t\tCabeça-de-trovão\n\t\tГромоголов\n\t\tธันเดอร์เฮด\n\t\t雷云元素\n\t\t雷雲元素\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]After you play a card with\n<b>Overload</b>, summon two\n1/1 Sparks with <b>Rush</b>."
+          },
+          "koKR": {
+            "present": true,
+            "value": "내가 <b>과부하</b> 카드를 낸 후에, <b>속공</b> 능력이 있는 1/1 불꽃을 둘 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tRuft 2 Funken (1/1) mit <b>Eifer</b> herbei, nachdem Ihr eine Karte mit <b>Überladung</b> ausgespielt habt.\n\t\t[x]After you play a card with\n<b>Overload</b>, summon two\n1/1 Sparks with <b>Rush</b>.\n\t\t[x]Cuando juegas una carta\ncon <b>Sobrecarga</b>, invoca\ndos chispas 1/1\ncon <b>Embestir</b>.\n\t\tDespués de jugar una carta con <b>Sobrecarga</b>, invoca dos Chispas 1/1 con <b>Acometida</b>.\n\t\tUne fois que vous avez joué\nune carte avec <b>Surcharge</b>,\ninvoque deux étincelles_1/1\navec_<b>Ruée</b>.\n\t\tDopo che hai giocato una carta con <b>Sovraccarico</b>, evoca due Scintille 1/1 con <b>Assalto</b>.\n\t\t[x]自分が<b>オーバーロード</b>を持つ\nカードを手札から使用した後\n<b>急襲</b>を持つ1/1の\n「スパーク」を2体召喚する。\n\t\t내가 <b>과부하</b> 카드를 낸 후에, <b>속공</b> 능력이 있는 1/1 불꽃을 둘 소환합니다.\n\t\tPo zagraniu karty z_<b>Przeciążeniem</b> przyzwij_dwie Iskry 1/1 ze <b>Zrywem</b>.\n\t\tDepois que você jogar um card com <b>Sobrecarga</b>, evoque duas Faíscas 1/1 com <b>Rapidez</b>.\n\t\tПосле того как вы разыгрываете карту с <b>«Перегрузкой»</b>, призывает две [x]искры 1/1 с_<b>«Натиском»</b>.\n\t\tหลังจากคุณเล่นการ์ดที่มี <b>โอเวอร์โหลด</b> เรียกประกายไฟ 1/1 ที่มี <b>จู่โจม</b> สองตัว\n\t\t在你使用一张<b>过载</b>牌后，召唤两个1/1并具有<b>突袭</b>的“火花”。\n\t\t[x]在你打出有<b>超載</b>\n的牌後，召喚兩個\n有<b>衝刺</b>的1/1火花\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_407",
+    "dbfId": 48527,
+    "name": "천둥불꽃",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 4,
+    "text": "내가 <b>과부하</b> 카드를 낸 후에, <b>속공</b> 능력이 있는 1/1 불꽃을 둘 소환합니다.",
+    "attack": 3,
+    "health": 6,
+    "flavor": "\"두 유 워너 빌드 어 스톰?\"",
+    "portrait": "HS14-139_M.psd:a071f3b363c0e094aa78d2553370138e",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 215,
+        "name": "과부하",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 48557
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/BOT_407.png",
+    "nativeRawText": "내가 <b>과부하</b> 카드를 낸 후에, <b>속공</b> 능력이 있는 1/1 불꽃을 둘 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "32": "1",
+      "45": "6",
+      "47": "3",
+      "48": "4",
+      "183": "1127",
+      "199": "8",
+      "200": "18",
+      "201": "3",
+      "202": "4",
+      "203": "4",
+      "321": "1",
+      "1452": "48557"
+    },
+    "nativeTagsReferenced": {
+      "215": "1",
+      "791": "1"
+    }
+  },
+  "2018-08-08": {
+    "id": "BOT_407",
+    "dbfId": 48527,
+    "name": "천둥불꽃",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 4,
+    "text": "내가 <b>과부하</b> 카드를 낸 후에, <b>속공</b> 능력이 있는 1/1 불꽃을 둘 소환합니다.",
+    "attack": 3,
+    "health": 5,
+    "flavor": "\"두 유 워너 빌드 어 스톰?\"",
+    "portrait": "HS14-139_M.psd:a071f3b363c0e094aa78d2553370138e",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 215,
+        "name": "과부하",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/BOT_407.png",
+    "nativeRawText": "내가 <b>과부하</b> 카드를 낸 후에, <b>속공</b> 능력이 있는 1/1 불꽃을 둘 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "32": "1",
+      "45": "5",
+      "47": "3",
+      "48": "4",
+      "183": "1127",
+      "199": "8",
+      "200": "18",
+      "201": "3",
+      "202": "4",
+      "203": "4",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {
+      "215": "1",
+      "791": "1"
+    },
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2019-06-04": {
+    "health": 6,
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 215,
+        "name": "과부하",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 45,
+        "before": "5",
+        "after": "6"
+      }
+    ],
+    "source": {
+      "beforeBuild": 31022,
+      "afterBuild": 31268,
+      "beforeCommit": "089a94c2fc524cc52ee7697ad4430fd52240d6a0",
+      "afterCommit": "d4dcf70622f19beddd0d6d56fdd5f053da99d223",
+      "beforeXmlSha256": "95219fea6d5638fa31890deb6468518c9a9189155f3e1f29512ec5758fe2adbe",
+      "afterXmlSha256": "016adca4cafcd19f2d9eb3397b7acd3035db594b5c5bd91e77370f57bdb483c4",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Thunderhead"
+            },
+            "koKR": {
+              "present": true,
+              "value": "천둥불꽃"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tDonnerhaupt\n\t\t\tThunderhead\n\t\t\tCumulonimbo\n\t\t\tTestarrayo\n\t\t\tFront-de-Foudre\n\t\t\tImbrigliatuoni\n\t\t\t雷雲\n\t\t\t천둥불꽃\n\t\t\tGrzmotnica\n\t\t\tCabeça-de-trovão\n\t\t\tГромоголов\n\t\t\tธันเดอร์เฮด\n\t\t\t雷云元素\n\t\t\t雷雲元素\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "[x]After you play a card with\n<b>Overload</b>, summon two\n1/1 Sparks with <b>Rush</b>."
+            },
+            "koKR": {
+              "present": true,
+              "value": "내가 <b>과부하</b> 카드를 낸 후에, <b>속공</b> 능력이 있는 1/1 불꽃을 둘 소환합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tRuft 2 Funken (1/1) mit <b>Eifer</b> herbei, nachdem Ihr eine Karte mit <b>Überladung</b> ausgespielt habt.\n\t\t\t[x]After you play a card with\n<b>Overload</b>, summon two\n1/1 Sparks with <b>Rush</b>.\n\t\t\t[x]Cuando juegas una carta\ncon <b>Sobrecarga</b>, invoca\ndos chispas 1/1\ncon <b>Embestir</b>.\n\t\t\tDespués de jugar una carta con <b>Sobrecarga</b>, invoca dos Chispas 1/1 con <b>Acometida</b>.\n\t\t\tUne fois que vous avez joué\nune carte avec <b>Surcharge</b>,\ninvoque deux étincelles_1/1\navec_<b>Ruée</b>.\n\t\t\tDopo che hai giocato una carta con <b>Sovraccarico</b>, evoca due Scintille 1/1 con <b>Assalto</b>.\n\t\t\t[x]自分が<b>オーバーロード</b>を持つ\nカードを手札から使用した後\n<b>急襲</b>を持つ1/1の\n「スパーク」を2体召喚する。\n\t\t\t내가 <b>과부하</b> 카드를 낸 후에, <b>속공</b> 능력이 있는 1/1 불꽃을 둘 소환합니다.\n\t\t\tPo zagraniu karty z_<b>Przeciążeniem</b> przyzwij_dwie Iskry 1/1 ze <b>Zrywem</b>.\n\t\t\tDepois que você jogar um card com <b>Sobrecarga</b>, evoque duas Faíscas 1/1 com <b>Rapidez</b>.\n\t\t\tПосле того как вы разыгрываете карту с <b>«Перегрузкой»</b>, призывает две [x]искры 1/1 с_<b>«Натиском»</b>.\n\t\t\tหลังจากคุณเล่นการ์ดที่มี <b>โอเวอร์โหลด</b> เรียกประกายไฟ 1/1 ที่มี <b>จู่โจม</b> สองตัว\n\t\t\t在你使用一张<b>过载</b>牌后，召唤两个1/1并具有<b>突袭</b>的“火花”。\n\t\t\t[x]在你打出有<b>超載</b>\n的牌後，召喚兩個\n有<b>衝刺</b>的1/1火花\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Thunderhead"
+            },
+            "koKR": {
+              "present": true,
+              "value": "천둥불꽃"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tDonnerhaupt\n\t\t\tThunderhead\n\t\t\tCumulonimbo\n\t\t\tTestarrayo\n\t\t\tFront-de-Foudre\n\t\t\tImbrigliatuoni\n\t\t\t雷雲\n\t\t\t천둥불꽃\n\t\t\tGrzmotnica\n\t\t\tCabeça-de-trovão\n\t\t\tГромоголов\n\t\t\tธันเดอร์เฮด\n\t\t\t雷云元素\n\t\t\t雷雲元素\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "[x]After you play a card with\n<b>Overload</b>, summon two\n1/1 Sparks with <b>Rush</b>."
+            },
+            "koKR": {
+              "present": true,
+              "value": "내가 <b>과부하</b> 카드를 낸 후에, <b>속공</b> 능력이 있는 1/1 불꽃을 둘 소환합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tRuft 2 Funken (1/1) mit <b>Eifer</b> herbei, nachdem Ihr eine Karte mit <b>Überladung</b> ausgespielt habt.\n\t\t\t[x]After you play a card with\n<b>Overload</b>, summon two\n1/1 Sparks with <b>Rush</b>.\n\t\t\t[x]Cuando juegas una carta\ncon <b>Sobrecarga</b>, invoca\ndos chispas 1/1\ncon <b>Embestir</b>.\n\t\t\tDespués de jugar una carta con <b>Sobrecarga</b>, invoca dos Chispas 1/1 con <b>Acometida</b>.\n\t\t\tUne fois que vous avez joué\nune carte avec <b>Surcharge</b>,\ninvoque deux étincelles_1/1\navec_<b>Ruée</b>.\n\t\t\tDopo che hai giocato una carta con <b>Sovraccarico</b>, evoca due Scintille 1/1 con <b>Assalto</b>.\n\t\t\t[x]自分が<b>オーバーロード</b>を持つ\nカードを手札から使用した後\n<b>急襲</b>を持つ1/1の\n「スパーク」を2体召喚する。\n\t\t\t내가 <b>과부하</b> 카드를 낸 후에, <b>속공</b> 능력이 있는 1/1 불꽃을 둘 소환합니다.\n\t\t\tPo zagraniu karty z_<b>Przeciążeniem</b> przyzwij_dwie Iskry 1/1 ze <b>Zrywem</b>.\n\t\t\tDepois que você jogar um card com <b>Sobrecarga</b>, evoque duas Faíscas 1/1 com <b>Rapidez</b>.\n\t\t\tПосле того как вы разыгрываете карту с <b>«Перегрузкой»</b>, призывает две [x]искры 1/1 с_<b>«Натиском»</b>.\n\t\t\tหลังจากคุณเล่นการ์ดที่มี <b>โอเวอร์โหลด</b> เรียกประกายไฟ 1/1 ที่มี <b>จู่โจม</b> สองตัว\n\t\t\t在你使用一张<b>过载</b>牌后，召唤两个1/1并具有<b>突袭</b>的“火花”。\n\t\t\t[x]在你打出有<b>超載</b>\n的牌後，召喚兩個\n有<b>衝刺</b>的1/1火花\n\t\t"
+        }
+      }
+    }
+  }
+}

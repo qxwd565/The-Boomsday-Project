@@ -1,1 +1,300 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_308","dbfId":48505,"name":"용수철 로켓","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>전투의 함성:</b><br></br>피해를 2 줍니다.","attack":2,"health":1,"durability":0,"armor":0,"flavor":"잠깐, 로켓 용수철이 더 맞는 말일까요?","spellSchool":"","portrait":"HS14-067_M.psd:950685b4df3823b48b6cf9db73b45e9f","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/BOT_308.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-067_M.psd:950685b4df3823b48b6cf9db73b45e9f","goldenMaterial":"BOT_308_PremiumCard.mat:d2e2e1ceb70ff114dbb3c191c357778e","goldenAnimation":"BOT_308_PremiumCard.asset:0c24069a54499db4eaf4ebc8ef1922fd"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-067_M.psd:950685b4df3823b48b6cf9db73b45e9f",
+      "goldenMaterial": "BOT_308_PremiumCard.mat:d2e2e1ceb70ff114dbb3c191c357778e",
+      "goldenAnimation": "BOT_308_PremiumCard.asset:0c24069a54499db4eaf4ebc8ef1922fd"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Spring Rocket"
+          },
+          "koKR": {
+            "present": true,
+            "value": "용수철 로켓"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tFedergetriebene Rakete\n\t\t\tSpring Rocket\n\t\t\tCohete de muelles\n\t\t\tCohete resorte\n\t\t\tFusée à ressort\n\t\t\tMissile a Molla\n\t\t\tスプリング・ロケット\n\t\t\t용수철 로켓\n\t\t\tRakieta sprężynowa\n\t\t\tFogueteiro Articulado\n\t\t\tПружинная ракета\n\t\t\tจรวดสปริง\n\t\t\t弹簧火箭犬\n\t\t\t彈簧火箭犬\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Deal 2 damage."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n피해를 2 줍니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b>\nVerursacht 2 Schaden.\n\t\t\t<b>Battlecry:</b> Deal 2 damage.\n\t\t\t<b>Grito de batalla:</b>\nInflige 2 p. de daño.\n\t\t\t<b>Grito de batalla:</b> inflige 2 de daño.\n\t\t\t<b>Cri de guerre_:</b> inflige 2_points de dégâts.\n\t\t\t[x]<b>Grido di Battaglia:</b>\ninfligge 2 danni.\n\t\t\t<b>雄叫び:</b>\n2ダメージを与える。\n\t\t\t<b>전투의 함성:</b>\n피해를 2 줍니다.\n\t\t\t<b>Okrzyk bojowy:</b> Zadaj\n2 pkt. obrażeń.\n\t\t\t<b>Grito de Guerra:</b>\nCause 2 de dano.\n\t\t\t<b>Боевой клич:</b>\nнаносит 2 ед. урона.\n\t\t\t<b>คำรามสู้ศึก:</b> สร้างความเสียหาย_2_แต้ม\n\t\t\t<b>战吼：</b>造成2点伤害。\n\t\t\t<b>戰吼：</b>造成2點傷害\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Spring Rocket"
+          },
+          "koKR": {
+            "present": true,
+            "value": "용수철 로켓"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tFedergetriebene Rakete\n\t\tSpring Rocket\n\t\tCohete de muelles\n\t\tCohete resorte\n\t\tFusée à ressort\n\t\tMissile a Molla\n\t\tスプリング・ロケット\n\t\t용수철 로켓\n\t\tRakieta sprężynowa\n\t\tFogueteiro Articulado\n\t\tПружинная ракета\n\t\tจรวดสปริง\n\t\t弹簧火箭犬\n\t\t彈簧火箭犬\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Deal 2 damage."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n피해를 2 줍니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Kampfschrei:</b>\nVerursacht 2 Schaden.\n\t\t<b>Battlecry:</b> Deal 2 damage.\n\t\t<b>Grito de batalla:</b>\nInflige 2 p. de daño.\n\t\t<b>Grito de batalla:</b> inflige 2 de daño.\n\t\t<b>Cri de guerre_:</b> inflige 2_points de dégâts.\n\t\t[x]<b>Grido di Battaglia:</b>\ninfligge 2 danni.\n\t\t<b>雄叫び:</b>\n2ダメージを与える。\n\t\t<b>전투의 함성:</b>\n피해를 2 줍니다.\n\t\t<b>Okrzyk bojowy:</b> Zadaj\n2 pkt. obrażeń.\n\t\t<b>Grito de Guerra:</b>\nCause 2 de dano.\n\t\t<b>Боевой клич:</b>\nнаносит 2 ед. урона.\n\t\t<b>คำรามสู้ศึก:</b> สร้าง[b]ความเสียหาย_2_แต้ม\n\t\t<b>战吼：</b>造成2点伤害。\n\t\t<b>戰吼：</b>造成2點傷害\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_308",
+    "dbfId": 48505,
+    "name": "용수철 로켓",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b><br></br>피해를 2 줍니다.",
+    "attack": 2,
+    "health": 1,
+    "flavor": "잠깐, 로켓 용수철이 더 맞는 말일까요?",
+    "portrait": "HS14-067_M.psd:950685b4df3823b48b6cf9db73b45e9f",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_308.png",
+    "nativeRawText": "<b>전투의 함성:</b>\n피해를 2 줍니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "325": "",
+      "342": "",
+      "45": "1",
+      "47": "2",
+      "48": "3",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "202": "4",
+      "203": "1",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_308",
+    "dbfId": 48505,
+    "name": "용수철 로켓",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b><br></br>피해를 2 줍니다.",
+    "attack": 2,
+    "health": 1,
+    "flavor": "잠깐, 로켓 용수철이 더 맞는 말일까요?",
+    "portrait": "HS14-067_M.psd:950685b4df3823b48b6cf9db73b45e9f",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 325,
+        "name": "게임 태그 325",
+        "value": ""
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_308.png",
+    "nativeRawText": "<b>전투의 함성:</b>\n피해를 2 줍니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "325": "",
+      "342": "",
+      "45": "1",
+      "47": "2",
+      "48": "3",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "202": "4",
+      "203": "1",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

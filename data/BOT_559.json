@@ -1,1 +1,468 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_559","dbfId":49269,"name":"향상된 엘레크","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":3,"text":"내가 덱에 카드를 섞어 넣을 때마다 그 카드를 복사하여 추가로 섞어 넣습니다.","attack":3,"health":4,"durability":0,"armor":0,"flavor":"동작 그만, 두 장 넣기냐?","spellSchool":"","portrait":"HS14-186_M.psd:c413424fb1ecbba49b451bb1372fd840","set":"BOOMSDAY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":2539,"name":"게임 태그 2539","value":1}],"races":["MECHANICAL","BEAST"],"race":"기계, 야수","classes":[],"art":"art/BOT_559.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-186_M.psd:c413424fb1ecbba49b451bb1372fd840","goldenMaterial":"BOT_559_PremiumCard.mat:4e423bfc963ff1f46a4f4a4467a41e7d","goldenAnimation":"BOT_559_PremiumCard.asset:ed77618ae316ea34d97262f297d50678"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-186_M.psd:c413424fb1ecbba49b451bb1372fd840",
+      "goldenMaterial": "BOT_559_PremiumCard.mat:4e423bfc963ff1f46a4f4a4467a41e7d",
+      "goldenAnimation": "BOT_559_PremiumCard.asset:ed77618ae316ea34d97262f297d50678"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Augmented Elekk"
+          },
+          "koKR": {
+            "present": true,
+            "value": "향상된 엘레크"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tKybernetischer Elekk\n\t\t\tAugmented Elekk\n\t\t\tElekk aumentado\n\t\t\tElekk mejorado\n\t\t\tElekk amélioré\n\t\t\tElekk Potenziato\n\t\t\t改造エレク\n\t\t\t향상된 엘레크\n\t\t\tPodrasowany elekk\n\t\t\tElekk Fortalecido\n\t\t\tЭлекк-киборг\n\t\t\tอีเล็คค์ดัดแปลง\n\t\t\t强能雷象\n\t\t\t強化的伊萊克\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Whenever you shuffle a card into a deck, shuffle in_an extra copy."
+          },
+          "koKR": {
+            "present": true,
+            "value": "내가 덱에 카드를 섞어 넣을 때마다 그 카드를 복사하여 추가로 섞어 넣습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tJedes Mal, wenn Ihr eine Karte in ein Deck mischt, wird eine zusätzliche Kopie dazugemischt.\n\t\t\tWhenever you shuffle a card into a deck, shuffle in_an extra copy.\n\t\t\t[x]Cada vez que metes\nuna carta en un mazo,\nmete una copia extra.\n\t\t\tCada vez que colocas una carta en un mazo, coloca una copia adicional.\n\t\t\tChaque fois que vous placez une carte dans un deck, en place_également_une copie.\n\t\t\t[x]Quando metti una\ncarta in un mazzo, ne\naggiunge una copia.\n\t\t\t[x]自分がカードを\nデッキに混ぜる度\nそのコピーを1枚\n__余分に混ぜる。\n\t\t\t내가 덱에 카드를 섞어 넣을 때마다 그 카드를 복사하여 추가로 섞어 넣습니다.\n\t\t\tZa każdym razem gdy wtasujesz kartę do talii, wtasuj jej_dodatkową kopię.\n\t\t\tSempre que você colocar um card em um deck, coloque também uma cópia extra.\n\t\t\t[x]Когда вы замешиваете карту\nв колоду, вы замешиваете\nдополнительную копию.\n\t\t\tทุกครั้งที่คุณสับการ์ดเข้าเด็ค สับก๊อปปี้ของการ์ดนั้น[b]เข้าเด็คอีกหนึ่งใบ\n\t\t\t每当你将一张牌洗入牌库，额外洗入一张相同的牌。\n\t\t\t每當你將牌洗入\n牌堆，額外洗入一張相同的牌\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Augmented Elekk"
+          },
+          "koKR": {
+            "present": true,
+            "value": "향상된 엘레크"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tKybernetischer Elekk\n\t\tAugmented Elekk\n\t\tElekk aumentado\n\t\tElekk mejorado\n\t\tElekk amélioré\n\t\tElekk Potenziato\n\t\t改造エレク\n\t\t향상된 엘레크\n\t\tPodrasowany elekk\n\t\tElekk Fortalecido\n\t\tЭлекк-киборг\n\t\tอีเล็คค์ดัดแปลง\n\t\t强能雷象\n\t\t強化的伊萊克\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Whenever you shuffle a card into a deck, shuffle in_an extra copy."
+          },
+          "koKR": {
+            "present": true,
+            "value": "내가 덱에 카드를 섞어 넣을 때마다 그 카드를 복사하여 추가로 섞어 넣습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tJedes Mal, wenn Ihr eine Karte in ein Deck mischt, wird eine zusätzliche Kopie dazugemischt.\n\t\tWhenever you shuffle a card into a deck, shuffle in_an extra copy.\n\t\t[x]Cada vez que metes\nuna carta en un mazo,\nmete una copia extra.\n\t\tCada vez que colocas una carta en un mazo, coloca una copia adicional.\n\t\tChaque fois que vous placez une carte dans un deck, en place_également_une copie.\n\t\t[x]Quando metti una\ncarta in un mazzo, ne\naggiunge una copia.\n\t\t[x]自分がカードを\nデッキに混ぜる度\nそのコピーを1枚\n__余分に混ぜる。\n\t\t내가 덱에 카드를 섞어 넣을 때마다 그 카드를 복사하여 추가로 섞어 넣습니다.\n\t\tZa każdym razem gdy wtasujesz kartę do talii, wtasuj jej_dodatkową kopię.\n\t\tSempre que você colocar um card em um deck, coloque também uma cópia extra.\n\t\t[x]Когда вы замешиваете карту\nв колоду, вы замешиваете\nдополнительную копию.\n\t\tทุกครั้งที่คุณสับการ์ดเข้าเด็ค สับก๊อปปี้ของการ์ดนั้น[b]เข้าเด็คอีกหนึ่งใบ\n\t\t每当你将一张牌洗入牌库，额外洗入一张相同的牌。\n\t\t每當你將牌洗入\n牌堆，額外洗入一張相同的牌\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_559",
+    "dbfId": 49269,
+    "name": "향상된 엘레크",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 3,
+    "text": "내가 덱에 카드를 섞어 넣을 때마다 그 카드를 복사하여 추가로 섞어 넣습니다.",
+    "attack": 3,
+    "health": 4,
+    "flavor": "동작 그만, 두 장 넣기냐?",
+    "portrait": "HS14-186_M.psd:c413424fb1ecbba49b451bb1372fd840",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2539,
+        "name": "게임 태그 2539",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "race": "기계, 야수",
+    "classes": [],
+    "art": "art/BOT_559.png",
+    "nativeRawText": "내가 덱에 카드를 섞어 넣을 때마다 그 카드를 복사하여 추가로 섞어 넣습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "32": "1",
+      "45": "4",
+      "47": "3",
+      "48": "3",
+      "183": "1127",
+      "199": "12",
+      "200": "20",
+      "202": "4",
+      "203": "4",
+      "321": "1",
+      "2539": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_559",
+    "dbfId": 49269,
+    "name": "향상된 엘레크",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 3,
+    "text": "내가 덱에 카드를 섞어 넣을 때마다 그 카드를 복사하여 추가로 섞어 넣습니다.",
+    "attack": 3,
+    "health": 4,
+    "flavor": "동작 그만, 두 장 넣기냐?",
+    "portrait": "HS14-186_M.psd:c413424fb1ecbba49b451bb1372fd840",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/BOT_559.png",
+    "nativeRawText": "내가 덱에 카드를 섞어 넣을 때마다 그 카드를 복사하여 추가로 섞어 넣습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "32": "1",
+      "45": "4",
+      "47": "3",
+      "48": "3",
+      "183": "1127",
+      "199": "12",
+      "200": "20",
+      "202": "4",
+      "203": "4",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2022-11-30": {
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 2539,
+        "name": "게임 태그 2539",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST",
+      "MECHANICAL"
+    ],
+    "race": "야수, 기계",
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 2539,
+        "before": "ABSENT",
+        "after": "1"
+      }
+    ],
+    "source": {
+      "beforeBuild": 155409,
+      "afterBuild": 158725,
+      "beforeCommit": "beaa46cc24c1332ad91d4f7ae096024f6ff7d394",
+      "afterCommit": "54141c4a6bf3efeedaf69d7510b987f216ff00e6",
+      "beforeXmlSha256": "6b0cc04e3181ee49d34372eb14d7f57760aeb308f3b614b2f6729b44f9295d90",
+      "afterXmlSha256": "5a01259c4f9b13b0ddecce04718ef5de16ec4cae3867957835559946f89ff439",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Augmented Elekk"
+            },
+            "koKR": {
+              "present": true,
+              "value": "향상된 엘레크"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tKybernetischer Elekk\n\t\t\tAugmented Elekk\n\t\t\tElekk aumentado\n\t\t\tElekk mejorado\n\t\t\tElekk amélioré\n\t\t\tElekk Potenziato\n\t\t\t改造エレク\n\t\t\t향상된 엘레크\n\t\t\tPodrasowany elekk\n\t\t\tElekk Fortalecido\n\t\t\tЭлекк-киборг\n\t\t\tอีเล็คค์ดัดแปลง\n\t\t\t强能雷象\n\t\t\t強化的伊萊克\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Whenever you shuffle a card into a deck, shuffle in_an extra copy."
+            },
+            "koKR": {
+              "present": true,
+              "value": "내가 덱에 카드를 섞어 넣을 때마다 그 카드를 복사하여 추가로 섞어 넣습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tJedes Mal, wenn Ihr eine Karte in ein Deck mischt, wird eine zusätzliche Kopie dazugemischt.\n\t\t\tWhenever you shuffle a card into a deck, shuffle in_an extra copy.\n\t\t\t[x]Cada vez que metes\nuna carta en un mazo,\nmete una copia extra.\n\t\t\tCada vez que colocas una carta en un mazo, coloca una copia adicional.\n\t\t\tChaque fois que vous placez une carte dans un deck, en place_également_une copie.\n\t\t\t[x]Quando metti una\ncarta in un mazzo, ne\naggiunge una copia.\n\t\t\t[x]自分がカードを\nデッキに混ぜる度\nそのコピーを1枚\n__余分に混ぜる。\n\t\t\t내가 덱에 카드를 섞어 넣을 때마다 그 카드를 복사하여 추가로 섞어 넣습니다.\n\t\t\tZa każdym razem gdy wtasujesz kartę do talii, wtasuj jej_dodatkową kopię.\n\t\t\tSempre que você colocar um card em um deck, coloque também uma cópia extra.\n\t\t\t[x]Когда вы замешиваете карту\nв колоду, вы замешиваете\nдополнительную копию.\n\t\t\tทุกครั้งที่คุณสับการ์ดเข้าเด็ค สับก๊อปปี้ของการ์ดนั้น[b]เข้าเด็คอีกหนึ่งใบ\n\t\t\t每当你将一张牌洗入牌库，额外洗入一张相同的牌。\n\t\t\t每當你將牌洗入\n牌堆，額外洗入一張相同的牌\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Augmented Elekk"
+            },
+            "koKR": {
+              "present": true,
+              "value": "향상된 엘레크"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tKybernetischer Elekk\n\t\t\tAugmented Elekk\n\t\t\tElekk aumentado\n\t\t\tElekk mejorado\n\t\t\tElekk amélioré\n\t\t\tElekk Potenziato\n\t\t\t改造エレク\n\t\t\t향상된 엘레크\n\t\t\tPodrasowany elekk\n\t\t\tElekk Fortalecido\n\t\t\tЭлекк-киборг\n\t\t\tอีเล็คค์ดัดแปลง\n\t\t\t强能雷象\n\t\t\t強化的伊萊克\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Whenever you shuffle a card into a deck, shuffle in_an extra copy."
+            },
+            "koKR": {
+              "present": true,
+              "value": "내가 덱에 카드를 섞어 넣을 때마다 그 카드를 복사하여 추가로 섞어 넣습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tJedes Mal, wenn Ihr eine Karte in ein Deck mischt, wird eine zusätzliche Kopie dazugemischt.\n\t\t\tWhenever you shuffle a card into a deck, shuffle in_an extra copy.\n\t\t\t[x]Cada vez que metes\nuna carta en un mazo,\nmete una copia extra.\n\t\t\tCada vez que colocas una carta en un mazo, coloca una copia adicional.\n\t\t\tChaque fois que vous placez une carte dans un deck, en place_également_une copie.\n\t\t\t[x]Quando metti una\ncarta in un mazzo, ne\naggiunge una copia.\n\t\t\t[x]自分がカードを\nデッキに混ぜる度\nそのコピーを1枚\n__余分に混ぜる。\n\t\t\t내가 덱에 카드를 섞어 넣을 때마다 그 카드를 복사하여 추가로 섞어 넣습니다.\n\t\t\tZa każdym razem gdy wtasujesz kartę do talii, wtasuj jej_dodatkową kopię.\n\t\t\tSempre que você colocar um card em um deck, coloque também uma cópia extra.\n\t\t\t[x]Когда вы замешиваете карту\nв колоду, вы замешиваете\nдополнительную копию.\n\t\t\tทุกครั้งที่คุณสับการ์ดเข้าเด็ค สับก๊อปปี้ของการ์ดนั้น[b]เข้าเด็คอีกหนึ่งใบ\n\t\t\t每当你将一张牌洗入牌库，额外洗入一张相同的牌。\n\t\t\t每當你將牌洗入\n牌堆，額外洗入一張相同的牌\n\t\t"
+        }
+      }
+    }
+  }
+}

@@ -1,1 +1,390 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_263","dbfId":48211,"name":"영혼 주입","type":"SPELL","cardClass":"WARLOCK","rarity":"RARE","collectible":true,"cost":1,"text":"내 손에서 가장 왼쪽에 있는 하수인에게 +2/+2를 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"맨날 영혼 없는 반응만 보인다고 나무랐습니다. 지금 보니 그게 더 나았던 거 같기도 하네요.","spellSchool":"SHADOW","portrait":"HS14-149_S.psd:0a95c60bbc1a9fa4b9c334015748dff0","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":6}],"races":[],"race":"","classes":[],"art":"art/BOT_263.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-149_S.psd:0a95c60bbc1a9fa4b9c334015748dff0","goldenMaterial":"BOT_263_PremiumCard.mat:bf6ca3fc68d7fb14aa3b09fbc6a09160","goldenAnimation":"BOT_263_PremiumCard.asset:a1f16612d8b8a8542a04d4f9c48dd0de"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-149_S.psd:0a95c60bbc1a9fa4b9c334015748dff0",
+      "goldenMaterial": "BOT_263_PremiumCard.mat:bf6ca3fc68d7fb14aa3b09fbc6a09160",
+      "goldenAnimation": "BOT_263_PremiumCard.asset:a1f16612d8b8a8542a04d4f9c48dd0de"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Soul Infusion"
+          },
+          "koKR": {
+            "present": true,
+            "value": "영혼 주입"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tSeeleninfusion\n\t\t\tSoul Infusion\n\t\t\tInfusión de almas\n\t\t\tInfusión de alma\n\t\t\tInfusion d’âme\n\t\t\tInfusione dell'Anima\n\t\t\t入魂\n\t\t\t영혼 주입\n\t\t\tNasycenie duszy\n\t\t\tInfusão de Alma\n\t\t\tНасыщение души\n\t\t\tผสานวิญญาณ\n\t\t\t灵魂灌注\n\t\t\t靈魂灌注\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Give the\nleft-most minion in your hand +2/+2."
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 손에서 가장 왼쪽에 있는 하수인에게 +2/+2를 부여합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tVerleiht dem Diener, der sich auf Eurer Hand ganz links befindet, +2/+2.\n\t\t\tGive the\nleft-most minion in your hand +2/+2.\n\t\t\tOtorga +2/+2 al esbirro más a la izquierda de tu mano.\n\t\t\tOtorga +2/+2 al esbirro en el extremo izquierdo de tu mano.\n\t\t\tDonne_+2/+2 au serviteur le plus à gauche de votre main.\n\t\t\t[x]+2/+2 al servitore\npiù a sinistra\nnella tua mano.\n\t\t\t自分の手札の\n一番左のミニオンに\n+2/+2を付与する。\n\t\t\t내 손에서 가장 왼쪽에 있는 하수인에게 +2/+2를 부여합니다.\n\t\t\tDaj najbardziej wysuniętemu na lewo stronnikowi w twojej ręce_+2/+2.\n\t\t\tConceda +2/+2 ao lacaio mais à esquerda na sua mão.\n\t\t\tКрайнее левое существо у вас в руке получает +2/+2.\n\t\t\tมอบ_+2/+2_ให้มินเนี่ยน[b]ใบซ้ายสุดในมือคุณ\n\t\t\t使你手牌中最左边的随从牌获得+2/+2。\n\t\t\t賦予你手中最左邊的手下+2/+2\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Soul Infusion"
+          },
+          "koKR": {
+            "present": true,
+            "value": "영혼 주입"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tSeeleninfusion\n\t\tSoul Infusion\n\t\tInfusión de almas\n\t\tInfusión de alma\n\t\tInfusion d’âme\n\t\tInfusione dell'Anima\n\t\t入魂\n\t\t영혼 주입\n\t\tNasycenie duszy\n\t\tInfusão de Alma\n\t\tНасыщение души\n\t\tผสานวิญญาณ\n\t\t灵魂灌注\n\t\t靈魂灌注\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Give the\nleft-most minion in your hand +2/+2."
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 손에서 가장 왼쪽에 있는 하수인에게 +2/+2를 부여합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tVerleiht dem Diener, der sich auf Eurer Hand ganz links befindet, +2/+2.\n\t\tGive the\nleft-most minion in your hand +2/+2.\n\t\tOtorga +2/+2 al esbirro más a la izquierda de tu mano.\n\t\tOtorga +2/+2 al esbirro en el extremo izquierdo de tu mano.\n\t\tDonne_+2/+2 au serviteur le plus à gauche de votre main.\n\t\t[x]+2/+2 al servitore\npiù a sinistra\nnella tua mano.\n\t\t自分の手札の\n一番左のミニオンに\n+2/+2を付与する。\n\t\t내 손에서 가장 왼쪽에 있는 하수인에게 +2/+2를 부여합니다.\n\t\tDaj najbardziej wysuniętemu na lewo stronnikowi w twojej ręce_+2/+2.\n\t\tConceda +2/+2 ao lacaio mais à esquerda na sua mão.\n\t\tКрайнее левое существо у вас в руке получает +2/+2.\n\t\tมอบ_+2/+2_ให้[b]มินเนี่ยนใบซ้ายสุด[b]ในมือคุณ\n\t\t使你手牌中最左边的随从牌获得+2/+2。\n\t\t賦予你手中最左邊的手下+2/+2\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_263",
+    "dbfId": 48211,
+    "name": "영혼 주입",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 1,
+    "text": "내 손에서 가장 왼쪽에 있는 하수인에게 +2/+2를 부여합니다.",
+    "flavor": "맨날 영혼 없는 반응만 보인다고 나무랐습니다. 지금 보니 그게 더 나았던 거 같기도 하네요.",
+    "spellSchool": "SHADOW",
+    "portrait": "HS14-149_S.psd:0a95c60bbc1a9fa4b9c334015748dff0",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_263.png",
+    "nativeRawText": "내 손에서 가장 왼쪽에 있는 하수인에게 +2/+2를 부여합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "1",
+      "183": "1127",
+      "199": "9",
+      "202": "5",
+      "203": "3",
+      "321": "1",
+      "1635": "6"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_263",
+    "dbfId": 48211,
+    "name": "영혼 주입",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 1,
+    "text": "내 손에서 가장 왼쪽에 있는 하수인에게 +2/+2를 부여합니다.",
+    "flavor": "맨날 영혼 없는 반응만 보인다고 나무랐습니다. 지금 보니 그게 더 나았던 거 같기도 하네요.",
+    "spellSchool": "",
+    "portrait": "HS14-149_S.psd:0a95c60bbc1a9fa4b9c334015748dff0",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_263.png",
+    "nativeRawText": "내 손에서 가장 왼쪽에 있는 하수인에게 +2/+2를 부여합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "1",
+      "183": "1127",
+      "199": "9",
+      "202": "5",
+      "203": "3",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2021-03-26": {
+    "spellSchool": "SHADOW",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 1635,
+        "before": "ABSENT",
+        "after": "6"
+      }
+    ],
+    "source": {
+      "beforeBuild": 44222,
+      "afterBuild": 77662,
+      "beforeCommit": "fc67953f6f6eee064badde3f4a7bd07011508642",
+      "afterCommit": "9e10b526eed8a9c5ece2f73f0c2a6a3b60109d62",
+      "beforeXmlSha256": "abe292d304af3fec9d84707b8326cf4104e370b8fc93e8adfa2c1156988cfdf5",
+      "afterXmlSha256": "36879caf88f629052e57d728d1fb3649a21f7198f649ab1cdc916c72ab1b8e29",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Soul Infusion"
+            },
+            "koKR": {
+              "present": true,
+              "value": "영혼 주입"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tSeeleninfusion\n\t\t\tSoul Infusion\n\t\t\tInfusión de almas\n\t\t\tInfusión de alma\n\t\t\tInfusion d’âme\n\t\t\tInfusione dell'Anima\n\t\t\t入魂\n\t\t\t영혼 주입\n\t\t\tNasycenie duszy\n\t\t\tInfusão de Alma\n\t\t\tНасыщение души\n\t\t\tผสานวิญญาณ\n\t\t\t灵魂灌注\n\t\t\t靈魂灌注\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Give the\nleft-most minion in your hand +2/+2."
+            },
+            "koKR": {
+              "present": true,
+              "value": "내 손에서 가장 왼쪽에 있는 하수인에게 +2/+2를 부여합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tVerleiht dem Diener, der sich auf Eurer Hand ganz links befindet, +2/+2.\n\t\t\tGive the\nleft-most minion in your hand +2/+2.\n\t\t\tOtorga +2/+2 al esbirro más a la izquierda de tu mano.\n\t\t\tOtorga +2/+2 al esbirro en el extremo izquierdo de tu mano.\n\t\t\tDonne_+2/+2 au serviteur le plus à gauche de votre main.\n\t\t\t[x]+2/+2 al servitore\npiù a sinistra\nnella tua mano.\n\t\t\t自分の手札の\n一番左のミニオンに\n+2/+2を付与する。\n\t\t\t내 손에서 가장 왼쪽에 있는 하수인에게 +2/+2를 부여합니다.\n\t\t\tDaj najbardziej wysuniętemu na lewo stronnikowi w twojej ręce_+2/+2.\n\t\t\tConceda +2/+2 ao lacaio mais à esquerda na sua mão.\n\t\t\tКрайнее левое существо у вас в руке получает +2/+2.\n\t\t\tมอบ_+2/+2_ให้[b]มินเนี่ยนใบซ้ายสุด[b]ในมือคุณ\n\t\t\t使你手牌中最左边的随从牌获得+2/+2。\n\t\t\t賦予你手中最左邊的手下+2/+2\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Soul Infusion"
+            },
+            "koKR": {
+              "present": true,
+              "value": "영혼 주입"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tSeeleninfusion\n\t\t\tSoul Infusion\n\t\t\tInfusión de almas\n\t\t\tInfusión de alma\n\t\t\tInfusion d’âme\n\t\t\tInfusione dell'Anima\n\t\t\t入魂\n\t\t\t영혼 주입\n\t\t\tNasycenie duszy\n\t\t\tInfusão de Alma\n\t\t\tНасыщение души\n\t\t\tผสานวิญญาณ\n\t\t\t灵魂灌注\n\t\t\t靈魂灌注\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Give the\nleft-most minion in your hand +2/+2."
+            },
+            "koKR": {
+              "present": true,
+              "value": "내 손에서 가장 왼쪽에 있는 하수인에게 +2/+2를 부여합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tVerleiht dem Diener, der sich auf Eurer Hand ganz links befindet, +2/+2.\n\t\t\tGive the\nleft-most minion in your hand +2/+2.\n\t\t\tOtorga +2/+2 al esbirro más a la izquierda de tu mano.\n\t\t\tOtorga +2/+2 al esbirro en el extremo izquierdo de tu mano.\n\t\t\tDonne_+2/+2 au serviteur le plus à gauche de votre main.\n\t\t\t[x]+2/+2 al servitore\npiù a sinistra\nnella tua mano.\n\t\t\t自分の手札の\n一番左のミニオンに\n+2/+2を付与する。\n\t\t\t내 손에서 가장 왼쪽에 있는 하수인에게 +2/+2를 부여합니다.\n\t\t\tDaj najbardziej wysuniętemu na lewo stronnikowi w twojej ręce_+2/+2.\n\t\t\tConceda +2/+2 ao lacaio mais à esquerda na sua mão.\n\t\t\tКрайнее левое существо у вас в руке получает +2/+2.\n\t\t\tมอบ_+2/+2_ให้[b]มินเนี่ยนใบซ้ายสุด[b]ในมือคุณ\n\t\t\t使你手牌中最左边的随从牌获得+2/+2。\n\t\t\t賦予你手中最左邊的手下+2/+2\n\t\t"
+        }
+      }
+    }
+  }
+}

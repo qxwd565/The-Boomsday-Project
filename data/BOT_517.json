@@ -1,1 +1,238 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_517","dbfId":48976,"name":"발라당","type":"SPELL","cardClass":"PRIEST","rarity":"COMMON","collectible":true,"cost":0,"text":"하수인의 공격력과 생명력을 바꿉니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"자매품으로 '철푸덕'도 있습니다.","spellSchool":"","portrait":"HS14-051_S.psd:7003bf01122084b4db80aebc3d4014c2","set":"BOOMSDAY","nativeTags":[{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0}],"races":[],"race":"","classes":[],"art":"art/BOT_517.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-051_S.psd:7003bf01122084b4db80aebc3d4014c2","goldenMaterial":"BOT_517_PremiumCard.mat:af02d8af5e5583e4bb642f1f62ef78d4","goldenAnimation":"BOT_517_PremiumCard.asset:bc2a9148d5ae4e942ad17927b2c27963"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-051_S.psd:7003bf01122084b4db80aebc3d4014c2",
+      "goldenMaterial": "BOT_517_PremiumCard.mat:af02d8af5e5583e4bb642f1f62ef78d4",
+      "goldenAnimation": "BOT_517_PremiumCard.asset:bc2a9148d5ae4e942ad17927b2c27963"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Topsy Turvy"
+          },
+          "koKR": {
+            "present": true,
+            "value": "발라당"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tVerkehrte Welt\n\t\t\tTopsy Turvy\n\t\t\tPatas arriba\n\t\t\tPatas arriba\n\t\t\tSens dessus dessous\n\t\t\tSottosopra\n\t\t\tアベコベーター\n\t\t\t발라당\n\t\t\tZakręcenie\n\t\t\tTroca-Tudo\n\t\t\tПереворот\n\t\t\tกลับหัวกลับหาง\n\t\t\t引力翻转\n\t\t\t顛顛倒倒\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Swap a minion's Attack and Health."
+          },
+          "koKR": {
+            "present": true,
+            "value": "하수인 하나의 공격력과 생명력을 바꿉니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tVertauscht Angriff und Leben eines Dieners.\n\t\t\tSwap a minion's Attack and Health.\n\t\t\tIntercambia el ataque y_la_salud_de_un_esbirro.\n\t\t\tIntercambia el Ataque y la Salud de un esbirro.\n\t\t\tInverse l’Attaque et la Vie d’un serviteur.\n\t\t\tScambia Attacco e Salute di un servitore.\n\t\t\t[x]ミニオン1体の\n攻撃力と体力を\n入れ替える。\n\t\t\t하수인 하나의 공격력과 생명력을 바꿉니다.\n\t\t\tZamień atak i zdrowie stronnika.\n\t\t\tTroque o Ataque pela Vida de um lacaio.\n\t\t\t[x]Меняет местами атаку\nи здоровье выбранного\nсущества.\n\t\t\tสลับพลังโจมตีและ[b]พลังชีวิตของมินเนี่ยน[b]หนึ่งตัว\n\t\t\t使一个随从的攻击力和生命值\n互换。\n\t\t\t對調一個手下的攻擊力和生命值\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Topsy Turvy"
+          },
+          "koKR": {
+            "present": true,
+            "value": "발라당"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tVerkehrte Welt\n\t\tTopsy Turvy\n\t\tPatas arriba\n\t\tPatas arriba\n\t\tSens dessus dessous\n\t\tSottosopra\n\t\tアベコベーター\n\t\t발라당\n\t\tZakręcenie\n\t\tTroca-Tudo\n\t\tПереворот\n\t\tกลับหัวกลับหาง\n\t\t引力翻转\n\t\t顛顛倒倒\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Swap a minion's Attack and Health."
+          },
+          "koKR": {
+            "present": true,
+            "value": "하수인의 공격력과 생명력을 바꿉니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tVertauscht Angriff und Leben eines Dieners.\n\t\tSwap a minion's Attack and Health.\n\t\tIntercambia el ataque y_la_salud_de_un_esbirro.\n\t\tIntercambia el Ataque y la Salud de un esbirro.\n\t\tInverse l’ATQ et les PV d’un serviteur.\n\t\tScambia Attacco e Salute di un servitore.\n\t\t[x]ミニオン1体の\n攻撃力と体力を\n入れ替える。\n\t\t하수인의 공격력과 생명력을 바꿉니다.\n\t\tZamień atak i zdrowie stronnika.\n\t\tTroque o Ataque pela Vida de um lacaio.\n\t\tМеняет местами атаку и здоровье существа.\n\t\tสลับพลังโจมตีและ[b]พลังชีวิตของมินเนี่ยน[b]หนึ่งตัว\n\t\t使一个随从的攻击力和生命值\n互换。\n\t\t對調一個手下的攻擊力和生命值\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_517",
+    "dbfId": 48976,
+    "name": "발라당",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 0,
+    "text": "하수인의 공격력과 생명력을 바꿉니다.",
+    "flavor": "자매품으로 '철푸덕'도 있습니다.",
+    "spellSchool": "",
+    "portrait": "HS14-051_S.psd:7003bf01122084b4db80aebc3d4014c2",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_517.png",
+    "nativeRawText": "하수인의 공격력과 생명력을 바꿉니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "183": "1127",
+      "199": "6",
+      "202": "5",
+      "203": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_517",
+    "dbfId": 48976,
+    "name": "발라당",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 0,
+    "text": "하수인 하나의 공격력과 생명력을 바꿉니다.",
+    "flavor": "자매품으로 '철푸덕'도 있습니다.",
+    "spellSchool": "",
+    "portrait": "HS14-051_S.psd:7003bf01122084b4db80aebc3d4014c2",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_517.png",
+    "nativeRawText": "하수인 하나의 공격력과 생명력을 바꿉니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "183": "1127",
+      "199": "6",
+      "202": "5",
+      "203": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

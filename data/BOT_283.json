@@ -1,1 +1,642 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_283","dbfId":48471,"name":"토깽이 콩콩","type":"MINION","cardClass":"ROGUE","rarity":"RARE","collectible":true,"cost":1,"text":"<b>전투의 함성:</b><br></br>이번 게임에서 내가 낸<br></br>다른 토깽이 콩콩 하나당<br></br>+2/+2를 얻습니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"띠용!","spellSchool":"","portrait":"HS14-026_M.psd:d00be7b5cddf42740b5b0d0be06b8fc4","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":7},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":2542,"name":"게임 태그 2542","value":1}],"races":["MECHANICAL","BEAST"],"race":"기계, 야수","classes":[],"art":"art/BOT_283.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-026_M.psd:d00be7b5cddf42740b5b0d0be06b8fc4","goldenMaterial":"BOT_283_PremiumCard.mat:f147d602f85e77f43a8750ab05a59b71","goldenAnimation":"BOT_283_PremiumCard.asset:5ce8a9f76b5864f4283a05f28d2b0503"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-026_M.psd:d00be7b5cddf42740b5b0d0be06b8fc4",
+      "goldenMaterial": "BOT_283_PremiumCard.mat:f147d602f85e77f43a8750ab05a59b71",
+      "goldenAnimation": "BOT_283_PremiumCard.asset:5ce8a9f76b5864f4283a05f28d2b0503"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Pogo-Hopper"
+          },
+          "koKR": {
+            "present": true,
+            "value": "토깽이 콩콩"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tRobohopser\n\t\t\tPogo-Hopper\n\t\t\tSaltador\n\t\t\tBrincador mecánico\n\t\t\tLapin-échasseur\n\t\t\tSaltabot\n\t\t\tホッピング・ホッパー\n\t\t\t토깽이 콩콩\n\t\t\tKicoskoczek\n\t\t\tPogo-Pol\n\t\t\tПрыг-скокер\n\t\t\tโปโก-ฮอปเปอร์\n\t\t\t蹦蹦兔\n\t\t\t蹦蹦兔\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> Gain +2/+2 for\neach other Pogo-Hopper\nyou played this game."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b>\n이번 게임에서 내가 낸\n다른 토깽이 콩콩 하나당\n+2/+2를 얻습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Erhält +2/+2 für jeden anderen Robohopser, den Ihr in diesem Spiel ausgespielt habt.\n\t\t\t[x]<b>Battlecry:</b> Gain +2/+2 for\neach other Pogo-Hopper\nyou played this game.\n\t\t\t[x]<b>Grito de batalla:</b> Obtiene\n+2/+2 por cada saltador\nque hayas jugado\nen esta partida.\n\t\t\t<b>Grito de batalla:</b> obtiene +2/+2 por cada Brincador mecánico que hayas jugado durante esta partida.\n\t\t\t<b>Cri de guerre_:</b> gagne_+2/+2 pour chaque autre lapin-échasseur que vous avez joué pendant cette partie.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nottiene +2/+2 per ogni altro\nSaltabot che hai giocato\nin questa partita.\n\t\t\t[x]<b>雄叫び:</b>\nこの対戦で自分が手札から\n使用した他の「ホッピング・\nホッパー」1体につき\n_+2/+2を獲得する。\n\t\t\t[x]<b>전투의 함성:</b>\n이번 게임에서 내가 낸\n다른 토깽이 콩콩 하나당\n+2/+2를 얻습니다.\n\t\t\t<b>Okrzyk bojowy:</b> Otrzymuje_+2/+2 za każdego innego Kicoskoczka zagranego przez ciebie_w tej grze.\n\t\t\t<b>Grito de Guerra:</b> Receba +2/+2 para cada outro Pogo-Pol jogado por você nesta partida.\n\t\t\t<b>Боевой клич:</b> получает +2/+2 за каждого другого прыг-скокера, разыгранного вами в_этом_матче.\n\t\t\t<b>คำรามสู้ศึก:</b> ได้รับ +2/+2 ต่อโปโก-ฮอปเปอร์ตัวอื่น[b]_แต่ละตัวที่คุณเล่นในเกมนี้_\n\t\t\t<b>战吼：</b>在本局对战中，你每使用一张蹦蹦兔就会使其获得+2/+2。\n\t\t\t<b>戰吼：</b>你在本賽局打出的每個其他蹦蹦兔使其獲得+2/+2\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Pogo-Hopper"
+          },
+          "koKR": {
+            "present": true,
+            "value": "토깽이 콩콩"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tRobohopser\n\t\tPogo-Hopper\n\t\tSaltador\n\t\tBrincador mecánico\n\t\tLapin-échasseur\n\t\tSaltabot\n\t\tホッピング・ホッパー\n\t\t토깽이 콩콩\n\t\tKicoskoczek\n\t\tPogo-Pol\n\t\tПрыг-скокер\n\t\tโปโก-ฮอปเปอร์\n\t\t蹦蹦兔\n\t\t蹦蹦兔\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> Gain +2/+2 for\neach other Pogo-Hopper\nyou played this game."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b>\n이번 게임에서 내가 낸\n다른 토깽이 콩콩 하나당\n+2/+2를 얻습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Erhält +2/+2 für jeden anderen Robohopser, den Ihr in diesem Spiel ausgespielt habt.\n\t\t[x]<b>Battlecry:</b> Gain +2/+2 for\neach other Pogo-Hopper\nyou played this game.\n\t\t[x]<b>Grito de batalla:</b> Obtiene\n+2/+2 por cada saltador\nque hayas jugado\nen esta partida.\n\t\t<b>Grito de batalla:</b> obtiene +2/+2 por cada Brincador mecánico que hayas jugado durante esta partida.\n\t\t<b>Cri de guerre_:</b> gagne_+2/+2 pour chaque autre lapin-échasseur que vous avez joué pendant cette partie.\n\t\t[x]<b>Grido di Battaglia:</b>\nottiene +2/+2 per ogni altro\nSaltabot che hai giocato\nin questa partita.\n\t\t[x]<b>雄叫び:</b>\nこの対戦で自分が手札から\n使用した他の「ホッピング・\nホッパー」1体につき\n_+2/+2を獲得する。\n\t\t[x]<b>전투의 함성:</b>\n이번 게임에서 내가 낸\n다른 토깽이 콩콩 하나당\n+2/+2를 얻습니다.\n\t\t<b>Okrzyk bojowy:</b> Otrzymuje_+2/+2 za każdego innego Kicoskoczka zagranego przez ciebie_w tej grze.\n\t\t<b>Grito de Guerra:</b> Receba +2/+2 para cada outro Pogo-Pol jogado por você nesta partida.\n\t\t[x]<b>Боевой клич:</b> получает +2/+2\nза каждого другого прыг-\nскокера, разыгранного\nвами в этом матче.\n\t\t<b>คำรามสู้ศึก:</b>_ได้รับ +2/+2_ต่อ[b]โปโก-ฮอปเปอร์ใบอื่นแต่ละใบ[b]ที่คุณเคยเล่นในเกมนี้\n\t\t<b>战吼：</b>在本局对战中，你每使用过一张其他蹦蹦兔，便获得+2/+2。\n\t\t<b>戰吼：</b>你在本賽局打出的每個其他蹦蹦兔使其獲得+2/+2\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_283",
+    "dbfId": 48471,
+    "name": "토깽이 콩콩",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>전투의 함성:</b><br></br>이번 게임에서 내가 낸<br></br>다른 토깽이 콩콩 하나당<br></br>+2/+2를 얻습니다.",
+    "attack": 1,
+    "health": 1,
+    "flavor": "띠용!",
+    "portrait": "HS14-026_M.psd:d00be7b5cddf42740b5b0d0be06b8fc4",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 2542,
+        "name": "게임 태그 2542",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "race": "기계, 야수",
+    "classes": [],
+    "art": "art/BOT_283.png",
+    "nativeRawText": "[x]<b>전투의 함성:</b>\n이번 게임에서 내가 낸\n다른 토깽이 콩콩 하나당\n+2/+2를 얻습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "1",
+      "47": "1",
+      "48": "1",
+      "183": "1127",
+      "199": "7",
+      "200": "17",
+      "202": "4",
+      "203": "3",
+      "218": "1",
+      "321": "1",
+      "2542": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_283",
+    "dbfId": 48471,
+    "name": "토깽이 콩콩",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성:</b><br></br>이번 게임에서 내가 낸<br></br>다른 토깽이 콩콩 하나당<br></br>+2/+2를 얻습니다.",
+    "attack": 1,
+    "health": 1,
+    "flavor": "띠용!",
+    "portrait": "HS14-026_M.psd:d00be7b5cddf42740b5b0d0be06b8fc4",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_283.png",
+    "nativeRawText": "[x]<b>전투의 함성:</b>\n이번 게임에서 내가 낸\n다른 토깽이 콩콩 하나당\n+2/+2를 얻습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "1",
+      "47": "1",
+      "48": "2",
+      "183": "1127",
+      "199": "7",
+      "200": "17",
+      "202": "4",
+      "203": "3",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2019-06-04": {
+    "cost": 1,
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 48,
+        "before": "2",
+        "after": "1"
+      }
+    ],
+    "source": {
+      "beforeBuild": 31022,
+      "afterBuild": 31268,
+      "beforeCommit": "089a94c2fc524cc52ee7697ad4430fd52240d6a0",
+      "afterCommit": "d4dcf70622f19beddd0d6d56fdd5f053da99d223",
+      "beforeXmlSha256": "95219fea6d5638fa31890deb6468518c9a9189155f3e1f29512ec5758fe2adbe",
+      "afterXmlSha256": "016adca4cafcd19f2d9eb3397b7acd3035db594b5c5bd91e77370f57bdb483c4",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Pogo-Hopper"
+            },
+            "koKR": {
+              "present": true,
+              "value": "토깽이 콩콩"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tRobohopser\n\t\t\tPogo-Hopper\n\t\t\tSaltador\n\t\t\tBrincador mecánico\n\t\t\tLapin-échasseur\n\t\t\tSaltabot\n\t\t\tホッピング・ホッパー\n\t\t\t토깽이 콩콩\n\t\t\tKicoskoczek\n\t\t\tPogo-Pol\n\t\t\tПрыг-скокер\n\t\t\tโปโก-ฮอปเปอร์\n\t\t\t蹦蹦兔\n\t\t\t蹦蹦兔\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "[x]<b>Battlecry:</b> Gain +2/+2 for\neach other Pogo-Hopper\nyou played this game."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]<b>전투의 함성:</b>\n이번 게임에서 내가 낸\n다른 토깽이 콩콩 하나당\n+2/+2를 얻습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Kampfschrei:</b> Erhält +2/+2 für jeden anderen Robohopser, den Ihr in diesem Spiel ausgespielt habt.\n\t\t\t[x]<b>Battlecry:</b> Gain +2/+2 for\neach other Pogo-Hopper\nyou played this game.\n\t\t\t[x]<b>Grito de batalla:</b> Obtiene\n+2/+2 por cada saltador\nque hayas jugado\nen esta partida.\n\t\t\t<b>Grito de batalla:</b> obtiene +2/+2 por cada Brincador mecánico que hayas jugado durante esta partida.\n\t\t\t<b>Cri de guerre_:</b> gagne_+2/+2 pour chaque autre lapin-échasseur que vous avez joué pendant cette partie.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nottiene +2/+2 per ogni altro\nSaltabot che hai giocato\nin questa partita.\n\t\t\t[x]<b>雄叫び:</b>\nこの対戦で自分が手札から\n使用した他の「ホッピング・\nホッパー」1体につき\n_+2/+2を獲得する。\n\t\t\t[x]<b>전투의 함성:</b>\n이번 게임에서 내가 낸\n다른 토깽이 콩콩 하나당\n+2/+2를 얻습니다.\n\t\t\t<b>Okrzyk bojowy:</b> Otrzymuje_+2/+2 za każdego innego Kicoskoczka zagranego przez ciebie_w tej grze.\n\t\t\t<b>Grito de Guerra:</b> Receba +2/+2 para cada outro Pogo-Pol jogado por você nesta partida.\n\t\t\t<b>Боевой клич:</b> получает +2/+2 за каждого другого прыг-скокера, разыгранного вами в_этом_матче.\n\t\t\t<b>คำรามสู้ศึก:</b> ได้รับ +2/+2 ต่อโปโก-ฮอปเปอร์ตัวอื่น[b]_แต่ละตัวที่คุณเล่นในเกมนี้_\n\t\t\t<b>战吼：</b>在本局对战中，你每使用一张蹦蹦兔就会使其获得+2/+2。\n\t\t\t<b>戰吼：</b>你在本賽局打出的每個其他蹦蹦兔使其獲得+2/+2\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Pogo-Hopper"
+            },
+            "koKR": {
+              "present": true,
+              "value": "토깽이 콩콩"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tRobohopser\n\t\t\tPogo-Hopper\n\t\t\tSaltador\n\t\t\tBrincador mecánico\n\t\t\tLapin-échasseur\n\t\t\tSaltabot\n\t\t\tホッピング・ホッパー\n\t\t\t토깽이 콩콩\n\t\t\tKicoskoczek\n\t\t\tPogo-Pol\n\t\t\tПрыг-скокер\n\t\t\tโปโก-ฮอปเปอร์\n\t\t\t蹦蹦兔\n\t\t\t蹦蹦兔\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "[x]<b>Battlecry:</b> Gain +2/+2 for\neach other Pogo-Hopper\nyou played this game."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]<b>전투의 함성:</b>\n이번 게임에서 내가 낸\n다른 토깽이 콩콩 하나당\n+2/+2를 얻습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Kampfschrei:</b> Erhält +2/+2 für jeden anderen Robohopser, den Ihr in diesem Spiel ausgespielt habt.\n\t\t\t[x]<b>Battlecry:</b> Gain +2/+2 for\neach other Pogo-Hopper\nyou played this game.\n\t\t\t[x]<b>Grito de batalla:</b> Obtiene\n+2/+2 por cada saltador\nque hayas jugado\nen esta partida.\n\t\t\t<b>Grito de batalla:</b> obtiene +2/+2 por cada Brincador mecánico que hayas jugado durante esta partida.\n\t\t\t<b>Cri de guerre_:</b> gagne_+2/+2 pour chaque autre lapin-échasseur que vous avez joué pendant cette partie.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nottiene +2/+2 per ogni altro\nSaltabot che hai giocato\nin questa partita.\n\t\t\t[x]<b>雄叫び:</b>\nこの対戦で自分が手札から\n使用した他の「ホッピング・\nホッパー」1体につき\n_+2/+2を獲得する。\n\t\t\t[x]<b>전투의 함성:</b>\n이번 게임에서 내가 낸\n다른 토깽이 콩콩 하나당\n+2/+2를 얻습니다.\n\t\t\t<b>Okrzyk bojowy:</b> Otrzymuje_+2/+2 za każdego innego Kicoskoczka zagranego przez ciebie_w tej grze.\n\t\t\t<b>Grito de Guerra:</b> Receba +2/+2 para cada outro Pogo-Pol jogado por você nesta partida.\n\t\t\t<b>Боевой клич:</b> получает +2/+2 за каждого другого прыг-скокера, разыгранного вами в_этом_матче.\n\t\t\t<b>คำรามสู้ศึก:</b> ได้รับ +2/+2 ต่อโปโก-ฮอปเปอร์ตัวอื่น[b]_แต่ละตัวที่คุณเล่นในเกมนี้_\n\t\t\t<b>战吼：</b>在本局对战中，你每使用一张蹦蹦兔就会使其获得+2/+2。\n\t\t\t<b>戰吼：</b>你在本賽局打出的每個其他蹦蹦兔使其獲得+2/+2\n\t\t"
+        }
+      }
+    }
+  },
+  "2023-02-15": {
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 2542,
+        "name": "게임 태그 2542",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "race": "기계, 야수",
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 2542,
+        "before": "ABSENT",
+        "after": "1"
+      }
+    ],
+    "source": {
+      "beforeBuild": 163976,
+      "afterBuild": 165029,
+      "beforeCommit": "cf08a2eee9159a63ff589cfe2deabc4035673871",
+      "afterCommit": "ef8297aadee616ea2ffbc941a7b55a84b6cfc819",
+      "beforeXmlSha256": "73043cbecbfadd4cc6ffe42ddd977a6667ac60fb2efd8aec19d2abfe1977b6d4",
+      "afterXmlSha256": "1fa3e9bae99d369dbbcb622f964f225a1506d48344c5535ac1c83543b4bc3d53",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Pogo-Hopper"
+            },
+            "koKR": {
+              "present": true,
+              "value": "토깽이 콩콩"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tRobohopser\n\t\t\tPogo-Hopper\n\t\t\tSaltador\n\t\t\tBrincador mecánico\n\t\t\tLapin-échasseur\n\t\t\tSaltabot\n\t\t\tホッピング・ホッパー\n\t\t\t토깽이 콩콩\n\t\t\tKicoskoczek\n\t\t\tPogo-Pol\n\t\t\tПрыг-скокер\n\t\t\tโปโก-ฮอปเปอร์\n\t\t\t蹦蹦兔\n\t\t\t蹦蹦兔\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "[x]<b>Battlecry:</b> Gain +2/+2 for\neach other Pogo-Hopper\nyou played this game."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]<b>전투의 함성:</b>\n이번 게임에서 내가 낸\n다른 토깽이 콩콩 하나당\n+2/+2를 얻습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Kampfschrei:</b> Erhält +2/+2 für jeden anderen Robohopser, den Ihr in diesem Spiel ausgespielt habt.\n\t\t\t[x]<b>Battlecry:</b> Gain +2/+2 for\neach other Pogo-Hopper\nyou played this game.\n\t\t\t[x]<b>Grito de batalla:</b> Obtiene\n+2/+2 por cada saltador\nque hayas jugado\nen esta partida.\n\t\t\t<b>Grito de batalla:</b> obtiene +2/+2 por cada Brincador mecánico que hayas jugado durante esta partida.\n\t\t\t<b>Cri de guerre_:</b> gagne_+2/+2 pour chaque autre lapin-échasseur que vous avez joué pendant cette partie.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nottiene +2/+2 per ogni altro\nSaltabot che hai giocato\nin questa partita.\n\t\t\t[x]<b>雄叫び:</b>\nこの対戦で自分が手札から\n使用した他の「ホッピング・\nホッパー」1体につき\n_+2/+2を獲得する。\n\t\t\t[x]<b>전투의 함성:</b>\n이번 게임에서 내가 낸\n다른 토깽이 콩콩 하나당\n+2/+2를 얻습니다.\n\t\t\t<b>Okrzyk bojowy:</b> Otrzymuje_+2/+2 za każdego innego Kicoskoczka zagranego przez ciebie_w tej grze.\n\t\t\t<b>Grito de Guerra:</b> Receba +2/+2 para cada outro Pogo-Pol jogado por você nesta partida.\n\t\t\t[x]<b>Боевой клич:</b> получает +2/+2\nза каждого другого прыг-\nскокера, разыгранного\nвами в этом матче.\n\t\t\t<b>คำรามสู้ศึก:</b>_ได้รับ +2/+2_ต่อ[b]โปโก-ฮอปเปอร์ใบอื่นแต่ละใบ[b]ที่คุณเคยเล่นในเกมนี้\n\t\t\t<b>战吼：</b>在本局对战中，你每使用一张蹦蹦兔，便获得+2/+2。\n\t\t\t<b>戰吼：</b>你在本賽局打出的每個其他蹦蹦兔使其獲得+2/+2\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Pogo-Hopper"
+            },
+            "koKR": {
+              "present": true,
+              "value": "토깽이 콩콩"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tRobohopser\n\t\t\tPogo-Hopper\n\t\t\tSaltador\n\t\t\tBrincador mecánico\n\t\t\tLapin-échasseur\n\t\t\tSaltabot\n\t\t\tホッピング・ホッパー\n\t\t\t토깽이 콩콩\n\t\t\tKicoskoczek\n\t\t\tPogo-Pol\n\t\t\tПрыг-скокер\n\t\t\tโปโก-ฮอปเปอร์\n\t\t\t蹦蹦兔\n\t\t\t蹦蹦兔\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "[x]<b>Battlecry:</b> Gain +2/+2 for\neach other Pogo-Hopper\nyou played this game."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]<b>전투의 함성:</b>\n이번 게임에서 내가 낸\n다른 토깽이 콩콩 하나당\n+2/+2를 얻습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Kampfschrei:</b> Erhält +2/+2 für jeden anderen Robohopser, den Ihr in diesem Spiel ausgespielt habt.\n\t\t\t[x]<b>Battlecry:</b> Gain +2/+2 for\neach other Pogo-Hopper\nyou played this game.\n\t\t\t[x]<b>Grito de batalla:</b> Obtiene\n+2/+2 por cada saltador\nque hayas jugado\nen esta partida.\n\t\t\t<b>Grito de batalla:</b> obtiene +2/+2 por cada Brincador mecánico que hayas jugado durante esta partida.\n\t\t\t<b>Cri de guerre_:</b> gagne_+2/+2 pour chaque autre lapin-échasseur que vous avez joué pendant cette partie.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nottiene +2/+2 per ogni altro\nSaltabot che hai giocato\nin questa partita.\n\t\t\t[x]<b>雄叫び:</b>\nこの対戦で自分が手札から\n使用した他の「ホッピング・\nホッパー」1体につき\n_+2/+2を獲得する。\n\t\t\t[x]<b>전투의 함성:</b>\n이번 게임에서 내가 낸\n다른 토깽이 콩콩 하나당\n+2/+2를 얻습니다.\n\t\t\t<b>Okrzyk bojowy:</b> Otrzymuje_+2/+2 za każdego innego Kicoskoczka zagranego przez ciebie_w tej grze.\n\t\t\t<b>Grito de Guerra:</b> Receba +2/+2 para cada outro Pogo-Pol jogado por você nesta partida.\n\t\t\t[x]<b>Боевой клич:</b> получает +2/+2\nза каждого другого прыг-\nскокера, разыгранного\nвами в этом матче.\n\t\t\t<b>คำรามสู้ศึก:</b>_ได้รับ +2/+2_ต่อ[b]โปโก-ฮอปเปอร์ใบอื่นแต่ละใบ[b]ที่คุณเคยเล่นในเกมนี้\n\t\t\t<b>战吼：</b>在本局对战中，你每使用一张蹦蹦兔，便获得+2/+2。\n\t\t\t<b>戰吼：</b>你在本賽局打出的每個其他蹦蹦兔使其獲得+2/+2\n\t\t"
+        }
+      }
+    }
+  }
+}

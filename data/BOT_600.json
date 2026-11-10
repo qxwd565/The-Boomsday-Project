@@ -1,1 +1,235 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_600","dbfId":48692,"name":"연구 프로젝트","type":"SPELL","cardClass":"MAGE","rarity":"COMMON","collectible":true,"cost":2,"text":"각 플레이어가 카드를 2장씩 뽑습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"개요: 시린빛 데이터 세트에 카드가 섞이는 과정의 패러다임을 시스템적으로 적용하여 이를 분석. 결론: 우왕, 카드다!","spellSchool":"","portrait":"HS14-161_S.psd:8d41790f37b1e694e8a2bc53e91f8f97","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_600.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-161_S.psd:8d41790f37b1e694e8a2bc53e91f8f97","goldenMaterial":"BOT_600_PremiumCard.mat:104fd97e95415f54b80bb452094d5232","goldenAnimation":"BOT_600_PremiumCard.asset:2805c0dba7b202a408c799d6bf30457a"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-161_S.psd:8d41790f37b1e694e8a2bc53e91f8f97",
+      "goldenMaterial": "BOT_600_PremiumCard.mat:104fd97e95415f54b80bb452094d5232",
+      "goldenAnimation": "BOT_600_PremiumCard.asset:2805c0dba7b202a408c799d6bf30457a"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Research Project"
+          },
+          "koKR": {
+            "present": true,
+            "value": "연구 프로젝트"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tForschungsprojekt\n\t\t\tResearch Project\n\t\t\tProyecto de investigación\n\t\t\tProyecto de investigación\n\t\t\tProjet de recherche\n\t\t\tProgetto: Ricerca\n\t\t\t研究プロジェクト\n\t\t\t연구 프로젝트\n\t\t\tProjekt badawczy\n\t\t\tProjeto de Pesquisa\n\t\t\tНаучный проект\n\t\t\tโครงการวิจัย\n\t\t\t研发计划\n\t\t\t學術研究計畫\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Each player draws 2_cards."
+          },
+          "koKR": {
+            "present": true,
+            "value": "각 플레이어가 카드를 2장씩 뽑습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tJeder Spieler\nzieht 2 Karten.\n\t\t\tEach player draws 2_cards.\n\t\t\tCada jugador\nroba 2 cartas.\n\t\t\tCada jugador roba 2 cartas.\n\t\t\tChaque joueur pioche 2_cartes.\n\t\t\t[x]Ogni giocatore\npesca 2 carte.\n\t\t\t[x]各プレイヤーはカード\nを2枚ずつ引く。\n\t\t\t각 플레이어가 카드를 2장씩 뽑습니다.\n\t\t\tKażdy gracz dobiera\n2 karty.\n\t\t\tCada jogador compra 2 cards.\n\t\t\tКаждый игрок\nберет 2 карты.\n\t\t\tผู้เล่นทุกคนจั่วการ์ด 2_ใบ\n\t\t\t每个玩家抽两张牌。\n\t\t\t雙方各抽2張牌\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Research Project"
+          },
+          "koKR": {
+            "present": true,
+            "value": "연구 프로젝트"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tForschungsprojekt\n\t\tResearch Project\n\t\tProyecto de investigación\n\t\tProyecto de investigación\n\t\tProjet de recherche\n\t\tProgetto: Ricerca\n\t\t研究プロジェクト\n\t\t연구 프로젝트\n\t\tProjekt badawczy\n\t\tProjeto de Pesquisa\n\t\tНаучный проект\n\t\tโครงการวิจัย\n\t\t研发计划\n\t\t學術研究計畫\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Each player draws 2_cards."
+          },
+          "koKR": {
+            "present": true,
+            "value": "각 플레이어가 카드를 2장씩 뽑습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tJeder Spieler\nzieht 2 Karten.\n\t\tEach player draws 2_cards.\n\t\tCada jugador\nroba 2 cartas.\n\t\tCada jugador roba 2 cartas.\n\t\tChaque joueur pioche 2_cartes.\n\t\t[x]Ogni giocatore\npesca 2 carte.\n\t\t[x]各プレイヤーはカード\nを2枚ずつ引く。\n\t\t각 플레이어가 카드를 2장씩 뽑습니다.\n\t\tKażdy gracz dobiera\n2 karty.\n\t\tCada jogador compra 2 cards.\n\t\tКаждый игрок\nберет 2 карты.\n\t\tผู้เล่นทุกคนจั่วการ์ด 2_ใบ\n\t\t每个玩家抽两张牌。\n\t\t雙方各抽2張牌\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_600",
+    "dbfId": 48692,
+    "name": "연구 프로젝트",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "각 플레이어가 카드를 2장씩 뽑습니다.",
+    "flavor": "개요: 시린빛 데이터 세트에 카드가 섞이는 과정의 패러다임을 시스템적으로 적용하여 이를 분석. 결론: 우왕, 카드다!",
+    "spellSchool": "",
+    "portrait": "HS14-161_S.psd:8d41790f37b1e694e8a2bc53e91f8f97",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_600.png",
+    "nativeRawText": "각 플레이어가 카드를 2장씩 뽑습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "2",
+      "183": "1127",
+      "199": "4",
+      "202": "5",
+      "203": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_600",
+    "dbfId": 48692,
+    "name": "연구 프로젝트",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "각 플레이어가 카드를 2장씩 뽑습니다.",
+    "flavor": "개요: 시린빛 데이터 세트에 카드가 섞이는 과정의 패러다임을 시스템적으로 적용하여 이를 분석. 결론: 우왕, 카드다!",
+    "spellSchool": "",
+    "portrait": "HS14-161_S.psd:8d41790f37b1e694e8a2bc53e91f8f97",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_600.png",
+    "nativeRawText": "각 플레이어가 카드를 2장씩 뽑습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "2",
+      "183": "1127",
+      "199": "4",
+      "202": "5",
+      "203": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

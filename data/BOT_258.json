@@ -1,1 +1,307 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_258","dbfId":48203,"name":"복제의 대가 제레크","type":"MINION","cardClass":"PRIEST","rarity":"LEGENDARY","collectible":true,"cost":6,"text":"<b>죽음의 메아리:</b> 내가<br></br>이 하수인에게 주문을<br></br>시전했으면, 이 하수인을<br></br>다시 소환합니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"원래 이름은 게레크였습니다. 첫 번째 복제품은 네레크였고 그 다음은 데레크였죠. 베레크 때부터 점점 사악해지기 시작했습니다.","spellSchool":"","portrait":"HS14-147_M.psd:d0f79edc719b5dd4a8aae8f7d152d761","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":542,"name":"게임 태그 542","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_258.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-147_M.psd:d0f79edc719b5dd4a8aae8f7d152d761","goldenMaterial":"BOT_258_PremiumCard.mat:6f3564a4960301e42853ccdacca3da11","goldenAnimation":"BOT_258_PremiumCard.asset:f51aeda64bdbfc948a5b4e1fc8e32f68"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-147_M.psd:d0f79edc719b5dd4a8aae8f7d152d761",
+      "goldenMaterial": "BOT_258_PremiumCard.mat:6f3564a4960301e42853ccdacca3da11",
+      "goldenAnimation": "BOT_258_PremiumCard.asset:f51aeda64bdbfc948a5b4e1fc8e32f68"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Zerek, Master Cloner"
+          },
+          "koKR": {
+            "present": true,
+            "value": "복제의 대가 제레크"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tKlonmeister Zerek\n\t\t\tZerek, Master Cloner\n\t\t\tMaestro clonador Zerek\n\t\t\tZerek, maestro de clones\n\t\t\tMaître cloneur Zerek\n\t\t\tMastro Clonatore Zerek\n\t\t\tクローンマスター・ゼレク\n\t\t\t복제의 대가 제레크\n\t\t\tKlonował Zerek\n\t\t\tMestre Clonador Zerek\n\t\t\tКлонист Зерек\n\t\t\tเซเรค ยอดนักโคลน\n\t\t\t克隆大师泽里克\n\t\t\t複製大師澤瑞克\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> If you've cast any spells on this minion, resummon it."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>죽음의 메아리:</b> 내가\n이 하수인에게 주문을\n시전했으면, 이 하수인을\n다시 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Todesröcheln:</b> Ruft diesen Diener erneut herbei, wenn Ihr einen Zauber auf ihn gewirkt habt.\n\t\t\t<b>Deathrattle:</b> If you've cast any spells on this minion, resummon it.\n\t\t\t[x]<b>Último aliento:</b>\nSi has lanzado hechizos\na este esbirro,\nlo vuelve a invocar.\n\t\t\t<b>Estertor:</b> si has lanzado algún hechizo sobre este esbirro, reinvócalo.\n\t\t\t<b>Râle d’agonie_:</b> si vous avez lancé des sorts sur ce serviteur,_le_réinvoque.\n\t\t\t[x]<b>Rantolo di Morte:</b>\nse hai lanciato delle Magie\nsu questo servitore,\nviene rievocato.\n\t\t\t[x]<b>断末魔:</b>\nこのミニオンに自分が\n呪文を使用していた場合\nこのミニオンを\n_再度召喚する。\n\t\t\t[x]<b>죽음의 메아리:</b> 내가\n이 하수인에게 주문을\n시전했으면, 이 하수인을\n다시 소환합니다.\n\t\t\t<b>Agonia:</b> Jeśli wcześniej\nudało ci się rzucić zaklęcie na_tego stronnika, przyzwij go ponownie.\n\t\t\t<b>Último Suspiro:</b> Se você tiver jogado algum feitiço neste lacaio, evoque-o de novo.\n\t\t\t[x]<b>Предсмертный хрип:</b> если вы\nразыгрывали заклинания,\nвыбрав целью это существо,\n___вы снова призываете его.\n\t\t\t<b>เสียงสุดท้าย:</b> ถ้าคุณเคยร่าย[b]เวทมนตร์ใส่มินเนี่ยนตัวนี้ เรียกมันอีกครั้ง\n\t\t\t<b>亡语：</b>如果你对该随从施放过任意法术，再次召唤该随从。\n\t\t\t<b>死亡之聲：</b>若你對此手下施放過法術，重新召喚它\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Zerek, Master Cloner"
+          },
+          "koKR": {
+            "present": true,
+            "value": "복제의 대가 제레크"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tKlonmeister Zerek\n\t\tZerek, Master Cloner\n\t\tMaestro clonador Zerek\n\t\tZerek, maestro de clones\n\t\tMaître cloneur Zerek\n\t\tMastro Clonatore Zerek\n\t\tクローンマスター・ゼレク\n\t\t복제의 대가 제레크\n\t\tKlonował Zerek\n\t\tMestre Clonador Zerek\n\t\tКлонист Зерек\n\t\tเซเรค ยอดนักโคลน\n\t\t克隆大师泽里克\n\t\t複製大師澤瑞克\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> If you've cast any spells on this minion, resummon it."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>죽음의 메아리:</b> 내가\n이 하수인에게 주문을\n시전했으면, 이 하수인을\n다시 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Todesröcheln:</b> Ruft diesen Diener erneut herbei, wenn Ihr einen Zauber auf ihn gewirkt habt.\n\t\t<b>Deathrattle:</b> If you've cast any spells on this minion, resummon it.\n\t\t[x]<b>Último aliento:</b>\nSi has lanzado hechizos\na este esbirro,\nlo vuelve a invocar.\n\t\t<b>Estertor:</b> si has lanzado algún hechizo sobre este esbirro, reinvócalo.\n\t\t<b>Râle d’agonie_:</b> si vous avez lancé des sorts sur ce serviteur,_le_réinvoque.\n\t\t[x]<b>Rantolo di Morte:</b>\nse hai lanciato delle Magie\nsu questo servitore,\nviene rievocato.\n\t\t[x]<b>断末魔:</b>\nこのミニオンに自分が\n呪文を使用していた場合\nこのミニオンを\n_再度召喚する。\n\t\t[x]<b>죽음의 메아리:</b> 내가\n이 하수인에게 주문을\n시전했으면, 이 하수인을\n다시 소환합니다.\n\t\t<b>Agonia:</b> Jeśli wcześniej\nudało ci się rzucić zaklęcie na_tego stronnika, przyzwij go ponownie.\n\t\t<b>Último Suspiro:</b> Se você tiver jogado algum feitiço neste lacaio, evoque-o de novo.\n\t\t[x]<b>Предсмертный хрип:</b> если вы\nприменяли заклинания,\nвыбрав целью это существо,\n___вы снова призываете его.\n\t\t<b>เสียงสุดท้าย:</b> ถ้าคุณเคยร่าย[b]เวทมนตร์ใส่มินเนี่ยนตัวนี้ เรียกมันอีกครั้ง\n\t\t<b>亡语：</b>如果你对本随从施放过任意法术，再次召唤本随从。\n\t\t<b>死亡之聲：</b>若你對此手下施放過法術，重新召喚它\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_258",
+    "dbfId": 48203,
+    "name": "복제의 대가 제레크",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>죽음의 메아리:</b> 내가<br></br>이 하수인에게 주문을<br></br>시전했으면, 이 하수인을<br></br>다시 소환합니다.",
+    "attack": 5,
+    "health": 5,
+    "flavor": "원래 이름은 게레크였습니다. 첫 번째 복제품은 네레크였고 그 다음은 데레크였죠. 베레크 때부터 점점 사악해지기 시작했습니다.",
+    "portrait": "HS14-147_M.psd:d0f79edc719b5dd4a8aae8f7d152d761",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 542,
+        "name": "게임 태그 542",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_258.png",
+    "nativeRawText": "[x]<b>죽음의 메아리:</b> 내가\n이 하수인에게 주문을\n시전했으면, 이 하수인을\n다시 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "5",
+      "47": "5",
+      "48": "6",
+      "114": "1",
+      "183": "1127",
+      "199": "6",
+      "202": "4",
+      "203": "5",
+      "217": "1",
+      "321": "1",
+      "542": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_258",
+    "dbfId": 48203,
+    "name": "복제의 대가 제레크",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>죽음의 메아리:</b> 내가<br></br>이 하수인에게 주문을<br></br>시전했으면, 이 하수인을<br></br>다시 소환합니다.",
+    "attack": 5,
+    "health": 5,
+    "flavor": "원래 이름은 게레크였습니다. 첫 번째 복제품은 네레크였고 그 다음은 데레크였죠. 베레크 때부터 점점 사악해지기 시작했습니다.",
+    "portrait": "HS14-147_M.psd:d0f79edc719b5dd4a8aae8f7d152d761",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 537,
+        "name": "게임 태그 537",
+        "value": 1
+      },
+      {
+        "id": 542,
+        "name": "게임 태그 542",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_258.png",
+    "nativeRawText": "[x]<b>죽음의 메아리:</b> 내가\n이 하수인에게 주문을\n시전했으면, 이 하수인을\n다시 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "5",
+      "47": "5",
+      "48": "6",
+      "114": "1",
+      "183": "1127",
+      "199": "6",
+      "202": "4",
+      "203": "5",
+      "217": "1",
+      "321": "1",
+      "537": "1",
+      "542": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

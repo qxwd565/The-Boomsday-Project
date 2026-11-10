@@ -1,1 +1,390 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_404","dbfId":48524,"name":"먹음직스러운 덥석멜론","type":"SPELL","cardClass":"DRUID","rarity":"EPIC","collectible":true,"cost":4,"text":"내 덱에서 비용이 7, 8, 9, 10인 하수인을 뽑습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"전혀 먹음직스럽지 않습니다. 그렇다고 생각하게 만들고 있는 거예요!","spellSchool":"NATURE","portrait":"HS14-033_S.psd:281a16c59c62fd24a929415530fbf381","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":4}],"races":[],"race":"","classes":[],"art":"art/BOT_404.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-033_S.psd:281a16c59c62fd24a929415530fbf381","goldenMaterial":"BOT_404_PremiumCard.mat:de19741098ae5344287ff0178e7990bf","goldenAnimation":"BOT_404_PremiumCard.asset:b63f17ce8edd89b488831cf871571eab"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-033_S.psd:281a16c59c62fd24a929415530fbf381",
+      "goldenMaterial": "BOT_404_PremiumCard.mat:de19741098ae5344287ff0178e7990bf",
+      "goldenAnimation": "BOT_404_PremiumCard.asset:b63f17ce8edd89b488831cf871571eab"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Juicy Psychmelon"
+          },
+          "koKR": {
+            "present": true,
+            "value": "먹음직스러운 덥석멜론"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tPsychedelische Melone\n\t\t\tJuicy Psychmelon\n\t\t\tPsicomelón jugoso\n\t\t\tPsicomelón jugoso\n\t\t\tPsychomelon juteux\n\t\t\tPsicomelone Succoso\n\t\t\t最高サイコメロン\n\t\t\t먹음직스러운 덥석멜론\n\t\t\tSoczysty psychomelon\n\t\t\tPsicomelão Suculento\n\t\t\tСочный псирбуз\n\t\t\tไซค์เมลอนฉ่ำน้ำ\n\t\t\t香甜的灵力瓜\n\t\t\t多汁的靈心瓜\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Draw a 7, 8, 9, and\n10-Cost minion\n from your deck."
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 덱에서 비용이 7, 8, 9, 10인 하수인을 하나씩 뽑습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tZieht 4 Diener, die jeweils (7), (8), (9) und (10) kosten, aus Eurem Deck.\n\t\t\tDraw a 7, 8, 9, and\n10-Cost minion\n from your deck.\n\t\t\t[x]Roba un esbirro\nde coste 7, 8, 9 y 10\nde tu mazo.\n\t\t\tRoba de tu mazo cuatro esbirros de costo 7, 8, 9 y 10 respectivamente.\n\t\t\tVous piochez un serviteur à 7, 8, 9 et 10_cristaux dans votre deck.\n\t\t\tPesca dal tuo mazzo quattro servitori da 7, 8, 9 e 10 Mana, rispettivamente.\n\t\t\t[x]自分のデッキから\nコスト7、8、9、10\nのミニオンを\n_1体ずつ引く。\n\t\t\t내 덱에서 비용이 7, 8, 9, 10인 하수인을 하나씩 뽑습니다.\n\t\t\tDobierz stronników o_koszcie (7), (8), (9) i_(10) z_twojej_talii.\n\t\t\tCompre um lacaio de custo 7, um de 8, um_de 9 e um de 10 do seu deck.\n\t\t\tВы берете из колоды существ за (7), (8), (9) и (10).\n\t\t\t_จั่วการ์ดมินเนี่ยนค่าร่าย_ 7, 8, 9, และ 10 จากเด็คของคุณ\n\t\t\t从你的牌库中抽取法力值消耗为（7），（8），（9）和（10）的随从牌各一张。\n\t\t\t從你的牌堆\n各抽出一個消耗為\n7、8、9、10的手下\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Juicy Psychmelon"
+          },
+          "koKR": {
+            "present": true,
+            "value": "먹음직스러운 덥석멜론"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tPsychedelische Melone\n\t\tJuicy Psychmelon\n\t\tPsicomelón jugoso\n\t\tPsicomelón jugoso\n\t\tPsychomelon juteux\n\t\tPsicomelone Succoso\n\t\t最高サイコメロン\n\t\t먹음직스러운 덥석멜론\n\t\tSoczysty psychomelon\n\t\tPsicomelão Suculento\n\t\tСочный псирбуз\n\t\tไซค์เมลอนฉ่ำน้ำ\n\t\t香甜的灵力瓜\n\t\t多汁的靈心瓜\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Draw a 7, 8, 9, and\n10-Cost minion\n from your deck."
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 덱에서 비용이 7, 8, 9, 10인 하수인을 뽑습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tZieht 4 Diener, die jeweils (7), (8), (9) und (10) kosten, aus Eurem Deck.\n\t\tDraw a 7, 8, 9, and\n10-Cost minion\n from your deck.\n\t\t[x]Roba un esbirro\nde coste 7, 8, 9 y 10\nde tu mazo.\n\t\tRoba de tu mazo cuatro esbirros de costo 7, 8, 9 y 10 respectivamente.\n\t\tVous piochez un serviteur à 7, 8, 9 et 10_cristaux dans votre deck.\n\t\tPesca dal tuo mazzo quattro servitori da 7, 8, 9 e 10 Mana, rispettivamente.\n\t\t[x]自分のデッキから\nコスト7、8、9、10\nのミニオンを\n_1体ずつ引く。\n\t\t내 덱에서 비용이 7, 8, 9, 10인 하수인을 뽑습니다.\n\t\tDobierz stronników o_koszcie (7), (8), (9) i_(10) z_twojej_talii.\n\t\tCompre um lacaio de Custo 7, um de 8, um_de 9 e um de 10 do seu deck.\n\t\tВы берете из колоды существ за (7), (8), (9) и (10).\n\t\tจั่วมินเนี่ยนค่าร่าย 7,_8,_9,_และ_10 อย่างละใบจากเด็คคุณ\n\t\t从你的牌库中抽取法力值消耗为（7），（8），（9）和（10）的随从牌各一张。\n\t\t從你的牌堆\n各抽出一個消耗為\n7、8、9、10的手下\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_404",
+    "dbfId": 48524,
+    "name": "먹음직스러운 덥석멜론",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 4,
+    "text": "내 덱에서 비용이 7, 8, 9, 10인 하수인을 뽑습니다.",
+    "flavor": "전혀 먹음직스럽지 않습니다. 그렇다고 생각하게 만들고 있는 거예요!",
+    "spellSchool": "NATURE",
+    "portrait": "HS14-033_S.psd:281a16c59c62fd24a929415530fbf381",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_404.png",
+    "nativeRawText": "내 덱에서 비용이 7, 8, 9, 10인 하수인을 뽑습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "4",
+      "183": "1127",
+      "199": "2",
+      "202": "5",
+      "203": "4",
+      "321": "1",
+      "1635": "4"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_404",
+    "dbfId": 48524,
+    "name": "먹음직스러운 덥석멜론",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 4,
+    "text": "내 덱에서 비용이 7, 8, 9, 10인 하수인을 하나씩 뽑습니다.",
+    "flavor": "전혀 먹음직스럽지 않습니다. 그렇다고 생각하게 만들고 있는 거예요!",
+    "spellSchool": "",
+    "portrait": "HS14-033_S.psd:281a16c59c62fd24a929415530fbf381",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_404.png",
+    "nativeRawText": "내 덱에서 비용이 7, 8, 9, 10인 하수인을 하나씩 뽑습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "4",
+      "183": "1127",
+      "199": "2",
+      "202": "5",
+      "203": "4",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2021-03-26": {
+    "spellSchool": "NATURE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 1635,
+        "before": "ABSENT",
+        "after": "4"
+      }
+    ],
+    "source": {
+      "beforeBuild": 44222,
+      "afterBuild": 77662,
+      "beforeCommit": "fc67953f6f6eee064badde3f4a7bd07011508642",
+      "afterCommit": "9e10b526eed8a9c5ece2f73f0c2a6a3b60109d62",
+      "beforeXmlSha256": "abe292d304af3fec9d84707b8326cf4104e370b8fc93e8adfa2c1156988cfdf5",
+      "afterXmlSha256": "36879caf88f629052e57d728d1fb3649a21f7198f649ab1cdc916c72ab1b8e29",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Juicy Psychmelon"
+            },
+            "koKR": {
+              "present": true,
+              "value": "먹음직스러운 덥석멜론"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tPsychedelische Melone\n\t\t\tJuicy Psychmelon\n\t\t\tPsicomelón jugoso\n\t\t\tPsicomelón jugoso\n\t\t\tPsychomelon juteux\n\t\t\tPsicomelone Succoso\n\t\t\t最高サイコメロン\n\t\t\t먹음직스러운 덥석멜론\n\t\t\tSoczysty psychomelon\n\t\t\tPsicomelão Suculento\n\t\t\tСочный псирбуз\n\t\t\tไซค์เมลอนฉ่ำน้ำ\n\t\t\t香甜的灵力瓜\n\t\t\t多汁的靈心瓜\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Draw a 7, 8, 9, and\n10-Cost minion\n from your deck."
+            },
+            "koKR": {
+              "present": true,
+              "value": "내 덱에서 비용이 7, 8, 9, 10인 하수인을 뽑습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tZieht 4 Diener, die jeweils (7), (8), (9) und (10) kosten, aus Eurem Deck.\n\t\t\tDraw a 7, 8, 9, and\n10-Cost minion\n from your deck.\n\t\t\t[x]Roba un esbirro\nde coste 7, 8, 9 y 10\nde tu mazo.\n\t\t\tRoba de tu mazo cuatro esbirros de costo 7, 8, 9 y 10 respectivamente.\n\t\t\tVous piochez un serviteur à 7, 8, 9 et 10_cristaux dans votre deck.\n\t\t\tPesca dal tuo mazzo quattro servitori da 7, 8, 9 e 10 Mana, rispettivamente.\n\t\t\t[x]自分のデッキから\nコスト7、8、9、10\nのミニオンを\n_1体ずつ引く。\n\t\t\t내 덱에서 비용이 7, 8, 9, 10인 하수인을 뽑습니다.\n\t\t\tDobierz stronników o_koszcie (7), (8), (9) i_(10) z_twojej_talii.\n\t\t\tCompre um lacaio de custo 7, um de 8, um_de 9 e um de 10 do seu deck.\n\t\t\tВы берете из колоды существ за (7), (8), (9) и (10).\n\t\t\t_จั่วการ์ดมินเนี่ยนค่าร่าย_ 7, 8, 9, และ 10 จากเด็คของคุณ\n\t\t\t从你的牌库中抽取法力值消耗为（7），（8），（9）和（10）的随从牌各一张。\n\t\t\t從你的牌堆\n各抽出一個消耗為\n7、8、9、10的手下\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Juicy Psychmelon"
+            },
+            "koKR": {
+              "present": true,
+              "value": "먹음직스러운 덥석멜론"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tPsychedelische Melone\n\t\t\tJuicy Psychmelon\n\t\t\tPsicomelón jugoso\n\t\t\tPsicomelón jugoso\n\t\t\tPsychomelon juteux\n\t\t\tPsicomelone Succoso\n\t\t\t最高サイコメロン\n\t\t\t먹음직스러운 덥석멜론\n\t\t\tSoczysty psychomelon\n\t\t\tPsicomelão Suculento\n\t\t\tСочный псирбуз\n\t\t\tไซค์เมลอนฉ่ำน้ำ\n\t\t\t香甜的灵力瓜\n\t\t\t多汁的靈心瓜\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Draw a 7, 8, 9, and\n10-Cost minion\n from your deck."
+            },
+            "koKR": {
+              "present": true,
+              "value": "내 덱에서 비용이 7, 8, 9, 10인 하수인을 뽑습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tZieht 4 Diener, die jeweils (7), (8), (9) und (10) kosten, aus Eurem Deck.\n\t\t\tDraw a 7, 8, 9, and\n10-Cost minion\n from your deck.\n\t\t\t[x]Roba un esbirro\nde coste 7, 8, 9 y 10\nde tu mazo.\n\t\t\tRoba de tu mazo cuatro esbirros de costo 7, 8, 9 y 10 respectivamente.\n\t\t\tVous piochez un serviteur à 7, 8, 9 et 10_cristaux dans votre deck.\n\t\t\tPesca dal tuo mazzo quattro servitori da 7, 8, 9 e 10 Mana, rispettivamente.\n\t\t\t[x]自分のデッキから\nコスト7、8、9、10\nのミニオンを\n_1体ずつ引く。\n\t\t\t내 덱에서 비용이 7, 8, 9, 10인 하수인을 뽑습니다.\n\t\t\tDobierz stronników o_koszcie (7), (8), (9) i_(10) z_twojej_talii.\n\t\t\tCompre um lacaio de custo 7, um de 8, um_de 9 e um de 10 do seu deck.\n\t\t\tВы берете из колоды существ за (7), (8), (9) и (10).\n\t\t\tจั่วการ์ดมินเนี่ยนค่าร่าย 7,_8,_9,_และ_10 จากเด็คของคุณ\n\t\t\t从你的牌库中抽取法力值消耗为（7），（8），（9）和（10）的随从牌各一张。\n\t\t\t從你的牌堆\n各抽出一個消耗為\n7、8、9、10的手下\n\t\t"
+        }
+      }
+    }
+  }
+}

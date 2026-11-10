@@ -1,1 +1,282 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_536","dbfId":49167,"name":"오메가 요원","type":"MINION","cardClass":"WARLOCK","rarity":"EPIC","collectible":true,"cost":5,"text":"<b>전투의 함성:</b><br></br>내 마나 수정이 10개면,<br></br>이 하수인을 둘 복사하여<br></br>소환합니다.","attack":4,"health":5,"durability":0,"armor":0,"flavor":"\"요원들아, 달려들어!\" \"헛것이 보이나?\" \"헛것이 보이나?\"","spellSchool":"","portrait":"HS14-178_M.psd:17139118afc538f499fa2e5ff292972e","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_536.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-178_M.psd:17139118afc538f499fa2e5ff292972e","goldenMaterial":"BOT_536_PremiumCard.mat:aa3cca50dc83b564c90531f5cf1e69c1","goldenAnimation":"BOT_536_PremiumCard.asset:f70d59580ba3dba4aab91f394b31a6b6"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-178_M.psd:17139118afc538f499fa2e5ff292972e",
+      "goldenMaterial": "BOT_536_PremiumCard.mat:aa3cca50dc83b564c90531f5cf1e69c1",
+      "goldenAnimation": "BOT_536_PremiumCard.asset:f70d59580ba3dba4aab91f394b31a6b6"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Omega Agent"
+          },
+          "koKR": {
+            "present": true,
+            "value": "오메가 요원"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tOmegaagentin\n\t\t\tOmega Agent\n\t\t\tAgente Omega\n\t\t\tAgente omega\n\t\t\tAgent Oméga\n\t\t\tAgente Omega\n\t\t\tオメガ・エージェント\n\t\t\t오메가 요원\n\t\t\tAgentka Omega\n\t\t\tAgente Ômega\n\t\t\tОмега-агент\n\t\t\tสายลับโอเมก้า\n\t\t\t欧米茄探员\n\t\t\t奧米伽密探\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> If you have 10\nMana Crystals, summon\n_2 copies of this minion."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b>\n내 마나 수정이 10개면,\n이 하수인을 둘 복사하여\n소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Ruft 2 Kopien dieses Dieners herbei, wenn Ihr 10 Mana[d]kristalle habt.\n\t\t\t[x]<b>Battlecry:</b> If you have 10\nMana Crystals, summon\n_2 copies of this minion.\n\t\t\t[x]<b>Grito de batalla:</b>\nSi tienes 10 cristales\nde maná, invoca 2 copias\nde este esbirro.\n\t\t\t<b>Grito de batalla:</b> si tienes 10 Cristales de maná, invoca 2 copias de este esbirro.\n\t\t\t<b>Cri de guerre_:</b> invoque 2_copies de ce serviteur si vous avez 10_cristaux de mana.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nse hai 10 Cristalli\ndi Mana, evoca due\ncopie di se stesso.\n\t\t\t[x]<b>雄叫び:</b>\n自分のマナクリスタルが\n10個ある場合\nこのミニオンのコピーを\n2体召喚する。\n\t\t\t[x]<b>전투의 함성:</b>\n내 마나 수정이 10개면,\n이 하수인을 둘 복사하여\n소환합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Jeśli masz 10 kryształów many, przyzwij dwie kopie tego stronnika.\n\t\t\t<b>Grito de Guerra:</b> Se você tiver 10 Cristais de Mana, evoque 2 cópias deste lacaio.\n\t\t\t<b>Боевой клич:</b> если у вас 10_кристаллов маны, призывает 2 копии этого существа.\n\t\t\t<b>คำรามสู้ศึก:</b> ถ้าคุณมี[b]คริสตัลมานา 10 อัน เรียกร่าง[b]ก๊อปปี้ของมินเนี่ยนตัวนี้_2_ตัว\n\t\t\t<b>战吼：</b>如果你有十个法力水晶，召唤该随从的两个复制。\n\t\t\t[x]<b>戰吼：</b>若你有10顆\n法力水晶，召喚2個\n此手下的分身\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Omega Agent"
+          },
+          "koKR": {
+            "present": true,
+            "value": "오메가 요원"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tOmegaagentin\n\t\tOmega Agent\n\t\tAgente Omega\n\t\tAgente omega\n\t\tAgent Oméga\n\t\tAgente Omega\n\t\tオメガ・エージェント\n\t\t오메가 요원\n\t\tAgentka Omega\n\t\tAgente Ômega\n\t\tОмега-агент\n\t\tสายลับโอเมก้า\n\t\t欧米茄探员\n\t\t奧米伽密探\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> If you have 10\nMana Crystals, summon\n_2 copies of this minion."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b>\n내 마나 수정이 10개면,\n이 하수인을 둘 복사하여\n소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Ruft 2 Kopien dieses Dieners herbei, wenn Ihr 10 Mana[d]kristalle habt.\n\t\t[x]<b>Battlecry:</b> If you have 10\nMana Crystals, summon\n_2 copies of this minion.\n\t\t[x]<b>Grito de batalla:</b>\nSi tienes 10 cristales\nde maná, invoca 2 copias\nde este esbirro.\n\t\t<b>Grito de batalla:</b> si tienes 10 Cristales de maná, invoca 2 copias de este esbirro.\n\t\t<b>Cri de guerre_:</b> invoque 2_copies de ce serviteur si vous avez 10_cristaux de mana.\n\t\t[x]<b>Grido di Battaglia:</b>\nse hai 10 Cristalli\ndi Mana, evoca due\ncopie di se stesso.\n\t\t[x]<b>雄叫び:</b>\n自分のマナクリスタルが\n10個ある場合\nこのミニオンのコピーを\n2体召喚する。\n\t\t[x]<b>전투의 함성:</b>\n내 마나 수정이 10개면,\n이 하수인을 둘 복사하여\n소환합니다.\n\t\t<b>Okrzyk bojowy:</b> Jeśli masz 10 kryształów many, przyzwij dwie kopie tego stronnika.\n\t\t<b>Grito de Guerra:</b> Se você tiver 10 Cristais de Mana, evoque 2 cópias deste lacaio.\n\t\t<b>Боевой клич:</b> если у вас 10_кристаллов маны, призывает 2 копии этого существа.\n\t\t<b>คำรามสู้ศึก:</b> ถ้าคุณมี[b]คริสตัลมานา 10 อัน เรียกร่าง[b]ก๊อปปี้ของมินเนี่ยนตัวนี้_2_ตัว\n\t\t<b>战吼：</b>如果你有十个法力水晶，召唤本随从的两个复制。\n\t\t[x]<b>戰吼：</b>若你有10顆\n法力水晶，召喚2個\n此手下的分身\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_536",
+    "dbfId": 49167,
+    "name": "오메가 요원",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b><br></br>내 마나 수정이 10개면,<br></br>이 하수인을 둘 복사하여<br></br>소환합니다.",
+    "attack": 4,
+    "health": 5,
+    "flavor": "\"요원들아, 달려들어!\" \"헛것이 보이나?\" \"헛것이 보이나?\"",
+    "portrait": "HS14-178_M.psd:17139118afc538f499fa2e5ff292972e",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_536.png",
+    "nativeRawText": "[x]<b>전투의 함성:</b>\n내 마나 수정이 10개면,\n이 하수인을 둘 복사하여\n소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "5",
+      "47": "4",
+      "48": "5",
+      "183": "1127",
+      "199": "9",
+      "202": "4",
+      "203": "4",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_536",
+    "dbfId": 49167,
+    "name": "오메가 요원",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b><br></br>내 마나 수정이 10개면,<br></br>이 하수인을 둘 복사하여<br></br>소환합니다.",
+    "attack": 4,
+    "health": 5,
+    "flavor": "\"요원들아, 달려들어!\" \"헛것이 보이나?\" \"헛것이 보이나?\"",
+    "portrait": "HS14-178_M.psd:17139118afc538f499fa2e5ff292972e",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_536.png",
+    "nativeRawText": "[x]<b>전투의 함성:</b>\n내 마나 수정이 10개면,\n이 하수인을 둘 복사하여\n소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "5",
+      "47": "4",
+      "48": "5",
+      "183": "1127",
+      "199": "9",
+      "202": "4",
+      "203": "4",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

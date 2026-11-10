@@ -1,1 +1,257 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_567","dbfId":49421,"name":"제레크의 복제품 전시관","type":"SPELL","cardClass":"PRIEST","rarity":"LEGENDARY","collectible":true,"cost":9,"text":"내 덱에서 모든<br></br>하수인을 복사하여<br></br>1/1 하수인으로 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"사실 복제하는 건 쉽습니다. 여러 복제품들을 동일한 크기의 시험관에 넣는 게 더 어렵죠.","spellSchool":"","portrait":"HS14-148_S.psd:344e121d06301b6448a9db37142edaf8","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":9},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0}],"races":[],"race":"","classes":[],"art":"art/BOT_567.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-148_S.psd:344e121d06301b6448a9db37142edaf8","goldenMaterial":"BOT_567_PremiumCard.mat:37679bbecf0bf6d459a400f00f2eb4ae","goldenAnimation":"BOT_567_PremiumCard.asset:82c9cc734dcd2454c8d3760f63234202"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-148_S.psd:344e121d06301b6448a9db37142edaf8",
+      "goldenMaterial": "BOT_567_PremiumCard.mat:37679bbecf0bf6d459a400f00f2eb4ae",
+      "goldenAnimation": "BOT_567_PremiumCard.asset:82c9cc734dcd2454c8d3760f63234202"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Zerek's Cloning Gallery"
+          },
+          "koKR": {
+            "present": true,
+            "value": "제레크의 복제품 전시관"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tZereks Klongalerie\n\t\t\tZerek's Cloning Gallery\n\t\t\tGalería de clonación de Zerek\n\t\t\tSala de clonación de Zerek\n\t\t\tGalerie de clones de Zerek\n\t\t\tArmata di Cloni di Zerek\n\t\t\tゼレクのクローンギャラリー\n\t\t\t제레크의 복제품 전시관\n\t\t\tKolekcja klonów Zereka\n\t\t\tGaleria de Clones de Zerek\n\t\t\tКлонодельня Зерека\n\t\t\tห้องโคลนนิ่งของเซเรค\n\t\t\t泽里克的克隆展\n\t\t\t澤瑞克的複製收藏\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Summon a 1/1 copy of_each minion in your_deck."
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 덱에서 모든\n하수인을 복사하여\n1/1 하수인으로 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tRuft eine Kopie (1/1) von jedem Diener in Eurem Deck herbei.\n\t\t\tSummon a 1/1 copy of_each minion in your_deck.\n\t\t\t[x]Invoca una copia 1/1\nde cada esbirro\nde tu mazo.\n\t\t\tInvoca una copia 1/1 de cada esbirro de tu mazo.\n\t\t\tInvoque une copie_1/1 de chaque serviteur dans votre deck.\n\t\t\t[x]Evoca una copia 1/1\ndi ogni servitore\nnel tuo mazzo.\n\t\t\t[x]自分のデッキの\n各ミニオンの\n1/1のコピーを\n1体ずつ召喚する。\n\t\t\t내 덱에서 모든\n하수인을 복사하여\n1/1 하수인으로 소환합니다.\n\t\t\tPrzyzwij kopię 1/1 każdego stronnika z_twojej talii.\n\t\t\tEvoque uma cópia 1/1 de cada lacaio do seu deck.\n\t\t\tПризывает 1/1_копии всех существ из колоды.\n\t\t\tเรียกร่างก๊อปปี้ 1/1 ของมินเนี่ยนแต่ละตัว[b]ในเด็คคุณ\n\t\t\t召唤你的牌库中每一个随从的1/1复制。\n\t\t\t從你的牌堆\n召喚每個手下的\n1/1分身\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Zerek's Cloning Gallery"
+          },
+          "koKR": {
+            "present": true,
+            "value": "제레크의 복제품 전시관"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tZereks Klongalerie\n\t\tZerek's Cloning Gallery\n\t\tGalería de clonación de Zerek\n\t\tSala de clonación de Zerek\n\t\tGalerie de clones de Zerek\n\t\tArmata di Cloni di Zerek\n\t\tゼレクのクローンギャラリー\n\t\t제레크의 복제품 전시관\n\t\tKolekcja klonów Zereka\n\t\tGaleria de Clones de Zerek\n\t\tКлонодельня Зерека\n\t\tห้องโคลนนิ่งของเซเรค\n\t\t泽里克的克隆展\n\t\t澤瑞克的複製收藏\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Summon a 1/1 copy of_each minion in your_deck."
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 덱에서 모든\n하수인을 복사하여\n1/1 하수인으로 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tRuft eine Kopie (1/1) von jedem Diener in Eurem Deck herbei.\n\t\tSummon a 1/1 copy of_each minion in your_deck.\n\t\t[x]Invoca una copia 1/1\nde cada esbirro\nde tu mazo.\n\t\tInvoca una copia 1/1 de cada esbirro de tu mazo.\n\t\tInvoque une copie_1/1 de chaque serviteur dans votre deck.\n\t\t[x]Evoca una copia 1/1\ndi ogni servitore\nnel tuo mazzo.\n\t\t[x]自分のデッキの\n各ミニオンの\n1/1のコピーを\n1体ずつ召喚する。\n\t\t내 덱에서 모든\n하수인을 복사하여\n1/1 하수인으로 소환합니다.\n\t\tPrzyzwij kopię 1/1 każdego stronnika z_twojej talii.\n\t\tEvoque uma cópia 1/1 de cada lacaio do seu deck.\n\t\tПризывает 1/1_копии всех существ из колоды.\n\t\tเรียกร่างก๊อปปี้ 1/1 ของมินเนี่ยนแต่ละตัว[b]ในเด็คคุณ\n\t\t召唤你的牌库中每一个随从的1/1复制。\n\t\t從你的牌堆\n召喚每個手下的\n1/1分身\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_567",
+    "dbfId": 49421,
+    "name": "제레크의 복제품 전시관",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 9,
+    "text": "내 덱에서 모든<br></br>하수인을 복사하여<br></br>1/1 하수인으로 소환합니다.",
+    "flavor": "사실 복제하는 건 쉽습니다. 여러 복제품들을 동일한 크기의 시험관에 넣는 게 더 어렵죠.",
+    "spellSchool": "",
+    "portrait": "HS14-148_S.psd:344e121d06301b6448a9db37142edaf8",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 9
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_567.png",
+    "nativeRawText": "내 덱에서 모든\n하수인을 복사하여\n1/1 하수인으로 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "9",
+      "114": "1",
+      "183": "1127",
+      "199": "6",
+      "202": "5",
+      "203": "5",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_567",
+    "dbfId": 49421,
+    "name": "제레크의 복제품 전시관",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 9,
+    "text": "내 덱에서 모든<br></br>하수인을 복사하여<br></br>1/1 하수인으로 소환합니다.",
+    "flavor": "사실 복제하는 건 쉽습니다. 여러 복제품들을 동일한 크기의 시험관에 넣는 게 더 어렵죠.",
+    "spellSchool": "",
+    "portrait": "HS14-148_S.psd:344e121d06301b6448a9db37142edaf8",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 9
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_567.png",
+    "nativeRawText": "내 덱에서 모든\n하수인을 복사하여\n1/1 하수인으로 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "9",
+      "114": "1",
+      "183": "1127",
+      "199": "6",
+      "202": "5",
+      "203": "5",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

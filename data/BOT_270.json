@@ -1,1 +1,817 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_270","dbfId":48226,"name":"깔깔대는 발명가","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":5,"text":"<b>전투의 함성:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를<br></br>둘 소환합니다.","attack":2,"health":1,"durability":0,"armor":0,"flavor":"\"난 거대한 황금 사제를 만들거야! 그리고 온 세상에 '감사합니다!'를 외치게 하겠어!\"","spellSchool":"","portrait":"HS14-025_M.psd:15d9760b7c379494aa59c71666fc703d","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":0},{"id":190,"name":"도발","value":1},{"id":194,"name":"천상의 보호막","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":50253}],"races":[],"race":"","classes":[],"art":"art/BOT_270.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-025_M.psd:15d9760b7c379494aa59c71666fc703d","goldenMaterial":"BOT_270_PremiumCard.mat:39bc4c8a749fd7140b1272d64784da04","goldenAnimation":"BOT_270_PremiumCard.asset:0504a89085cdeaa46ae248117ed8db63"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-025_M.psd:15d9760b7c379494aa59c71666fc703d",
+      "goldenMaterial": "BOT_270_PremiumCard.mat:39bc4c8a749fd7140b1272d64784da04",
+      "goldenAnimation": "BOT_270_PremiumCard.asset:0504a89085cdeaa46ae248117ed8db63"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Giggling Inventor"
+          },
+          "koKR": {
+            "present": true,
+            "value": "깔깔대는 발명가"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tKichernde Erfinderin\n\t\t\tGiggling Inventor\n\t\t\tInventora risueña\n\t\t\tInventora jocosa\n\t\t\tInventrice ricanante\n\t\t\tInventrice Allegra\n\t\t\t含み笑う発明家\n\t\t\t깔깔대는 발명가\n\t\t\tChichocząca laborantka\n\t\t\tInventora Risonha\n\t\t\tОзорная изобретательница\n\t\t\tนักประดิษฐ์คิกคัก\n\t\t\t欢乐的发明家\n\t\t\t科科笑的發明家\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Summon two 1/2 Mechs with <b>Taunt</b> and_<b>Divine Shield</b>."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를\n둘 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Kampfschrei: </b>Ruft\n2 Mechs (1/2) mit <b>Spott</b> und <b>Gottesschild</b> herbei.\n\t\t\t<b>Battlecry:</b> Summon two 1/2 Mechs with <b>Taunt</b> and_<b>Divine Shield</b>.\n\t\t\t[x]<b>Grito de batalla:</b> Invoca dos\nrobots 1/2 con <b>Provocar</b>\ny <b>Escudo divino</b>.\n\t\t\t<b>Grito de batalla:</b> invoca dos Mecas 1/2 con <b>Provocación</b> y <b>Escudo divino</b>.\n\t\t\t<b>Cri de guerre_:</b> invoque_deux Méca_1/2 avec <b>Provocation</b> et <b>Bouclier divin</b>.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nevoca due Robot 1/2\ncon <b>Provocazione</b>\ne <b>Scudo Divino</b>.\n\t\t\t[x]<b>雄叫び:</b>\n<b>挑発</b>と<b>聖なる盾</b>を持つ\n1/2のメカを\n__2体召喚する。\n\t\t\t<b>전투의 함성:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를\n둘 소환합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Przyzwij dwa Mechy 1/2 z <b>Prowokacją</b> i_<b>Boską tarczą</b>.\n\t\t\t<b>Grito de Guerra:</b> Evoque dois Mecanoides 1/2 \ncom <b>Provocar</b> e \n<b>Escudo Divino</b>.\n\t\t\t[x]<b>Боевой клич:</b> призывает\nдва механизма 1/2\nс_<b>«Божественным щитом»</b>\nи_<b>«Провокацией»</b>.\n\t\t\t<b>คำรามสู้ศึก:</b> เรียก[b]เครื่องจักร_1/2 ที่มี <b>ยั่วยุ</b> และ_<b>โล่ศักดิ์สิทธิ์</b>_สองตัว\n\t\t\t<b>战吼：</b>召唤两个1/2并具有<b>嘲讽</b>和<b>圣盾</b>的\n机械。\n\t\t\t[x]<b>戰吼：</b>召喚兩個\n有<b>嘲諷</b>和<b>聖盾術</b>的\n1/2機械\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Giggling Inventor"
+          },
+          "koKR": {
+            "present": true,
+            "value": "깔깔대는 발명가"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tKichernde Erfinderin\n\t\tGiggling Inventor\n\t\tInventora risueña\n\t\tInventora jocosa\n\t\tInventrice ricanante\n\t\tInventrice Allegra\n\t\t含み笑う発明家\n\t\t깔깔대는 발명가\n\t\tChichocząca laborantka\n\t\tInventora Risonha\n\t\tОзорная изобретательница\n\t\tนักประดิษฐ์คิกคัก\n\t\t欢乐的发明家\n\t\t科科笑的發明家\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Summon two 1/2 Mechs with <b>Taunt</b> and_<b>Divine Shield</b>."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를\n둘 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Ruft\n2 Mechs (1/2) mit <b>Spott</b> und <b>Gottesschild</b> herbei.\n\t\t<b>Battlecry:</b> Summon two 1/2 Mechs with <b>Taunt</b> and_<b>Divine Shield</b>.\n\t\t[x]<b>Grito de batalla:</b> Invoca dos\nrobots 1/2 con <b>Provocar</b>\ny <b>Escudo divino</b>.\n\t\t<b>Grito de batalla:</b> invoca dos Mecas 1/2 con <b>Provocación</b> y <b>Escudo divino</b>.\n\t\t<b>Cri de guerre_:</b> invoque_deux Méca_1/2 avec <b>Provocation</b> et <b>Bouclier divin</b>.\n\t\t[x]<b>Grido di Battaglia:</b>\nevoca due Robot 1/2\ncon <b>Provocazione</b>\ne <b>Scudo Divino</b>.\n\t\t[x]<b>雄叫び:</b>\n<b>挑発</b>と<b>聖なる盾</b>を持つ\n1/2のメカを\n__2体召喚する。\n\t\t<b>전투의 함성:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를\n둘 소환합니다.\n\t\t<b>Okrzyk bojowy:</b> Przyzwij dwa Mechy 1/2 z <b>Prowokacją</b> i_<b>Boską tarczą</b>.\n\t\t<b>Grito de Guerra:</b> Evoque dois Mecanoides 1/2 \ncom <b>Provocar</b> e \n<b>Escudo Divino</b>.\n\t\t[x]<b>Боевой клич:</b> призывает\nдва механизма 1/2\nс_<b>«Божественным щитом»</b>\nи_<b>«Провокацией»</b>.\n\t\t<b>คำรามสู้ศึก:</b> เรียก[b]เครื่องจักร_1/2 ที่มี <b>ยั่วยุ</b> และ_<b>โล่ศักดิ์สิทธิ์</b>_สองตัว\n\t\t<b>战吼：</b>召唤两个1/2并具有<b>嘲讽</b>和<b>圣盾</b>的\n机械。\n\t\t[x]<b>戰吼：</b>召喚兩個\n有<b>嘲諷</b>和<b>聖盾術</b>的\n1/2機械\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_270",
+    "dbfId": 48226,
+    "name": "깔깔대는 발명가",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를<br></br>둘 소환합니다.",
+    "attack": 2,
+    "health": 1,
+    "flavor": "\"난 거대한 황금 사제를 만들거야! 그리고 온 세상에 '감사합니다!'를 외치게 하겠어!\"",
+    "portrait": "HS14-025_M.psd:15d9760b7c379494aa59c71666fc703d",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 50253
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_270.png",
+    "nativeRawText": "<b>전투의 함성:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를\n둘 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "1",
+      "47": "2",
+      "48": "5",
+      "183": "1127",
+      "199": "12",
+      "202": "4",
+      "203": "3",
+      "218": "1",
+      "321": "1",
+      "1452": "50253"
+    },
+    "nativeTagsReferenced": {
+      "190": "1",
+      "194": "1"
+    }
+  },
+  "2018-08-08": {
+    "id": "BOT_270",
+    "dbfId": 48226,
+    "name": "깔깔대는 발명가",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를<br></br>둘 소환합니다.",
+    "attack": 2,
+    "health": 1,
+    "flavor": "\"난 거대한 황금 사제를 만들거야! 그리고 온 세상에 '감사합니다!'를 외치게 하겠어!\"",
+    "portrait": "HS14-025_M.psd:15d9760b7c379494aa59c71666fc703d",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_270.png",
+    "nativeRawText": "<b>전투의 함성:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를\n둘 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "1",
+      "47": "2",
+      "48": "5",
+      "183": "1127",
+      "199": "12",
+      "202": "4",
+      "203": "3",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {
+      "190": "1",
+      "194": "1"
+    },
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2018-10-19": {
+    "cost": 7,
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 48,
+        "before": "5",
+        "after": "7"
+      }
+    ],
+    "source": {
+      "beforeBuild": 26757,
+      "afterBuild": 27358,
+      "beforeCommit": "60ceb7f7842724699adb79bee462d870b841de09",
+      "afterCommit": "1fdd42edae20fe2c5477776a8bb0d0e2a209a5ac",
+      "beforeXmlSha256": "1cffc72a7e00c56eea776567b1cbcdfccec302dce1acfda9a4a283d6be27650a",
+      "afterXmlSha256": "306a14e083346e4731151c21b7b1e323fc70be4e6aae3ece55cb7114a845554a",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Giggling Inventor"
+            },
+            "koKR": {
+              "present": true,
+              "value": "깔깔대는 발명가"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tKichernde Erfinderin\n\t\t\tGiggling Inventor\n\t\t\tInventora risueña\n\t\t\tInventora jocosa\n\t\t\tInventrice ricanante\n\t\t\tInventrice Allegra\n\t\t\t含み笑う発明家\n\t\t\t깔깔대는 발명가\n\t\t\tChichocząca laborantka\n\t\t\tInventora Risonha\n\t\t\tОзорная изобретательница\n\t\t\tนักประดิษฐ์คิกคัก\n\t\t\t欢乐的发明家\n\t\t\t科科笑的發明家\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Battlecry:</b> Summon two 1/2 Mechs with <b>Taunt</b> and_<b>Divine Shield</b>."
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>전투의 함성:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를\n둘 소환합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Kampfschrei: </b>Ruft\n2 Mechs (1/2) mit <b>Spott</b> und <b>Gottesschild</b> herbei.\n\t\t\t<b>Battlecry:</b> Summon two 1/2 Mechs with <b>Taunt</b> and_<b>Divine Shield</b>.\n\t\t\t[x]<b>Grito de batalla:</b> Invoca dos\nrobots 1/2 con <b>Provocar</b>\ny <b>Escudo divino</b>.\n\t\t\t<b>Grito de batalla:</b> invoca dos Mecas 1/2 con <b>Provocación</b> y <b>Escudo divino</b>.\n\t\t\t<b>Cri de guerre_:</b> invoque_deux Méca_1/2 avec <b>Provocation</b> et <b>Bouclier divin</b>.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nevoca due Robot 1/2\ncon <b>Provocazione</b>\ne <b>Scudo Divino</b>.\n\t\t\t[x]<b>雄叫び:</b>\n<b>挑発</b>と<b>聖なる盾</b>を持つ\n1/2のメカを\n__2体召喚する。\n\t\t\t<b>전투의 함성:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를\n둘 소환합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Przyzwij dwa Mechy 1/2 z <b>Prowokacją</b> i_<b>Boską tarczą</b>.\n\t\t\t<b>Grito de Guerra:</b> Evoque dois Mecanoides 1/2 \ncom <b>Provocar</b> e \n<b>Escudo Divino</b>.\n\t\t\t[x]<b>Боевой клич:</b> призывает\nдва механизма 1/2\nс_<b>«Божественным щитом»</b>\nи_<b>«Провокацией»</b>.\n\t\t\t<b>คำรามสู้ศึก:</b> เรียก[b]เครื่องจักร_1/2 ที่มี <b>ยั่วยุ</b> และ_<b>โล่ศักดิ์สิทธิ์</b>_สองตัว\n\t\t\t<b>战吼：</b>召唤两个1/2并具有<b>嘲讽</b>和<b>圣盾</b>的\n机械。\n\t\t\t[x]<b>戰吼：</b>召喚兩個\n有<b>嘲諷</b>和<b>聖盾術</b>的\n1/2機械\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Giggling Inventor"
+            },
+            "koKR": {
+              "present": true,
+              "value": "깔깔대는 발명가"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tKichernde Erfinderin\n\t\t\tGiggling Inventor\n\t\t\tInventora risueña\n\t\t\tInventora jocosa\n\t\t\tInventrice ricanante\n\t\t\tInventrice Allegra\n\t\t\t含み笑う発明家\n\t\t\t깔깔대는 발명가\n\t\t\tChichocząca laborantka\n\t\t\tInventora Risonha\n\t\t\tОзорная изобретательница\n\t\t\tนักประดิษฐ์คิกคัก\n\t\t\t欢乐的发明家\n\t\t\t科科笑的發明家\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Battlecry:</b> Summon two 1/2 Mechs with <b>Taunt</b> and_<b>Divine Shield</b>."
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>전투의 함성:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를\n둘 소환합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Kampfschrei: </b>Ruft\n2 Mechs (1/2) mit <b>Spott</b> und <b>Gottesschild</b> herbei.\n\t\t\t<b>Battlecry:</b> Summon two 1/2 Mechs with <b>Taunt</b> and_<b>Divine Shield</b>.\n\t\t\t[x]<b>Grito de batalla:</b> Invoca dos\nrobots 1/2 con <b>Provocar</b>\ny <b>Escudo divino</b>.\n\t\t\t<b>Grito de batalla:</b> invoca dos Mecas 1/2 con <b>Provocación</b> y <b>Escudo divino</b>.\n\t\t\t<b>Cri de guerre_:</b> invoque_deux Méca_1/2 avec <b>Provocation</b> et <b>Bouclier divin</b>.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nevoca due Robot 1/2\ncon <b>Provocazione</b>\ne <b>Scudo Divino</b>.\n\t\t\t[x]<b>雄叫び:</b>\n<b>挑発</b>と<b>聖なる盾</b>を持つ\n1/2のメカを\n__2体召喚する。\n\t\t\t<b>전투의 함성:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를\n둘 소환합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Przyzwij dwa Mechy 1/2 z <b>Prowokacją</b> i_<b>Boską tarczą</b>.\n\t\t\t<b>Grito de Guerra:</b> Evoque dois Mecanoides 1/2 \ncom <b>Provocar</b> e \n<b>Escudo Divino</b>.\n\t\t\t[x]<b>Боевой клич:</b> призывает\nдва механизма 1/2\nс_<b>«Божественным щитом»</b>\nи_<b>«Провокацией»</b>.\n\t\t\t<b>คำรามสู้ศึก:</b> เรียก[b]เครื่องจักร_1/2 ที่มี <b>ยั่วยุ</b> และ_<b>โล่ศักดิ์สิทธิ์</b>_สองตัว\n\t\t\t<b>战吼：</b>召唤两个1/2并具有<b>嘲讽</b>和<b>圣盾</b>的\n机械。\n\t\t\t[x]<b>戰吼：</b>召喚兩個\n有<b>嘲諷</b>和<b>聖盾術</b>的\n1/2機械\n\t\t"
+        }
+      }
+    },
+    "dateConfidence": "candidate"
+  },
+  "2020-03-27": {
+    "cost": 6,
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 48,
+        "before": "7",
+        "after": "6"
+      }
+    ],
+    "source": {
+      "beforeBuild": 33402,
+      "afterBuild": 44222,
+      "beforeCommit": "dd224aedef671a1bad6479df2a0e9cb2ea6da3cc",
+      "afterCommit": "fc67953f6f6eee064badde3f4a7bd07011508642",
+      "beforeXmlSha256": "71d952172884246deac0bed81d20421f31b6d6796d684efee87abb0cc4625afa",
+      "afterXmlSha256": "abe292d304af3fec9d84707b8326cf4104e370b8fc93e8adfa2c1156988cfdf5",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Giggling Inventor"
+            },
+            "koKR": {
+              "present": true,
+              "value": "깔깔대는 발명가"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tKichernde Erfinderin\n\t\t\tGiggling Inventor\n\t\t\tInventora risueña\n\t\t\tInventora jocosa\n\t\t\tInventrice ricanante\n\t\t\tInventrice Allegra\n\t\t\t含み笑う発明家\n\t\t\t깔깔대는 발명가\n\t\t\tChichocząca laborantka\n\t\t\tInventora Risonha\n\t\t\tОзорная изобретательница\n\t\t\tนักประดิษฐ์คิกคัก\n\t\t\t欢乐的发明家\n\t\t\t科科笑的發明家\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Battlecry:</b> Summon two 1/2 Mechs with <b>Taunt</b> and_<b>Divine Shield</b>."
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>전투의 함성:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를\n둘 소환합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Kampfschrei:</b> Ruft\n2 Mechs (1/2) mit <b>Spott</b> und <b>Gottesschild</b> herbei.\n\t\t\t<b>Battlecry:</b> Summon two 1/2 Mechs with <b>Taunt</b> and_<b>Divine Shield</b>.\n\t\t\t[x]<b>Grito de batalla:</b> Invoca dos\nrobots 1/2 con <b>Provocar</b>\ny <b>Escudo divino</b>.\n\t\t\t<b>Grito de batalla:</b> invoca dos Mecas 1/2 con <b>Provocación</b> y <b>Escudo divino</b>.\n\t\t\t<b>Cri de guerre_:</b> invoque_deux Méca_1/2 avec <b>Provocation</b> et <b>Bouclier divin</b>.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nevoca due Robot 1/2\ncon <b>Provocazione</b>\ne <b>Scudo Divino</b>.\n\t\t\t[x]<b>雄叫び:</b>\n<b>挑発</b>と<b>聖なる盾</b>を持つ\n1/2のメカを\n__2体召喚する。\n\t\t\t<b>전투의 함성:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를\n둘 소환합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Przyzwij dwa Mechy 1/2 z <b>Prowokacją</b> i_<b>Boską tarczą</b>.\n\t\t\t<b>Grito de Guerra:</b> Evoque dois Mecanoides 1/2 \ncom <b>Provocar</b> e \n<b>Escudo Divino</b>.\n\t\t\t[x]<b>Боевой клич:</b> призывает\nдва механизма 1/2\nс_<b>«Божественным щитом»</b>\nи_<b>«Провокацией»</b>.\n\t\t\t<b>คำรามสู้ศึก:</b> เรียก[b]เครื่องจักร_1/2 ที่มี <b>ยั่วยุ</b> และ_<b>โล่ศักดิ์สิทธิ์</b>_สองตัว\n\t\t\t<b>战吼：</b>召唤两个1/2并具有<b>嘲讽</b>和<b>圣盾</b>的\n机械。\n\t\t\t[x]<b>戰吼：</b>召喚兩個\n有<b>嘲諷</b>和<b>聖盾術</b>的\n1/2機械\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Giggling Inventor"
+            },
+            "koKR": {
+              "present": true,
+              "value": "깔깔대는 발명가"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tKichernde Erfinderin\n\t\t\tGiggling Inventor\n\t\t\tInventora risueña\n\t\t\tInventora jocosa\n\t\t\tInventrice ricanante\n\t\t\tInventrice Allegra\n\t\t\t含み笑う発明家\n\t\t\t깔깔대는 발명가\n\t\t\tChichocząca laborantka\n\t\t\tInventora Risonha\n\t\t\tОзорная изобретательница\n\t\t\tนักประดิษฐ์คิกคัก\n\t\t\t欢乐的发明家\n\t\t\t科科笑的發明家\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Battlecry:</b> Summon two 1/2 Mechs with <b>Taunt</b> and_<b>Divine Shield</b>."
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>전투의 함성:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를\n둘 소환합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Kampfschrei:</b> Ruft\n2 Mechs (1/2) mit <b>Spott</b> und <b>Gottesschild</b> herbei.\n\t\t\t<b>Battlecry:</b> Summon two 1/2 Mechs with <b>Taunt</b> and_<b>Divine Shield</b>.\n\t\t\t[x]<b>Grito de batalla:</b> Invoca dos\nrobots 1/2 con <b>Provocar</b>\ny <b>Escudo divino</b>.\n\t\t\t<b>Grito de batalla:</b> invoca dos Mecas 1/2 con <b>Provocación</b> y <b>Escudo divino</b>.\n\t\t\t<b>Cri de guerre_:</b> invoque_deux Méca_1/2 avec <b>Provocation</b> et <b>Bouclier divin</b>.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nevoca due Robot 1/2\ncon <b>Provocazione</b>\ne <b>Scudo Divino</b>.\n\t\t\t[x]<b>雄叫び:</b>\n<b>挑発</b>と<b>聖なる盾</b>を持つ\n1/2のメカを\n__2体召喚する。\n\t\t\t<b>전투의 함성:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를\n둘 소환합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Przyzwij dwa Mechy 1/2 z <b>Prowokacją</b> i_<b>Boską tarczą</b>.\n\t\t\t<b>Grito de Guerra:</b> Evoque dois Mecanoides 1/2 \ncom <b>Provocar</b> e \n<b>Escudo Divino</b>.\n\t\t\t[x]<b>Боевой клич:</b> призывает\nдва механизма 1/2\nс_<b>«Божественным щитом»</b>\nи_<b>«Провокацией»</b>.\n\t\t\t<b>คำรามสู้ศึก:</b> เรียก[b]เครื่องจักร_1/2 ที่มี <b>ยั่วยุ</b> และ_<b>โล่ศักดิ์สิทธิ์</b>_สองตัว\n\t\t\t<b>战吼：</b>召唤两个1/2并具有<b>嘲讽</b>和<b>圣盾</b>的\n机械。\n\t\t\t[x]<b>戰吼：</b>召喚兩個\n有<b>嘲諷</b>和<b>聖盾術</b>的\n1/2機械\n\t\t"
+        }
+      }
+    }
+  },
+  "2026-03-11": {
+    "cost": 5,
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 48,
+        "before": "6",
+        "after": "5"
+      }
+    ],
+    "source": {
+      "beforeBuild": 217964,
+      "afterBuild": 237510,
+      "beforeCommit": "fdad346dc49ebb5465f548a0a2b58b59edcbe087",
+      "afterCommit": "a770d899b7ea12594f2edfc7d097f6ee0a858eb8",
+      "beforeXmlSha256": "039e4cb30c4e4a994778edcd0d6af9b60c1f0ef1571aab8d02af62568681bddf",
+      "afterXmlSha256": "a86b5126943a91ceb1e18decca646ce533f0a06c3fec34e12dc11f45e602c3e6",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Giggling Inventor"
+            },
+            "koKR": {
+              "present": true,
+              "value": "깔깔대는 발명가"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tKichernde Erfinderin\n\t\t\tGiggling Inventor\n\t\t\tInventora risueña\n\t\t\tInventora jocosa\n\t\t\tInventrice ricanante\n\t\t\tInventrice Allegra\n\t\t\t含み笑う発明家\n\t\t\t깔깔대는 발명가\n\t\t\tChichocząca laborantka\n\t\t\tInventora Risonha\n\t\t\tОзорная изобретательница\n\t\t\tนักประดิษฐ์คิกคัก\n\t\t\t欢乐的发明家\n\t\t\t科科笑的發明家\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Battlecry:</b> Summon two 1/2 Mechs with <b>Taunt</b> and_<b>Divine Shield</b>."
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>전투의 함성:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를\n둘 소환합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Kampfschrei:</b> Ruft\n2 Mechs (1/2) mit <b>Spott</b> und <b>Gottesschild</b> herbei.\n\t\t\t<b>Battlecry:</b> Summon two 1/2 Mechs with <b>Taunt</b> and_<b>Divine Shield</b>.\n\t\t\t[x]<b>Grito de batalla:</b> Invoca dos\nrobots 1/2 con <b>Provocar</b>\ny <b>Escudo divino</b>.\n\t\t\t<b>Grito de batalla:</b> invoca dos Mecas 1/2 con <b>Provocación</b> y <b>Escudo divino</b>.\n\t\t\t<b>Cri de guerre_:</b> invoque_deux Méca_1/2 avec <b>Provocation</b> et <b>Bouclier divin</b>.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nevoca due Robot 1/2\ncon <b>Provocazione</b>\ne <b>Scudo Divino</b>.\n\t\t\t[x]<b>雄叫び:</b>\n<b>挑発</b>と<b>聖なる盾</b>を持つ\n1/2のメカを\n__2体召喚する。\n\t\t\t<b>전투의 함성:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를\n둘 소환합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Przyzwij dwa Mechy 1/2 z <b>Prowokacją</b> i_<b>Boską tarczą</b>.\n\t\t\t<b>Grito de Guerra:</b> Evoque dois Mecanoides 1/2 \ncom <b>Provocar</b> e \n<b>Escudo Divino</b>.\n\t\t\t[x]<b>Боевой клич:</b> призывает\nдва механизма 1/2\nс_<b>«Божественным щитом»</b>\nи_<b>«Провокацией»</b>.\n\t\t\t<b>คำรามสู้ศึก:</b> เรียก[b]เครื่องจักร_1/2 ที่มี <b>ยั่วยุ</b> และ_<b>โล่ศักดิ์สิทธิ์</b>_สองตัว\n\t\t\t<b>战吼：</b>召唤两个1/2并具有<b>嘲讽</b>和<b>圣盾</b>的\n机械。\n\t\t\t[x]<b>戰吼：</b>召喚兩個\n有<b>嘲諷</b>和<b>聖盾術</b>的\n1/2機械\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Giggling Inventor"
+            },
+            "koKR": {
+              "present": true,
+              "value": "깔깔대는 발명가"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tKichernde Erfinderin\n\t\t\tGiggling Inventor\n\t\t\tInventora risueña\n\t\t\tInventora jocosa\n\t\t\tInventrice ricanante\n\t\t\tInventrice Allegra\n\t\t\t含み笑う発明家\n\t\t\t깔깔대는 발명가\n\t\t\tChichocząca laborantka\n\t\t\tInventora Risonha\n\t\t\tОзорная изобретательница\n\t\t\tนักประดิษฐ์คิกคัก\n\t\t\t欢乐的发明家\n\t\t\t科科笑的發明家\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Battlecry:</b> Summon two 1/2 Mechs with <b>Taunt</b> and_<b>Divine Shield</b>."
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>전투의 함성:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를\n둘 소환합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Kampfschrei:</b> Ruft\n2 Mechs (1/2) mit <b>Spott</b> und <b>Gottesschild</b> herbei.\n\t\t\t<b>Battlecry:</b> Summon two 1/2 Mechs with <b>Taunt</b> and_<b>Divine Shield</b>.\n\t\t\t[x]<b>Grito de batalla:</b> Invoca dos\nrobots 1/2 con <b>Provocar</b>\ny <b>Escudo divino</b>.\n\t\t\t<b>Grito de batalla:</b> invoca dos Mecas 1/2 con <b>Provocación</b> y <b>Escudo divino</b>.\n\t\t\t<b>Cri de guerre_:</b> invoque_deux Méca_1/2 avec <b>Provocation</b> et <b>Bouclier divin</b>.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nevoca due Robot 1/2\ncon <b>Provocazione</b>\ne <b>Scudo Divino</b>.\n\t\t\t[x]<b>雄叫び:</b>\n<b>挑発</b>と<b>聖なる盾</b>を持つ\n1/2のメカを\n__2体召喚する。\n\t\t\t<b>전투의 함성:</b> <b>도발</b>과 <b>천상의 보호막</b> 능력이 있는 1/2 기계를\n둘 소환합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Przyzwij dwa Mechy 1/2 z <b>Prowokacją</b> i_<b>Boską tarczą</b>.\n\t\t\t<b>Grito de Guerra:</b> Evoque dois Mecanoides 1/2 \ncom <b>Provocar</b> e \n<b>Escudo Divino</b>.\n\t\t\t[x]<b>Боевой клич:</b> призывает\nдва механизма 1/2\nс_<b>«Божественным щитом»</b>\nи_<b>«Провокацией»</b>.\n\t\t\t<b>คำรามสู้ศึก:</b> เรียก[b]เครื่องจักร_1/2 ที่มี <b>ยั่วยุ</b> และ_<b>โล่ศักดิ์สิทธิ์</b>_สองตัว\n\t\t\t<b>战吼：</b>召唤两个1/2并具有<b>嘲讽</b>和<b>圣盾</b>的\n机械。\n\t\t\t[x]<b>戰吼：</b>召喚兩個\n有<b>嘲諷</b>和<b>聖盾術</b>的\n1/2機械\n\t\t"
+        }
+      }
+    }
+  }
+}

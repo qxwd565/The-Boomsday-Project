@@ -1,1 +1,648 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_523","dbfId":48831,"name":"우걱전차","type":"MINION","cardClass":"DRUID","rarity":"RARE","collectible":true,"cost":9,"text":"<b>속공</b>, 이번 게임에서 죽은 아군 나무정령 하나당 비용이 (1)씩 감소합니다.","attack":8,"health":8,"durability":0,"armor":0,"flavor":"예전에는 나무를 뽑아서 나무정령을 만들더니 이젠 그 나무정령을 먹는 기계를 만드는군요.","spellSchool":"","portrait":"HS14-053_M.psd:00a821ed7b155224bbd2d385213ad200","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":47,"name":"공격력","value":8},{"id":48,"name":"마나 비용","value":9},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":791,"name":"속공","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":600},{"id":2542,"name":"게임 태그 2542","value":1}],"races":["MECHANICAL","BEAST"],"race":"기계, 야수","classes":[],"art":"art/BOT_523.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-053_M.psd:00a821ed7b155224bbd2d385213ad200","goldenMaterial":"BOT_523_PremiumCard.mat:21bbc35756e0bc34aaccbd8319be9c79","goldenAnimation":"BOT_523_PremiumCard.asset:f6ee7295faf03064e85660073eb23d9b"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-053_M.psd:00a821ed7b155224bbd2d385213ad200",
+      "goldenMaterial": "BOT_523_PremiumCard.mat:21bbc35756e0bc34aaccbd8319be9c79",
+      "goldenAnimation": "BOT_523_PremiumCard.asset:f6ee7295faf03064e85660073eb23d9b"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Mulchmuncher"
+          },
+          "koKR": {
+            "present": true,
+            "value": "우걱전차"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tMulchmampfer\n\t\t\tMulchmuncher\n\t\t\tTrituradora de abono\n\t\t\tMasticabono\n\t\t\tMâche-écorce\n\t\t\tConcimatron\n\t\t\tマルチマンチャー\n\t\t\t우걱전차\n\t\t\tŚciółkożerca\n\t\t\tMasca-Musgo\n\t\t\tДробилка\n\t\t\tมัลช์มันเชอร์\n\t\t\t植被破碎机\n\t\t\t堆肥吞食者\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Rush</b>. Costs (1) less for each friendly Treant that died this game."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>속공</b>, 이번 게임에서 죽은 아군 나무정령 하나당 비용이 (1)씩 감소합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Eifer</b>. Kostet (1) weniger für jeden befreundeten Treant, der in diesem Spiel gestorben ist.\n\t\t\t<b>Rush</b>. Costs (1) less for each friendly Treant that died this game.\n\t\t\t[x]<b>Embestir</b>\nCuesta (1) cristal menos\npor cada antárbol amistoso\nque haya muerto\nen esta partida.\n\t\t\t<b>Acometida</b>. Cuesta (1) menos por cada Antárbol aliado que haya muerto en esta partida.\n\t\t\t<b>Ruée</b>\nCoûte (1)_|4(cristal,cristaux) de moins pour chaque tréant allié mort pendant cette partie.\n\t\t\t<b>Assalto</b>. Costa (1) in meno per ogni tuo Treant morto in questa partita.\n\t\t\t[x]<b>急襲</b>\nこの対戦で死亡した\n味方の「トレント」\n1体につきコストが\n（1）減る。\n\t\t\t<b>속공</b>, 이번 게임에서 죽은 아군 나무정령 하나당 비용이 (1)씩 감소합니다.\n\t\t\t<b>Zryw</b>\nKosztuje (1) mniej za każdego przyjaznego Drzewca, który zginął w tej grze.\n\t\t\t<b>Rapidez</b>. Custa (1) a menos para cada Arvoroso aliado morto nesta partida.\n\t\t\t<b>Натиск</b>. Стоит на (1) меньше за каждого [x]вашего древня, погибшего\nв этом матче.\n\t\t\t<b>จู่โจม</b> ค่าร่ายลดลง (1) ต่อทรีแอนท์ฝ่ายคุณ[b]แต่ละตัวที่ตายในเกมนี้\n\t\t\t<b>突袭</b>\n在本局对战中，每有一个友方树人死亡，该牌的法力值消耗便减少（1）点。\n\t\t\t<b>衝刺</b>。本賽局中\n死亡的每個友方樹人使消耗減少(1)\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Mulchmuncher"
+          },
+          "koKR": {
+            "present": true,
+            "value": "우걱전차"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tMulchmampfer\n\t\tMulchmuncher\n\t\tTrituradora de abono\n\t\tMasticabono\n\t\tMâche-écorce\n\t\tConcimatron\n\t\tマルチマンチャー\n\t\t우걱전차\n\t\tŚciółkożerca\n\t\tMasca-Musgo\n\t\tДробилка\n\t\tมัลช์มันเชอร์\n\t\t植被破碎机\n\t\t堆肥吞食者\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Rush</b>. Costs (1) less for each friendly Treant that died this game."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>속공</b>, 이번 게임에서 죽은 아군 나무정령 하나당 비용이 (1)씩 감소합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Eifer</b>. Kostet (1) weniger für jeden befreundeten Treant, der in diesem Spiel gestorben ist.\n\t\t<b>Rush</b>. Costs (1) less for each friendly Treant that died this game.\n\t\t[x]<b>Embestir</b>\nCuesta (1) cristal menos\npor cada antárbol amistoso\nque haya muerto\nen esta partida.\n\t\t<b>Acometida</b>. Cuesta (1) menos por cada Antárbol aliado que haya muerto en esta partida.\n\t\t<b>Ruée</b>\nCoûte (1)_|4(cristal,cristaux) de moins pour chaque tréant allié mort pendant cette partie.\n\t\t<b>Assalto</b>. Costa (1) in meno per ogni tuo Treant morto in questa partita.\n\t\t[x]<b>急襲</b>\nこの対戦で死亡した\n味方の「トレント」\n1体につきコストが\n（1）減る。\n\t\t<b>속공</b>, 이번 게임에서 죽은 아군 나무정령 하나당 비용이 (1)씩 감소합니다.\n\t\t<b>Zryw</b>\nKosztuje (1) mniej za każdego przyjaznego Drzewca, który zginął w tej grze.\n\t\t<b>Rapidez</b>. Custa (1) a menos para cada Arvoroso aliado morto nesta partida.\n\t\t<b>Натиск</b>. Стоит на (1) меньше за каждого [x]вашего древня, погибшего\nв этом матче.\n\t\t<b>จู่โจม</b>\nค่าร่ายลดลง (1) ต่อทรีแอนท์[b]ฝ่ายคุณแต่ละตัวที่ตายในเกมนี้\n\t\t<b>突袭</b>\n在本局对战中，每有一个友方树人死亡，本牌的法力值消耗便减少（1）点。\n\t\t<b>衝刺</b>。本賽局中\n死亡的每個友方樹人使消耗減少(1)\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_523",
+    "dbfId": 48831,
+    "name": "우걱전차",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 9,
+    "text": "<b>속공</b>, 이번 게임에서 죽은 아군 나무정령 하나당 비용이 (1)씩 감소합니다.",
+    "attack": 8,
+    "health": 8,
+    "flavor": "예전에는 나무를 뽑아서 나무정령을 만들더니 이젠 그 나무정령을 먹는 기계를 만드는군요.",
+    "portrait": "HS14-053_M.psd:00a821ed7b155224bbd2d385213ad200",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 9
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 600
+      },
+      {
+        "id": 2542,
+        "name": "게임 태그 2542",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "race": "기계, 야수",
+    "classes": [],
+    "art": "art/BOT_523.png",
+    "nativeRawText": "<b>속공</b>, 이번 게임에서 죽은 아군 나무정령 하나당 비용이 (1)씩 감소합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "8",
+      "47": "8",
+      "48": "9",
+      "183": "1127",
+      "199": "2",
+      "200": "17",
+      "202": "4",
+      "203": "3",
+      "321": "1",
+      "791": "1",
+      "1452": "600",
+      "2542": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_523",
+    "dbfId": 48831,
+    "name": "우걱전차",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 10,
+    "text": "<b>속공</b>, 이번 게임에서 죽은 아군 나무정령 하나당 비용이 (1)씩 감소합니다.",
+    "attack": 8,
+    "health": 8,
+    "flavor": "예전에는 나무를 뽑아서 나무정령을 만들더니 이젠 그 나무정령을 먹는 기계를 만드는군요.",
+    "portrait": "HS14-053_M.psd:00a821ed7b155224bbd2d385213ad200",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 10
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_523.png",
+    "nativeRawText": "<b>속공</b>, 이번 게임에서 죽은 아군 나무정령 하나당 비용이 (1)씩 감소합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "8",
+      "47": "8",
+      "48": "10",
+      "183": "1127",
+      "199": "2",
+      "200": "17",
+      "202": "4",
+      "203": "3",
+      "321": "1",
+      "791": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2019-06-04": {
+    "cost": 9,
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 9
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 48,
+        "before": "10",
+        "after": "9"
+      }
+    ],
+    "source": {
+      "beforeBuild": 31022,
+      "afterBuild": 31268,
+      "beforeCommit": "089a94c2fc524cc52ee7697ad4430fd52240d6a0",
+      "afterCommit": "d4dcf70622f19beddd0d6d56fdd5f053da99d223",
+      "beforeXmlSha256": "95219fea6d5638fa31890deb6468518c9a9189155f3e1f29512ec5758fe2adbe",
+      "afterXmlSha256": "016adca4cafcd19f2d9eb3397b7acd3035db594b5c5bd91e77370f57bdb483c4",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Mulchmuncher"
+            },
+            "koKR": {
+              "present": true,
+              "value": "우걱전차"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tMulchmampfer\n\t\t\tMulchmuncher\n\t\t\tTrituradora de abono\n\t\t\tMasticabono\n\t\t\tMâche-écorce\n\t\t\tConcimatron\n\t\t\tマルチマンチャー\n\t\t\t우걱전차\n\t\t\tŚciółkożerca\n\t\t\tMasca-Musgo\n\t\t\tДробилка\n\t\t\tมัลช์มันเชอร์\n\t\t\t植被破碎机\n\t\t\t堆肥吞食者\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Rush</b>. Costs (1) less for each friendly Treant that died this game."
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>속공</b>, 이번 게임에서 죽은 아군 나무정령 하나당 비용이 (1)씩 감소합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Eifer</b>. Kostet (1) weniger für jeden befreundeten Treant, der in diesem Spiel gestorben ist.\n\t\t\t<b>Rush</b>. Costs (1) less for each friendly Treant that died this game.\n\t\t\t[x]<b>Embestir</b>\nCuesta (1) cristal menos\npor cada antárbol amistoso\nque haya muerto\nen esta partida.\n\t\t\t<b>Acometida</b>. Cuesta (1) menos por cada Antárbol aliado que haya muerto en esta partida.\n\t\t\t<b>Ruée</b>\nCoûte (1)_|4(cristal,cristaux) de moins pour chaque tréant allié mort pendant cette partie.\n\t\t\t<b>Assalto</b>. Costa (1) in meno per ogni tuo Treant morto in questa partita.\n\t\t\t[x]<b>急襲</b>\nこの対戦で死亡した\n味方の「トレント」\n1体につきコストが\n（1）減る。\n\t\t\t<b>속공</b>, 이번 게임에서 죽은 아군 나무정령 하나당 비용이 (1)씩 감소합니다.\n\t\t\t<b>Zryw</b>\nKosztuje (1) mniej za każdego przyjaznego Drzewca, który zginął w tej grze.\n\t\t\t<b>Rapidez</b>. Custa (1) a menos para cada Arvoroso aliado morto nesta partida.\n\t\t\t<b>Натиск</b>. Стоит на (1) меньше за каждого [x]вашего древня, погибшего\nв этом матче.\n\t\t\t<b>จู่โจม</b> ค่าร่ายลดลง (1) ต่อทรีแอนท์ฝ่ายคุณ[b]แต่ละตัวที่ตายในเกมนี้\n\t\t\t<b>突袭</b>\n在本局对战中，每有一个友方树人死亡，该牌的法力值消耗便减少（1）点。\n\t\t\t<b>衝刺</b>。本賽局中\n死亡的每個友方樹人使消耗減少(1)\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Mulchmuncher"
+            },
+            "koKR": {
+              "present": true,
+              "value": "우걱전차"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tMulchmampfer\n\t\t\tMulchmuncher\n\t\t\tTrituradora de abono\n\t\t\tMasticabono\n\t\t\tMâche-écorce\n\t\t\tConcimatron\n\t\t\tマルチマンチャー\n\t\t\t우걱전차\n\t\t\tŚciółkożerca\n\t\t\tMasca-Musgo\n\t\t\tДробилка\n\t\t\tมัลช์มันเชอร์\n\t\t\t植被破碎机\n\t\t\t堆肥吞食者\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Rush</b>. Costs (1) less for each friendly Treant that died this game."
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>속공</b>, 이번 게임에서 죽은 아군 나무정령 하나당 비용이 (1)씩 감소합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Eifer</b>. Kostet (1) weniger für jeden befreundeten Treant, der in diesem Spiel gestorben ist.\n\t\t\t<b>Rush</b>. Costs (1) less for each friendly Treant that died this game.\n\t\t\t[x]<b>Embestir</b>\nCuesta (1) cristal menos\npor cada antárbol amistoso\nque haya muerto\nen esta partida.\n\t\t\t<b>Acometida</b>. Cuesta (1) menos por cada Antárbol aliado que haya muerto en esta partida.\n\t\t\t<b>Ruée</b>\nCoûte (1)_|4(cristal,cristaux) de moins pour chaque tréant allié mort pendant cette partie.\n\t\t\t<b>Assalto</b>. Costa (1) in meno per ogni tuo Treant morto in questa partita.\n\t\t\t[x]<b>急襲</b>\nこの対戦で死亡した\n味方の「トレント」\n1体につきコストが\n（1）減る。\n\t\t\t<b>속공</b>, 이번 게임에서 죽은 아군 나무정령 하나당 비용이 (1)씩 감소합니다.\n\t\t\t<b>Zryw</b>\nKosztuje (1) mniej za każdego przyjaznego Drzewca, który zginął w tej grze.\n\t\t\t<b>Rapidez</b>. Custa (1) a menos para cada Arvoroso aliado morto nesta partida.\n\t\t\t<b>Натиск</b>. Стоит на (1) меньше за каждого [x]вашего древня, погибшего\nв этом матче.\n\t\t\t<b>จู่โจม</b> ค่าร่ายลดลง (1) ต่อทรีแอนท์ฝ่ายคุณ[b]แต่ละตัวที่ตายในเกมนี้\n\t\t\t<b>突袭</b>\n在本局对战中，每有一个友方树人死亡，该牌的法力值消耗便减少（1）点。\n\t\t\t<b>衝刺</b>。本賽局中\n死亡的每個友方樹人使消耗減少(1)\n\t\t"
+        }
+      }
+    }
+  },
+  "2023-02-15": {
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 9
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 2542,
+        "name": "게임 태그 2542",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "race": "기계, 야수",
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 2542,
+        "before": "ABSENT",
+        "after": "1"
+      }
+    ],
+    "source": {
+      "beforeBuild": 163976,
+      "afterBuild": 165029,
+      "beforeCommit": "cf08a2eee9159a63ff589cfe2deabc4035673871",
+      "afterCommit": "ef8297aadee616ea2ffbc941a7b55a84b6cfc819",
+      "beforeXmlSha256": "73043cbecbfadd4cc6ffe42ddd977a6667ac60fb2efd8aec19d2abfe1977b6d4",
+      "afterXmlSha256": "1fa3e9bae99d369dbbcb622f964f225a1506d48344c5535ac1c83543b4bc3d53",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Mulchmuncher"
+            },
+            "koKR": {
+              "present": true,
+              "value": "우걱전차"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tMulchmampfer\n\t\t\tMulchmuncher\n\t\t\tTrituradora de abono\n\t\t\tMasticabono\n\t\t\tMâche-écorce\n\t\t\tConcimatron\n\t\t\tマルチマンチャー\n\t\t\t우걱전차\n\t\t\tŚciółkożerca\n\t\t\tMasca-Musgo\n\t\t\tДробилка\n\t\t\tมัลช์มันเชอร์\n\t\t\t植被破碎机\n\t\t\t堆肥吞食者\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Rush</b>. Costs (1) less for each friendly Treant that died this game."
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>속공</b>, 이번 게임에서 죽은 아군 나무정령 하나당 비용이 (1)씩 감소합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Eifer</b>. Kostet (1) weniger für jeden befreundeten Treant, der in diesem Spiel gestorben ist.\n\t\t\t<b>Rush</b>. Costs (1) less for each friendly Treant that died this game.\n\t\t\t[x]<b>Embestir</b>\nCuesta (1) cristal menos\npor cada antárbol amistoso\nque haya muerto\nen esta partida.\n\t\t\t<b>Acometida</b>. Cuesta (1) menos por cada Antárbol aliado que haya muerto en esta partida.\n\t\t\t<b>Ruée</b>\nCoûte (1)_|4(cristal,cristaux) de moins pour chaque tréant allié mort pendant cette partie.\n\t\t\t<b>Assalto</b>. Costa (1) in meno per ogni tuo Treant morto in questa partita.\n\t\t\t[x]<b>急襲</b>\nこの対戦で死亡した\n味方の「トレント」\n1体につきコストが\n（1）減る。\n\t\t\t<b>속공</b>, 이번 게임에서 죽은 아군 나무정령 하나당 비용이 (1)씩 감소합니다.\n\t\t\t<b>Zryw</b>\nKosztuje (1) mniej za każdego przyjaznego Drzewca, który zginął w tej grze.\n\t\t\t<b>Rapidez</b>. Custa (1) a menos para cada Arvoroso aliado morto nesta partida.\n\t\t\t<b>Натиск</b>. Стоит на (1) меньше за каждого [x]вашего древня, погибшего\nв этом матче.\n\t\t\t<b>จู่โจม</b>\nค่าร่ายลดลง (1) ต่อทรีแอนท์[b]ฝ่ายคุณแต่ละตัวที่ตายในเกมนี้\n\t\t\t<b>突袭</b>\n在本局对战中，每有一个友方树人死亡，本牌的法力值消耗便减少（1）点。\n\t\t\t<b>衝刺</b>。本賽局中\n死亡的每個友方樹人使消耗減少(1)\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Mulchmuncher"
+            },
+            "koKR": {
+              "present": true,
+              "value": "우걱전차"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tMulchmampfer\n\t\t\tMulchmuncher\n\t\t\tTrituradora de abono\n\t\t\tMasticabono\n\t\t\tMâche-écorce\n\t\t\tConcimatron\n\t\t\tマルチマンチャー\n\t\t\t우걱전차\n\t\t\tŚciółkożerca\n\t\t\tMasca-Musgo\n\t\t\tДробилка\n\t\t\tมัลช์มันเชอร์\n\t\t\t植被破碎机\n\t\t\t堆肥吞食者\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Rush</b>. Costs (1) less for each friendly Treant that died this game."
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>속공</b>, 이번 게임에서 죽은 아군 나무정령 하나당 비용이 (1)씩 감소합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Eifer</b>. Kostet (1) weniger für jeden befreundeten Treant, der in diesem Spiel gestorben ist.\n\t\t\t<b>Rush</b>. Costs (1) less for each friendly Treant that died this game.\n\t\t\t[x]<b>Embestir</b>\nCuesta (1) cristal menos\npor cada antárbol amistoso\nque haya muerto\nen esta partida.\n\t\t\t<b>Acometida</b>. Cuesta (1) menos por cada Antárbol aliado que haya muerto en esta partida.\n\t\t\t<b>Ruée</b>\nCoûte (1)_|4(cristal,cristaux) de moins pour chaque tréant allié mort pendant cette partie.\n\t\t\t<b>Assalto</b>. Costa (1) in meno per ogni tuo Treant morto in questa partita.\n\t\t\t[x]<b>急襲</b>\nこの対戦で死亡した\n味方の「トレント」\n1体につきコストが\n（1）減る。\n\t\t\t<b>속공</b>, 이번 게임에서 죽은 아군 나무정령 하나당 비용이 (1)씩 감소합니다.\n\t\t\t<b>Zryw</b>\nKosztuje (1) mniej za każdego przyjaznego Drzewca, który zginął w tej grze.\n\t\t\t<b>Rapidez</b>. Custa (1) a menos para cada Arvoroso aliado morto nesta partida.\n\t\t\t<b>Натиск</b>. Стоит на (1) меньше за каждого [x]вашего древня, погибшего\nв этом матче.\n\t\t\t<b>จู่โจม</b>\nค่าร่ายลดลง (1) ต่อทรีแอนท์[b]ฝ่ายคุณแต่ละตัวที่ตายในเกมนี้\n\t\t\t<b>突袭</b>\n在本局对战中，每有一个友方树人死亡，本牌的法力值消耗便减少（1）点。\n\t\t\t<b>衝刺</b>。本賽局中\n死亡的每個友方樹人使消耗減少(1)\n\t\t"
+        }
+      }
+    }
+  }
+}

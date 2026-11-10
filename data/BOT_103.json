@@ -1,1 +1,464 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_103","dbfId":47982,"name":"별관찰자 루나","type":"MINION","cardClass":"MAGE","rarity":"LEGENDARY","collectible":true,"cost":3,"text":"내가 내 손에서 가장 오른쪽에 있는 카드를 낸 후에, 카드를 뽑습니다.","attack":2,"health":4,"durability":0,"armor":0,"flavor":"박사 붐의 오른팔이라 할 수 있는 마법사입니다.","spellSchool":"","portrait":"HS14-164_M.psd:92e624e95cf8ef943b5b11e2787c9628","set":"BOOMSDAY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":4},{"id":200,"name":"종족","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1}],"races":["DRAENEI"],"race":"드레나이","classes":[],"art":"art/BOT_103.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-164_M.psd:92e624e95cf8ef943b5b11e2787c9628","goldenMaterial":"BOT_103_PremiumCard.mat:cac726c23148e6d4b88a7e817cc6dc83","goldenAnimation":"BOT_103_PremiumCard.asset:01b6c4ca5984cfd4c86ddc09e95cc261"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-164_M.psd:92e624e95cf8ef943b5b11e2787c9628",
+      "goldenMaterial": "BOT_103_PremiumCard.mat:cac726c23148e6d4b88a7e817cc6dc83",
+      "goldenAnimation": "BOT_103_PremiumCard.asset:01b6c4ca5984cfd4c86ddc09e95cc261"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Stargazer Luna"
+          },
+          "koKR": {
+            "present": true,
+            "value": "별관찰자 루나"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tSternenschauerin Luna\n\t\t\tStargazer Luna\n\t\t\tAstrónoma Luna\n\t\t\tAstrónoma Luna\n\t\t\tLuna l’astronome\n\t\t\tScrutastelle Luna\n\t\t\t占星術師ルナ\n\t\t\t별관찰자 루나\n\t\t\tLuna Gwiazdowidząca\n\t\t\tMiráster Luna\n\t\t\tЗвездочет Луна\n\t\t\tนักดูดาวลูน่า\n\t\t\t观星者露娜\n\t\t\t觀星者露娜\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "After you play the\nright-most card in your hand, draw a card."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]내가 내 손에서 가장\n오른쪽에 있는 카드를\n낸 후에, 카드를 1장\n뽑습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t[x]Zieht eine Karte,\nnachdem Ihr die Karte\nganz rechts auf Eurer Hand\nausgespielt habt.\n\t\t\tAfter you play the\nright-most card in your hand, draw a card.\n\t\t\t[x]Tras jugar la última carta\nmás a la derecha de tu mano,\nroba una carta.\n\t\t\tDespués de que juegas la carta del extremo derecho de tu mano, roba una carta.\n\t\t\tUne fois que vous avez joué la carte la plus à droite de votre_main,_vous_piochez une carte.\n\t\t\t[x]Dopo che hai giocato\nla carta più a destra\nnella tua mano,\npesca una carta.\n\t\t\t[x]自分が手札の一番右の\nカードを使用した後\nカードを1枚引く。\n\t\t\t[x]내가 내 손에서 가장\n오른쪽에 있는 카드를\n낸 후에, 카드를 1장\n뽑습니다.\n\t\t\tGdy zagrasz najbardziej wysuniętą na prawo kartę w_twojej ręce, dobierz kartę.\n\t\t\t[x]Depois que você jogar o\n card mais à direita na sua\n mão, compre um card.\n\t\t\tПосле того как вы разыгрываете крайнюю правую карту в руке, вы берете карту.\n\t\t\tหลังจากคุณเล่นการ์ด[b]ใบขวาสุดในมือคุณ จั่วการ์ดหนึ่งใบ\n\t\t\t在你使用最右边的一张手牌后，抽\n一张牌。\n\t\t\t在你打出手中最右邊的牌後，抽一張牌\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Stargazer Luna"
+          },
+          "koKR": {
+            "present": true,
+            "value": "별관찰자 루나"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tSternenschauerin Luna\n\t\tStargazer Luna\n\t\tAstrónoma Luna\n\t\tAstrónoma Luna\n\t\tLuna l’astronome\n\t\tScrutastelle Luna\n\t\t占星術師ルナ\n\t\t별관찰자 루나\n\t\tLuna Gwiazdowidząca\n\t\tMiráster Luna\n\t\tЗвездочет Луна\n\t\tนักดูดาวลูน่า\n\t\t观星者露娜\n\t\t觀星者露娜\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "After you play the\nright-most card in your hand, draw a card."
+          },
+          "koKR": {
+            "present": true,
+            "value": "내가 내 손에서 가장 오른쪽에 있는 카드를 낸 후에, 카드를 뽑습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t[x]Zieht eine Karte,\nnachdem Ihr die Karte\nganz rechts auf Eurer Hand\nausgespielt habt.\n\t\tAfter you play the\nright-most card in your hand, draw a card.\n\t\t[x]Tras jugar la última carta\nmás a la derecha de tu mano,\nroba una carta.\n\t\tDespués de que juegas la carta del extremo derecho de tu mano, roba una carta.\n\t\tUne fois que vous avez joué la carte la plus à droite de votre_main,_vous_piochez une carte.\n\t\t[x]Dopo che hai giocato\nla carta più a destra\nnella tua mano,\npesca una carta.\n\t\t[x]自分が手札の一番右の\nカードを使用した後\nカードを1枚引く。\n\t\t내가 내 손에서 가장 오른쪽에 있는 카드를 낸 후에, 카드를 뽑습니다.\n\t\tGdy zagrasz najbardziej wysuniętą na prawo kartę w_twojej ręce, dobierz kartę.\n\t\t[x]Depois que você jogar o\n card mais à direita na sua\n mão, compre um card.\n\t\tПосле того как вы разыгрываете крайнюю правую карту в руке, вы берете карту.\n\t\tหลังจากคุณเล่นการ์ด[b]ใบขวาสุดในมือคุณ จั่วการ์ดหนึ่งใบ\n\t\t在你使用最右边的一张手牌后，抽\n一张牌。\n\t\t在你打出手中最右邊的牌後，抽一張牌\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_103",
+    "dbfId": 47982,
+    "name": "별관찰자 루나",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 3,
+    "text": "내가 내 손에서 가장 오른쪽에 있는 카드를 낸 후에, 카드를 뽑습니다.",
+    "attack": 2,
+    "health": 4,
+    "flavor": "박사 붐의 오른팔이라 할 수 있는 마법사입니다.",
+    "portrait": "HS14-164_M.psd:92e624e95cf8ef943b5b11e2787c9628",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DRAENEI"
+    ],
+    "race": "드레나이",
+    "classes": [],
+    "art": "art/BOT_103.png",
+    "nativeRawText": "내가 내 손에서 가장 오른쪽에 있는 카드를 낸 후에, 카드를 뽑습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "32": "1",
+      "45": "4",
+      "47": "2",
+      "48": "3",
+      "114": "1",
+      "183": "1127",
+      "199": "4",
+      "200": "2",
+      "202": "4",
+      "203": "5",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_103",
+    "dbfId": 47982,
+    "name": "별관찰자 루나",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 3,
+    "text": "내가 내 손에서 가장<br></br>오른쪽에 있는 카드를<br></br>낸 후에, 카드를 1장<br></br>뽑습니다.",
+    "attack": 2,
+    "health": 4,
+    "flavor": "박사 붐의 오른팔이라 할 수 있는 마법사입니다.",
+    "portrait": "HS14-164_M.psd:92e624e95cf8ef943b5b11e2787c9628",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_103.png",
+    "nativeRawText": "[x]내가 내 손에서 가장\n오른쪽에 있는 카드를\n낸 후에, 카드를 1장\n뽑습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "32": "1",
+      "45": "4",
+      "47": "2",
+      "48": "3",
+      "114": "1",
+      "183": "1127",
+      "199": "4",
+      "202": "4",
+      "203": "5",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2024-10-30": {
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [
+      "DRAENEI"
+    ],
+    "race": "드레나이",
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 200,
+        "before": "ABSENT",
+        "after": "2"
+      }
+    ],
+    "source": {
+      "beforeBuild": 209698,
+      "afterBuild": 210009,
+      "beforeCommit": "e6b9c5e51678d5035d1188f63c246326bb221c60",
+      "afterCommit": "0a387d653f339297339625710e4df91f0c62b67b",
+      "beforeXmlSha256": "5625316024488e65c0cad7a3409775e1a70e14aa896fd2ee90eb3426f89f9ca2",
+      "afterXmlSha256": "672f96b5396ddb4705ea64f0acf8ae9d27e7dcc2544847e02a96342a04581a41",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Stargazer Luna"
+            },
+            "koKR": {
+              "present": true,
+              "value": "별관찰자 루나"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tSternenschauerin Luna\n\t\t\tStargazer Luna\n\t\t\tAstrónoma Luna\n\t\t\tAstrónoma Luna\n\t\t\tLuna l’astronome\n\t\t\tScrutastelle Luna\n\t\t\t占星術師ルナ\n\t\t\t별관찰자 루나\n\t\t\tLuna Gwiazdowidząca\n\t\t\tMiráster Luna\n\t\t\tЗвездочет Луна\n\t\t\tนักดูดาวลูน่า\n\t\t\t观星者露娜\n\t\t\t觀星者露娜\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "After you play the\nright-most card in your hand, draw a card."
+            },
+            "koKR": {
+              "present": true,
+              "value": "내가 내 손에서 가장 오른쪽에 있는 카드를 낸 후에, 카드를 뽑습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t[x]Zieht eine Karte,\nnachdem Ihr die Karte\nganz rechts auf Eurer Hand\nausgespielt habt.\n\t\t\tAfter you play the\nright-most card in your hand, draw a card.\n\t\t\t[x]Tras jugar la última carta\nmás a la derecha de tu mano,\nroba una carta.\n\t\t\tDespués de que juegas la carta del extremo derecho de tu mano, roba una carta.\n\t\t\tUne fois que vous avez joué la carte la plus à droite de votre_main,_vous_piochez une carte.\n\t\t\t[x]Dopo che hai giocato\nla carta più a destra\nnella tua mano,\npesca una carta.\n\t\t\t[x]自分が手札の一番右の\nカードを使用した後\nカードを1枚引く。\n\t\t\t내가 내 손에서 가장 오른쪽에 있는 카드를 낸 후에, 카드를 뽑습니다.\n\t\t\tGdy zagrasz najbardziej wysuniętą na prawo kartę w_twojej ręce, dobierz kartę.\n\t\t\t[x]Depois que você jogar o\n card mais à direita na sua\n mão, compre um card.\n\t\t\tПосле того как вы разыгрываете крайнюю правую карту в руке, вы берете карту.\n\t\t\tหลังจากคุณเล่นการ์ด[b]ใบขวาสุดในมือคุณ จั่วการ์ดหนึ่งใบ\n\t\t\t在你使用最右边的一张手牌后，抽\n一张牌。\n\t\t\t在你打出手中最右邊的牌後，抽一張牌\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Stargazer Luna"
+            },
+            "koKR": {
+              "present": true,
+              "value": "별관찰자 루나"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tSternenschauerin Luna\n\t\t\tStargazer Luna\n\t\t\tAstrónoma Luna\n\t\t\tAstrónoma Luna\n\t\t\tLuna l’astronome\n\t\t\tScrutastelle Luna\n\t\t\t占星術師ルナ\n\t\t\t별관찰자 루나\n\t\t\tLuna Gwiazdowidząca\n\t\t\tMiráster Luna\n\t\t\tЗвездочет Луна\n\t\t\tนักดูดาวลูน่า\n\t\t\t观星者露娜\n\t\t\t觀星者露娜\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "After you play the\nright-most card in your hand, draw a card."
+            },
+            "koKR": {
+              "present": true,
+              "value": "내가 내 손에서 가장 오른쪽에 있는 카드를 낸 후에, 카드를 뽑습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t[x]Zieht eine Karte,\nnachdem Ihr die Karte\nganz rechts auf Eurer Hand\nausgespielt habt.\n\t\t\tAfter you play the\nright-most card in your hand, draw a card.\n\t\t\t[x]Tras jugar la última carta\nmás a la derecha de tu mano,\nroba una carta.\n\t\t\tDespués de que juegas la carta del extremo derecho de tu mano, roba una carta.\n\t\t\tUne fois que vous avez joué la carte la plus à droite de votre_main,_vous_piochez une carte.\n\t\t\t[x]Dopo che hai giocato\nla carta più a destra\nnella tua mano,\npesca una carta.\n\t\t\t[x]自分が手札の一番右の\nカードを使用した後\nカードを1枚引く。\n\t\t\t내가 내 손에서 가장 오른쪽에 있는 카드를 낸 후에, 카드를 뽑습니다.\n\t\t\tGdy zagrasz najbardziej wysuniętą na prawo kartę w_twojej ręce, dobierz kartę.\n\t\t\t[x]Depois que você jogar o\n card mais à direita na sua\n mão, compre um card.\n\t\t\tПосле того как вы разыгрываете крайнюю правую карту в руке, вы берете карту.\n\t\t\tหลังจากคุณเล่นการ์ด[b]ใบขวาสุดในมือคุณ จั่วการ์ดหนึ่งใบ\n\t\t\t在你使用最右边的一张手牌后，抽\n一张牌。\n\t\t\t在你打出手中最右邊的牌後，抽一張牌\n\t\t"
+        }
+      }
+    }
+  }
+}

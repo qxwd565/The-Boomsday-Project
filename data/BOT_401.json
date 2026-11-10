@@ -1,1 +1,293 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_401","dbfId":48518,"name":"무장한 종이박","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":4,"text":"<b>죽음의 메아리:</b><br></br>무작위 <b>전설</b> 하수인을<br></br>내 손으로 가져옵니다.","attack":4,"health":3,"durability":0,"armor":0,"flavor":"괜찮을 겁니다. 우릴 싫어할 이유가 딱히 없잖아요?","spellSchool":"","portrait":"HS14-031_M.psd:0670fa15451bcba428aa74d30674388d","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/BOT_401.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-031_M.psd:0670fa15451bcba428aa74d30674388d","goldenMaterial":"BOT_401.mat:6f47059ddc34a2c4da778d5868f9d5f1","goldenAnimation":"BOT_401.asset:d3daf7553e3004d4fb14d17a2e17a82b"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-031_M.psd:0670fa15451bcba428aa74d30674388d",
+      "goldenMaterial": "BOT_401.mat:6f47059ddc34a2c4da778d5868f9d5f1",
+      "goldenAnimation": "BOT_401.asset:d3daf7553e3004d4fb14d17a2e17a82b"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Weaponized Piñata"
+          },
+          "koKR": {
+            "present": true,
+            "value": "무장한 종이박"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tWaffenfähige Piñata\n\t\t\tWeaponized Piñata\n\t\t\tPiñata armada\n\t\t\tPiñata armada\n\t\t\tPiñata armée\n\t\t\tPiñata Armata\n\t\t\t兵器化ピニャータ\n\t\t\t무장한 종이박\n\t\t\tBojowa piniata\n\t\t\tPinhata Armificada\n\t\t\tБоевая пиньята\n\t\t\tพินยาต้าติดอาวุธ\n\t\t\t武装皮纳塔\n\t\t\t武裝彩偶\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Add a random <b>Legendary</b> minion to your_hand."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b> 무작위 <b>전설</b> 하수인 하나를 내 손으로 가져옵니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Todesröcheln:</b> Erhaltet einen zufälligen<b> legendären</b> Diener auf die Hand.\n\t\t\t<b>Deathrattle:</b> Add a random <b>Legendary</b> minion to your_hand.\n\t\t\t[x]<b>Último aliento:</b>\nAñade un esbirro\n<b>legendario</b> aleatorio\na tu mano.\n\t\t\t<b>Estertor:</b> agrega un esbirro <b>Legendario</b> aleatorio a tu mano.\n\t\t\t<b>Râle d’agonie_:</b> ajoute un serviteur <b>légendaire</b> aléatoire dans votre main.\n\t\t\t[x]<b>Rantolo di Morte:</b> mette\nnella tua mano un servitore\n<b>Leggendario</b> casuale.\n\t\t\t[x]<b>断末魔:</b>\nランダムな<b>レジェンド</b>\nミニオン1体を自分の\n_____手札に追加する。\n\t\t\t<b>죽음의 메아리:</b> 무작위 <b>전설</b> 하수인 하나를 내 손으로 가져옵니다.\n\t\t\t<b>Agonia:</b> Dodaj losowego <b>legendarnego</b> stronnika do twojej_ręki.\n\t\t\t<b>Último Suspiro:</b> \nAdicione um lacaio <b>Lendário</b> aleatório à sua mão.\n\t\t\t<b>Предсмертный хрип:</b> вы кладете в руку случайное __<b>легендарное</b>_существо.\n\t\t\t<b>เสียงสุดท้าย:</b> สุ่มเพิ่มการ์ด[b]มินเนี่ยนระดับ <b>ตำนาน</b> หนึ่งใบในมือคุณ\n\t\t\t<b>亡语：</b>随机将一个<b>传说</b>随从置入你的\n手牌。\n\t\t\t<b>死亡之聲：</b>放一個\n隨機<b>傳說</b>手下到你的手中\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Weaponized Piñata"
+          },
+          "koKR": {
+            "present": true,
+            "value": "무장한 종이박"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tWaffenfähige Piñata\n\t\tWeaponized Piñata\n\t\tPiñata armada\n\t\tPiñata armada\n\t\tPiñata armée\n\t\tPiñata Armata\n\t\t兵器化ピニャータ\n\t\t무장한 종이박\n\t\tBojowa piniata\n\t\tPinhata Armificada\n\t\tБоевая пиньята\n\t\tพินยาต้าติดอาวุธ\n\t\t武装皮纳塔\n\t\t武裝彩偶\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Add a random <b>Legendary</b> minion to your_hand."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>죽음의 메아리:</b>\n무작위 <b>전설</b> 하수인을\n내 손으로 가져옵니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Todesröcheln:</b> Erhaltet einen zufälligen<b> legendären</b> Diener auf die Hand.\n\t\t<b>Deathrattle:</b> Add a random <b>Legendary</b> minion to your_hand.\n\t\t[x]<b>Último aliento:</b>\nAñade un esbirro\n<b>legendario</b> aleatorio\na tu mano.\n\t\t<b>Estertor:</b> agrega un esbirro <b>Legendario</b> aleatorio a tu mano.\n\t\t<b>Râle d’agonie_:</b> ajoute un serviteur <b>légendaire</b> aléatoire dans votre main.\n\t\t[x]<b>Rantolo di Morte:</b> mette\nnella tua mano un servitore\n<b>Leggendario</b> casuale.\n\t\t[x]<b>断末魔:</b>\nランダムな<b>レジェンド</b>\nミニオン1体を自分の\n_____手札に追加する。\n\t\t[x]<b>죽음의 메아리:</b>\n무작위 <b>전설</b> 하수인을\n내 손으로 가져옵니다.\n\t\t<b>Agonia:</b> Dodaj losowego <b>legendarnego</b> stronnika do twojej_ręki.\n\t\t<b>Último Suspiro:</b> \nAdicione um lacaio <b>Lendário</b> aleatório à sua mão.\n\t\t<b>Предсмертный хрип:</b> вы кладете в руку случайное __<b>легендарное</b>_существо.\n\t\t<b>เสียงสุดท้าย:</b> สุ่มเพิ่ม[b]มินเนี่ยนระดับ_<b>ตำนาน</b> หนึ่งใบในมือคุณ\n\t\t<b>亡语：</b>\n随机将一张<b>传说</b>随从牌置入你的手牌。\n\t\t<b>死亡之聲：</b>放一個\n隨機<b>傳說</b>手下到你的手中\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_401",
+    "dbfId": 48518,
+    "name": "무장한 종이박",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>죽음의 메아리:</b><br></br>무작위 <b>전설</b> 하수인을<br></br>내 손으로 가져옵니다.",
+    "attack": 4,
+    "health": 3,
+    "flavor": "괜찮을 겁니다. 우릴 싫어할 이유가 딱히 없잖아요?",
+    "portrait": "HS14-031_M.psd:0670fa15451bcba428aa74d30674388d",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_401.png",
+    "nativeRawText": "[x]<b>죽음의 메아리:</b>\n무작위 <b>전설</b> 하수인을\n내 손으로 가져옵니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "3",
+      "47": "4",
+      "48": "4",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "202": "4",
+      "203": "4",
+      "217": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_401",
+    "dbfId": 48518,
+    "name": "무장한 종이박",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>죽음의 메아리:</b> 무작위 <b>전설</b> 하수인 하나를 내 손으로 가져옵니다.",
+    "attack": 4,
+    "health": 3,
+    "flavor": "괜찮을 겁니다. 우릴 싫어할 이유가 딱히 없잖아요?",
+    "portrait": "HS14-031_M.psd:0670fa15451bcba428aa74d30674388d",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_401.png",
+    "nativeRawText": "<b>죽음의 메아리:</b> 무작위 <b>전설</b> 하수인 하나를 내 손으로 가져옵니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "3",
+      "47": "4",
+      "48": "4",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "202": "4",
+      "203": "4",
+      "217": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

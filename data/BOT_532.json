@@ -1,1 +1,316 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_532","dbfId":49161,"name":"폭발 전문가","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":4,"text":"<b>전투의 함성:</b><br></br>0/2 고블린 폭탄을<br></br>둘 소환합니다.","attack":3,"health":2,"durability":0,"armor":0,"flavor":"뭔가를 반드시, 완벽하게, 모조리 터트려야 할 때 사용합니다.","spellSchool":"","portrait":"HS14-172_M.psd:7a0ccd421156f464eaf702a31ebc1d3e","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":17},{"id":201,"name":"진영","value":1},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":47837}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/BOT_532.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-172_M.psd:7a0ccd421156f464eaf702a31ebc1d3e","goldenMaterial":"BOT_532_PremiumCard.mat:7ca14ad28e56c644ab2ba32d244424ca","goldenAnimation":"BOT_532_PremiumCard.asset:4dcb697c09ec89d4984f7c8ba8fd1ec6"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-172_M.psd:7a0ccd421156f464eaf702a31ebc1d3e",
+      "goldenMaterial": "BOT_532_PremiumCard.mat:7ca14ad28e56c644ab2ba32d244424ca",
+      "goldenAnimation": "BOT_532_PremiumCard.asset:4dcb697c09ec89d4984f7c8ba8fd1ec6"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Explodinator"
+          },
+          "koKR": {
+            "present": true,
+            "value": "폭발 전문가"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tExplodinator\n\t\t\tExplodinator\n\t\t\tExplosionador\n\t\t\tExplosionador\n\t\t\tBombardateur\n\t\t\tEsplosivatore\n\t\t\tエクスプローディネーター\n\t\t\t폭발 전문가\n\t\t\tBombotron\n\t\t\tDemolidor\n\t\t\tВзрывинатор\n\t\t\tเอ็กซ์โพลดิเนเตอร์\n\t\t\t投弹机器人\n\t\t\t爆彈終結者\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Summon two 0/2 Goblin Bombs."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b>\n0/2 고블린 폭탄을\n둘 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Ruft\n2 Goblinbomben (0/2) herbei.\n\t\t\t<b>Battlecry:</b> Summon two 0/2 Goblin Bombs.\n\t\t\t[x]<b>Grito de batalla:</b>\nInvoca dos bombas\ngoblin 0/2.\n\t\t\t<b>Grito de batalla:</b> invoca dos Bombas goblin 0/2.\n\t\t\t<b>Cri de guerre_:</b>\ninvoque deux bombes gobelines_0/2.\n\t\t\t<b>Grido di Battaglia:</b> evoca due Bombe Goblin 0/2.\n\t\t\t[x]<b>雄叫び:</b>\n0/2の\n「ゴブリン爆弾」を\n___2体召喚する。\n\t\t\t[x]<b>전투의 함성:</b>\n0/2 고블린 폭탄을\n둘 소환합니다.\n\t\t\t<b>Okrzyk bojowy:</b>\nPrzyzwij dwie Goblińskie bomby 0/2.\n\t\t\t<b>Grito de Guerra:</b> \nEvoque duas \nBombas Goblínicas 0/2.\n\t\t\t<b>Боевой клич:</b> призывает две гоблинские бомбы 0/2.\n\t\t\t<b>คำรามสู้ศึก:</b> เรียกระเบิดก็อบลิน 0/2 สองลูก\n\t\t\t<b>战吼：</b>召唤两个0/2的地精炸弹。\n\t\t\t<b>戰吼：</b>召喚兩個\n0/2哥布林炸彈\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Explodinator"
+          },
+          "koKR": {
+            "present": true,
+            "value": "폭발 전문가"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tExplodinator\n\t\tExplodinator\n\t\tExplosionador\n\t\tExplosionador\n\t\tBombardateur\n\t\tEsplosivatore\n\t\tエクスプローディネーター\n\t\t폭발 전문가\n\t\tBombotron\n\t\tExplodidor\n\t\tВзрывинатор\n\t\tเอ็กซ์โพลดิเนเตอร์\n\t\t投弹机器人\n\t\t爆彈終結者\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Summon two 0/2 Goblin Bombs."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b>\n0/2 고블린 폭탄을\n둘 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Ruft\n2 Goblinbomben (0/2) herbei.\n\t\t<b>Battlecry:</b> Summon two 0/2 Goblin Bombs.\n\t\t[x]<b>Grito de batalla:</b>\nInvoca dos bombas\ngoblin 0/2.\n\t\t<b>Grito de batalla:</b> invoca dos Bombas goblin 0/2.\n\t\t<b>Cri de guerre_:</b>\ninvoque deux bombes gobelines_0/2.\n\t\t<b>Grido di Battaglia:</b> evoca due Bombe Goblin 0/2.\n\t\t[x]<b>雄叫び:</b>\n0/2の\n「ゴブリン爆弾」を\n___2体召喚する。\n\t\t[x]<b>전투의 함성:</b>\n0/2 고블린 폭탄을\n둘 소환합니다.\n\t\t<b>Okrzyk bojowy:</b>\nPrzyzwij dwie Goblińskie bomby 0/2.\n\t\t<b>Grito de Guerra:</b> \nEvoque duas \nBombas Goblínicas 0/2.\n\t\t<b>Боевой клич:</b> призывает две гоблинские бомбы 0/2.\n\t\t<b>คำรามสู้ศึก:</b> เรียกระเบิดก็อบลิน 0/2 สองลูก\n\t\t<b>战吼：</b>召唤两个0/2的地精炸弹。\n\t\t<b>戰吼：</b>召喚兩個\n0/2哥布林炸彈\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_532",
+    "dbfId": 49161,
+    "name": "폭발 전문가",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b><br></br>0/2 고블린 폭탄을<br></br>둘 소환합니다.",
+    "attack": 3,
+    "health": 2,
+    "flavor": "뭔가를 반드시, 완벽하게, 모조리 터트려야 할 때 사용합니다.",
+    "portrait": "HS14-172_M.psd:7a0ccd421156f464eaf702a31ebc1d3e",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 47837
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_532.png",
+    "nativeRawText": "[x]<b>전투의 함성:</b>\n0/2 고블린 폭탄을\n둘 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "2",
+      "47": "3",
+      "48": "4",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "201": "1",
+      "202": "4",
+      "203": "1",
+      "218": "1",
+      "321": "1",
+      "1452": "47837"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_532",
+    "dbfId": 49161,
+    "name": "폭발 전문가",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b><br></br>0/2 고블린 폭탄을<br></br>둘 소환합니다.",
+    "attack": 3,
+    "health": 2,
+    "flavor": "뭔가를 반드시, 완벽하게, 모조리 터트려야 할 때 사용합니다.",
+    "portrait": "HS14-172_M.psd:7a0ccd421156f464eaf702a31ebc1d3e",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 1
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_532.png",
+    "nativeRawText": "[x]<b>전투의 함성:</b>\n0/2 고블린 폭탄을\n둘 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "2",
+      "47": "3",
+      "48": "4",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "201": "1",
+      "202": "4",
+      "203": "1",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

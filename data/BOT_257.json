@@ -1,1 +1,690 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_257","dbfId":48198,"name":"루나의 휴대용 우주","type":"SPELL","cardClass":"MAGE","rarity":"LEGENDARY","collectible":true,"cost":7,"text":"내 덱에 있는 하수인들의 비용을 (1)로 바꿉니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"루나는 선임자가 휴대용 블랙홀을 만든 후에 점성학 부서를 이어받았습니다.","spellSchool":"ARCANE","portrait":"HS14-024_S.psd:7188a15fc925a2848bc762d02a538e4a","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":7},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_257.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-024_S.psd:7188a15fc925a2848bc762d02a538e4a","goldenMaterial":"BOT_257_PremiumCard.mat:a5c145dc33485614f9b0ebc8d5dfc233","goldenAnimation":"BOT_257_PremiumCard.asset:909ed41c8a58b594fb1d86dc19c9d574"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-024_S.psd:7188a15fc925a2848bc762d02a538e4a",
+      "goldenMaterial": "BOT_257_PremiumCard.mat:a5c145dc33485614f9b0ebc8d5dfc233",
+      "goldenAnimation": "BOT_257_PremiumCard.asset:909ed41c8a58b594fb1d86dc19c9d574"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Luna's Pocket Galaxy"
+          },
+          "koKR": {
+            "present": true,
+            "value": "루나의 휴대용 우주"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tLunas Taschengalaxie\n\t\t\tLuna's Pocket Galaxy\n\t\t\tGalaxia de bolsillo de Luna\n\t\t\tGalaxia de bolsillo de Luna\n\t\t\tGalaxie de poche de Luna\n\t\t\tGalassia Portatile di Luna\n\t\t\tルナのポケット銀河系\n\t\t\t루나의 휴대용 우주\n\t\t\tMiniaturowa galaktyka Luny\n\t\t\tGaláxia Portátil de Luna\n\t\t\tМикрогалактика Луны\n\t\t\tกาแล็กซีฉบับกระเป๋าของลูน่า\n\t\t\t露娜的口袋银河\n\t\t\t露娜的口袋銀河\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Change the Cost of minions in your\ndeck to (1)."
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 덱에 있는 하수인들의 비용을 (1)로 바꿉니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tSetzt die Kosten von Dienern in Eurem Deck auf (1).\n\t\t\tChange the Cost of minions in your\ndeck to (1).\n\t\t\tCambia el coste\nde los esbirros\nde tu mazo a (1).\n\t\t\tCambia el costo de los esbirros de tu mazo a (1).\n\t\t\tFait passer à (1)_|4(cristal,cristaux) le coût des serviteurs dans votre deck.\n\t\t\t[x]Imposta a (1) il\ncosto dei servitori\nnel tuo mazzo.\n\t\t\t[x]自分のデッキの\nミニオン全ての\nコストを\n（1）にする。\n\t\t\t내 덱에 있는 하수인들의 비용을 (1)로 바꿉니다.\n\t\t\tZmień koszt stronników w twojej talii na (1).\n\t\t\tMude o custo dos lacaios do seu deck para (1).\n\t\t\tСтоимость всех существ в колоде становится равна (1).\n\t\t\tเปลี่ยนค่าร่ายของ[b]มินเนี่ยนทั้งหมด[b]ในเด็คคุณเป็น (1)\n\t\t\t使你牌库中所有随从牌的法力值消耗变为（1）。\n\t\t\t將你牌堆中\n全部手下的消耗\n改為(1)\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Luna's Pocket Galaxy"
+          },
+          "koKR": {
+            "present": true,
+            "value": "루나의 휴대용 우주"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tLunas Taschengalaxie\n\t\tLuna's Pocket Galaxy\n\t\tGalaxia de bolsillo de Luna\n\t\tGalaxia de bolsillo de Luna\n\t\tGalaxie de poche de Luna\n\t\tGalassia Portatile di Luna\n\t\tルナのポケット銀河系\n\t\t루나의 휴대용 우주\n\t\tMiniaturowa galaktyka Luny\n\t\tGaláxia Portátil de Luna\n\t\tМикрогалактика Луны\n\t\tกาแล็กซีฉบับกระเป๋าของลูน่า\n\t\t露娜的口袋银河\n\t\t露娜的口袋銀河\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Change the Cost of minions in your\ndeck to (1)."
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 덱에 있는 하수인들의 비용을 (1)로 바꿉니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tSetzt die Kosten von Dienern in Eurem Deck auf (1).\n\t\tChange the Cost of minions in your\ndeck to (1).\n\t\tCambia el coste\nde los esbirros\nde tu mazo a (1).\n\t\tCambia el costo de los esbirros de tu mazo a (1).\n\t\tFait passer à (1)_|4(cristal,cristaux) le coût des serviteurs dans votre deck.\n\t\t[x]Imposta a (1) il\ncosto dei servitori\nnel tuo mazzo.\n\t\t[x]自分のデッキの\nミニオン全ての\nコストを\n（1）にする。\n\t\t내 덱에 있는 하수인들의 비용을 (1)로 바꿉니다.\n\t\tZmień koszt stronników w twojej talii na (1).\n\t\tMude o Custo dos lacaios do seu deck para (1).\n\t\tСтоимость существ в_колоде становится равна (1).\n\t\tเปลี่ยนค่าร่ายของ[b]มินเนี่ยนทั้งหมด[b]ในเด็คคุณเป็น (1)\n\t\t使你牌库中所有随从牌的法力值消耗变为（1）点。\n\t\t將你牌堆中\n全部手下的消耗\n改為(1)\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_257",
+    "dbfId": 48198,
+    "name": "루나의 휴대용 우주",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 7,
+    "text": "내 덱에 있는 하수인들의 비용을 (1)로 바꿉니다.",
+    "flavor": "루나는 선임자가 휴대용 블랙홀을 만든 후에 점성학 부서를 이어받았습니다.",
+    "spellSchool": "ARCANE",
+    "portrait": "HS14-024_S.psd:7188a15fc925a2848bc762d02a538e4a",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 1
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_257.png",
+    "nativeRawText": "내 덱에 있는 하수인들의 비용을 (1)로 바꿉니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "7",
+      "114": "1",
+      "183": "1127",
+      "199": "4",
+      "202": "5",
+      "203": "5",
+      "321": "1",
+      "1635": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_257",
+    "dbfId": 48198,
+    "name": "루나의 휴대용 우주",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 7,
+    "text": "내 덱에 있는 하수인들의 비용을 (1)로 바꿉니다.",
+    "flavor": "루나는 선임자가 휴대용 블랙홀을 만든 후에 점성학 부서를 이어받았습니다.",
+    "spellSchool": "",
+    "portrait": "HS14-024_S.psd:7188a15fc925a2848bc762d02a538e4a",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_257.png",
+    "nativeRawText": "내 덱에 있는 하수인들의 비용을 (1)로 바꿉니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "7",
+      "114": "1",
+      "183": "1127",
+      "199": "4",
+      "202": "5",
+      "203": "5",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2019-06-04": {
+    "cost": 5,
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 48,
+        "before": "7",
+        "after": "5"
+      }
+    ],
+    "source": {
+      "beforeBuild": 31022,
+      "afterBuild": 31268,
+      "beforeCommit": "089a94c2fc524cc52ee7697ad4430fd52240d6a0",
+      "afterCommit": "d4dcf70622f19beddd0d6d56fdd5f053da99d223",
+      "beforeXmlSha256": "95219fea6d5638fa31890deb6468518c9a9189155f3e1f29512ec5758fe2adbe",
+      "afterXmlSha256": "016adca4cafcd19f2d9eb3397b7acd3035db594b5c5bd91e77370f57bdb483c4",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Luna's Pocket Galaxy"
+            },
+            "koKR": {
+              "present": true,
+              "value": "루나의 휴대용 우주"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tLunas Taschengalaxie\n\t\t\tLuna's Pocket Galaxy\n\t\t\tGalaxia de bolsillo de Luna\n\t\t\tGalaxia de bolsillo de Luna\n\t\t\tGalaxie de poche de Luna\n\t\t\tGalassia Portatile di Luna\n\t\t\tルナのポケット銀河系\n\t\t\t루나의 휴대용 우주\n\t\t\tMiniaturowa galaktyka Luny\n\t\t\tGaláxia Portátil de Luna\n\t\t\tМикрогалактика Луны\n\t\t\tกาแล็กซีฉบับกระเป๋าของลูน่า\n\t\t\t露娜的口袋银河\n\t\t\t露娜的口袋銀河\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Change the Cost of minions in your\ndeck to (1)."
+            },
+            "koKR": {
+              "present": true,
+              "value": "내 덱에 있는 하수인들의 비용을 (1)로 바꿉니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tSetzt die Kosten von Dienern in Eurem Deck auf (1).\n\t\t\tChange the Cost of minions in your\ndeck to (1).\n\t\t\tCambia el coste\nde los esbirros\nde tu mazo a (1).\n\t\t\tCambia el costo de los esbirros de tu mazo a (1).\n\t\t\tFait passer à (1)_|4(cristal,cristaux) le coût des serviteurs dans votre deck.\n\t\t\t[x]Imposta a (1) il\ncosto dei servitori\nnel tuo mazzo.\n\t\t\t[x]自分のデッキの\nミニオン全ての\nコストを\n（1）にする。\n\t\t\t내 덱에 있는 하수인들의 비용을 (1)로 바꿉니다.\n\t\t\tZmień koszt stronników w twojej talii na (1).\n\t\t\tMude o custo dos lacaios do seu deck para (1).\n\t\t\tСтоимость всех существ в колоде становится равна (1).\n\t\t\tเปลี่ยนค่าร่ายของ[b]มินเนี่ยนทั้งหมด[b]ในเด็คคุณเป็น (1)\n\t\t\t使你牌库中所有随从牌的法力值消耗变为（1）。\n\t\t\t將你牌堆中\n全部手下的消耗\n改為(1)\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Luna's Pocket Galaxy"
+            },
+            "koKR": {
+              "present": true,
+              "value": "루나의 휴대용 우주"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tLunas Taschengalaxie\n\t\t\tLuna's Pocket Galaxy\n\t\t\tGalaxia de bolsillo de Luna\n\t\t\tGalaxia de bolsillo de Luna\n\t\t\tGalaxie de poche de Luna\n\t\t\tGalassia Portatile di Luna\n\t\t\tルナのポケット銀河系\n\t\t\t루나의 휴대용 우주\n\t\t\tMiniaturowa galaktyka Luny\n\t\t\tGaláxia Portátil de Luna\n\t\t\tМикрогалактика Луны\n\t\t\tกาแล็กซีฉบับกระเป๋าของลูน่า\n\t\t\t露娜的口袋银河\n\t\t\t露娜的口袋銀河\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Change the Cost of minions in your\ndeck to (1)."
+            },
+            "koKR": {
+              "present": true,
+              "value": "내 덱에 있는 하수인들의 비용을 (1)로 바꿉니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tSetzt die Kosten von Dienern in Eurem Deck auf (1).\n\t\t\tChange the Cost of minions in your\ndeck to (1).\n\t\t\tCambia el coste\nde los esbirros\nde tu mazo a (1).\n\t\t\tCambia el costo de los esbirros de tu mazo a (1).\n\t\t\tFait passer à (1)_|4(cristal,cristaux) le coût des serviteurs dans votre deck.\n\t\t\t[x]Imposta a (1) il\ncosto dei servitori\nnel tuo mazzo.\n\t\t\t[x]自分のデッキの\nミニオン全ての\nコストを\n（1）にする。\n\t\t\t내 덱에 있는 하수인들의 비용을 (1)로 바꿉니다.\n\t\t\tZmień koszt stronników w twojej talii na (1).\n\t\t\tMude o custo dos lacaios do seu deck para (1).\n\t\t\tСтоимость всех существ в колоде становится равна (1).\n\t\t\tเปลี่ยนค่าร่ายของ[b]มินเนี่ยนทั้งหมด[b]ในเด็คคุณเป็น (1)\n\t\t\t使你牌库中所有随从牌的法力值消耗变为（1）。\n\t\t\t將你牌堆中\n全部手下的消耗\n改為(1)\n\t\t"
+        }
+      }
+    }
+  },
+  "2019-08-27": {
+    "cost": 7,
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 48,
+        "before": "5",
+        "after": "7"
+      }
+    ],
+    "source": {
+      "beforeBuild": 33157,
+      "afterBuild": 33402,
+      "beforeCommit": "85b5a219afe49d5015725c344fd7412945a346b7",
+      "afterCommit": "dd224aedef671a1bad6479df2a0e9cb2ea6da3cc",
+      "beforeXmlSha256": "82b6923cd7304131586c3acdbbca4a9ff9a64cb1d6db7403bdaf3d4ef4f5b8d1",
+      "afterXmlSha256": "71d952172884246deac0bed81d20421f31b6d6796d684efee87abb0cc4625afa",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Luna's Pocket Galaxy"
+            },
+            "koKR": {
+              "present": true,
+              "value": "루나의 휴대용 우주"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tLunas Taschengalaxie\n\t\t\tLuna's Pocket Galaxy\n\t\t\tGalaxia de bolsillo de Luna\n\t\t\tGalaxia de bolsillo de Luna\n\t\t\tGalaxie de poche de Luna\n\t\t\tGalassia Portatile di Luna\n\t\t\tルナのポケット銀河系\n\t\t\t루나의 휴대용 우주\n\t\t\tMiniaturowa galaktyka Luny\n\t\t\tGaláxia Portátil de Luna\n\t\t\tМикрогалактика Луны\n\t\t\tกาแล็กซีฉบับกระเป๋าของลูน่า\n\t\t\t露娜的口袋银河\n\t\t\t露娜的口袋銀河\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Change the Cost of minions in your\ndeck to (1)."
+            },
+            "koKR": {
+              "present": true,
+              "value": "내 덱에 있는 하수인들의 비용을 (1)로 바꿉니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tSetzt die Kosten von Dienern in Eurem Deck auf (1).\n\t\t\tChange the Cost of minions in your\ndeck to (1).\n\t\t\tCambia el coste\nde los esbirros\nde tu mazo a (1).\n\t\t\tCambia el costo de los esbirros de tu mazo a (1).\n\t\t\tFait passer à (1)_|4(cristal,cristaux) le coût des serviteurs dans votre deck.\n\t\t\t[x]Imposta a (1) il\ncosto dei servitori\nnel tuo mazzo.\n\t\t\t[x]自分のデッキの\nミニオン全ての\nコストを\n（1）にする。\n\t\t\t내 덱에 있는 하수인들의 비용을 (1)로 바꿉니다.\n\t\t\tZmień koszt stronników w twojej talii na (1).\n\t\t\tMude o custo dos lacaios do seu deck para (1).\n\t\t\tСтоимость существ в_колоде становится равна (1).\n\t\t\tเปลี่ยนค่าร่ายของ[b]มินเนี่ยนทั้งหมด[b]ในเด็คคุณเป็น (1)\n\t\t\t使你牌库中所有随从牌的法力值消耗变为（1）。\n\t\t\t將你牌堆中\n全部手下的消耗\n改為(1)\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Luna's Pocket Galaxy"
+            },
+            "koKR": {
+              "present": true,
+              "value": "루나의 휴대용 우주"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tLunas Taschengalaxie\n\t\t\tLuna's Pocket Galaxy\n\t\t\tGalaxia de bolsillo de Luna\n\t\t\tGalaxia de bolsillo de Luna\n\t\t\tGalaxie de poche de Luna\n\t\t\tGalassia Portatile di Luna\n\t\t\tルナのポケット銀河系\n\t\t\t루나의 휴대용 우주\n\t\t\tMiniaturowa galaktyka Luny\n\t\t\tGaláxia Portátil de Luna\n\t\t\tМикрогалактика Луны\n\t\t\tกาแล็กซีฉบับกระเป๋าของลูน่า\n\t\t\t露娜的口袋银河\n\t\t\t露娜的口袋銀河\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Change the Cost of minions in your\ndeck to (1)."
+            },
+            "koKR": {
+              "present": true,
+              "value": "내 덱에 있는 하수인들의 비용을 (1)로 바꿉니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tSetzt die Kosten von Dienern in Eurem Deck auf (1).\n\t\t\tChange the Cost of minions in your\ndeck to (1).\n\t\t\tCambia el coste\nde los esbirros\nde tu mazo a (1).\n\t\t\tCambia el costo de los esbirros de tu mazo a (1).\n\t\t\tFait passer à (1)_|4(cristal,cristaux) le coût des serviteurs dans votre deck.\n\t\t\t[x]Imposta a (1) il\ncosto dei servitori\nnel tuo mazzo.\n\t\t\t[x]自分のデッキの\nミニオン全ての\nコストを\n（1）にする。\n\t\t\t내 덱에 있는 하수인들의 비용을 (1)로 바꿉니다.\n\t\t\tZmień koszt stronników w twojej talii na (1).\n\t\t\tMude o custo dos lacaios do seu deck para (1).\n\t\t\tСтоимость существ в_колоде становится равна (1).\n\t\t\tเปลี่ยนค่าร่ายของ[b]มินเนี่ยนทั้งหมด[b]ในเด็คคุณเป็น (1)\n\t\t\t使你牌库中所有随从牌的法力值消耗变为（1）。\n\t\t\t將你牌堆中\n全部手下的消耗\n改為(1)\n\t\t"
+        }
+      }
+    }
+  },
+  "2021-03-26": {
+    "spellSchool": "ARCANE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 1
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 1635,
+        "before": "ABSENT",
+        "after": "1"
+      }
+    ],
+    "source": {
+      "beforeBuild": 44222,
+      "afterBuild": 77662,
+      "beforeCommit": "fc67953f6f6eee064badde3f4a7bd07011508642",
+      "afterCommit": "9e10b526eed8a9c5ece2f73f0c2a6a3b60109d62",
+      "beforeXmlSha256": "abe292d304af3fec9d84707b8326cf4104e370b8fc93e8adfa2c1156988cfdf5",
+      "afterXmlSha256": "36879caf88f629052e57d728d1fb3649a21f7198f649ab1cdc916c72ab1b8e29",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Luna's Pocket Galaxy"
+            },
+            "koKR": {
+              "present": true,
+              "value": "루나의 휴대용 우주"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tLunas Taschengalaxie\n\t\t\tLuna's Pocket Galaxy\n\t\t\tGalaxia de bolsillo de Luna\n\t\t\tGalaxia de bolsillo de Luna\n\t\t\tGalaxie de poche de Luna\n\t\t\tGalassia Portatile di Luna\n\t\t\tルナのポケット銀河系\n\t\t\t루나의 휴대용 우주\n\t\t\tMiniaturowa galaktyka Luny\n\t\t\tGaláxia Portátil de Luna\n\t\t\tМикрогалактика Луны\n\t\t\tกาแล็กซีฉบับกระเป๋าของลูน่า\n\t\t\t露娜的口袋银河\n\t\t\t露娜的口袋銀河\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Change the Cost of minions in your\ndeck to (1)."
+            },
+            "koKR": {
+              "present": true,
+              "value": "내 덱에 있는 하수인들의 비용을 (1)로 바꿉니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tSetzt die Kosten von Dienern in Eurem Deck auf (1).\n\t\t\tChange the Cost of minions in your\ndeck to (1).\n\t\t\tCambia el coste\nde los esbirros\nde tu mazo a (1).\n\t\t\tCambia el costo de los esbirros de tu mazo a (1).\n\t\t\tFait passer à (1)_|4(cristal,cristaux) le coût des serviteurs dans votre deck.\n\t\t\t[x]Imposta a (1) il\ncosto dei servitori\nnel tuo mazzo.\n\t\t\t[x]自分のデッキの\nミニオン全ての\nコストを\n（1）にする。\n\t\t\t내 덱에 있는 하수인들의 비용을 (1)로 바꿉니다.\n\t\t\tZmień koszt stronników w twojej talii na (1).\n\t\t\tMude o custo dos lacaios do seu deck para (1).\n\t\t\tСтоимость существ в_колоде становится равна (1).\n\t\t\tเปลี่ยนค่าร่ายของ[b]มินเนี่ยนทั้งหมด[b]ในเด็คคุณเป็น (1)\n\t\t\t使你牌库中所有随从牌的法力值消耗变为（1）点。\n\t\t\t將你牌堆中\n全部手下的消耗\n改為(1)\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Luna's Pocket Galaxy"
+            },
+            "koKR": {
+              "present": true,
+              "value": "루나의 휴대용 우주"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tLunas Taschengalaxie\n\t\t\tLuna's Pocket Galaxy\n\t\t\tGalaxia de bolsillo de Luna\n\t\t\tGalaxia de bolsillo de Luna\n\t\t\tGalaxie de poche de Luna\n\t\t\tGalassia Portatile di Luna\n\t\t\tルナのポケット銀河系\n\t\t\t루나의 휴대용 우주\n\t\t\tMiniaturowa galaktyka Luny\n\t\t\tGaláxia Portátil de Luna\n\t\t\tМикрогалактика Луны\n\t\t\tกาแล็กซีฉบับกระเป๋าของลูน่า\n\t\t\t露娜的口袋银河\n\t\t\t露娜的口袋銀河\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Change the Cost of minions in your\ndeck to (1)."
+            },
+            "koKR": {
+              "present": true,
+              "value": "내 덱에 있는 하수인들의 비용을 (1)로 바꿉니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tSetzt die Kosten von Dienern in Eurem Deck auf (1).\n\t\t\tChange the Cost of minions in your\ndeck to (1).\n\t\t\tCambia el coste\nde los esbirros\nde tu mazo a (1).\n\t\t\tCambia el costo de los esbirros de tu mazo a (1).\n\t\t\tFait passer à (1)_|4(cristal,cristaux) le coût des serviteurs dans votre deck.\n\t\t\t[x]Imposta a (1) il\ncosto dei servitori\nnel tuo mazzo.\n\t\t\t[x]自分のデッキの\nミニオン全ての\nコストを\n（1）にする。\n\t\t\t내 덱에 있는 하수인들의 비용을 (1)로 바꿉니다.\n\t\t\tZmień koszt stronników w twojej talii na (1).\n\t\t\tMude o custo dos lacaios do seu deck para (1).\n\t\t\tСтоимость существ в_колоде становится равна (1).\n\t\t\tเปลี่ยนค่าร่ายของ[b]มินเนี่ยนทั้งหมด[b]ในเด็คคุณเป็น (1)\n\t\t\t使你牌库中所有随从牌的法力值消耗变为（1）点。\n\t\t\t將你牌堆中\n全部手下的消耗\n改為(1)\n\t\t"
+        }
+      }
+    }
+  }
+}

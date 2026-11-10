@@ -1,1 +1,250 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_529","dbfId":49013,"name":"신의 권능: 복제","type":"SPELL","cardClass":"PRIEST","rarity":"EPIC","collectible":true,"cost":5,"text":"아군 하수인을<br></br>선택합니다. 그 하수인을<br></br>복사하여 5/5 하수인으로<br></br>소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"신의 권능: 폭사, 조립, 분해, 야근 등과 함께 묶음 상품으로도 구매할 수 있습니다.","spellSchool":"","portrait":"HS14-142_S.psd:9593491b5579eec4eb2ef2f7fa7457be","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0}],"races":[],"race":"","classes":[],"art":"art/BOT_529.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-142_S.psd:9593491b5579eec4eb2ef2f7fa7457be","goldenMaterial":"BOT_529_PremiumCard.mat:702c3ec64ae30b942be01ae8476fc544","goldenAnimation":"BOT_529_PremiumCard.asset:70520fb4c91a4c347a8b30c27d0f264d"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-142_S.psd:9593491b5579eec4eb2ef2f7fa7457be",
+      "goldenMaterial": "BOT_529_PremiumCard.mat:702c3ec64ae30b942be01ae8476fc544",
+      "goldenAnimation": "BOT_529_PremiumCard.asset:70520fb4c91a4c347a8b30c27d0f264d"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Power Word: Replicate"
+          },
+          "koKR": {
+            "present": true,
+            "value": "신의 권능: 복제"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tMachtwort: Klonen\n\t\t\tPower Word: Replicate\n\t\t\tPalabra de poder: réplica\n\t\t\tPalabra de poder: Duplicar\n\t\t\tMot de pouvoir : Réplication\n\t\t\tParola del Potere: Replica\n\t\t\t真言・複製\n\t\t\t신의 권능: 복제\n\t\t\tSłowo mocy: replikacja\n\t\t\tPalavra de Poder: Replicar\n\t\t\tСлово силы: Репликация\n\t\t\tวาจาแห่งพลัง: จำลอง\n\t\t\t真言术：仿\n\t\t\t真言術：仿\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Choose a friendly minion. Summon a 5/5 copy of it."
+          },
+          "koKR": {
+            "present": true,
+            "value": "아군 하수인\n하나를 선택합니다.\n그 하수인을 복사하여 5/5\n하수인으로 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tWählt einen befreundeten Diener und ruft eine Kopie (5/5) davon herbei.\n\t\t\tChoose a friendly minion. Summon a 5/5 copy of it.\n\t\t\t[x]Elige a un esbirro\namistoso. Invoca\nuna copia 5/5\nde ese esbirro.\n\t\t\tElige un esbirro aliado e invoca una copia 5/5 de él.\n\t\t\tVous choisissez un serviteur allié. En invoque une copie_5/5.\n\t\t\tSeleziona un tuo servitore. Ne evoca una copia 5/5.\n\t\t\t[x]味方のミニオン\n1体を選択する。\nそのミニオンの5/5の\nコピーを1体召喚する。\n\t\t\t아군 하수인\n하나를 선택합니다.\n그 하수인을 복사하여 5/5\n하수인으로 소환합니다.\n\t\t\tWybierz przyjaznego stronnika. Przyzwij_jego_kopię_5/5.\n\t\t\tEscolha um lacaio aliado. Evoque uma cópia 5/5 dele.\n\t\t\tПризывает копию 5/5 вашего выбранного существа.\n\t\t\tเลือกมินเนี่ยนฝ่ายคุณหนึ่งตัว เรียกร่างก๊อปปี้ 5/5 ของมัน\n\t\t\t选择一个友方随从，召唤一个该随从的5/5复制。\n\t\t\t選擇一個友方手下，召喚一個\n它的5/5分身\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Power Word: Replicate"
+          },
+          "koKR": {
+            "present": true,
+            "value": "신의 권능: 복제"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tMachtwort: Klonen\n\t\tPower Word: Replicate\n\t\tPalabra de poder: réplica\n\t\tPalabra de poder: Duplicar\n\t\tMot de pouvoir : Réplication\n\t\tParola del Potere: Replica\n\t\t真言・複製\n\t\t신의 권능: 복제\n\t\tSłowo mocy: Replikacja\n\t\tPalavra de Poder: Replicar\n\t\tСлово силы: Репликация\n\t\tวาจาแห่งพลัง: จำลอง\n\t\t真言术：仿\n\t\t真言術：仿\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Choose a friendly minion. Summon a 5/5 copy of it."
+          },
+          "koKR": {
+            "present": true,
+            "value": "아군 하수인을\n선택합니다. 그 하수인을\n복사하여 5/5 하수인으로\n소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tWählt einen befreundeten Diener und ruft eine Kopie (5/5) davon herbei.\n\t\tChoose a friendly minion. Summon a 5/5 copy of it.\n\t\t[x]Elige a un esbirro\namistoso. Invoca\nuna copia 5/5\nde ese esbirro.\n\t\tElige un esbirro aliado e invoca una copia 5/5 de él.\n\t\tVous choisissez un serviteur allié. En invoque une copie_5/5.\n\t\tSeleziona un tuo servitore. Ne evoca una copia 5/5.\n\t\t[x]味方のミニオン\n1体を選択する。\nそのミニオンの5/5の\nコピーを1体召喚する。\n\t\t아군 하수인을\n선택합니다. 그 하수인을\n복사하여 5/5 하수인으로\n소환합니다.\n\t\tWybierz przyjaznego stronnika. Przyzwij_jego_kopię_5/5.\n\t\tEscolha um lacaio aliado. Evoque uma cópia 5/5 dele.\n\t\tПризывает копию 5/5 вашего выбранного существа.\n\t\tเลือกมินเนี่ยนฝ่ายคุณ[b]หนึ่งตัว เรียกร่างก๊อปปี้ 5/5 ของมัน\n\t\t选择一个友方随从，召唤一个该随从的5/5复制。\n\t\t選擇一個友方手下，召喚一個\n它的5/5分身\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_529",
+    "dbfId": 49013,
+    "name": "신의 권능: 복제",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "아군 하수인을<br></br>선택합니다. 그 하수인을<br></br>복사하여 5/5 하수인으로<br></br>소환합니다.",
+    "flavor": "신의 권능: 폭사, 조립, 분해, 야근 등과 함께 묶음 상품으로도 구매할 수 있습니다.",
+    "spellSchool": "",
+    "portrait": "HS14-142_S.psd:9593491b5579eec4eb2ef2f7fa7457be",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_529.png",
+    "nativeRawText": "아군 하수인을\n선택합니다. 그 하수인을\n복사하여 5/5 하수인으로\n소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "5",
+      "183": "1127",
+      "199": "6",
+      "202": "5",
+      "203": "4",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_529",
+    "dbfId": 49013,
+    "name": "신의 권능: 복제",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "아군 하수인<br></br>하나를 선택합니다.<br></br>그 하수인을 복사하여 5/5<br></br>하수인으로 소환합니다.",
+    "flavor": "신의 권능: 폭사, 조립, 분해, 야근 등과 함께 묶음 상품으로도 구매할 수 있습니다.",
+    "spellSchool": "",
+    "portrait": "HS14-142_S.psd:9593491b5579eec4eb2ef2f7fa7457be",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_529.png",
+    "nativeRawText": "아군 하수인\n하나를 선택합니다.\n그 하수인을 복사하여 5/5\n하수인으로 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "5",
+      "183": "1127",
+      "199": "6",
+      "202": "5",
+      "203": "4",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

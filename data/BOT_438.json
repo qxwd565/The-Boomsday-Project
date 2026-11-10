@@ -1,1 +1,264 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_438","dbfId":48772,"name":"사이버공학 칩","type":"SPELL","cardClass":"HUNTER","rarity":"RARE","collectible":true,"cost":2,"text":"내 하수인들에게 \"<b>죽음의 메아리:</b> 무작위 기계를 내 손으로 가져옴\" 능력을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"사이버공학 소스도 곁들여 드세요.","spellSchool":"","portrait":"HS14-156_S.psd:c2fb01b547a9c014098369082df77aa1","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0}],"races":[],"race":"","classes":[],"art":"art/BOT_438.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-156_S.psd:c2fb01b547a9c014098369082df77aa1","goldenMaterial":"BOT_438_PremiumCard.mat:2e93393fc16b49f4a87dbea6d1852339","goldenAnimation":"BOT_438_PremiumCard.asset:ba3bf5c79c8b7c843a890165f807c4fe"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-156_S.psd:c2fb01b547a9c014098369082df77aa1",
+      "goldenMaterial": "BOT_438_PremiumCard.mat:2e93393fc16b49f4a87dbea6d1852339",
+      "goldenAnimation": "BOT_438_PremiumCard.asset:ba3bf5c79c8b7c843a890165f807c4fe"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Cybertech Chip"
+          },
+          "koKR": {
+            "present": true,
+            "value": "사이버공학 칩"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tCybertechchip\n\t\t\tCybertech Chip\n\t\t\tChip cibertecnológico\n\t\t\tChip cibernético\n\t\t\tPuce cybertech\n\t\t\tProcessore Cibernetico\n\t\t\tサイバーチップ\n\t\t\t사이버공학 칩\n\t\t\tCyberwszczepka\n\t\t\tImplante Cibernético\n\t\t\tКиберчип\n\t\t\tชิปไซเบอร์เทค\n\t\t\t机核芯片\n\t\t\t機械改造晶片\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Give your minions \"<b>Deathrattle:</b> Add a random Mech to your_hand.\""
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 하수인들에게 \"<b>죽음의 메아리:</b> 무작위 기계 카드 1장을 내 손으로 가져옴\" 능력을 부여합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tVerleiht Euren Dienern „<b>Todesröcheln:</b> Erhaltet einen zufälligen Mech auf die Hand“.\n\t\t\tGive your minions \"<b>Deathrattle:</b> Add a random Mech to your_hand.\"\n\t\t\t[x]Otorga a tus esbirros\n«<b>Último aliento:</b> Añade\nun robot aleatorio\na tu mano».\n\t\t\tTus esbirros obtienen \"<b>Estertor:</b> agrega un Meca aleatorio a tu mano\".\n\t\t\tConfère à vos serviteurs «_<b>Râle d’agonie_:</b> ajoute une carte Méca aléatoire dans votre main._»\n\t\t\tFornisce \"<b>Rantolo di Morte:</b> mette nella tua mano un Robot casuale\" ai tuoi servitori.\n\t\t\t[x]味方のミニオン全てに\n「<b>断末魔:</b> ランダムな\nメカ1体を自分の手札に\n追加する」を付与する。\n\t\t\t내 하수인들에게 \"<b>죽음의 메아리:</b> 무작위 기계 카드 1장을 내 손으로 가져옴\" 능력을 부여합니다.\n\t\t\tDaj twoim stronnikom opis „<b>Agonia:</b> Dodaj losowego Mecha do twojej ręki”.\n\t\t\tConceda aos seus lacaios \"<b>Último Suspiro:</b> Adicione um Mecanoide aleatório à sua mão\".\n\t\t\tВаши существа получают «<b>Предсмертный хрип:</b> вы_кладете в руку случайный механизм».\n\t\t\tมอบ \"<b>เสียงสุดท้าย:</b> สุ่มเพิ่มการ์ดเครื่องจักร[b]หนึ่งใบในมือคุณ\" ให้มินเนี่ยนทั้งหมดของคุณ\n\t\t\t使你的所有随从获得\n“<b>亡语：</b>随机将一张机械牌置入你的手牌”。\n\t\t\t賦予你的手下\n<i><b>死亡之聲：</b>放一個\n隨機機械到你手中</i>\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Cybertech Chip"
+          },
+          "koKR": {
+            "present": true,
+            "value": "사이버공학 칩"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tCybertechchip\n\t\tCybertech Chip\n\t\tChip cibertecnológico\n\t\tChip cibernético\n\t\tPuce cybertech\n\t\tProcessore Cibernetico\n\t\tサイバーチップ\n\t\t사이버공학 칩\n\t\tCyberwszczepka\n\t\tImplante Cibernético\n\t\tКиберчип\n\t\tชิปไซเบอร์เทค\n\t\t机核芯片\n\t\t機械改造晶片\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Give your minions \"<b>Deathrattle:</b> Add a random Mech to your_hand.\""
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 하수인들에게 \"<b>죽음의_메아리:</b> 무작위 기계를 내 손으로 가져옴\" 능력을 부여합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tVerleiht Euren Dienern „<b>Todesröcheln:</b> Erhaltet einen zufälligen Mech auf die Hand“.\n\t\tGive your minions \"<b>Deathrattle:</b> Add a random Mech to your_hand.\"\n\t\t[x]Otorga a tus esbirros\n«<b>Último aliento:</b> Añade\nun robot aleatorio\na tu mano».\n\t\tTus esbirros obtienen \"<b>Estertor:</b> agrega un Meca aleatorio a tu mano\".\n\t\tConfère à vos serviteurs «_<b>Râle d’agonie_:</b> ajoute une carte Méca aléatoire dans votre main._»\n\t\tFornisce \"<b>Rantolo di Morte:</b> mette nella tua mano un Robot casuale\" ai tuoi servitori.\n\t\t[x]味方のミニオン全てに\n「<b>断末魔:</b> ランダムな\nメカ1体を自分の手札に\n追加する」を付与する。\n\t\t내 하수인들에게 \"<b>죽음의_메아리:</b> 무작위 기계를 내 손으로 가져옴\" 능력을 부여합니다.\n\t\tDaj twoim stronnikom opis „<b>Agonia:</b> Dodaj losowego Mecha do twojej ręki”.\n\t\tConceda aos seus lacaios \"<b>Último Suspiro:</b> Adicione um Mecanoide aleatório à sua mão\".\n\t\tВаши существа получают «<b>Предсмертный хрип:</b> вы_кладете в руку случайный механизм».\n\t\tมอบ_\"<b>เสียงสุดท้าย:</b> สุ่มเพิ่ม[b]เครื่องจักรหนึ่งใบในมือคุณ\" ให้มินเนี่ยนของคุณทั้งหมด\n\t\t使你的所有随从获得\n“<b>亡语：</b>随机将一张机械牌置入你的手牌”。\n\t\t賦予你的手下\n<i><b>死亡之聲：</b>放一個\n隨機機械到你手中</i>\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_438",
+    "dbfId": 48772,
+    "name": "사이버공학 칩",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "내 하수인들에게 \"<b>죽음의 메아리:</b> 무작위 기계를 내 손으로 가져옴\" 능력을 부여합니다.",
+    "flavor": "사이버공학 소스도 곁들여 드세요.",
+    "spellSchool": "",
+    "portrait": "HS14-156_S.psd:c2fb01b547a9c014098369082df77aa1",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_438.png",
+    "nativeRawText": "내 하수인들에게 \"<b>죽음의_메아리:</b> 무작위 기계를 내 손으로 가져옴\" 능력을 부여합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "2",
+      "183": "1127",
+      "199": "3",
+      "202": "5",
+      "203": "3",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {
+      "217": "1"
+    }
+  },
+  "2018-08-08": {
+    "id": "BOT_438",
+    "dbfId": 48772,
+    "name": "사이버공학 칩",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "내 하수인들에게 \"<b>죽음의 메아리:</b> 무작위 기계 카드 1장을 내 손으로 가져옴\" 능력을 부여합니다.",
+    "flavor": "사이버공학 소스도 곁들여 드세요.",
+    "spellSchool": "",
+    "portrait": "HS14-156_S.psd:c2fb01b547a9c014098369082df77aa1",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_438.png",
+    "nativeRawText": "내 하수인들에게 \"<b>죽음의 메아리:</b> 무작위 기계 카드 1장을 내 손으로 가져옴\" 능력을 부여합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "2",
+      "183": "1127",
+      "199": "3",
+      "202": "5",
+      "203": "3",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {
+      "217": "1"
+    },
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

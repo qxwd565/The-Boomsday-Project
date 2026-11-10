@@ -1,1 +1,216 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_312t","dbfId":48842,"name":"초소형 로봇","type":"MINION","cardClass":"NEUTRAL","collectible":false,"cost":1,"text":"","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS14-177_M.psd:c325fec21030ab7419f9c4a950fbd464","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":321,"name":"수집 가능","value":0}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/BOT_312t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-177_M.psd:c325fec21030ab7419f9c4a950fbd464","goldenMaterial":"BOT_312t_PremiumCard.mat:dd3b5fc39af44914ea98923ff1157cf5","goldenAnimation":"BOT_312t_PremiumCard.asset:d719cbacdf2a00748833fdd59b294179"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-177_M.psd:c325fec21030ab7419f9c4a950fbd464",
+      "goldenMaterial": "BOT_312t_PremiumCard.mat:dd3b5fc39af44914ea98923ff1157cf5",
+      "goldenAnimation": "BOT_312t_PremiumCard.asset:d719cbacdf2a00748833fdd59b294179"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Microbot"
+          },
+          "koKR": {
+            "present": true,
+            "value": "초소형 로봇"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tMikrobot\n\t\t\tMicrobot\n\t\t\tMicrobot\n\t\t\tMicrobot\n\t\t\tMicrobot\n\t\t\tMicrobot\n\t\t\tマイクロロボ\n\t\t\t초소형 로봇\n\t\t\tMikrobot\n\t\t\tMicrorrobô\n\t\t\tМикробот\n\t\t\tไมโครบอท\n\t\t\t微型机器人\n\t\t\t微型機器人\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Microbot"
+          },
+          "koKR": {
+            "present": true,
+            "value": "초소형 로봇"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tMikrobot\n\t\tMicrobot\n\t\tMicrobot\n\t\tMicrobot\n\t\tMicrobot\n\t\tMicrobot\n\t\tマイクロロボ\n\t\t초소형 로봇\n\t\tMikrobot\n\t\tMicrorrobô\n\t\tМикробот\n\t\tไมโครบอท\n\t\t微型机器人\n\t\t微型機器人\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": false,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": false,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_312t",
+    "dbfId": 48842,
+    "name": "초소형 로봇",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 1,
+    "health": 1,
+    "flavor": "",
+    "portrait": "HS14-177_M.psd:c325fec21030ab7419f9c4a950fbd464",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 0
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_312t.png",
+    "nativeTagsOwned": {
+      "185": "",
+      "342": "",
+      "45": "1",
+      "47": "1",
+      "48": "1",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "202": "4"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_312t",
+    "dbfId": 48842,
+    "name": "초소형 로봇",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 1,
+    "attack": 1,
+    "health": 1,
+    "flavor": "",
+    "portrait": "HS14-177_M.psd:c325fec21030ab7419f9c4a950fbd464",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_312t.png",
+    "nativeTagsOwned": {
+      "185": "",
+      "342": "",
+      "45": "1",
+      "47": "1",
+      "48": "1",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "202": "4"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

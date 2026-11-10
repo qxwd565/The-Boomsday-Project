@@ -1,1 +1,315 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_537","dbfId":49169,"name":"기계 알","type":"MINION","cardClass":"PALADIN","rarity":"COMMON","collectible":true,"cost":5,"text":"<b>죽음의 메아리:</b><br></br>8/8 공룡로봇을 소환합니다.","attack":0,"health":5,"durability":0,"armor":0,"flavor":"식단에 철분이 더 필요할 때 안성맞춤입니다.","spellSchool":"","portrait":"HS14-179_M.psd:27409bd6e69c5d44cb6abc3612da5f6b","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":5},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1429,"name":"전장 황금 하수인 ID","value":58387},{"id":1440,"name":"선술집 단계","value":4},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":49168},{"id":1456,"name":"전장 하수인 목록","value":0},{"id":1595,"name":"전장 기계 분류","value":1}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/BOT_537.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-179_M.psd:27409bd6e69c5d44cb6abc3612da5f6b","goldenMaterial":"BOT_537_PremiumCard.mat:b517c36a1f4c9644eab6ca6a52ee4a40","goldenAnimation":"BOT_537_PremiumCard.asset:c500961b65caa7240af8d967778565a7"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-179_M.psd:27409bd6e69c5d44cb6abc3612da5f6b",
+      "goldenMaterial": "BOT_537_PremiumCard.mat:b517c36a1f4c9644eab6ca6a52ee4a40",
+      "goldenAnimation": "BOT_537_PremiumCard.asset:c500961b65caa7240af8d967778565a7"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Mechano-Egg"
+          },
+          "koKR": {
+            "present": true,
+            "value": "기계 알"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tMechanoei\n\t\t\tMechano-Egg\n\t\t\tMecahuevo\n\t\t\tHuevo mecánico\n\t\t\tMécanœuf\n\t\t\tRobouovo\n\t\t\tメカーノ・エッグ\n\t\t\t기계 알\n\t\t\tMechaniczne jajo\n\t\t\tOvo Mecânico\n\t\t\tМеханояйцо\n\t\t\tเมคาโน-เอ้ก\n\t\t\t机械蛋\n\t\t\t機械蛋\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Summon an 8/8 Robosaur."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b>\n8/8 공룡로봇을\n하나 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Todesröcheln:</b> Ruft einen Robosaurus (8/8) herbei.\n\t\t\t<b>Deathrattle:</b> Summon an 8/8 Robosaur.\n\t\t\t<b>Último aliento:</b>\nInvoca un robosaurio 8/8.\n\t\t\t<b>Estertor:</b> invoca un Robosaurio 8/8.\n\t\t\t<b>Râle d’agonie_:</b> invoque un robosaure_8/8.\n\t\t\t[x]<b>Rantolo di Morte:</b>\nevoca un Robosauro 8/8.\n\t\t\t[x]<b>断末魔:</b>\n8/8の\n「ロボザウルス」を\n__1体召喚する。\n\t\t\t<b>죽음의 메아리:</b>\n8/8 공룡로봇을\n하나 소환합니다.\n\t\t\t<b>Agonia:</b> Przyzwij Robozaura 8/8.\n\t\t\t<b>Último Suspiro:</b> Evoque um Robossauro 8/8.\n\t\t\t<b>Предсмертный хрип:</b> призывает робозавра_8/8.\n\t\t\t<b>เสียงสุดท้าย:</b> เรียกโรโบซอร์ 8/8\n\t\t\t<b>亡语：</b>召唤一个8/8的机械暴龙。\n\t\t\t<b>死亡之聲：</b>召喚一個\n8/8機械暴龍\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Mechano-Egg"
+          },
+          "koKR": {
+            "present": true,
+            "value": "기계 알"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tMechanoei\n\t\tMechano-Egg\n\t\tMecahuevo\n\t\tHuevo mecánico\n\t\tMécanœuf\n\t\tRobouovo\n\t\tメカーノ・エッグ\n\t\t기계 알\n\t\tMechaniczne jajo\n\t\tOvo Mecânico\n\t\tМеханояйцо\n\t\tเมคาโน-เอ้ก\n\t\t机械蛋\n\t\t機械蛋\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Summon an 8/8 Robosaur."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b>\n8/8 공룡로봇을 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Todesröcheln:</b> Ruft einen Robosaurus (8/8) herbei.\n\t\t<b>Deathrattle:</b> Summon an 8/8 Robosaur.\n\t\t<b>Último aliento:</b>\nInvoca un robosaurio 8/8.\n\t\t<b>Estertor:</b> invoca un Robosaurio 8/8.\n\t\t<b>Râle d’agonie_:</b> invoque un robosaure_8/8.\n\t\t[x]<b>Rantolo di Morte:</b>\nevoca un Robosauro 8/8.\n\t\t[x]<b>断末魔:</b>\n8/8の\n「ロボザウルス」を\n__1体召喚する。\n\t\t<b>죽음의 메아리:</b>\n8/8 공룡로봇을 소환합니다.\n\t\t<b>Agonia:</b> Przyzwij Robozaura 8/8.\n\t\t<b>Último Suspiro:</b> Evoque um Robossauro 8/8.\n\t\t<b>Предсмертный хрип:</b> призывает робозавра_8/8.\n\t\t<b>เสียงสุดท้าย:</b> เรียกโรโบซอร์ 8/8\n\t\t<b>亡语：</b>召唤一个8/8的机械暴龙。\n\t\t<b>死亡之聲：</b>召喚一個\n8/8機械暴龍\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_537",
+    "dbfId": 49169,
+    "name": "기계 알",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>죽음의 메아리:</b><br></br>8/8 공룡로봇을 소환합니다.",
+    "attack": 0,
+    "health": 5,
+    "flavor": "식단에 철분이 더 필요할 때 안성맞춤입니다.",
+    "portrait": "HS14-179_M.psd:27409bd6e69c5d44cb6abc3612da5f6b",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1429,
+        "name": "전장 황금 하수인 ID",
+        "value": 58387
+      },
+      {
+        "id": 1440,
+        "name": "선술집 단계",
+        "value": 4
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 49168
+      },
+      {
+        "id": 1456,
+        "name": "전장 하수인 목록",
+        "value": 0
+      },
+      {
+        "id": 1595,
+        "name": "전장 기계 분류",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_537.png",
+    "nativeRawText": "<b>죽음의 메아리:</b>\n8/8 공룡로봇을 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "5",
+      "48": "5",
+      "183": "1127",
+      "199": "5",
+      "200": "17",
+      "202": "4",
+      "203": "1",
+      "217": "1",
+      "321": "1",
+      "1429": "58387",
+      "1440": "4",
+      "1452": "49168",
+      "1595": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_537",
+    "dbfId": 49169,
+    "name": "기계 알",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>죽음의 메아리:</b><br></br>8/8 공룡로봇을<br></br>하나 소환합니다.",
+    "attack": 0,
+    "health": 5,
+    "flavor": "식단에 철분이 더 필요할 때 안성맞춤입니다.",
+    "portrait": "HS14-179_M.psd:27409bd6e69c5d44cb6abc3612da5f6b",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_537.png",
+    "nativeRawText": "<b>죽음의 메아리:</b>\n8/8 공룡로봇을\n하나 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "5",
+      "48": "5",
+      "183": "1127",
+      "199": "5",
+      "200": "17",
+      "202": "4",
+      "203": "1",
+      "217": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

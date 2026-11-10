@@ -1,1 +1,308 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_038","dbfId":47855,"name":"폭죽 기술자","type":"MINION","cardClass":"HUNTER","rarity":"RARE","collectible":true,"cost":2,"text":"<b>전투의 함성:</b> 아군 기계에<br></br>+1/+1을 부여합니다.<br></br>그 하수인에게 <b>죽음의 메아리</b><br></br>능력이 있으면,<br></br>발동시킵니다.","attack":2,"health":1,"durability":0,"armor":0,"flavor":"수많은 시행착오를 거쳐 기술자가 되었습니다. 대부분 착오긴 했지만요.","spellSchool":"","portrait":"HS14-155_M.psd:e1d8e8025791d9d41a67062982bd2370","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":3},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_038.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-155_M.psd:e1d8e8025791d9d41a67062982bd2370","goldenMaterial":"BOT_038_PremiumCard.mat:31e8dff09d729ca4491c23a705bff60f","goldenAnimation":"BOT_038_PremiumCard.asset:68dafc0a285abfd419359c746afe5c49"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-155_M.psd:e1d8e8025791d9d41a67062982bd2370",
+      "goldenMaterial": "BOT_038_PremiumCard.mat:31e8dff09d729ca4491c23a705bff60f",
+      "goldenAnimation": "BOT_038_PremiumCard.asset:68dafc0a285abfd419359c746afe5c49"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Fireworks Tech"
+          },
+          "koKR": {
+            "present": true,
+            "value": "폭죽 기술자"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tPyrotechnikerin\n\t\t\tFireworks Tech\n\t\t\tTécnica pirotécnica\n\t\t\tTécnica en fuegos artificiales\n\t\t\tArtificière\n\t\t\tPirotecnica\n\t\t\t花火師\n\t\t\t폭죽 기술자\n\t\t\tSpecjalistka ds. fajerwerków\n\t\t\tEspecialista em Fogos\n\t\t\tПиротехник\n\t\t\tช่างเทคนิคดอกไม้ไฟ\n\t\t\t烟火技师\n\t\t\t煙火技師\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> Give a friendly\nMech +1/+1. If it has\n<b>Deathrattle</b>, trigger it."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b> 아군 기계\n하나에게 +1/+1을 부여합니다.\n그 하수인에게 <b>죽음의 메아리</b>\n능력이 있으면, 발동시킵니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Verleiht einem befreundeten Mech +1/+1. Löst sein <b>Todesröcheln</b> aus, wenn er eins hat.\n\t\t\t[x]<b>Battlecry:</b> Give a friendly\nMech +1/+1. If it has\n<b>Deathrattle</b>, trigger it.\n\t\t\t[x]<b>Grito de batalla:</b> Otorga\n+1/+1 a un robot amistoso.\nSi tiene <b>Último aliento</b>,\nlo activa.\n\t\t\t<b>Grito de batalla:</b> otorga +1/+1 a un Meca aliado. Si tiene_<b>Estertor</b>,_lo_activa.\n\t\t\t<b>Cri de guerre_:</b> donne_+1/+1 à un Méca allié et déclenche son <b>Râle d’agonie</b> s’il en a un.\n\t\t\t[x]<b>Grido di Battaglia:</b>\n+1/+1 a un tuo Robot.\nSe ha <b>Rantolo di\nMorte</b>, lo attiva.\n\t\t\t[x]<b>雄叫び:</b>\n味方のメカ1体に+1/+1を\n付与する。そのメカが\n<b>断末魔</b>を持つ場合\nそれを発動する。\n\t\t\t[x]<b>전투의 함성:</b> 아군 기계\n하나에게 +1/+1을 부여합니다.\n그 하수인에게 <b>죽음의 메아리</b>\n능력이 있으면, 발동시킵니다.\n\t\t\t<b>Okrzyk bojowy:</b> Daj przyjaznemu Mechowi +1/+1. Jeśli ma <b>Agonię</b>, aktywuj_ją.\n\t\t\t<b>Grito de Guerra:</b>\nConceda +1/+1 a um \nMecanoide aliado. Se ele tiver <b>Último Suspiro</b>, ative-o.\n\t\t\t<b>Боевой клич:</b> ваш выбранный\nмеханизм получает +1/+1. Если у_него есть <b>«Предсмертный [x]хрип»</b>, он срабатывает.\n\t\t\t<b>คำรามสู้ศึก:</b> มอบ +1/+1 ให้เครื่องจักรฝ่ายคุณหนึ่งตัว ถ้ามันมี <b>เสียงสุดท้าย</b> บังคับใช้ผลของมัน\n\t\t\t<b>战吼：</b>使一个友方机械获得+1/+1。如果它具有<b>亡语</b>，则将其\n触发。\n\t\t\t[x]<b>戰吼：</b>賦予一個友方\n機械+1/+1。若它有\n<b>死亡之聲</b>則觸發它\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Fireworks Tech"
+          },
+          "koKR": {
+            "present": true,
+            "value": "폭죽 기술자"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tFeuerwerkstechnikerin\n\t\tFireworks Tech\n\t\tTécnica pirotécnica\n\t\tTécnica en fuegos artificiales\n\t\tArtificière\n\t\tPirotecnica\n\t\t花火師\n\t\t폭죽 기술자\n\t\tSpecjalistka ds. fajerwerków\n\t\tEspecialista em Fogos\n\t\tПиротехник\n\t\tช่างเทคนิคดอกไม้ไฟ\n\t\t焰火技师\n\t\t煙火技師\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Battlecry:</b> Give a friendly\nMech +1/+1. If it has\n<b>Deathrattle</b>, trigger it."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b> 아군 기계에\n+1/+1을 부여합니다.\n그 하수인에게 <b>죽음의 메아리</b>\n능력이 있으면,\n발동시킵니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Verleiht einem befreundeten Mech +1/+1. Löst sein <b>Todesröcheln</b> aus, wenn er eins hat.\n\t\t[x]<b>Battlecry:</b> Give a friendly\nMech +1/+1. If it has\n<b>Deathrattle</b>, trigger it.\n\t\t[x]<b>Grito de batalla:</b> Otorga\n+1/+1 a un robot amistoso.\nSi tiene <b>Último aliento</b>,\nlo activa.\n\t\t<b>Grito de batalla:</b> otorga +1/+1 a un Meca aliado. Si tiene_<b>Estertor</b>,_lo_activa.\n\t\t<b>Cri de guerre_:</b> donne_+1/+1 à un Méca allié et déclenche son <b>Râle d’agonie</b> s’il en a un.\n\t\t[x]<b>Grido di Battaglia:</b>\n+1/+1 a un tuo Robot.\nSe ha <b>Rantolo di\nMorte</b>, lo attiva.\n\t\t[x]<b>雄叫び:</b>\n味方のメカ1体に+1/+1を\n付与する。そのメカが\n<b>断末魔</b>を持つ場合\nそれを発動する。\n\t\t[x]<b>전투의 함성:</b> 아군 기계에\n+1/+1을 부여합니다.\n그 하수인에게 <b>죽음의 메아리</b>\n능력이 있으면,\n발동시킵니다.\n\t\t<b>Okrzyk bojowy:</b> Daj przyjaznemu Mechowi +1/+1. Jeśli ma <b>Agonię</b>, aktywuj_ją.\n\t\t<b>Grito de Guerra:</b>\nConceda +1/+1 a um \nMecanoide aliado. Se ele tiver <b>Último Suspiro</b>, ative-o.\n\t\t<b>Боевой клич:</b> ваш механизм получает +1/+1. Если у_него есть <b>«Предсмертный [x]хрип»</b>, он срабатывает.\n\t\t<b>คำรามสู้ศึก:</b> มอบ +1/+1 ให้เครื่องจักรฝ่ายคุณหนึ่งตัว ถ้ามันมี <b>เสียงสุดท้าย</b> บังคับใช้ผลของมัน\n\t\t<b>战吼：</b>使一个友方机械获得+1/+1。如果它拥有<b>亡语</b>，则将其\n触发。\n\t\t[x]<b>戰吼：</b>賦予一個友方\n機械+1/+1。若它有\n<b>死亡之聲</b>則觸發它\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_038",
+    "dbfId": 47855,
+    "name": "폭죽 기술자",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성:</b> 아군 기계에<br></br>+1/+1을 부여합니다.<br></br>그 하수인에게 <b>죽음의 메아리</b><br></br>능력이 있으면,<br></br>발동시킵니다.",
+    "attack": 2,
+    "health": 1,
+    "flavor": "수많은 시행착오를 거쳐 기술자가 되었습니다. 대부분 착오긴 했지만요.",
+    "portrait": "HS14-155_M.psd:e1d8e8025791d9d41a67062982bd2370",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_038.png",
+    "nativeRawText": "[x]<b>전투의 함성:</b> 아군 기계에\n+1/+1을 부여합니다.\n그 하수인에게 <b>죽음의 메아리</b>\n능력이 있으면,\n발동시킵니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "1",
+      "47": "2",
+      "48": "2",
+      "183": "1127",
+      "199": "3",
+      "201": "3",
+      "202": "4",
+      "203": "3",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {
+      "217": "1"
+    }
+  },
+  "2018-08-08": {
+    "id": "BOT_038",
+    "dbfId": 47855,
+    "name": "폭죽 기술자",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성:</b> 아군 기계<br></br>하나에게 +1/+1을 부여합니다.<br></br>그 하수인에게 <b>죽음의 메아리</b><br></br>능력이 있으면, 발동시킵니다.",
+    "attack": 2,
+    "health": 1,
+    "flavor": "수많은 시행착오를 거쳐 기술자가 되었습니다. 대부분 착오긴 했지만요.",
+    "portrait": "HS14-155_M.psd:e1d8e8025791d9d41a67062982bd2370",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_038.png",
+    "nativeRawText": "[x]<b>전투의 함성:</b> 아군 기계\n하나에게 +1/+1을 부여합니다.\n그 하수인에게 <b>죽음의 메아리</b>\n능력이 있으면, 발동시킵니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "1",
+      "47": "2",
+      "48": "2",
+      "183": "1127",
+      "199": "3",
+      "201": "3",
+      "202": "4",
+      "203": "3",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {
+      "217": "1"
+    },
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

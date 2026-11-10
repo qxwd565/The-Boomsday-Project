@@ -1,1 +1,323 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_911","dbfId":48993,"name":"안녕모듈","type":"MINION","cardClass":"PALADIN","rarity":"RARE","collectible":true,"cost":4,"text":"<b>합체</b>, <b>도발</b><br></br><b>천상의 보호막</b>","attack":2,"health":4,"durability":0,"armor":0,"flavor":"업데이트를 할 거냐고 10초마다 물어봅니다.","spellSchool":"","portrait":"HS14-101_M.psd:1d40847bef0e75b4ab78b9b1a4c7b7c8","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":4},{"id":190,"name":"도발","value":1},{"id":194,"name":"천상의 보호막","value":1},{"id":199,"name":"직업","value":5},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":849,"name":"합체","value":1},{"id":2787,"name":"게임 태그 2787","value":49003}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/BOT_911.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-101_M.psd:1d40847bef0e75b4ab78b9b1a4c7b7c8","goldenMaterial":"BOT_911_PremiumCard.mat:e5f5fe1cc8db69244ba53e884fd1ab02","goldenAnimation":"BOT_911_PremiumCard.asset:5ffa2f434657b4640a0abea828eb4285"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-101_M.psd:1d40847bef0e75b4ab78b9b1a4c7b7c8",
+      "goldenMaterial": "BOT_911_PremiumCard.mat:e5f5fe1cc8db69244ba53e884fd1ab02",
+      "goldenAnimation": "BOT_911_PremiumCard.asset:5ffa2f434657b4640a0abea828eb4285"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Annoy-o-Module"
+          },
+          "koKR": {
+            "present": true,
+            "value": "안녕모듈"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tNerv-o-Modul\n\t\t\tAnnoy-o-Module\n\t\t\tPlastabot\n\t\t\tMódulo Molest-O\n\t\t\tEnnuy-o-module\n\t\t\tFastidiotron\n\t\t\tマジウザ・オ・モジュール\n\t\t\t안녕모듈\n\t\t\tWkurzomoduł\n\t\t\tMódulo Azucrinomático\n\t\t\tРаздражодуль\n\t\t\tแอนนอย-โอ-โมดูล\n\t\t\t吵吵模组\n\t\t\t煩人模組\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Magnetic</b>\n<b>Divine Shield</b>\n<b>Taunt</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>합체</b>, <b>도발</b>\n<b>천상의 보호막</b>"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Magnetisch</b>,\n<b>Gottesschild</b>, <b>Spott</b>\n\t\t\t<b>Magnetic</b>\n<b>Divine Shield</b>\n<b>Taunt</b>\n\t\t\t<b>Magnetismo</b>\n<b>Escudo divino</b>\n<b>Provocar</b>\n\t\t\t<b>Magnetismo</b>\n<b>Escudo divino</b>\n<b>Provocación</b>\n\t\t\t<b>Magnétisme</b>\n<b>Bouclier divin</b>\n<b>Provocation</b>\n\t\t\t[x]<b>Magnetismo</b>.\n<b>Scudo Divino</b>.\n<b>Provocazione</b>.\n\t\t\t<b>超電磁</b>\n<b>聖なる盾</b>、<b>挑発</b>\n\t\t\t<b>합체</b>, <b>도발</b>\n<b>천상의 보호막</b>\n\t\t\t<b>Magnetyzm</b>\n<b>Boska tarcza</b>\n<b>Prowokacja</b>\n\t\t\t<b>Magnético</b>\n<b>Escudo Divino</b>\n<b>Provocar</b>\n\t\t\t<b>Магнетизм</b> <b>Божественный щит</b> <b>Провокация</b>\n\t\t\t<b>แม่เหล็ก</b>\n<b>โล่ศักดิ์สิทธิ์</b>\n<b>ยั่วยุ</b>\n\t\t\t<b>磁力</b>\n<b>圣盾</b>\n<b>嘲讽</b>\n\t\t\t<b>合體</b>\n<b>聖盾術</b>\n<b>嘲諷</b>\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Annoy-o-Module"
+          },
+          "koKR": {
+            "present": true,
+            "value": "안녕모듈"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tNerv-o-Modul\n\t\tAnnoy-o-Module\n\t\tPlastabot\n\t\tMódulo Molest-O\n\t\tEnnuy-o-module\n\t\tFastidiotron\n\t\tマジウザ・オ・モジュール\n\t\t안녕모듈\n\t\tWkurzomoduł\n\t\tMódulo Azucrinomático\n\t\tРаздражодуль\n\t\tแอนนอย-โอ-โมดูล\n\t\t吵吵模组\n\t\t煩人模組\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Magnetic</b>\n<b>Divine Shield</b>\n<b>Taunt</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>합체</b>, <b>도발</b>\n<b>천상의 보호막</b>"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Magnetisch</b>,\n<b>Gottesschild</b>, <b>Spott</b>\n\t\t<b>Magnetic</b>\n<b>Divine Shield</b>\n<b>Taunt</b>\n\t\t<b>Magnetismo</b>\n<b>Escudo divino</b>\n<b>Provocar</b>\n\t\t<b>Magnetismo</b>\n<b>Escudo divino</b>\n<b>Provocación</b>\n\t\t<b>Magnétisme</b>\n<b>Bouclier divin</b>\n<b>Provocation</b>\n\t\t[x]<b>Magnetismo</b>.\n<b>Scudo Divino</b>.\n<b>Provocazione</b>.\n\t\t<b>超電磁</b>\n<b>聖なる盾</b>、<b>挑発</b>\n\t\t<b>합체</b>, <b>도발</b>\n<b>천상의 보호막</b>\n\t\t<b>Magnetyzm</b>\n<b>Boska tarcza</b>\n<b>Prowokacja</b>\n\t\t<b>Magnético</b>\n<b>Escudo Divino</b>\n<b>Provocar</b>\n\t\t<b>Магнетизм</b> <b>Божественный щит</b> <b>Провокация</b>\n\t\t<b>แม่เหล็ก</b>\n<b>โล่ศักดิ์สิทธิ์</b>\n<b>ยั่วยุ</b>\n\t\t<b>磁力</b>\n<b>圣盾</b>\n<b>嘲讽</b>\n\t\t<b>合體</b>\n<b>聖盾術</b>\n<b>嘲諷</b>\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_911",
+    "dbfId": 48993,
+    "name": "안녕모듈",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>합체</b>, <b>도발</b><br></br><b>천상의 보호막</b>",
+    "attack": 2,
+    "health": 4,
+    "flavor": "업데이트를 할 거냐고 10초마다 물어봅니다.",
+    "portrait": "HS14-101_M.psd:1d40847bef0e75b4ab78b9b1a4c7b7c8",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 849,
+        "name": "합체",
+        "value": 1
+      },
+      {
+        "id": 2787,
+        "name": "게임 태그 2787",
+        "value": 49003
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_911.png",
+    "nativeRawText": "<b>합체</b>, <b>도발</b>\n<b>천상의 보호막</b>",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "4",
+      "47": "2",
+      "48": "4",
+      "183": "1127",
+      "190": "1",
+      "194": "1",
+      "199": "5",
+      "200": "17",
+      "202": "4",
+      "203": "3",
+      "321": "1",
+      "849": "1",
+      "2787": "49003"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_911",
+    "dbfId": 48993,
+    "name": "안녕모듈",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>합체</b>, <b>도발</b><br></br><b>천상의 보호막</b>",
+    "attack": 2,
+    "health": 4,
+    "flavor": "업데이트를 할 거냐고 10초마다 물어봅니다.",
+    "portrait": "HS14-101_M.psd:1d40847bef0e75b4ab78b9b1a4c7b7c8",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 849,
+        "name": "합체",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_911.png",
+    "nativeRawText": "<b>합체</b>, <b>도발</b>\n<b>천상의 보호막</b>",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "4",
+      "47": "2",
+      "48": "4",
+      "183": "1127",
+      "190": "1",
+      "194": "1",
+      "199": "5",
+      "200": "17",
+      "202": "4",
+      "203": "3",
+      "321": "1",
+      "849": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

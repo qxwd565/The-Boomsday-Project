@@ -1,1 +1,505 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_218","dbfId":48100,"name":"순찰용 부릉이","type":"MINION","cardClass":"WARRIOR","rarity":"RARE","collectible":true,"cost":6,"text":"이 하수인은 피해를 받을 때마다 <b>도발</b> 능력이 있는 2/3 기계를 소환합니다.","attack":2,"health":6,"durability":0,"armor":0,"flavor":"침입자 감지. 안아주기 프로그램을 실행합니다.","spellSchool":"","portrait":"HS14-111_M.psd:d5c78188a45c2ce4eac6325b1ef42b6f","set":"BOOMSDAY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":0},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":10},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1429,"name":"전장 황금 하수인 ID","value":58392},{"id":1440,"name":"선술집 단계","value":4},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":49278},{"id":1456,"name":"전장 하수인 목록","value":0},{"id":1595,"name":"전장 기계 분류","value":1}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/BOT_218.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-111_M.psd:d5c78188a45c2ce4eac6325b1ef42b6f","goldenMaterial":"BOT_218_PremiumCard.mat:01973e11d83d5d247a46fd0bd1fa75a6","goldenAnimation":"BOT_218_PremiumCard.asset:33842645c35052245ba19edb14c56196"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-111_M.psd:d5c78188a45c2ce4eac6325b1ef42b6f",
+      "goldenMaterial": "BOT_218_PremiumCard.mat:01973e11d83d5d247a46fd0bd1fa75a6",
+      "goldenAnimation": "BOT_218_PremiumCard.asset:33842645c35052245ba19edb14c56196"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Security Rover"
+          },
+          "koKR": {
+            "present": true,
+            "value": "순찰용 부릉이"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tSicherheitsbot\n\t\t\tSecurity Rover\n\t\t\tGuardia transportador\n\t\t\tAstromóvil de seguridad\n\t\t\tRover de sécurité\n\t\t\tRobot di Sicurezza\n\t\t\t警備ローバー\n\t\t\t순찰용 부릉이\n\t\t\tŁazik strażniczy\n\t\t\tMóbil de Segurança\n\t\t\tОхранный ровер\n\t\t\tโรเวอร์ลาดตระเวน\n\t\t\t安保巡游者\n\t\t\t保全單輪機器人\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]Whenever this minion\ntakes damage, summon a\n2/3 Mech with <b>Taunt</b>."
+          },
+          "koKR": {
+            "present": true,
+            "value": "이 하수인은 피해를 받을 때마다 <b>도발</b> 능력이 있는 2/3 기계를 하나 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tRuft jedes Mal einen Mech (2/3) mit <b>Spott</b> herbei, wenn dieser Diener Schaden erleidet.\n\t\t\t[x]Whenever this minion\ntakes damage, summon a\n2/3 Mech with <b>Taunt</b>.\n\t\t\t[x]Cada vez que este esbirro\n recibe daño, invoca un robot\n2/3 con <b>Provocar</b>.\n\t\t\tCada vez que este esbirro recibe daño, invoca un Meca 2/3 con <b>Provocación</b>.\n\t\t\tChaque fois que ce serviteur subit des dégâts, invoque un Méca_2/3 avec <b>Provocation</b>.\n\t\t\t[x]Quando subisce danni,\nevoca un Robot 2/3\ncon <b>Provocazione</b>.\n\t\t\t[x]このミニオンが\nダメージを受ける度\n<b>挑発</b>を持つ2/3の\n_____メカを1体召喚する。\n\t\t\t이 하수인은 피해를 받을 때마다 <b>도발</b> 능력이 있는 2/3 기계를 하나 소환합니다.\n\t\t\tZa każdym razem gdy ten stronnik otrzyma obrażenia, przyzwij Mecha 2/3 z <b>Prowokacją</b>.\n\t\t\tSempre que este lacaio receber dano, evoque um Mecanoide 2/3 com <b>Provocar</b>.\n\t\t\tКогда это существо получает урон, призывает механизм 2/3 с_<b>«Провокацией»</b>.\n\t\t\tทุกครั้งที่มินเนี่ยนตัวนี้ได้รับ[b]ความเสียหาย เรียกเครื่องจักร 2/3 ที่มี <b>ยั่วยุ</b>\n\t\t\t每当该随从受到伤害，召唤一个2/3并具有<b>嘲讽</b>的机械。\n\t\t\t[x]每當此手下\n受到傷害，召喚一個\n有<b>嘲諷</b>的2/3機械\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Security Rover"
+          },
+          "koKR": {
+            "present": true,
+            "value": "순찰용 부릉이"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tSicherheitsbot\n\t\tSecurity Rover\n\t\tGuardia transportador\n\t\tAstromóvil de seguridad\n\t\tRover de sécurité\n\t\tRobot di Sicurezza\n\t\t警備ローバー\n\t\t순찰용 부릉이\n\t\tŁazik strażniczy\n\t\tMóbil de Segurança\n\t\tОхранный ровер\n\t\tโรเวอร์ลาดตระเวน\n\t\t安保巡游者\n\t\t保全單輪機器人\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]Whenever this minion\ntakes damage, summon a\n2/3 Mech with <b>Taunt</b>."
+          },
+          "koKR": {
+            "present": true,
+            "value": "이 하수인은 피해를 받을 때마다 <b>도발</b> 능력이 있는 2/3 기계를 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tRuft jedes Mal einen Mech (2/3) mit <b>Spott</b> herbei, wenn dieser Diener Schaden erleidet.\n\t\t[x]Whenever this minion\ntakes damage, summon a\n2/3 Mech with <b>Taunt</b>.\n\t\t[x]Cada vez que este esbirro\n recibe daño, invoca un robot\n2/3 con <b>Provocar</b>.\n\t\tCada vez que este esbirro recibe daño, invoca un Meca 2/3 con <b>Provocación</b>.\n\t\tChaque fois que ce serviteur subit des dégâts, invoque un Méca_2/3 avec <b>Provocation</b>.\n\t\t[x]Quando subisce danni,\nevoca un Robot 2/3\ncon <b>Provocazione</b>.\n\t\t[x]このミニオンが\nダメージを受ける度\n<b>挑発</b>を持つ2/3の\n_____メカを1体召喚する。\n\t\t이 하수인은 피해를 받을 때마다 <b>도발</b> 능력이 있는 2/3 기계를 소환합니다.\n\t\tZa każdym razem gdy ten stronnik otrzyma obrażenia, przyzwij Mecha 2/3 z <b>Prowokacją</b>.\n\t\tSempre que este lacaio receber dano, evoque um Mecanoide 2/3 com <b>Provocar</b>.\n\t\tКогда это существо получает урон, призывает механизм 2/3 с_<b>«Провокацией»</b>.\n\t\tทุกครั้งที่มินเนี่ยนตัวนี้ได้รับ[b]ความเสียหาย เรียกเครื่องจักร 2/3 ที่มี <b>ยั่วยุ</b>\n\t\t每当本随从受到伤害，召唤一个2/3并具有<b>嘲讽</b>的机械。\n\t\t[x]每當此手下\n受到傷害，召喚一個\n有<b>嘲諷</b>的2/3機械\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_218",
+    "dbfId": 48100,
+    "name": "순찰용 부릉이",
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 6,
+    "text": "이 하수인은 피해를 받을 때마다 <b>도발</b> 능력이 있는 2/3 기계를 소환합니다.",
+    "attack": 2,
+    "health": 6,
+    "flavor": "침입자 감지. 안아주기 프로그램을 실행합니다.",
+    "portrait": "HS14-111_M.psd:d5c78188a45c2ce4eac6325b1ef42b6f",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1429,
+        "name": "전장 황금 하수인 ID",
+        "value": 58392
+      },
+      {
+        "id": 1440,
+        "name": "선술집 단계",
+        "value": 4
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 49278
+      },
+      {
+        "id": 1456,
+        "name": "전장 하수인 목록",
+        "value": 0
+      },
+      {
+        "id": 1595,
+        "name": "전장 기계 분류",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_218.png",
+    "nativeRawText": "이 하수인은 피해를 받을 때마다 <b>도발</b> 능력이 있는 2/3 기계를 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "32": "1",
+      "45": "6",
+      "47": "2",
+      "48": "6",
+      "183": "1127",
+      "199": "10",
+      "200": "17",
+      "202": "4",
+      "203": "3",
+      "321": "1",
+      "1429": "58392",
+      "1440": "4",
+      "1452": "49278",
+      "1595": "1"
+    },
+    "nativeTagsReferenced": {
+      "190": "1"
+    }
+  },
+  "2018-08-08": {
+    "id": "BOT_218",
+    "dbfId": 48100,
+    "name": "순찰용 부릉이",
+    "type": "MINION",
+    "cardClass": "WARRIOR",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 6,
+    "text": "이 하수인은 피해를 받을 때마다 <b>도발</b> 능력이 있는 2/3 기계를 하나 소환합니다.",
+    "attack": 2,
+    "health": 5,
+    "flavor": "침입자 감지. 안아주기 프로그램을 실행합니다.",
+    "portrait": "HS14-111_M.psd:d5c78188a45c2ce4eac6325b1ef42b6f",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_218.png",
+    "nativeRawText": "이 하수인은 피해를 받을 때마다 <b>도발</b> 능력이 있는 2/3 기계를 하나 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "32": "1",
+      "45": "5",
+      "47": "2",
+      "48": "6",
+      "183": "1127",
+      "199": "10",
+      "200": "17",
+      "202": "4",
+      "203": "3",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {
+      "190": "1"
+    },
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2019-06-04": {
+    "health": 6,
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 45,
+        "before": "5",
+        "after": "6"
+      }
+    ],
+    "source": {
+      "beforeBuild": 31022,
+      "afterBuild": 31268,
+      "beforeCommit": "089a94c2fc524cc52ee7697ad4430fd52240d6a0",
+      "afterCommit": "d4dcf70622f19beddd0d6d56fdd5f053da99d223",
+      "beforeXmlSha256": "95219fea6d5638fa31890deb6468518c9a9189155f3e1f29512ec5758fe2adbe",
+      "afterXmlSha256": "016adca4cafcd19f2d9eb3397b7acd3035db594b5c5bd91e77370f57bdb483c4",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Security Rover"
+            },
+            "koKR": {
+              "present": true,
+              "value": "순찰용 부릉이"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tSicherheitsbot\n\t\t\tSecurity Rover\n\t\t\tGuardia transportador\n\t\t\tAstromóvil de seguridad\n\t\t\tRover de sécurité\n\t\t\tRobot di Sicurezza\n\t\t\t警備ローバー\n\t\t\t순찰용 부릉이\n\t\t\tŁazik strażniczy\n\t\t\tMóbil de Segurança\n\t\t\tОхранный ровер\n\t\t\tโรเวอร์ลาดตระเวน\n\t\t\t安保巡游者\n\t\t\t保全單輪機器人\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "[x]Whenever this minion\ntakes damage, summon a\n2/3 Mech with <b>Taunt</b>."
+            },
+            "koKR": {
+              "present": true,
+              "value": "이 하수인은 피해를 받을 때마다 <b>도발</b> 능력이 있는 2/3 기계를 소환합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tRuft jedes Mal einen Mech (2/3) mit <b>Spott</b> herbei, wenn dieser Diener Schaden erleidet.\n\t\t\t[x]Whenever this minion\ntakes damage, summon a\n2/3 Mech with <b>Taunt</b>.\n\t\t\t[x]Cada vez que este esbirro\n recibe daño, invoca un robot\n2/3 con <b>Provocar</b>.\n\t\t\tCada vez que este esbirro recibe daño, invoca un Meca 2/3 con <b>Provocación</b>.\n\t\t\tChaque fois que ce serviteur subit des dégâts, invoque un Méca_2/3 avec <b>Provocation</b>.\n\t\t\t[x]Quando subisce danni,\nevoca un Robot 2/3\ncon <b>Provocazione</b>.\n\t\t\t[x]このミニオンが\nダメージを受ける度\n<b>挑発</b>を持つ2/3の\n_____メカを1体召喚する。\n\t\t\t이 하수인은 피해를 받을 때마다 <b>도발</b> 능력이 있는 2/3 기계를 소환합니다.\n\t\t\tZa każdym razem gdy ten stronnik otrzyma obrażenia, przyzwij Mecha 2/3 z <b>Prowokacją</b>.\n\t\t\tSempre que este lacaio receber dano, evoque um Mecanoide 2/3 com <b>Provocar</b>.\n\t\t\tКогда это существо получает урон, призывает механизм 2/3 с_<b>«Провокацией»</b>.\n\t\t\tทุกครั้งที่มินเนี่ยนตัวนี้ได้รับ[b]ความเสียหาย เรียกเครื่องจักร 2/3 ที่มี <b>ยั่วยุ</b>\n\t\t\t每当该随从受到伤害，召唤一个2/3并具有<b>嘲讽</b>的机械。\n\t\t\t[x]每當此手下\n受到傷害，召喚一個\n有<b>嘲諷</b>的2/3機械\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Security Rover"
+            },
+            "koKR": {
+              "present": true,
+              "value": "순찰용 부릉이"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tSicherheitsbot\n\t\t\tSecurity Rover\n\t\t\tGuardia transportador\n\t\t\tAstromóvil de seguridad\n\t\t\tRover de sécurité\n\t\t\tRobot di Sicurezza\n\t\t\t警備ローバー\n\t\t\t순찰용 부릉이\n\t\t\tŁazik strażniczy\n\t\t\tMóbil de Segurança\n\t\t\tОхранный ровер\n\t\t\tโรเวอร์ลาดตระเวน\n\t\t\t安保巡游者\n\t\t\t保全單輪機器人\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "[x]Whenever this minion\ntakes damage, summon a\n2/3 Mech with <b>Taunt</b>."
+            },
+            "koKR": {
+              "present": true,
+              "value": "이 하수인은 피해를 받을 때마다 <b>도발</b> 능력이 있는 2/3 기계를 소환합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tRuft jedes Mal einen Mech (2/3) mit <b>Spott</b> herbei, wenn dieser Diener Schaden erleidet.\n\t\t\t[x]Whenever this minion\ntakes damage, summon a\n2/3 Mech with <b>Taunt</b>.\n\t\t\t[x]Cada vez que este esbirro\n recibe daño, invoca un robot\n2/3 con <b>Provocar</b>.\n\t\t\tCada vez que este esbirro recibe daño, invoca un Meca 2/3 con <b>Provocación</b>.\n\t\t\tChaque fois que ce serviteur subit des dégâts, invoque un Méca_2/3 avec <b>Provocation</b>.\n\t\t\t[x]Quando subisce danni,\nevoca un Robot 2/3\ncon <b>Provocazione</b>.\n\t\t\t[x]このミニオンが\nダメージを受ける度\n<b>挑発</b>を持つ2/3の\n_____メカを1体召喚する。\n\t\t\t이 하수인은 피해를 받을 때마다 <b>도발</b> 능력이 있는 2/3 기계를 소환합니다.\n\t\t\tZa każdym razem gdy ten stronnik otrzyma obrażenia, przyzwij Mecha 2/3 z <b>Prowokacją</b>.\n\t\t\tSempre que este lacaio receber dano, evoque um Mecanoide 2/3 com <b>Provocar</b>.\n\t\t\tКогда это существо получает урон, призывает механизм 2/3 с_<b>«Провокацией»</b>.\n\t\t\tทุกครั้งที่มินเนี่ยนตัวนี้ได้รับ[b]ความเสียหาย เรียกเครื่องจักร 2/3 ที่มี <b>ยั่วยุ</b>\n\t\t\t每当该随从受到伤害，召唤一个2/3并具有<b>嘲讽</b>的机械。\n\t\t\t[x]每當此手下\n受到傷害，召喚一個\n有<b>嘲諷</b>的2/3機械\n\t\t"
+        }
+      }
+    }
+  }
+}

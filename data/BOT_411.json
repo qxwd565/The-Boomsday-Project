@@ -1,1 +1,305 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_411","dbfId":48537,"name":"엘렉트라 스톰서지","type":"MINION","cardClass":"SHAMAN","rarity":"LEGENDARY","collectible":true,"cost":3,"text":"<b>전투의 함성:</b><br></br>이번 턴의 내 다음 주문을 2번 시전합니다.","attack":3,"health":3,"durability":0,"armor":0,"flavor":"\"동전?! 동전을 두 번 쓰려고 날 냈다는 거요?!\"","spellSchool":"","portrait":"HS14-034_M.psd:e02b6cf4c94ec064bb0bb785f94dd535","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/BOT_411.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-034_M.psd:e02b6cf4c94ec064bb0bb785f94dd535","goldenMaterial":"BOT_411_PremiumCard.mat:d009f644413d8e445b5a6c88990cbce0","goldenAnimation":"BOT_411_PremiumCard.asset:d19f90993b76d6f43a00f63fa637f7a6"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-034_M.psd:e02b6cf4c94ec064bb0bb785f94dd535",
+      "goldenMaterial": "BOT_411_PremiumCard.mat:d009f644413d8e445b5a6c88990cbce0",
+      "goldenAnimation": "BOT_411_PremiumCard.asset:d19f90993b76d6f43a00f63fa637f7a6"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Electra Stormsurge"
+          },
+          "koKR": {
+            "present": true,
+            "value": "엘렉트라 스톰서지"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tElectra Sturmschlag\n\t\t\tElectra Stormsurge\n\t\t\tElectra Cargatormenta\n\t\t\tElectra Truenoferoz\n\t\t\tÉlectra Raz-de-Tempête\n\t\t\tElettra Destatempeste\n\t\t\tエレクトラ・ストームサージ\n\t\t\t엘렉트라 스톰서지\n\t\t\tElektra Gromowładna\n\t\t\tElectra Surtormenta\n\t\t\tЭлектра Бурешквал\n\t\t\tอีเล็กตร้า สตอร์มเซิร์จ\n\t\t\t伊莱克特拉·风潮\n\t\t\t伊雷特拉‧風暴怒濤\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Your next spell this turn casts twice."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n이번 턴의 내 다음 주문을 2번 시전합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Euer nächster Zauber in diesem Zug wird zweimal gewirkt.\n\t\t\t<b>Battlecry:</b> Your next spell this turn casts twice.\n\t\t\t[x]<b>Grito de batalla:</b>\nTu próximo hechizo\nen este turno se lanza\ndos veces.\n\t\t\t<b>Grito de batalla:</b> tu próximo hechizo en este turno se lanza dos veces.\n\t\t\t<b>Cri de guerre_:</b> votre prochain sort pendant ce tour_est_lancé_deux_fois.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nla prossima Magia che\nlanci in questo turno viene\nlanciata due volte.\n\t\t\t[x]<b>雄叫び:</b>\nこのターン、自分が\n次に使用する呪文は\n___2回使用される。\n\t\t\t<b>전투의 함성:</b>\n이번 턴의 내 다음 주문을 2번 시전합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Twoje następne zaklęcie w tej turze rzucane jest dwukrotnie.\n\t\t\t<b>Grito de Guerra:</b> \nSeu próximo feitiço \nneste turno é lançado duas vezes.\n\t\t\t[x]<b>Боевой клич:</b> ваше\nследующее заклинание\nна этом ходу срабатывает\nдважды.\n\t\t\t<b>คำรามสู้ศึก:</b> เวทมนตร์ใบถัดไปของคุณ[b]ในเทิร์นนี้ร่ายสองครั้ง\n\t\t\t<b>战吼：</b>在本回合中，你的下一个法术将施放两次。\n\t\t\t<b>戰吼：</b>本回合\n你的下一個法術\n會施放兩次\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Electra Stormsurge"
+          },
+          "koKR": {
+            "present": true,
+            "value": "엘렉트라 스톰서지"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tElectra Sturmschlag\n\t\tElectra Stormsurge\n\t\tElectra Cargatormenta\n\t\tElectra Truenoferoz\n\t\tÉlectra Raz-de-Tempête\n\t\tElettra Destatempeste\n\t\tエレクトラ・ストームサージ\n\t\t엘렉트라 스톰서지\n\t\tElektra Gromowładna\n\t\tElectra Surtormenta\n\t\tЭлектра Бурешквал\n\t\tอีเล็กตร้า สตอร์มเซิร์จ\n\t\t伊莱克特拉·风潮\n\t\t伊雷特拉‧風暴怒濤\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Your next spell this turn casts twice."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n이번 턴의 내 다음 주문을 2번 시전합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Euer nächster Zauber in diesem Zug wird zweimal gewirkt.\n\t\t<b>Battlecry:</b> Your next spell this turn casts twice.\n\t\t[x]<b>Grito de batalla:</b>\nTu próximo hechizo\nen este turno se lanza\ndos veces.\n\t\t<b>Grito de batalla:</b> tu próximo hechizo en este turno se lanza dos veces.\n\t\t<b>Cri de guerre_:</b> votre prochain sort pendant ce tour_est_lancé_deux_fois.\n\t\t[x]<b>Grido di Battaglia:</b>\nla prossima Magia che\nlanci in questo turno viene\nlanciata due volte.\n\t\t[x]<b>雄叫び:</b>\nこのターン、自分が\n次に使用する呪文は\n___2回使用される。\n\t\t<b>전투의 함성:</b>\n이번 턴의 내 다음 주문을 2번 시전합니다.\n\t\t<b>Okrzyk bojowy:</b> Twoje następne zaklęcie w tej turze rzucane jest dwukrotnie.\n\t\t<b>Grito de Guerra:</b> \nSeu próximo feitiço \nneste turno é lançado duas vezes.\n\t\t[x]<b>Боевой клич:</b> ваше\nследующее заклинание\nна этом ходу срабатывает\nдважды.\n\t\t<b>คำรามสู้ศึก:</b> เวทมนตร์ใบถัดไปของคุณ[b]ในเทิร์นนี้ร่ายสองครั้ง\n\t\t<b>战吼：</b>在本回合中，你的下一个法术将施放两次。\n\t\t<b>戰吼：</b>本回合\n你的下一個法術\n會施放兩次\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_411",
+    "dbfId": 48537,
+    "name": "엘렉트라 스톰서지",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b><br></br>이번 턴의 내 다음 주문을 2번 시전합니다.",
+    "attack": 3,
+    "health": 3,
+    "flavor": "\"동전?! 동전을 두 번 쓰려고 날 냈다는 거요?!\"",
+    "portrait": "HS14-034_M.psd:e02b6cf4c94ec064bb0bb785f94dd535",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/BOT_411.png",
+    "nativeRawText": "<b>전투의 함성:</b>\n이번 턴의 내 다음 주문을 2번 시전합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "3",
+      "47": "3",
+      "48": "3",
+      "114": "1",
+      "183": "1127",
+      "199": "8",
+      "200": "18",
+      "202": "4",
+      "203": "5",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_411",
+    "dbfId": 48537,
+    "name": "엘렉트라 스톰서지",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b><br></br>이번 턴의 내 다음 주문을 2번 시전합니다.",
+    "attack": 3,
+    "health": 3,
+    "flavor": "\"동전?! 동전을 두 번 쓰려고 날 냈다는 거요?!\"",
+    "portrait": "HS14-034_M.psd:e02b6cf4c94ec064bb0bb785f94dd535",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/BOT_411.png",
+    "nativeRawText": "<b>전투의 함성:</b>\n이번 턴의 내 다음 주문을 2번 시전합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "3",
+      "47": "3",
+      "48": "3",
+      "114": "1",
+      "183": "1127",
+      "199": "8",
+      "200": "18",
+      "202": "4",
+      "203": "5",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

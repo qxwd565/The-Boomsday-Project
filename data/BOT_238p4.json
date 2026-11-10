@@ -1,1 +1,235 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_238p4","dbfId":49367,"name":"지원 병력 투하","type":"HERO_POWER","cardClass":"WARRIOR","collectible":false,"cost":2,"text":"기계를 <b>발견</b>합니다.<br></br>매 턴마다 바뀝니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS14-119_HP.psd:74d014d888be8b442a9794a702c30eb3","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":10},{"id":321,"name":"수집 가능","value":0},{"id":415,"name":"발견","value":1},{"id":1052,"name":"기계 장치","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_238p4.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-119_HP.psd:74d014d888be8b442a9794a702c30eb3","goldenMaterial":"BOT_238p4_PremiumCard.mat:986537fdd920ff34f942b8595bbee6ce","goldenAnimation":"BOT_238p4_PremiumCard.asset:1145e42cfd0ecd549b6b6724bc87aa77"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-119_HP.psd:74d014d888be8b442a9794a702c30eb3",
+      "goldenMaterial": "BOT_238p4_PremiumCard.mat:986537fdd920ff34f942b8595bbee6ce",
+      "goldenAnimation": "BOT_238p4_PremiumCard.asset:1145e42cfd0ecd549b6b6724bc87aa77"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Delivery Drone"
+          },
+          "koKR": {
+            "present": true,
+            "value": "지원 병력 투하"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tLieferdrohne\n\t\t\tDelivery Drone\n\t\t\tDron repartidor\n\t\t\tDron mensajero\n\t\t\tDrone de livraison\n\t\t\tDrone Fattorino\n\t\t\tお届けドローン\n\t\t\t지원 병력 투하\n\t\t\tDron dostawczy\n\t\t\tDrone de Entregas\n\t\t\tДоставочный дрон\n\t\t\tโดรนลำเลียง\n\t\t\t无人运输机\n\t\t\t快遞無人機\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Hero Power</b>\n<b>Discover</b> a Mech.\nSwaps_each_turn."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>영웅 능력</b>\n기계를 하나 <b>발견</b>합니다.\n매 턴마다 바뀝니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Heldenfähigkeit</b>\n<b>Entdeckt</b> einen Mech. [x]Wechselt in jedem Zug.\n\t\t\t<b>Hero Power</b>\n<b>Discover</b> a Mech.\nSwaps_each_turn.\n\t\t\t[x]<b>Poder de héroe</b>\n<b>Descubre</b> un robot.\nCambia cada turno.\n\t\t\t<b>Poder de héroe</b>\n<b>Devela</b> un Meca.\nCambia con cada turno.\n\t\t\t<b>Pouvoir héroïque</b>\n<b>Découvre</b> un Méca. Change_à_chaque_tour.\n\t\t\t[x]<b>Potere Eroe</b>\n<b>Rinvieni</b> un Robot.\nCambia ogni turno.\n\t\t\t[x]<b>ヒーローパワー</b>\nメカを1体<b>発見</b>する。\nパワーは毎ターン\n入れ替わる。\n\t\t\t[x]<b>영웅 능력</b>\n기계를 하나 <b>발견</b>합니다.\n매 턴마다 바뀝니다.\n\t\t\t<b>Moc specjalna</b>\n<b>Odkryj</b> Mecha. Zmienia się w każdej turze.\n\t\t\t<b>Poder Heroico</b>\n<b>Descubra</b> um Mecanoide. Muda a cada turno.\n\t\t\t<b>Сила героя</b>\nВы <b>раскапываете</b> механизм. Меняется каждый ход.\n\t\t\t<b>พลังฮีโร่</b>\n<b>ค้นพบ</b> การ์ดเครื่องจักร เปลี่ยนพลังใหม่ทุกเทิร์น\n\t\t\t<b>英雄技能</b>\n<b>发现</b>一张机械牌。每回合切换。\n\t\t\t<b>英雄能力</b>\n<b>發現</b>一個機械\n(每回合換能力)\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Delivery Drone"
+          },
+          "koKR": {
+            "present": true,
+            "value": "지원 병력 투하"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tLieferdrohne\n\t\tDelivery Drone\n\t\tDron repartidor\n\t\tDron mensajero\n\t\tDrone de livraison\n\t\tDrone Fattorino\n\t\tお届けドローン\n\t\t지원 병력 투하\n\t\tDron dostawczy\n\t\tDrone de Entregas\n\t\tДоставочный дрон\n\t\tโดรนลำเลียง\n\t\t无人运输机\n\t\t快遞無人機\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Discover</b> a Mech.\nSwaps_each_turn."
+          },
+          "koKR": {
+            "present": true,
+            "value": "기계를 <b>발견</b>합니다.\n매 턴마다 바뀝니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Entdeckt</b> einen Mech.\nWechselt in jedem Zug.\n\t\t<b>Discover</b> a Mech.\nSwaps_each_turn.\n\t\t<b>Descubre</b> un robot. Cambia cada turno.\n\t\t<b>Devela</b> un Meca. Cambia_con_cada_turno.\n\t\t<b>Découvre</b> un Méca. Change à chaque tour.\n\t\t<b>Rinvieni</b> un Robot. Cambia ogni turno.\n\t\t[x]メカを1体<b>発見</b>する。\n毎ターン対象の\n種族が替わる。\n\t\t기계를 <b>발견</b>합니다.\n매 턴마다 바뀝니다.\n\t\t<b>Odkryj</b> Mecha. Zmienia się w każdej turze.\n\t\t<b>Descubra</b> um Mecanoide. Muda a cada turno.\n\t\tВы <b>раскапываете</b> механизм. Меняется каждый ход.\n\t\t<b>ค้นพบ</b> เครื่องจักรหนึ่งใบ สลับพลังทุกเทิร์น\n\t\t<b>发现</b>一张机械牌。每回合切换。\n\t\t<b>發現</b>一個機械(每回合換能力)\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_238p4",
+    "dbfId": 49367,
+    "name": "지원 병력 투하",
+    "type": "HERO_POWER",
+    "cardClass": "WARRIOR",
+    "collectible": false,
+    "cost": 2,
+    "text": "기계를 <b>발견</b>합니다.<br></br>매 턴마다 바뀝니다.",
+    "flavor": "",
+    "portrait": "HS14-119_HP.psd:74d014d888be8b442a9794a702c30eb3",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 10
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 0
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1052,
+        "name": "기계 장치",
+        "value": 1
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_238p4.png",
+    "nativeRawText": "기계를 <b>발견</b>합니다.\n매 턴마다 바뀝니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "342": "",
+      "48": "2",
+      "183": "1127",
+      "199": "10",
+      "202": "10",
+      "415": "1",
+      "1052": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_238p4",
+    "dbfId": 49367,
+    "name": "지원 병력 투하",
+    "type": "HERO_POWER",
+    "cardClass": "WARRIOR",
+    "collectible": false,
+    "cost": 2,
+    "text": "<b>영웅 능력</b><br></br>기계를 하나 <b>발견</b>합니다.<br></br>매 턴마다 바뀝니다.",
+    "flavor": "",
+    "portrait": "HS14-119_HP.psd:74d014d888be8b442a9794a702c30eb3",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 10
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1052,
+        "name": "기계 장치",
+        "value": 1
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_238p4.png",
+    "nativeRawText": "[x]<b>영웅 능력</b>\n기계를 하나 <b>발견</b>합니다.\n매 턴마다 바뀝니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "342": "",
+      "48": "2",
+      "183": "1127",
+      "199": "10",
+      "202": "10"
+    },
+    "nativeTagsReferenced": {
+      "415": "1",
+      "1052": "1"
+    },
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

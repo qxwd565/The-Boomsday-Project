@@ -1,1 +1,289 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_540","dbfId":49172,"name":"E.M.P. 비밀요원","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":5,"text":"<b>전투의 함성:</b><br></br>기계를 처치합니다.","attack":3,"health":3,"durability":0,"armor":0,"flavor":"¿Quién es Sombra?","spellSchool":"","portrait":"HS14-181_M.psd:69f05d8b022eeb44cb78bc3bde6ba88e","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_540.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-181_M.psd:69f05d8b022eeb44cb78bc3bde6ba88e","goldenMaterial":"BOT_540_PremiumCard.mat:7103a3869177b634bb79bbb213a03858","goldenAnimation":"BOT_540_PremiumCard.asset:7fe978ed72070b74793b6899397a096f"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-181_M.psd:69f05d8b022eeb44cb78bc3bde6ba88e",
+      "goldenMaterial": "BOT_540_PremiumCard.mat:7103a3869177b634bb79bbb213a03858",
+      "goldenAnimation": "BOT_540_PremiumCard.asset:7fe978ed72070b74793b6899397a096f"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "E.M.P. Operative"
+          },
+          "koKR": {
+            "present": true,
+            "value": "E.M.P. 비밀요원"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tEMP-Expertin\n\t\t\tE.M.P. Operative\n\t\t\tOperativa de PEM\n\t\t\tAgente de P.E.M.\n\t\t\tAgent émetteur d’I.E.M.\n\t\t\tAgente Elettromagnetica\n\t\t\t電磁パルス工作員\n\t\t\tE.M.P. 비밀요원\n\t\t\tElektromagnetyczna agentka\n\t\t\tAgente de P.E.M.\n\t\t\tАгент ЭМИ\n\t\t\tหน่วยปฏิบัติการ E.M.P.\n\t\t\t电磁脉冲特工\n\t\t\tE.M.P.特務\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Destroy a Mech."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n기계를 하나 처치합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Vernichtet einen Mech.\n\t\t\t<b>Battlecry:</b> Destroy a Mech.\n\t\t\t<b>Grito de batalla:</b> Destruye un robot.\n\t\t\t<b>Grito de batalla:</b> destruye un Meca.\n\t\t\t<b>Cri de guerre_:</b>\ndétruit un Méca.\n\t\t\t<b>Grido di Battaglia:</b> distrugge un Robot.\n\t\t\t[x]<b>雄叫び:</b>\n__メカ1体を破壊する。\n\t\t\t<b>전투의 함성:</b>\n기계를 하나 처치합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Zniszcz Mecha.\n\t\t\t<b>Grito de Guerra:</b> Destrua um Mecanoide.\n\t\t\t<b>Боевой клич:</b> уничтожает выбранный механизм.\n\t\t\t<b>คำรามสู้ศึก:</b> ทำลาย[b]มินเนี่ยนเครื่องจักรหนึ่งตัว\n\t\t\t<b>战吼：</b>\n消灭一个机械。\n\t\t\t<b>戰吼：</b>摧毀一個機械\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "E.M.P. Operative"
+          },
+          "koKR": {
+            "present": true,
+            "value": "E.M.P. 비밀요원"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tEMP-Expertin\n\t\tE.M.P. Operative\n\t\tOperativa de PEM\n\t\tAgente de P.E.M.\n\t\tAgent émetteur d’I.E.M.\n\t\tAgente Elettromagnetica\n\t\t電磁パルス工作員\n\t\tE.M.P. 비밀요원\n\t\tElektromagnetyczna agentka\n\t\tAgente de P.E.M.\n\t\tАгент ЭМИ\n\t\tหน่วยปฏิบัติการ E.M.P.\n\t\t电磁脉冲特工\n\t\tE.M.P.特務\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Destroy a Mech."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n기계를 처치합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Vernichtet einen Mech.\n\t\t<b>Battlecry:</b> Destroy a Mech.\n\t\t<b>Grito de batalla:</b> Destruye un robot.\n\t\t<b>Grito de batalla:</b> destruye un Meca.\n\t\t<b>Cri de guerre_:</b>\ndétruit un Méca.\n\t\t<b>Grido di Battaglia:</b> distrugge un Robot.\n\t\t[x]<b>雄叫び:</b>\n__メカ1体を破壊する。\n\t\t<b>전투의 함성:</b>\n기계를 처치합니다.\n\t\t<b>Okrzyk bojowy:</b> Zniszcz Mecha.\n\t\t<b>Grito de Guerra:</b> Destrua um Mecanoide.\n\t\t<b>Боевой клич:</b> уничтожает механизм.\n\t\t<b>คำรามสู้ศึก:</b> ทำลาย[b]เครื่องจักรหนึ่งตัว\n\t\t<b>战吼：</b>\n消灭一个机械。\n\t\t<b>戰吼：</b>摧毀一個機械\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_540",
+    "dbfId": 49172,
+    "name": "E.M.P. 비밀요원",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b><br></br>기계를 처치합니다.",
+    "attack": 3,
+    "health": 3,
+    "flavor": "¿Quién es Sombra?",
+    "portrait": "HS14-181_M.psd:69f05d8b022eeb44cb78bc3bde6ba88e",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_540.png",
+    "nativeRawText": "<b>전투의 함성:</b>\n기계를 처치합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "325": "",
+      "342": "",
+      "45": "3",
+      "47": "3",
+      "48": "5",
+      "183": "1127",
+      "199": "12",
+      "202": "4",
+      "203": "4",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_540",
+    "dbfId": 49172,
+    "name": "E.M.P. 비밀요원",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b><br></br>기계를 하나 처치합니다.",
+    "attack": 3,
+    "health": 3,
+    "flavor": "¿Quién es Sombra?",
+    "portrait": "HS14-181_M.psd:69f05d8b022eeb44cb78bc3bde6ba88e",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 325,
+        "name": "게임 태그 325",
+        "value": ""
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_540.png",
+    "nativeRawText": "<b>전투의 함성:</b>\n기계를 하나 처치합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "325": "",
+      "342": "",
+      "45": "3",
+      "47": "3",
+      "48": "5",
+      "183": "1127",
+      "199": "12",
+      "202": "4",
+      "203": "4",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

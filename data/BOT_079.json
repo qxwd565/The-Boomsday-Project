@@ -1,1 +1,317 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_079","dbfId":48025,"name":"충직한 초롱이","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":1,"text":"<b>전투의 함성:</b><br></br>아군 기계에 +1/+1을<br></br>부여합니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"이렇게 앙증맞은 녀석을 거대한 기계식 최첨단 고릴라 로봇 팔로 부숴 버리다니...","spellSchool":"","portrait":"HS14-007_M.psd:66c61dd422d30c945a9be5c841791d3d","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":17},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/BOT_079.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-007_M.psd:66c61dd422d30c945a9be5c841791d3d","goldenMaterial":"BOT_079_PremiumCard.mat:5d2ed3aff3afa5c46957db1e145d4790","goldenAnimation":"BOT_079_PremiumCard.asset:d1a7bcbfa64611144a405697ccabaf33"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-007_M.psd:66c61dd422d30c945a9be5c841791d3d",
+      "goldenMaterial": "BOT_079_PremiumCard.mat:5d2ed3aff3afa5c46957db1e145d4790",
+      "goldenAnimation": "BOT_079_PremiumCard.asset:d1a7bcbfa64611144a405697ccabaf33"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Faithful Lumi"
+          },
+          "koKR": {
+            "present": true,
+            "value": "충직한 초롱이"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tHelferlein Lumi\n\t\t\tFaithful Lumi\n\t\t\tLucecilla fiel\n\t\t\tLucecita fiel\n\t\t\tLumi loyal\n\t\t\tLumino Fedele\n\t\t\t忠実ロボ・ルミ\n\t\t\t충직한 초롱이\n\t\t\tLojalny żarnik\n\t\t\tLumi Fiel\n\t\t\tЛампуся\n\t\t\tลูมิผู้ซื่อสัตย์\n\t\t\t可靠的灯泡\n\t\t\t可靠的照明機器人\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Give a friendly Mech +1/+1."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n아군 기계 하나에게 +1/+1을 부여합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Verleiht einem befreundeten Mech +1/+1.\n\t\t\t<b>Battlecry:</b> Give a friendly Mech +1/+1.\n\t\t\t[x]<b>Grito de batalla:</b>\nOtorga +1/+1\na un robot amistoso.\n\t\t\t<b>Grito de batalla:</b> otorga +1/+1 a un Meca aliado.\n\t\t\t<b>Cri de guerre_:</b> donne_+1/+1 à\nun Méca allié.\n\t\t\t[x]<b>Grido di Battaglia:</b>\n+1/+1 a un tuo Robot.\n\t\t\t[x]<b>雄叫び:</b>\n味方のメカ1体に\n__+1/+1を付与する。\n\t\t\t<b>전투의 함성:</b>\n아군 기계 하나에게 +1/+1을 부여합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Daj przyjaznemu Mechowi +1/+1.\n\t\t\t<b>Grito de Guerra:</b> Conceda +1/+1 a um Mecanoide aliado.\n\t\t\t<b>Боевой клич:</b> ваш выбранный механизм получает +1/+1.\n\t\t\t<b>คำรามสู้ศึก:</b> มอบ +1/+1 ให้เครื่องจักรฝ่ายคุณหนึ่งตัว\n\t\t\t<b>战吼：</b>使一个友方机械获得+1/+1。\n\t\t\t<b>戰吼：</b>賦予一個友方機械+1/+1\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Faithful Lumi"
+          },
+          "koKR": {
+            "present": true,
+            "value": "충직한 초롱이"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tHelferlein Lumi\n\t\tFaithful Lumi\n\t\tLucecilla fiel\n\t\tLucecita fiel\n\t\tLumi loyal\n\t\tLumino Fedele\n\t\t忠実ロボ・ルミ\n\t\t충직한 초롱이\n\t\tLojalny żarnik\n\t\tLumi Fiel\n\t\tЛампуся\n\t\tลูมิผู้ซื่อสัตย์\n\t\t可靠的灯泡\n\t\t可靠的照明機器人\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Give a friendly Mech +1/+1."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n아군 기계에 +1/+1을\n부여합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Verleiht einem befreundeten Mech +1/+1.\n\t\t<b>Battlecry:</b> Give a friendly Mech +1/+1.\n\t\t[x]<b>Grito de batalla:</b>\nOtorga +1/+1\na un robot amistoso.\n\t\t<b>Grito de batalla:</b> otorga +1/+1 a un Meca aliado.\n\t\t<b>Cri de guerre_:</b> donne_+1/+1 à\nun Méca allié.\n\t\t[x]<b>Grido di Battaglia:</b>\n+1/+1 a un tuo Robot.\n\t\t[x]<b>雄叫び:</b>\n味方のメカ1体に\n__+1/+1を付与する。\n\t\t<b>전투의 함성:</b>\n아군 기계에 +1/+1을\n부여합니다.\n\t\t<b>Okrzyk bojowy:</b> Daj przyjaznemu Mechowi +1/+1.\n\t\t<b>Grito de Guerra:</b> Conceda +1/+1 a um Mecanoide aliado.\n\t\t<b>Боевой клич:</b> ваш механизм получает +1/+1.\n\t\t<b>คำรามสู้ศึก:</b> มอบ +1/+1 ให้เครื่องจักรฝ่ายคุณหนึ่งตัว\n\t\t<b>战吼：</b>使一个友方机械获得+1/+1。\n\t\t<b>戰吼：</b>賦予一個友方機械+1/+1\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_079",
+    "dbfId": 48025,
+    "name": "충직한 초롱이",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>전투의 함성:</b><br></br>아군 기계에 +1/+1을<br></br>부여합니다.",
+    "attack": 1,
+    "health": 1,
+    "flavor": "이렇게 앙증맞은 녀석을 거대한 기계식 최첨단 고릴라 로봇 팔로 부숴 버리다니...",
+    "portrait": "HS14-007_M.psd:66c61dd422d30c945a9be5c841791d3d",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_079.png",
+    "nativeRawText": "<b>전투의 함성:</b>\n아군 기계에 +1/+1을\n부여합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "325": "",
+      "342": "",
+      "45": "1",
+      "47": "1",
+      "48": "1",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "201": "3",
+      "202": "4",
+      "203": "1",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_079",
+    "dbfId": 48025,
+    "name": "충직한 초롱이",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>전투의 함성:</b><br></br>아군 기계 하나에게 +1/+1을 부여합니다.",
+    "attack": 1,
+    "health": 1,
+    "flavor": "이렇게 앙증맞은 녀석을 거대한 기계식 최첨단 고릴라 로봇 팔로 부숴 버리다니...",
+    "portrait": "HS14-007_M.psd:66c61dd422d30c945a9be5c841791d3d",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 325,
+        "name": "게임 태그 325",
+        "value": ""
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_079.png",
+    "nativeRawText": "<b>전투의 함성:</b>\n아군 기계 하나에게 +1/+1을 부여합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "325": "",
+      "342": "",
+      "45": "1",
+      "47": "1",
+      "48": "1",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "201": "3",
+      "202": "4",
+      "203": "1",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

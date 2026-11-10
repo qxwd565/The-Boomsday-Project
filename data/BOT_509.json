@@ -1,1 +1,473 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_509","dbfId":48929,"name":"듀금의 인도자","type":"MINION","cardClass":"PRIEST","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>죽음의 메아리:</b><br></br>내 덱에서 <b>죽음의 메아리</b><br></br>하수인을 뽑습니다.","attack":2,"health":1,"durability":0,"armor":0,"flavor":"듀거! 듀거! 듀거!","spellSchool":"","portrait":"HS14-141_M.psd:ac5de6df828e94d4d9807f2111feb5ef","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":6},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2534,"name":"게임 태그 2534","value":1}],"races":["UNDEAD","MECHANICAL"],"race":"언데드, 기계","classes":[],"art":"art/BOT_509.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-141_M.psd:ac5de6df828e94d4d9807f2111feb5ef","goldenMaterial":"BOT_509_PremiumCard.mat:db1baed4f12f76d45970187b2a8ba4f7","goldenAnimation":"BOT_509_PremiumCard.asset:e9aaf5be835fefd4382b924c89a9556f"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-141_M.psd:ac5de6df828e94d4d9807f2111feb5ef",
+      "goldenMaterial": "BOT_509_PremiumCard.mat:db1baed4f12f76d45970187b2a8ba4f7",
+      "goldenAnimation": "BOT_509_PremiumCard.asset:e9aaf5be835fefd4382b924c89a9556f"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Dead Ringer"
+          },
+          "koKR": {
+            "present": true,
+            "value": "듀금의 인도자"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tTotenwecker\n\t\t\tDead Ringer\n\t\t\tClonancio\n\t\t\tFatalito\n\t\t\tExhum-o-bot\n\t\t\tRintoccamorte\n\t\t\tデッドリンガー\n\t\t\t듀금의 인도자\n\t\t\tŚmierciobot\n\t\t\tZaptizap\n\t\t\tСмертозвон\n\t\t\tเดดริงเกอร์\n\t\t\t丧钟机器人\n\t\t\t替死者\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Draw a <b>Deathrattle</b> minion from your deck."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b> 내 덱에서 <b>죽음의 메아리</b> 하수인을 하나 뽑습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Todesröcheln:</b> Zieht einen Diener mit <b>Todesröcheln</b> aus Eurem Deck.\n\t\t\t<b>Deathrattle:</b> Draw a <b>Deathrattle</b> minion from your deck.\n\t\t\t[x]<b>Último aliento:</b>\nRoba un esbirro\ncon <b>Último aliento</b>\nde tu mazo.\n\t\t\t<b>Estertor:</b> roba un esbirro con <b>Estertor</b> de tu mazo.\n\t\t\t<b>Râle d’agonie_:</b> vous piochez un serviteur\navec <b>Râle d’agonie</b> dans votre deck.\n\t\t\t[x]<b>Rantolo di Morte:</b>\npesca un servitore con\n<b>Rantolo di Morte</b>\ndal tuo mazzo.\n\t\t\t[x]<b>断末魔:</b>\n自分のデッキから\n<b>断末魔</b>を持つミニオンを\n1体引く。\n\t\t\t<b>죽음의 메아리:</b> 내 덱에서 <b>죽음의 메아리</b> 하수인을 하나 뽑습니다.\n\t\t\t<b>Agonia:</b> Dobierz stronnika z <b>Agonią</b> z_twojej_talii.\n\t\t\t<b>Último Suspiro:</b> Compre um lacaio com <b>Último Suspiro</b> do seu deck.\n\t\t\t<b>Предсмертный хрип:</b> вы берете из колоды существо [x]с <b>«Предсмертным хрипом»</b>.\n\t\t\t<b>เสียงสุดท้าย:</b> จั่วการ์ด[b]มินเนี่ยน <b>เสียงสุดท้าย</b> หนึ่งใบจากเด็คของคุณ\n\t\t\t<b>亡语：</b>从你的牌库中抽一张具有<b>亡语</b>的随从牌。\n\t\t\t<b>死亡之聲：</b>從你的牌堆抽出一張<b>死亡之聲</b>手下\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Dead Ringer"
+          },
+          "koKR": {
+            "present": true,
+            "value": "듀금의 인도자"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tTotenwecker\n\t\tDead Ringer\n\t\tClonancio\n\t\tFatalito\n\t\tExhum-o-bot\n\t\tRintoccamorte\n\t\tデッドリンガー\n\t\t듀금의 인도자\n\t\tŚmierciobot\n\t\tZaptizap\n\t\tСмертозвон\n\t\tเดดริงเกอร์\n\t\t丧钟机器人\n\t\t替死者\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Draw a <b>Deathrattle</b> minion from your deck."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>죽음의 메아리:</b>\n내 덱에서 <b>죽음의 메아리</b>\n하수인을 뽑습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Todesröcheln:</b> Zieht einen Diener mit <b>Todesröcheln</b> aus Eurem Deck.\n\t\t<b>Deathrattle:</b> Draw a <b>Deathrattle</b> minion from your deck.\n\t\t[x]<b>Último aliento:</b>\nRoba un esbirro\ncon <b>Último aliento</b>\nde tu mazo.\n\t\t<b>Estertor:</b> roba un esbirro con <b>Estertor</b> de tu mazo.\n\t\t<b>Râle d’agonie_:</b> vous piochez un serviteur\navec <b>Râle d’agonie</b> dans votre deck.\n\t\t[x]<b>Rantolo di Morte:</b>\npesca un servitore con\n<b>Rantolo di Morte</b>\ndal tuo mazzo.\n\t\t[x]<b>断末魔:</b>\n自分のデッキから\n<b>断末魔</b>を持つミニオンを\n1体引く。\n\t\t[x]<b>죽음의 메아리:</b>\n내 덱에서 <b>죽음의 메아리</b>\n하수인을 뽑습니다.\n\t\t<b>Agonia:</b> Dobierz stronnika z <b>Agonią</b> z_twojej_talii.\n\t\t<b>Último Suspiro:</b> Compre um lacaio com <b>Último Suspiro</b> do seu deck.\n\t\t<b>Предсмертный хрип:</b> вы берете из колоды существо [x]с <b>«Предсмертным хрипом»</b>.\n\t\t<b>เสียงสุดท้าย:</b> จั่วมินเนี่ยน <b>เสียงสุดท้าย</b>_หนึ่งใบ[b]จากเด็คคุณ\n\t\t<b>亡语：</b>从你的牌库中抽一张具有<b>亡语</b>的随从牌。\n\t\t<b>死亡之聲：</b>從你的牌堆抽出一張<b>死亡之聲</b>手下\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_509",
+    "dbfId": 48929,
+    "name": "듀금의 인도자",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>죽음의 메아리:</b><br></br>내 덱에서 <b>죽음의 메아리</b><br></br>하수인을 뽑습니다.",
+    "attack": 2,
+    "health": 1,
+    "flavor": "듀거! 듀거! 듀거!",
+    "portrait": "HS14-141_M.psd:ac5de6df828e94d4d9807f2111feb5ef",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2534,
+        "name": "게임 태그 2534",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD",
+      "MECHANICAL"
+    ],
+    "race": "언데드, 기계",
+    "classes": [],
+    "art": "art/BOT_509.png",
+    "nativeRawText": "[x]<b>죽음의 메아리:</b>\n내 덱에서 <b>죽음의 메아리</b>\n하수인을 뽑습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "1",
+      "47": "2",
+      "48": "2",
+      "183": "1127",
+      "199": "6",
+      "200": "17",
+      "202": "4",
+      "203": "1",
+      "217": "1",
+      "321": "1",
+      "2534": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_509",
+    "dbfId": 48929,
+    "name": "듀금의 인도자",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>죽음의 메아리:</b> 내 덱에서 <b>죽음의 메아리</b> 하수인을 하나 뽑습니다.",
+    "attack": 2,
+    "health": 1,
+    "flavor": "듀거! 듀거! 듀거!",
+    "portrait": "HS14-141_M.psd:ac5de6df828e94d4d9807f2111feb5ef",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_509.png",
+    "nativeRawText": "<b>죽음의 메아리:</b> 내 덱에서 <b>죽음의 메아리</b> 하수인을 하나 뽑습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "1",
+      "47": "2",
+      "48": "2",
+      "183": "1127",
+      "199": "6",
+      "200": "17",
+      "202": "4",
+      "203": "1",
+      "217": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2022-11-30": {
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 2534,
+        "name": "게임 태그 2534",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD",
+      "MECHANICAL"
+    ],
+    "race": "언데드, 기계",
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 2534,
+        "before": "ABSENT",
+        "after": "1"
+      }
+    ],
+    "source": {
+      "beforeBuild": 155409,
+      "afterBuild": 158725,
+      "beforeCommit": "beaa46cc24c1332ad91d4f7ae096024f6ff7d394",
+      "afterCommit": "54141c4a6bf3efeedaf69d7510b987f216ff00e6",
+      "beforeXmlSha256": "6b0cc04e3181ee49d34372eb14d7f57760aeb308f3b614b2f6729b44f9295d90",
+      "afterXmlSha256": "5a01259c4f9b13b0ddecce04718ef5de16ec4cae3867957835559946f89ff439",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Dead Ringer"
+            },
+            "koKR": {
+              "present": true,
+              "value": "듀금의 인도자"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tTotenwecker\n\t\t\tDead Ringer\n\t\t\tClonancio\n\t\t\tFatalito\n\t\t\tExhum-o-bot\n\t\t\tRintoccamorte\n\t\t\tデッドリンガー\n\t\t\t듀금의 인도자\n\t\t\tŚmierciobot\n\t\t\tZaptizap\n\t\t\tСмертозвон\n\t\t\tเดดริงเกอร์\n\t\t\t丧钟机器人\n\t\t\t替死者\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Deathrattle:</b> Draw a <b>Deathrattle</b> minion from your deck."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]<b>죽음의 메아리:</b>\n내 덱에서 <b>죽음의 메아리</b>\n하수인을 뽑습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Todesröcheln:</b> Zieht einen Diener mit <b>Todesröcheln</b> aus Eurem Deck.\n\t\t\t<b>Deathrattle:</b> Draw a <b>Deathrattle</b> minion from your deck.\n\t\t\t[x]<b>Último aliento:</b>\nRoba un esbirro\ncon <b>Último aliento</b>\nde tu mazo.\n\t\t\t<b>Estertor:</b> roba un esbirro con <b>Estertor</b> de tu mazo.\n\t\t\t<b>Râle d’agonie_:</b> vous piochez un serviteur\navec <b>Râle d’agonie</b> dans votre deck.\n\t\t\t[x]<b>Rantolo di Morte:</b>\npesca un servitore con\n<b>Rantolo di Morte</b>\ndal tuo mazzo.\n\t\t\t[x]<b>断末魔:</b>\n自分のデッキから\n<b>断末魔</b>を持つミニオンを\n1体引く。\n\t\t\t[x]<b>죽음의 메아리:</b>\n내 덱에서 <b>죽음의 메아리</b>\n하수인을 뽑습니다.\n\t\t\t<b>Agonia:</b> Dobierz stronnika z <b>Agonią</b> z_twojej_talii.\n\t\t\t<b>Último Suspiro:</b> Compre um lacaio com <b>Último Suspiro</b> do seu deck.\n\t\t\t<b>Предсмертный хрип:</b> вы берете из колоды существо [x]с <b>«Предсмертным хрипом»</b>.\n\t\t\t<b>เสียงสุดท้าย:</b> จั่วการ์ด[b]มินเนี่ยน <b>เสียงสุดท้าย</b> หนึ่งใบจากเด็คของคุณ\n\t\t\t<b>亡语：</b>从你的牌库中抽一张具有<b>亡语</b>的随从牌。\n\t\t\t<b>死亡之聲：</b>從你的牌堆抽出一張<b>死亡之聲</b>手下\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Dead Ringer"
+            },
+            "koKR": {
+              "present": true,
+              "value": "듀금의 인도자"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tTotenwecker\n\t\t\tDead Ringer\n\t\t\tClonancio\n\t\t\tFatalito\n\t\t\tExhum-o-bot\n\t\t\tRintoccamorte\n\t\t\tデッドリンガー\n\t\t\t듀금의 인도자\n\t\t\tŚmierciobot\n\t\t\tZaptizap\n\t\t\tСмертозвон\n\t\t\tเดดริงเกอร์\n\t\t\t丧钟机器人\n\t\t\t替死者\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Deathrattle:</b> Draw a <b>Deathrattle</b> minion from your deck."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]<b>죽음의 메아리:</b>\n내 덱에서 <b>죽음의 메아리</b>\n하수인을 뽑습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Todesröcheln:</b> Zieht einen Diener mit <b>Todesröcheln</b> aus Eurem Deck.\n\t\t\t<b>Deathrattle:</b> Draw a <b>Deathrattle</b> minion from your deck.\n\t\t\t[x]<b>Último aliento:</b>\nRoba un esbirro\ncon <b>Último aliento</b>\nde tu mazo.\n\t\t\t<b>Estertor:</b> roba un esbirro con <b>Estertor</b> de tu mazo.\n\t\t\t<b>Râle d’agonie_:</b> vous piochez un serviteur\navec <b>Râle d’agonie</b> dans votre deck.\n\t\t\t[x]<b>Rantolo di Morte:</b>\npesca un servitore con\n<b>Rantolo di Morte</b>\ndal tuo mazzo.\n\t\t\t[x]<b>断末魔:</b>\n自分のデッキから\n<b>断末魔</b>を持つミニオンを\n1体引く。\n\t\t\t[x]<b>죽음의 메아리:</b>\n내 덱에서 <b>죽음의 메아리</b>\n하수인을 뽑습니다.\n\t\t\t<b>Agonia:</b> Dobierz stronnika z <b>Agonią</b> z_twojej_talii.\n\t\t\t<b>Último Suspiro:</b> Compre um lacaio com <b>Último Suspiro</b> do seu deck.\n\t\t\t<b>Предсмертный хрип:</b> вы берете из колоды существо [x]с <b>«Предсмертным хрипом»</b>.\n\t\t\t<b>เสียงสุดท้าย:</b> จั่วการ์ด[b]มินเนี่ยน <b>เสียงสุดท้าย</b> หนึ่งใบจากเด็คของคุณ\n\t\t\t<b>亡语：</b>从你的牌库中抽一张具有<b>亡语</b>的随从牌。\n\t\t\t<b>死亡之聲：</b>從你的牌堆抽出一張<b>死亡之聲</b>手下\n\t\t"
+        }
+      }
+    }
+  }
+}

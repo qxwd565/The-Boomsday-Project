@@ -1,1 +1,282 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_422","dbfId":48609,"name":"나무를 가꾸는 타우렌","type":"MINION","cardClass":"DRUID","rarity":"RARE","collectible":true,"cost":6,"text":"<b>선택 -</b> 내 다른 하수인들에게<br></br>+1/+1을 부여합니다.<br></br>또는 2/2 나무정령을<br></br>둘 소환합니다.","attack":3,"health":4,"durability":0,"armor":0,"flavor":"종족 특성인 약초채집을 마침내 활용할 수 있게 되었군요.","spellSchool":"","portrait":"HS14-128_M.psd:6e8d5c6acc7ef2943ae024e26774d64e","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":443,"name":"선택","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_422.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-128_M.psd:6e8d5c6acc7ef2943ae024e26774d64e","goldenMaterial":"BOT_422_PremiumCard.mat:ebd3b4ce5b3f3b342a1e3dfd5d914d0f","goldenAnimation":"BOT_422_PremiumCard.asset:30d05f0375cca1541aabab88c0038556"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-128_M.psd:6e8d5c6acc7ef2943ae024e26774d64e",
+      "goldenMaterial": "BOT_422_PremiumCard.mat:ebd3b4ce5b3f3b342a1e3dfd5d914d0f",
+      "goldenAnimation": "BOT_422_PremiumCard.asset:30d05f0375cca1541aabab88c0038556"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Tending Tauren"
+          },
+          "koKR": {
+            "present": true,
+            "value": "나무를 가꾸는 타우렌"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tTaurengärtnerin\n\t\t\tTending Tauren\n\t\t\tTauren cuidadora\n\t\t\tCuidadora tauren\n\t\t\tJardinier tauren\n\t\t\tTauren Protettiva\n\t\t\tトーレンの森林管理官\n\t\t\t나무를 가꾸는 타우렌\n\t\t\tTroskliwa taurenka\n\t\t\tCuidadora Taurena\n\t\t\tТаурен-садовник\n\t\t\tทอเรนดูแลสวน\n\t\t\t牛头人园丁\n\t\t\t牛頭人園丁\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Choose One -</b> Give your\nother minions +1/+1;\nor Summon two\n2/2 Treants."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>선택 -</b> 내 다른 하수인들에게\n+1/+1을 부여합니다.\n또는 2/2 나무정령을\n둘 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Wählt aus:</b> Verleiht Euren anderen Dienern +1/+1; oder ruft 2 Treants (2/2) herbei.\n\t\t\t[x]<b>Choose One -</b> Give your\nother minions +1/+1;\nor Summon two\n2/2 Treants.\n\t\t\t[x]<b>Elige una:</b>\nOtorga +1/+1 a tus otros\nesbirros, o bien invoca\ndos antárboles 2/2.\n\t\t\t<b>Elige una opción:</b> otorga +1/+1 a tus demás esbirros o invoca dos Antárboles 2/2.\n\t\t\t<b>Choix des armes_:</b>\ndonne_+1/+1 à vos autres serviteurs ou invoque deux tréants_2/2.\n\t\t\t[x]<b>Scegli:</b> +1/+1 agli altri\ntuoi servitori <b>o</b> evoca\ndue Treant 2/2.\n\t\t\t[x]<b>選択:</b>\n自身を除く味方のミニオンに\n+1/+1を付与する。または\n2/2の「トレント」を\n2体召喚する。\n\t\t\t[x]<b>선택 -</b> 내 다른 하수인들에게\n+1/+1을 부여합니다.\n또는 2/2 나무정령을\n둘 소환합니다.\n\t\t\t<b>Wybierz jedno:</b> Daj twoim pozostałym stronnikom +1/+1; lub przyzwij dwa Drzewce 2/2.\n\t\t\t<b>Escolha Um -</b> Conceda +1/+1 aos seus outros lacaios; ou Evoque dois Arvorosos 2/2.\n\t\t\t[x]<b>Выберите эффект: </b>другие\nваши существа получают\n+1/+1; или призывает\nдвух древней 2/2.\n\t\t\t<b>เลือกหนึ่งอย่าง -</b> มอบ +1/+1 ให้มินเนี่ยนตัวอื่นของคุณ หรือ[b]เรียกทรีแอนท์_2/2_สองตัว\n\t\t\t<b>抉择：</b>\n使你的所有其他随从获得+1/+1；或者召唤两个2/2的树人。\n\t\t\t[x]<b>二選一：</b>使你的\n其他手下+1/+1，或\n召喚兩個2/2樹人\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Tending Tauren"
+          },
+          "koKR": {
+            "present": true,
+            "value": "나무를 가꾸는 타우렌"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tTaurengärtnerin\n\t\tTending Tauren\n\t\tTauren cuidadora\n\t\tCuidadora tauren\n\t\tJardinier tauren\n\t\tTauren Protettiva\n\t\tトーレンの森林管理官\n\t\t나무를 가꾸는 타우렌\n\t\tTroskliwa taurenka\n\t\tCuidadora Taurena\n\t\tТаурен-садовник\n\t\tทอเรนดูแลสวน\n\t\t牛头人园丁\n\t\t牛頭人園丁\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Choose One -</b> Give your\nother minions +1/+1;\nor Summon two\n2/2 Treants."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>선택 -</b> 내 다른 하수인들에게\n+1/+1을 부여합니다.\n또는 2/2 나무정령을\n둘 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Wählt aus:</b> Verleiht Euren anderen Dienern +1/+1; oder ruft 2 Treants (2/2) herbei.\n\t\t[x]<b>Choose One -</b> Give your\nother minions +1/+1;\nor Summon two\n2/2 Treants.\n\t\t[x]<b>Elige una:</b>\nOtorga +1/+1 a tus otros\nesbirros, o bien invoca\ndos antárboles 2/2.\n\t\t<b>Elige una opción:</b> otorga +1/+1 a tus demás esbirros o invoca dos Antárboles 2/2.\n\t\t<b>Choix des armes_:</b>\ndonne_+1/+1 à vos autres serviteurs ou invoque deux tréants_2/2.\n\t\t[x]<b>Scegli:</b> +1/+1 agli altri\ntuoi servitori <b>o</b> evoca\ndue Treant 2/2.\n\t\t[x]<b>選択:</b>\n自身を除く味方のミニオンに\n+1/+1を付与する。または\n2/2の「トレント」を\n2体召喚する。\n\t\t[x]<b>선택 -</b> 내 다른 하수인들에게\n+1/+1을 부여합니다.\n또는 2/2 나무정령을\n둘 소환합니다.\n\t\t<b>Wybierz jedno:</b> Daj twoim pozostałym stronnikom +1/+1; lub przyzwij dwa Drzewce 2/2.\n\t\t<b>Escolha Um -</b> Conceda +1/+1 aos seus outros lacaios; ou Evoque dois Arvorosos 2/2.\n\t\t[x]<b>Выберите эффект: </b>другие\nваши существа получают\n+1/+1; или призывает\nдвух древней 2/2.\n\t\t<b>เลือกหนึ่งอย่าง -</b> มอบ +1/+1 ให้มินเนี่ยนตัวอื่นของคุณ หรือ[b]เรียกทรีแอนท์_2/2_สองตัว\n\t\t<b>抉择：</b>\n使你的所有其他随从获得+1/+1；或者召唤两个2/2的树人。\n\t\t[x]<b>二選一：</b>使你的\n其他手下+1/+1，或\n召喚兩個2/2樹人\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_422",
+    "dbfId": 48609,
+    "name": "나무를 가꾸는 타우렌",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>선택 -</b> 내 다른 하수인들에게<br></br>+1/+1을 부여합니다.<br></br>또는 2/2 나무정령을<br></br>둘 소환합니다.",
+    "attack": 3,
+    "health": 4,
+    "flavor": "종족 특성인 약초채집을 마침내 활용할 수 있게 되었군요.",
+    "portrait": "HS14-128_M.psd:6e8d5c6acc7ef2943ae024e26774d64e",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 443,
+        "name": "선택",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_422.png",
+    "nativeRawText": "[x]<b>선택 -</b> 내 다른 하수인들에게\n+1/+1을 부여합니다.\n또는 2/2 나무정령을\n둘 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "4",
+      "47": "3",
+      "48": "6",
+      "183": "1127",
+      "199": "2",
+      "202": "4",
+      "203": "3",
+      "321": "1",
+      "443": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_422",
+    "dbfId": 48609,
+    "name": "나무를 가꾸는 타우렌",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>선택 -</b> 내 다른 하수인들에게<br></br>+1/+1을 부여합니다.<br></br>또는 2/2 나무정령을<br></br>둘 소환합니다.",
+    "attack": 3,
+    "health": 4,
+    "flavor": "종족 특성인 약초채집을 마침내 활용할 수 있게 되었군요.",
+    "portrait": "HS14-128_M.psd:6e8d5c6acc7ef2943ae024e26774d64e",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 443,
+        "name": "선택",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_422.png",
+    "nativeRawText": "[x]<b>선택 -</b> 내 다른 하수인들에게\n+1/+1을 부여합니다.\n또는 2/2 나무정령을\n둘 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "4",
+      "47": "3",
+      "48": "6",
+      "183": "1127",
+      "199": "2",
+      "202": "4",
+      "203": "3",
+      "321": "1",
+      "443": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

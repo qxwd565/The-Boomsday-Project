@@ -1,1 +1,261 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_069","dbfId":47928,"name":"붐지옥함선","type":"SPELL","cardClass":"WARRIOR","rarity":"LEGENDARY","collectible":true,"cost":9,"text":"내 손에 있는 무작위<br></br>하수인을 셋 소환합니다.<br></br>그 하수인들에게 <b>속공</b>을<br></br>부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"제군, 나는 기계가 좋다. 제군, 나는 기계가 좋다. 제군! 나는 기계가 정말 좋다.\" \"...자, 제군... 붐지옥을 만들어보자고.\"","spellSchool":"","portrait":"HS14-124_S.psd:dc5466f8e0174a34c9302e137b4c55fc","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":9},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_069.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-124_S.psd:dc5466f8e0174a34c9302e137b4c55fc","goldenMaterial":"BOT_069_PremiumCard.mat:d65e8c4d2e86d9a4db4e894e95c7d2ce","goldenAnimation":"BOT_069_PremiumCard.asset:d8ac2af2d1e9f2d4585a2cc8dc22ded9"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-124_S.psd:dc5466f8e0174a34c9302e137b4c55fc",
+      "goldenMaterial": "BOT_069_PremiumCard.mat:d65e8c4d2e86d9a4db4e894e95c7d2ce",
+      "goldenAnimation": "BOT_069_PremiumCard.asset:d8ac2af2d1e9f2d4585a2cc8dc22ded9"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "The Boomship"
+          },
+          "koKR": {
+            "present": true,
+            "value": "붐지옥함선"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tDas Bummschiff\n\t\t\tThe Boomship\n\t\t\tEl Aerobum\n\t\t\tLa Navebomba\n\t\t\tLe Paqueboum\n\t\t\tBoomnave\n\t\t\tブームシップ\n\t\t\t붐지옥함선\n\t\t\tHukostatek\n\t\t\tDirigível Cabum\n\t\t\tБумоносец\n\t\t\tบูมชิป\n\t\t\t砰砰飞艇\n\t\t\t爆爆飛船\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Summon 3 random minions from your hand. Give them <b>Rush</b>."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]내 손에 있는 무작위\n하수인을 셋 소환합니다.\n그 하수인들에게 <b>속공</b>을\n부여합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t[x]Ruft aus Eurer Hand\n3 zufällige Diener herbei.\nVerleiht ihnen <b>Eifer</b>.\n\t\t\tSummon 3 random minions from your hand. Give them <b>Rush</b>.\n\t\t\tInvoca a 3 esbirros aleatorios de tu mano. Les otorga <b>Embestir</b>.\n\t\t\tInvoca 3 esbirros aleatorios de tu mano. Les otorga <b>Acometida</b>.\n\t\t\tInvoque 3_serviteurs aléatoires de votre main et leur confère <b>Ruée</b>.\n\t\t\tEvoca tre servitori casuali dalla tua mano e fornisce loro <b>Assalto</b>.\n\t\t\t[x]自分の手札から\nランダムなミニオンを\n3体召喚し\n_<b>急襲</b>を付与する。\n\t\t\t[x]내 손에 있는 무작위\n하수인을 셋 소환합니다.\n그 하수인들에게 <b>속공</b>을\n부여합니다.\n\t\t\tPrzyzwij trzech losowych stronników z_twojej ręki.\nDaj im <b>Zryw</b>.\n\t\t\tEvoque 3 lacaios aleatórios da sua mão. Conceda <b>Rapidez</b> a eles.\n\t\t\tПризывает 3 случайных существ из руки. Они получают <b>«Натиск»</b>.\n\t\t\tสุ่มเรียกมินเนี่ยน 3 ตัว[b]จากมือคุณ มอบ <b>จู่โจม</b> ให้พวกมัน\n\t\t\t从你的手牌中召唤三个随机随从，并使其获得<b>突袭</b>。\n\t\t\t從你的手中\n召喚3個隨機手下並賦予他們<b>衝刺</b>\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "The Boomship"
+          },
+          "koKR": {
+            "present": true,
+            "value": "붐지옥함선"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tDas Bummschiff\n\t\tThe Boomship\n\t\tEl Aerobum\n\t\tLa Navebomba\n\t\tLe Paqueboum\n\t\tBoomnave\n\t\tブームシップ\n\t\t붐지옥함선\n\t\tHukostatek\n\t\tDirigível Cabum\n\t\tБумоносец\n\t\tบูมชิป\n\t\t砰砰飞艇\n\t\t爆爆飛船\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Summon 3 random minions from your hand. Give them <b>Rush</b>."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]내 손에 있는 무작위\n하수인을 셋 소환합니다.\n그 하수인들에게 <b>속공</b>을\n부여합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t[x]Ruft aus Eurer Hand\n3 zufällige Diener herbei.\nVerleiht ihnen <b>Eifer</b>.\n\t\tSummon 3 random minions from your hand. Give them <b>Rush</b>.\n\t\tInvoca a 3 esbirros aleatorios de tu mano. Les otorga <b>Embestir</b>.\n\t\tInvoca 3 esbirros aleatorios de tu mano. Les otorga <b>Acometida</b>.\n\t\tInvoque 3_serviteurs aléatoires de votre main et leur confère <b>Ruée</b>.\n\t\tEvoca tre servitori casuali dalla tua mano e fornisce loro <b>Assalto</b>.\n\t\t[x]自分の手札から\nランダムなミニオンを\n3体召喚し\n_<b>急襲</b>を付与する。\n\t\t[x]내 손에 있는 무작위\n하수인을 셋 소환합니다.\n그 하수인들에게 <b>속공</b>을\n부여합니다.\n\t\tPrzyzwij trzech losowych stronników z_twojej ręki.\nDaj im <b>Zryw</b>.\n\t\tEvoque 3 lacaios aleatórios da sua mão. Conceda <b>Rapidez</b> a eles.\n\t\tПризывает 3 случайных существ из_вашей руки. Они получают <b>«Натиск»</b>.\n\t\tสุ่มเรียกมินเนี่ยน 3 ตัว[b]จากมือคุณ มอบ <b>จู่โจม</b> ให้พวกมัน\n\t\t随机从你的手牌中召唤三个随从，并使其获得<b>突袭</b>。\n\t\t從你的手中\n召喚3個隨機手下並賦予他們<b>衝刺</b>\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_069",
+    "dbfId": 47928,
+    "name": "붐지옥함선",
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 9,
+    "text": "내 손에 있는 무작위<br></br>하수인을 셋 소환합니다.<br></br>그 하수인들에게 <b>속공</b>을<br></br>부여합니다.",
+    "flavor": "\"제군, 나는 기계가 좋다. 제군, 나는 기계가 좋다. 제군! 나는 기계가 정말 좋다.\" \"...자, 제군... 붐지옥을 만들어보자고.\"",
+    "spellSchool": "",
+    "portrait": "HS14-124_S.psd:dc5466f8e0174a34c9302e137b4c55fc",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 9
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_069.png",
+    "nativeRawText": "[x]내 손에 있는 무작위\n하수인을 셋 소환합니다.\n그 하수인들에게 <b>속공</b>을\n부여합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "9",
+      "114": "1",
+      "183": "1127",
+      "199": "10",
+      "202": "5",
+      "203": "5",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {
+      "791": "1"
+    }
+  },
+  "2018-08-08": {
+    "id": "BOT_069",
+    "dbfId": 47928,
+    "name": "붐지옥함선",
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 9,
+    "text": "내 손에 있는 무작위<br></br>하수인을 셋 소환합니다.<br></br>그 하수인들에게 <b>속공</b>을<br></br>부여합니다.",
+    "flavor": "\"제군, 나는 기계가 좋다. 제군, 나는 기계가 좋다. 제군! 나는 기계가 정말 좋다.\" \"...자, 제군... 붐지옥을 만들어보자고.\"",
+    "spellSchool": "",
+    "portrait": "HS14-124_S.psd:dc5466f8e0174a34c9302e137b4c55fc",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 9
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_069.png",
+    "nativeRawText": "[x]내 손에 있는 무작위\n하수인을 셋 소환합니다.\n그 하수인들에게 <b>속공</b>을\n부여합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "9",
+      "114": "1",
+      "183": "1127",
+      "199": "10",
+      "202": "5",
+      "203": "5",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {
+      "791": "1"
+    },
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

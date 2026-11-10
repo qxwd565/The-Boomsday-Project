@@ -1,1 +1,240 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_436","dbfId":48764,"name":"분광 렌즈","type":"SPELL","cardClass":"PALADIN","rarity":"EPIC","collectible":true,"cost":4,"text":"내 덱에서 하수인과 주문을 뽑습니다. 두 카드의 비용을 바꿉니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"달의 반대편에서 캐 온 광물입니다.","spellSchool":"","portrait":"HS14-201_S.psd:51ba636b1d5426840a7211958d326b5b","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_436.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-201_S.psd:51ba636b1d5426840a7211958d326b5b","goldenMaterial":"BOT_436_PremiumCard.mat:454bd70845c4f5b4e8d3b8b03f9324e1","goldenAnimation":"BOT_436_PremiumCard.asset:14dc3a9848a15014c8287184d5d7d5f3"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-201_S.psd:51ba636b1d5426840a7211958d326b5b",
+      "goldenMaterial": "BOT_436_PremiumCard.mat:454bd70845c4f5b4e8d3b8b03f9324e1",
+      "goldenAnimation": "BOT_436_PremiumCard.asset:14dc3a9848a15014c8287184d5d7d5f3"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Prismatic Lens"
+          },
+          "koKR": {
+            "present": true,
+            "value": "분광 렌즈"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tPrismatische Linse\n\t\t\tPrismatic Lens\n\t\t\tLente prismática\n\t\t\tLente prismático\n\t\t\tLentille prismatique\n\t\t\tLente Prismatica\n\t\t\tプリズムレンズ\n\t\t\t분광 렌즈\n\t\t\tSoczewka pryzmatyczna\n\t\t\tLentes Prismáticas\n\t\t\tПризматическая линза\n\t\t\tเลนส์ปริซึม\n\t\t\t棱彩透镜\n\t\t\t稜彩鏡片\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Draw a minion and a spell from your deck. Swap their Costs."
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 덱에서 하수인과\n주문을 하나씩 뽑습니다. 두 카드의 비용을 바꿉니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tZieht einen Diener und einen Zauber aus Eurem Deck. Vertauscht ihre Kosten.\n\t\t\tDraw a minion and a spell from your deck. Swap their Costs.\n\t\t\tRoba un esbirro\ny un hechizo de tu\nmazo. Intercambia\nsus costes.\n\t\t\tRoba un esbirro y un hechizo de tu mazo. Intercambia su costo.\n\t\t\tVous_piochez_un_serviteur et un sort de votre deck.\nÉchange leur coût.\n\t\t\tPesca un servitore e una Magia dal tuo mazzo. Scambia il loro costo.\n\t\t\t[x]自分のデッキから\nミニオン1体と呪文1枚を\n引き、それらのコストを\n入れ替える。\n\t\t\t내 덱에서 하수인과\n주문을 하나씩 뽑습니다. 두 카드의 비용을 바꿉니다.\n\t\t\tDobierz stronnika i_zaklęcie z twojej talii. Zamień ich koszt.\n\t\t\tCompre um lacaio e um feitiço do seu deck. Troque o custo de um pelo do outro.\n\t\t\t[x]Вы берете из колоды\nсущество и заклинание.\nИх стоимость\nменяется местами.\n\t\t\tจั่วการ์ดมินเนี่ยนและการ์ด[b]เวทมนตร์จากเด็คของคุณ สลับค่าร่ายของทั้งสองใบ\n\t\t\t从你的牌库中抽一张随从牌和一张法术牌，并使其法力值消耗互换。\n\t\t\t從你的牌堆抽出一個手下和法術，並對調其消耗\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Prismatic Lens"
+          },
+          "koKR": {
+            "present": true,
+            "value": "분광 렌즈"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tPrismatische Linse\n\t\tPrismatic Lens\n\t\tLente prismática\n\t\tLente prismático\n\t\tLentille prismatique\n\t\tLente Prismatica\n\t\tプリズムレンズ\n\t\t분광 렌즈\n\t\tSoczewka pryzmatyczna\n\t\tLentes Prismáticas\n\t\tПризматическая линза\n\t\tเลนส์ปริซึม\n\t\t棱彩透镜\n\t\t稜彩鏡片\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Draw a minion and a spell from your deck. Swap their Costs."
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 덱에서 하수인과 주문을 뽑습니다. 두 카드의 비용을 바꿉니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tZieht einen Diener und einen Zauber aus Eurem Deck. Vertauscht ihre Kosten.\n\t\tDraw a minion and a spell from your deck. Swap their Costs.\n\t\tRoba un esbirro\ny un hechizo de tu\nmazo. Intercambia\nsus costes.\n\t\tRoba un esbirro y un hechizo de tu mazo. Intercambia su costo.\n\t\tVous_piochez_un_serviteur et un sort de votre deck.\nÉchange leur coût.\n\t\tPesca un servitore e una Magia dal tuo mazzo. Scambia il loro costo.\n\t\t[x]自分のデッキから\nミニオン1体と呪文1枚を\n引き、それらのコストを\n入れ替える。\n\t\t내 덱에서 하수인과 주문을 뽑습니다. 두 카드의 비용을 바꿉니다.\n\t\tDobierz stronnika i_zaklęcie z twojej talii. Zamień ich koszt.\n\t\tCompre um lacaio e um feitiço do seu deck. Troque o Custo de um pelo do outro.\n\t\t[x]Вы берете из колоды\nсущество и заклинание.\nИх стоимость\nменяется местами.\n\t\tจั่วมินเนี่ยนและเวทมนตร์[b]อย่างละใบจากเด็คคุณ สลับค่าร่ายของพวกมัน\n\t\t从你的牌库中抽一张随从牌和一张法术牌，交换其法力值消耗。\n\t\t從你的牌堆抽出一個手下和法術，並對調其消耗\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_436",
+    "dbfId": 48764,
+    "name": "분광 렌즈",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 4,
+    "text": "내 덱에서 하수인과 주문을 뽑습니다. 두 카드의 비용을 바꿉니다.",
+    "flavor": "달의 반대편에서 캐 온 광물입니다.",
+    "spellSchool": "",
+    "portrait": "HS14-201_S.psd:51ba636b1d5426840a7211958d326b5b",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_436.png",
+    "nativeRawText": "내 덱에서 하수인과 주문을 뽑습니다. 두 카드의 비용을 바꿉니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "4",
+      "183": "1127",
+      "199": "5",
+      "202": "5",
+      "203": "4",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_436",
+    "dbfId": 48764,
+    "name": "분광 렌즈",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 4,
+    "text": "내 덱에서 하수인과<br></br>주문을 하나씩 뽑습니다. 두 카드의 비용을 바꿉니다.",
+    "flavor": "달의 반대편에서 캐 온 광물입니다.",
+    "spellSchool": "",
+    "portrait": "HS14-201_S.psd:51ba636b1d5426840a7211958d326b5b",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_436.png",
+    "nativeRawText": "내 덱에서 하수인과\n주문을 하나씩 뽑습니다. 두 카드의 비용을 바꿉니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "4",
+      "183": "1127",
+      "199": "5",
+      "202": "5",
+      "203": "4",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

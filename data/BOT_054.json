@@ -1,1 +1,390 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_054","dbfId":47887,"name":"생물학 프로젝트","type":"SPELL","cardClass":"DRUID","rarity":"COMMON","collectible":true,"cost":1,"text":"각 플레이어가 마나 수정을 2개씩 얻습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"1단계: 거대하고 사악한 딸기 만들기 2단계: ???? 3단계: 아제로스 정복!","spellSchool":"NATURE","portrait":"HS14-126_S.psd:883c7c8de584ce049980b5c5c20ed88c","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":4}],"races":[],"race":"","classes":[],"art":"art/BOT_054.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-126_S.psd:883c7c8de584ce049980b5c5c20ed88c","goldenMaterial":"BOT_054_PremiumCard.mat:5c108c7e97be4b447af32649aa011d08","goldenAnimation":"BOT_054_PremiumCard.asset:6c20dd5e2241aa148a5ba8d54a97e6f4"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-126_S.psd:883c7c8de584ce049980b5c5c20ed88c",
+      "goldenMaterial": "BOT_054_PremiumCard.mat:5c108c7e97be4b447af32649aa011d08",
+      "goldenAnimation": "BOT_054_PremiumCard.asset:6c20dd5e2241aa148a5ba8d54a97e6f4"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Biology Project"
+          },
+          "koKR": {
+            "present": true,
+            "value": "생물학 프로젝트"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tBiologieprojekt\n\t\t\tBiology Project\n\t\t\tProyecto de biología\n\t\t\tProyecto de biología\n\t\t\tProjet de biologie\n\t\t\tProgetto: Biologia\n\t\t\t生物学プロジェクト\n\t\t\t생물학 프로젝트\n\t\t\tProjekt biologiczny\n\t\t\tProjeto Biológico\n\t\t\tПроект по биологии\n\t\t\tโครงการชีววิทยา\n\t\t\t生物计划\n\t\t\t生物研究計畫\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Each player gains 2_Mana Crystals."
+          },
+          "koKR": {
+            "present": true,
+            "value": "각 플레이어가 마나 수정을 2개씩 획득합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tJeder Spieler erhält\n2 Manakristalle.\n\t\t\tEach player gains 2_Mana Crystals.\n\t\t\tCada jugador obtiene\n2 cristales de maná.\n\t\t\tCada jugador obtiene 2 Cristales de maná.\n\t\t\tChaque joueur gagne 2_cristaux de mana.\n\t\t\tOgni giocatore ottiene 2 Cristalli di Mana.\n\t\t\t[x]各プレイヤーは\nマナクリスタルを\n2つ獲得する。\n\t\t\t각 플레이어가 마나 수정을 2개씩 획득합니다.\n\t\t\tKażdy gracz otrzymuje 2 kryształy many.\n\t\t\tCada jogador recebe 2 Cristais de Mana.\n\t\t\tКаждый игрок получает 2 кристалла маны.\n\t\t\tผู้เล่นทุกคนได้รับ[b]คริสตัลมานา 2 อัน\n\t\t\t每个玩家获得两个法力水晶。\n\t\t\t雙方獲得2顆法力水晶\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Biology Project"
+          },
+          "koKR": {
+            "present": true,
+            "value": "생물학 프로젝트"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tBiologieprojekt\n\t\tBiology Project\n\t\tProyecto de biología\n\t\tProyecto de biología\n\t\tProjet de biologie\n\t\tProgetto: Biologia\n\t\t生物学プロジェクト\n\t\t생물학 프로젝트\n\t\tProjekt biologiczny\n\t\tProjeto Biológico\n\t\tПроект по биологии\n\t\tโครงการชีววิทยา\n\t\t生物计划\n\t\t生物研究計畫\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Each player gains 2_Mana Crystals."
+          },
+          "koKR": {
+            "present": true,
+            "value": "각 플레이어가 마나 수정을 2개씩 얻습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tJeder Spieler erhält\n2 Manakristalle.\n\t\tEach player gains 2_Mana Crystals.\n\t\tCada jugador obtiene\n2 cristales de maná.\n\t\tCada jugador obtiene 2 Cristales de maná.\n\t\tChaque joueur gagne 2_cristaux de mana.\n\t\tOgni giocatore ottiene 2 Cristalli di Mana.\n\t\t[x]各プレイヤーは\nマナクリスタルを\n2つ獲得する。\n\t\t각 플레이어가 마나 수정을 2개씩 얻습니다.\n\t\tKażdy gracz otrzymuje 2 kryształy many.\n\t\tCada jogador recebe 2 Cristais de Mana.\n\t\tКаждый игрок получает 2 кристалла маны.\n\t\tผู้เล่นทุกคนได้รับ[b]คริสตัลมานา 2 อัน\n\t\t每个玩家获得两个法力水晶。\n\t\t雙方獲得2顆法力水晶\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_054",
+    "dbfId": 47887,
+    "name": "생물학 프로젝트",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "각 플레이어가 마나 수정을 2개씩 얻습니다.",
+    "flavor": "1단계: 거대하고 사악한 딸기 만들기 2단계: ???? 3단계: 아제로스 정복!",
+    "spellSchool": "NATURE",
+    "portrait": "HS14-126_S.psd:883c7c8de584ce049980b5c5c20ed88c",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_054.png",
+    "nativeRawText": "각 플레이어가 마나 수정을 2개씩 얻습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "1",
+      "183": "1127",
+      "199": "2",
+      "202": "5",
+      "203": "1",
+      "321": "1",
+      "1635": "4"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_054",
+    "dbfId": 47887,
+    "name": "생물학 프로젝트",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "각 플레이어가 마나 수정을 2개씩 획득합니다.",
+    "flavor": "1단계: 거대하고 사악한 딸기 만들기 2단계: ???? 3단계: 아제로스 정복!",
+    "spellSchool": "",
+    "portrait": "HS14-126_S.psd:883c7c8de584ce049980b5c5c20ed88c",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_054.png",
+    "nativeRawText": "각 플레이어가 마나 수정을 2개씩 획득합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "1",
+      "183": "1127",
+      "199": "2",
+      "202": "5",
+      "203": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2021-03-26": {
+    "spellSchool": "NATURE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 1635,
+        "before": "ABSENT",
+        "after": "4"
+      }
+    ],
+    "source": {
+      "beforeBuild": 44222,
+      "afterBuild": 77662,
+      "beforeCommit": "fc67953f6f6eee064badde3f4a7bd07011508642",
+      "afterCommit": "9e10b526eed8a9c5ece2f73f0c2a6a3b60109d62",
+      "beforeXmlSha256": "abe292d304af3fec9d84707b8326cf4104e370b8fc93e8adfa2c1156988cfdf5",
+      "afterXmlSha256": "36879caf88f629052e57d728d1fb3649a21f7198f649ab1cdc916c72ab1b8e29",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Biology Project"
+            },
+            "koKR": {
+              "present": true,
+              "value": "생물학 프로젝트"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tBiologieprojekt\n\t\t\tBiology Project\n\t\t\tProyecto de biología\n\t\t\tProyecto de biología\n\t\t\tProjet de biologie\n\t\t\tProgetto: Biologia\n\t\t\t生物学プロジェクト\n\t\t\t생물학 프로젝트\n\t\t\tProjekt biologiczny\n\t\t\tProjeto Biológico\n\t\t\tПроект по биологии\n\t\t\tโครงการชีววิทยา\n\t\t\t生物计划\n\t\t\t生物研究計畫\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Each player gains 2_Mana Crystals."
+            },
+            "koKR": {
+              "present": true,
+              "value": "각 플레이어가 마나 수정을 2개씩 얻습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tJeder Spieler erhält\n2 Manakristalle.\n\t\t\tEach player gains 2_Mana Crystals.\n\t\t\tCada jugador obtiene\n2 cristales de maná.\n\t\t\tCada jugador obtiene 2 Cristales de maná.\n\t\t\tChaque joueur gagne 2_cristaux de mana.\n\t\t\tOgni giocatore ottiene 2 Cristalli di Mana.\n\t\t\t[x]各プレイヤーは\nマナクリスタルを\n2つ獲得する。\n\t\t\t각 플레이어가 마나 수정을 2개씩 얻습니다.\n\t\t\tKażdy gracz otrzymuje 2 kryształy many.\n\t\t\tCada jogador recebe 2 Cristais de Mana.\n\t\t\tКаждый игрок получает 2 кристалла маны.\n\t\t\tผู้เล่นทุกคนได้รับ[b]คริสตัลมานา 2 อัน\n\t\t\t每个玩家获得两个法力水晶。\n\t\t\t雙方獲得2顆法力水晶\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Biology Project"
+            },
+            "koKR": {
+              "present": true,
+              "value": "생물학 프로젝트"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tBiologieprojekt\n\t\t\tBiology Project\n\t\t\tProyecto de biología\n\t\t\tProyecto de biología\n\t\t\tProjet de biologie\n\t\t\tProgetto: Biologia\n\t\t\t生物学プロジェクト\n\t\t\t생물학 프로젝트\n\t\t\tProjekt biologiczny\n\t\t\tProjeto Biológico\n\t\t\tПроект по биологии\n\t\t\tโครงการชีววิทยา\n\t\t\t生物计划\n\t\t\t生物研究計畫\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Each player gains 2_Mana Crystals."
+            },
+            "koKR": {
+              "present": true,
+              "value": "각 플레이어가 마나 수정을 2개씩 얻습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tJeder Spieler erhält\n2 Manakristalle.\n\t\t\tEach player gains 2_Mana Crystals.\n\t\t\tCada jugador obtiene\n2 cristales de maná.\n\t\t\tCada jugador obtiene 2 Cristales de maná.\n\t\t\tChaque joueur gagne 2_cristaux de mana.\n\t\t\tOgni giocatore ottiene 2 Cristalli di Mana.\n\t\t\t[x]各プレイヤーは\nマナクリスタルを\n2つ獲得する。\n\t\t\t각 플레이어가 마나 수정을 2개씩 얻습니다.\n\t\t\tKażdy gracz otrzymuje 2 kryształy many.\n\t\t\tCada jogador recebe 2 Cristais de Mana.\n\t\t\tКаждый игрок получает 2 кристалла маны.\n\t\t\tผู้เล่นทุกคนได้รับ[b]คริสตัลมานา 2 อัน\n\t\t\t每个玩家获得两个法力水晶。\n\t\t\t雙方獲得2顆法力水晶\n\t\t"
+        }
+      }
+    }
+  }
+}

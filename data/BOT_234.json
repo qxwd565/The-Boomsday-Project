@@ -1,1 +1,274 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_234","dbfId":48644,"name":"축소 광선","type":"SPELL","cardClass":"PALADIN","rarity":"RARE","collectible":true,"cost":5,"text":"<b>모든</b> 하수인의 공격력과 생명력을 1로 바꿉니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"원리는 간단합니다. 나머지 세계를 거대하게 만드는 거죠.","spellSchool":"","portrait":"HS14-103_S.psd:87e866c7ad546ef488fe9e81c98d1c52","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":5},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":251,"name":"게임 태그 251","value":5},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0}],"races":[],"race":"","classes":[],"art":"art/BOT_234.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-103_S.psd:87e866c7ad546ef488fe9e81c98d1c52","goldenMaterial":"BOT_234_PremiumCard.mat:3e044d96c712bb3489c38319ab3b0a47","goldenAnimation":"BOT_234_PremiumCard.asset:f241a69789cc00f4491a34590ffff589"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-103_S.psd:87e866c7ad546ef488fe9e81c98d1c52",
+      "goldenMaterial": "BOT_234_PremiumCard.mat:3e044d96c712bb3489c38319ab3b0a47",
+      "goldenAnimation": "BOT_234_PremiumCard.asset:f241a69789cc00f4491a34590ffff589"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Shrink Ray"
+          },
+          "koKR": {
+            "present": true,
+            "value": "축소 광선"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tSchrumpfstrahl\n\t\t\tShrink Ray\n\t\t\tRayo reductor\n\t\t\tRayo reductor\n\t\t\tRayon réducteur\n\t\t\tRaggio Riduttore\n\t\t\t縮小光線\n\t\t\t축소 광선\n\t\t\tPromień kurczący\n\t\t\tRaio Encolhedor\n\t\t\tУменьшающий луч\n\t\t\tลำแสงย่อส่วน\n\t\t\t萎缩射线\n\t\t\t縮小射線\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Set the Attack and Health of all minions\nto 1."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>모든</b> 하수인의 공격력과 생명력을 1로 바꿉니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tSetzt Angriff und Leben aller Diener auf 1.\n\t\t\tSet the Attack and Health of all minions\nto 1.\n\t\t\t[x]Establece el ataque\ny la salud de todos\nlos esbirros en 1.\n\t\t\tEstablece en 1 el Ataque y la Salud de todos los esbirros.\n\t\t\tFait passer l’Attaque et la Vie de tous les serviteurs à_1.\n\t\t\tImposta Attacco e Salute di TUTTI i servitori a 1.\n\t\t\t[x]全てのミニオンの\n攻撃力と体力を\n1に変える。\n\t\t\t<b>모든</b> 하수인의 공격력과 생명력을 1로 바꿉니다.\n\t\t\tUstaw atak\ni zdrowie wszystkich stronników na 1.\n\t\t\tMude o Ataque e a Vida de todos lacaios para 1.\n\t\t\tАтака и здоровье всех существ становятся равны 1.\n\t\t\tเปลี่ยนพลังโจมตีและ[b]พลังชีวิตของมินเนี่ยน[b]ทั้งหมดเป็น 1\n\t\t\t将所有随从的攻击力和生命值\n变为1。\n\t\t\t將全部手下\n的攻擊力和生命值\n改為1點\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Shrink Ray"
+          },
+          "koKR": {
+            "present": true,
+            "value": "축소 광선"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tSchrumpfstrahl\n\t\tShrink Ray\n\t\tRayo reductor\n\t\tRayo reductor\n\t\tRayon réducteur\n\t\tRaggio Riduttore\n\t\t縮小光線\n\t\t축소 광선\n\t\tPromień kurczący\n\t\tRaio Encolhedor\n\t\tУменьшающий луч\n\t\tลำแสงย่อส่วน\n\t\t萎缩射线\n\t\t縮小射線\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Set the Attack and Health of all minions\nto 1."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>모든</b> 하수인의 공격력과 생명력을 1로 바꿉니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tSetzt Angriff und Leben aller Diener auf 1.\n\t\tSet the Attack and Health of all minions\nto 1.\n\t\t[x]Establece el ataque\ny la salud de todos\nlos esbirros en 1.\n\t\tEstablece en 1 el Ataque y la Salud de todos los esbirros.\n\t\tFait passer l’ATQ et les PV de tous les serviteurs à_1.\n\t\tImposta Attacco e Salute di TUTTI i servitori a 1.\n\t\t[x]全てのミニオンの\n攻撃力と体力を\n1に変える。\n\t\t<b>모든</b> 하수인의 공격력과 생명력을 1로 바꿉니다.\n\t\tUstaw atak\ni zdrowie wszystkich stronników na 1.\n\t\tMude o Ataque e a Vida de todos lacaios para 1.\n\t\tАтака и здоровье всех существ становятся равны 1.\n\t\tเปลี่ยนพลังโจมตีและ[b]พลังชีวิตของมินเนี่ยน[b]ทั้งหมดเป็น 1\n\t\t将所有随从的攻击力和生命值\n变为1。\n\t\t將全部手下\n的攻擊力和生命值\n改為1點\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_234",
+    "dbfId": 48644,
+    "name": "축소 광선",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>모든</b> 하수인의 공격력과 생명력을 1로 바꿉니다.",
+    "flavor": "원리는 간단합니다. 나머지 세계를 거대하게 만드는 거죠.",
+    "spellSchool": "",
+    "portrait": "HS14-103_S.psd:87e866c7ad546ef488fe9e81c98d1c52",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 251,
+        "name": "게임 태그 251",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_234.png",
+    "nativeRawText": "<b>모든</b> 하수인의 공격력과 생명력을 1로 바꿉니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "5",
+      "183": "1127",
+      "199": "5",
+      "201": "3",
+      "202": "5",
+      "203": "3",
+      "251": "5",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_234",
+    "dbfId": 48644,
+    "name": "축소 광선",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>모든</b> 하수인의 공격력과 생명력을 1로 바꿉니다.",
+    "flavor": "원리는 간단합니다. 나머지 세계를 거대하게 만드는 거죠.",
+    "spellSchool": "",
+    "portrait": "HS14-103_S.psd:87e866c7ad546ef488fe9e81c98d1c52",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 251,
+        "name": "게임 태그 251",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_234.png",
+    "nativeRawText": "<b>모든</b> 하수인의 공격력과 생명력을 1로 바꿉니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "5",
+      "183": "1127",
+      "199": "5",
+      "201": "3",
+      "202": "5",
+      "203": "3",
+      "251": "5",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

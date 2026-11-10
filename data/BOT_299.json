@@ -1,1 +1,265 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_299","dbfId":48515,"name":"오메가 조립 시설","type":"SPELL","cardClass":"WARRIOR","rarity":"RARE","collectible":true,"cost":1,"text":"기계를 <b>발견</b>합니다.<br></br>내 마나 수정이 10개면,<br></br>카드 3장을 모두 가집니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"허나 거절한다. 나, 박사 붐이 가장 좋아하는 것 중 하나는 하나만 선택하라는 카드들을 모두 가져오는 것이다.\"","spellSchool":"","portrait":"HS14-028_S.psd:1c17873abb46b594da1b7bc5f85fa750","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":415,"name":"발견","value":1},{"id":1052,"name":"기계 장치","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_299.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-028_S.psd:1c17873abb46b594da1b7bc5f85fa750","goldenMaterial":"BOT_299_PremiumCard.mat:954e12e550bb33a419d9947e8b7103ec","goldenAnimation":"BOT_299_PremiumCard.asset:a393b2392c813f4469a4061ac473827e"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-028_S.psd:1c17873abb46b594da1b7bc5f85fa750",
+      "goldenMaterial": "BOT_299_PremiumCard.mat:954e12e550bb33a419d9947e8b7103ec",
+      "goldenAnimation": "BOT_299_PremiumCard.asset:a393b2392c813f4469a4061ac473827e"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Omega Assembly"
+          },
+          "koKR": {
+            "present": true,
+            "value": "오메가 조립 시설"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tOmegamontage\n\t\t\tOmega Assembly\n\t\t\tEnsamblaje Omega\n\t\t\tEnsamblaje omega\n\t\t\tAssemblage Oméga\n\t\t\tAssemblaggio Omega\n\t\t\tオメガ・アセンブリ\n\t\t\t오메가 조립 시설\n\t\t\tMontaż Omega\n\t\t\tMontagem Ômega\n\t\t\tОмега-конвейер\n\t\t\tโรงงานประกอบโอเมก้า\n\t\t\t欧米茄装配\n\t\t\t奧米伽組裝\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Discover</b> a Mech. If you\nhave 10 Mana Crystals,\nkeep all 3 cards."
+          },
+          "koKR": {
+            "present": true,
+            "value": "기계를 하나 <b>발견</b>합니다. 내 마나 수정이 10개면, 카드 3장을 모두 가집니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Entdeckt</b> einen Mech. Erhaltet alle\n3 Karten, wenn Ihr\n10 Manakristalle habt.\n\t\t\t[x]<b>Discover</b> a Mech. If you\nhave 10 Mana Crystals,\nkeep all 3 cards.\n\t\t\t[x]<b>Descubre</b> un robot.\nSi tienes 10 cristales,\nconservas las 3 cartas.\n\t\t\t<b>Devela</b> un Meca. Si tienes 10 Cristales de maná, conserva las 3 cartas.\n\t\t\t<b>Découvre</b> un Méca. Vous conservez les 3_cartes si vous avez 10_cristaux de mana.\n\t\t\t[x]<b>Rinvieni</b> un Robot. Se\nhai 10 Cristalli di Mana,\nottieni tutte e tre le carte.\n\t\t\t[x]メカを1体<b>発見</b>する。\n自分のマナクリスタルが\n10個ある場合、3枚の\n候補全てを入手する。\n\t\t\t기계를 하나 <b>발견</b>합니다. 내 마나 수정이 10개면, 카드 3장을 모두 가집니다.\n\t\t\t<b>Odkryj</b> Mecha. Jeśli masz 10 kryształów many, zachowaj wszystkie 3 karty.\n\t\t\t<b>Descubra</b> um Mecanoide. Se você tiver 10 Cristais de Mana, fique com os 3 cards.\n\t\t\tВы <b>раскапываете</b> механизм. Если у вас 10_кристаллов маны, вы берете все 3 карты.\n\t\t\t<b>ค้นพบ</b> การ์ดเครื่องจักรหนึ่งใบ ถ้าคุณมีคริสตัลมานา_10_อัน ได้รับการ์ดทั้ง 3 ใบ\n\t\t\t<b>发现</b>一张机械牌。如果你有十个法力水晶，保留全部三张牌。\n\t\t\t<b>發現</b>一個機械。若你有10顆法力水晶，保留全部3張牌\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Omega Assembly"
+          },
+          "koKR": {
+            "present": true,
+            "value": "오메가 조립 시설"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tOmegamontage\n\t\tOmega Assembly\n\t\tEnsamblaje Omega\n\t\tEnsamblaje omega\n\t\tAssemblage Oméga\n\t\tAssemblaggio Omega\n\t\tオメガ・アセンブリ\n\t\t오메가 조립 시설\n\t\tMontaż Omega\n\t\tMontagem Ômega\n\t\tОмега-конвейер\n\t\tโรงงานประกอบโอเมก้า\n\t\t欧米茄装配\n\t\t奧米伽組裝\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Discover</b> a Mech. If you have 10 Mana Crystals, keep all 3 instead."
+          },
+          "koKR": {
+            "present": true,
+            "value": "기계를 <b>발견</b>합니다.\n내 마나 수정이 10개면,\n카드 3장을 모두 가집니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Entdeckt</b> einen Mech. Erhaltet stattdessen alle 3 Karten, wenn Ihr 10 Manakristalle habt.\n\t\t<b>Discover</b> a Mech. If you have 10 Mana Crystals, keep all 3 instead.\n\t\t[x]<b>Descubre</b> un robot.\nSi tienes 10 cristales,\nte quedas los 3.\n\t\t<b>Devela</b> un Meca. Si tienes 10 Cristales de maná, conserva las 3_cartas.\n\t\t<b>Découvre</b> un Méca. Si vous avez 10_cristaux de mana, vous conservez les 3_cartes à la place.\n\t\t<b>Rinvieni</b> un Robot.\nSe hai 10 Cristalli di\nMana, ottieni invece\ntutte e 3 le carte.\n\t\t[x]メカを1体<b>発見</b>する。\n自分のマナクリスタルが\n10個ある場合\n代わりに3枚の\n候補全てを入手する。\n\t\t기계를 <b>발견</b>합니다.\n내 마나 수정이 10개면,\n카드 3장을 모두 가집니다.\n\t\t<b>Odkryj</b> Mecha. Jeśli_masz 10 kryształów many, zamiast_tego zachowaj wszystkie 3_karty.\n\t\t<b>Descubra</b> um Mecanoide. Em vez disso, se você tiver 10 Cristais de Mana, fique com os 3 cards.\n\t\tВы <b>раскапываете</b> механизм. Если у вас 10_кристаллов маны, вместо этого вы берете все 3 карты.\n\t\t<b>ค้นพบ</b> เครื่องจักรหนึ่งใบ ถ้าคุณมีคริสตัลมานา_10_อัน ได้รับการ์ดทั้ง 3 ใบแทน\n\t\t<b>发现</b>一张机械牌。如果你有十个法力水晶，改为保留全部三张牌。\n\t\t<b>發現</b>一個機械\n若你有10顆法力水晶，保留全部3張牌\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_299",
+    "dbfId": 48515,
+    "name": "오메가 조립 시설",
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 1,
+    "text": "기계를 <b>발견</b>합니다.<br></br>내 마나 수정이 10개면,<br></br>카드 3장을 모두 가집니다.",
+    "flavor": "\"허나 거절한다. 나, 박사 붐이 가장 좋아하는 것 중 하나는 하나만 선택하라는 카드들을 모두 가져오는 것이다.\"",
+    "spellSchool": "",
+    "portrait": "HS14-028_S.psd:1c17873abb46b594da1b7bc5f85fa750",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1052,
+        "name": "기계 장치",
+        "value": 1
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_299.png",
+    "nativeRawText": "기계를 <b>발견</b>합니다.\n내 마나 수정이 10개면,\n카드 3장을 모두 가집니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "1",
+      "183": "1127",
+      "199": "10",
+      "202": "5",
+      "203": "3",
+      "321": "1",
+      "415": "1",
+      "1052": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_299",
+    "dbfId": 48515,
+    "name": "오메가 조립 시설",
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 1,
+    "text": "기계를 하나 <b>발견</b>합니다. 내 마나 수정이 10개면, 카드 3장을 모두 가집니다.",
+    "flavor": "\"허나 거절한다. 나, 박사 붐이 가장 좋아하는 것 중 하나는 하나만 선택하라는 카드들을 모두 가져오는 것이다.\"",
+    "spellSchool": "",
+    "portrait": "HS14-028_S.psd:1c17873abb46b594da1b7bc5f85fa750",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1052,
+        "name": "기계 장치",
+        "value": 1
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_299.png",
+    "nativeRawText": "기계를 하나 <b>발견</b>합니다. 내 마나 수정이 10개면, 카드 3장을 모두 가집니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "1",
+      "183": "1127",
+      "199": "10",
+      "202": "5",
+      "203": "3",
+      "321": "1",
+      "415": "1"
+    },
+    "nativeTagsReferenced": {
+      "1052": "1"
+    },
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

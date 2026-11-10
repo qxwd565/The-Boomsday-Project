@@ -1,1 +1,282 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_280","dbfId":48415,"name":"홀로그램 기술자","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":5,"text":"상대편이 하수인을 낸 후에,<br></br>그 하수인을 복사하여<br></br>1/1 하수인으로<br></br>소환합니다.","attack":3,"health":3,"durability":0,"armor":0,"flavor":"도와주십시오, 적절한 상대여. 그대가 제 유일한 희망입니다.","spellSchool":"","portrait":"HS14-185_M.psd:80d4425465ca8db4bb195aec7011ec4a","set":"BOOMSDAY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_280.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-185_M.psd:80d4425465ca8db4bb195aec7011ec4a","goldenMaterial":"BOT_280_PremiumCard.mat:2c5b297c36683a84eb822615fddcbb06","goldenAnimation":"BOT_280_PremiumCard.asset:dc315575cf3d95b4a93536669f09eba1"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-185_M.psd:80d4425465ca8db4bb195aec7011ec4a",
+      "goldenMaterial": "BOT_280_PremiumCard.mat:2c5b297c36683a84eb822615fddcbb06",
+      "goldenAnimation": "BOT_280_PremiumCard.asset:dc315575cf3d95b4a93536669f09eba1"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Holomancer"
+          },
+          "koKR": {
+            "present": true,
+            "value": "홀로그램 기술자"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tHolomant\n\t\t\tHolomancer\n\t\t\tHolomántico\n\t\t\tHolomántico\n\t\t\tHolomancien\n\t\t\tOlomante\n\t\t\t幻像術師\n\t\t\t홀로그램 기술자\n\t\t\tHolomanta\n\t\t\tHolomante\n\t\t\tГолограммотехник\n\t\t\tโฮโลแมนเซอร์\n\t\t\t全息术士\n\t\t\t全像術師\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "After your opponent plays a minion, summon a 1/1_copy of it."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]상대편이 하수인을 낸 후에,\n그 하수인을 복사하여\n1/1 하수인으로\n소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tNachdem Euer Gegner einen Diener ausgespielt hat, ruft Ihr eine Kopie (1/1) davon herbei.\n\t\t\tAfter your opponent plays a minion, summon a 1/1_copy of it.\n\t\t\t[x]Cuando tu oponente\njuega un esbirro, invoca una\ncopia 1/1 del mismo.\n\t\t\tDespués de que tu adversario juega un esbirro, invoca una copia 1/1 de él.\n\t\t\tUne fois que votre adversaire a joué un serviteur, en invoque une copie_1/1.\n\t\t\tDopo che l'avversario ha giocato un servitore, ne evoca una copia 1/1 sotto il tuo controllo.\n\t\t\t[x]相手がミニオンを\n手札から使用した後\nそのミニオンの\n1/1のコピーを\n1体召喚する。\n\t\t\t[x]상대편이 하수인을 낸 후에,\n그 하수인을 복사하여\n1/1 하수인으로\n소환합니다.\n\t\t\tGdy twój przeciwnik zagra_stronnika, przyzwij jego kopię 1/1.\n\t\t\tDepois que seu oponente jogar um lacaio, evoque uma cópia 1/1 dele.\n\t\t\tПосле того как противник разыгрывает существо, призывает его копию 1/1.\n\t\t\tหลังจากคู่ต่อสู้เล่นมินเนี่ยน เรียกร่างก๊อปปี้ 1/1 ของมินเนี่ยนตัวนั้น\n\t\t\t在你的对手使用一张随从牌后，召唤一个该随从的1/1复制。\n\t\t\t[x]在對手打出\n手下後，召喚一個\n它的1/1分身\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Holomancer"
+          },
+          "koKR": {
+            "present": true,
+            "value": "홀로그램 기술자"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tHolomant\n\t\tHolomancer\n\t\tHolomántico\n\t\tHolomántico\n\t\tHolomancien\n\t\tOlomante\n\t\t幻像術師\n\t\t홀로그램 기술자\n\t\tHolomanta\n\t\tHolomante\n\t\tГолограммотехник\n\t\tโฮโลแมนเซอร์\n\t\t全息术士\n\t\t全像術師\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "After your opponent plays a minion, summon a 1/1_copy of it."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]상대편이 하수인을 낸 후에,\n그 하수인을 복사하여\n1/1 하수인으로\n소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tNachdem Euer Gegner einen Diener ausgespielt hat, ruft Ihr eine Kopie (1/1) davon herbei.\n\t\tAfter your opponent plays a minion, summon a 1/1_copy of it.\n\t\t[x]Cuando tu oponente\njuega un esbirro, invoca una\ncopia 1/1 del mismo.\n\t\tDespués de que tu adversario juega un esbirro, invoca una copia 1/1 de él.\n\t\tUne fois que votre adversaire a joué un serviteur, en invoque une copie_1/1.\n\t\tDopo che l'avversario ha giocato un servitore, ne evoca una copia 1/1 sotto il tuo controllo.\n\t\t[x]相手がミニオンを\n手札から使用した後\nそのミニオンの\n1/1のコピーを\n1体召喚する。\n\t\t[x]상대편이 하수인을 낸 후에,\n그 하수인을 복사하여\n1/1 하수인으로\n소환합니다.\n\t\tGdy twój przeciwnik zagra_stronnika, przyzwij jego kopię 1/1.\n\t\tDepois que seu oponente jogar um lacaio, evoque uma cópia 1/1 dele.\n\t\tПосле того как противник разыгрывает существо, призывает его копию 1/1.\n\t\tหลังจากคู่ต่อสู้เล่น[b]มินเนี่ยน_เรียกร่างก๊อปปี้ _1/1_ของมินเนี่ยนตัวนั้น\n\t\t在你的对手使用一张随从牌后，召唤一个它的1/1的复制。\n\t\t[x]在對手打出\n手下後，召喚一個\n它的1/1分身\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_280",
+    "dbfId": 48415,
+    "name": "홀로그램 기술자",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "상대편이 하수인을 낸 후에,<br></br>그 하수인을 복사하여<br></br>1/1 하수인으로<br></br>소환합니다.",
+    "attack": 3,
+    "health": 3,
+    "flavor": "도와주십시오, 적절한 상대여. 그대가 제 유일한 희망입니다.",
+    "portrait": "HS14-185_M.psd:80d4425465ca8db4bb195aec7011ec4a",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_280.png",
+    "nativeRawText": "[x]상대편이 하수인을 낸 후에,\n그 하수인을 복사하여\n1/1 하수인으로\n소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "32": "1",
+      "45": "3",
+      "47": "3",
+      "48": "5",
+      "183": "1127",
+      "199": "12",
+      "202": "4",
+      "203": "4",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_280",
+    "dbfId": 48415,
+    "name": "홀로그램 기술자",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "상대편이 하수인을 낸 후에,<br></br>그 하수인을 복사하여<br></br>1/1 하수인으로<br></br>소환합니다.",
+    "attack": 3,
+    "health": 3,
+    "flavor": "도와주십시오, 적절한 상대여. 그대가 제 유일한 희망입니다.",
+    "portrait": "HS14-185_M.psd:80d4425465ca8db4bb195aec7011ec4a",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_280.png",
+    "nativeRawText": "[x]상대편이 하수인을 낸 후에,\n그 하수인을 복사하여\n1/1 하수인으로\n소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "32": "1",
+      "45": "3",
+      "47": "3",
+      "48": "5",
+      "183": "1127",
+      "199": "12",
+      "202": "4",
+      "203": "4",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

@@ -1,1 +1,295 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_034","dbfId":47841,"name":"폭발광 플라크","type":"MINION","cardClass":"HUNTER","rarity":"LEGENDARY","collectible":true,"cost":7,"text":"<b>전투의 함성:</b><br></br>0/2 고블린 폭탄을<br></br>넷 소환합니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"모든 계획에는 침착함이 필요합니다. 그리고 엄청 많은 폭발물도 필요하죠.","spellSchool":"","portrait":"HS14-003_M.psd:872335ec59c8c1342a6422829067cbf2","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":7},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":47837}],"races":[],"race":"","classes":[],"art":"art/BOT_034.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-003_M.psd:872335ec59c8c1342a6422829067cbf2","goldenMaterial":"BOT_034_PremiumCard.mat:9009c19b75602d840827db8c5701b39b","goldenAnimation":"BOT_034_PremiumCard.asset:6e67b50f47284c3499f9caf660c09ffb"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-003_M.psd:872335ec59c8c1342a6422829067cbf2",
+      "goldenMaterial": "BOT_034_PremiumCard.mat:9009c19b75602d840827db8c5701b39b",
+      "goldenAnimation": "BOT_034_PremiumCard.asset:6e67b50f47284c3499f9caf660c09ffb"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Boommaster Flark"
+          },
+          "koKR": {
+            "present": true,
+            "value": "폭발광 플라크"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tSprengmeister Flark\n\t\t\tBoommaster Flark\n\t\t\tMaestro Bum Repámpanos\n\t\t\tAmo de explosiones Flark\n\t\t\tMaître des boums Flark\n\t\t\tMastro Boom Flark\n\t\t\tブームマスター・フラーク\n\t\t\t폭발광 플라크\n\t\t\tHukmajster Flarek\n\t\t\tCabumestre Flark\n\t\t\tВзрывомастер Искряк\n\t\t\tบูมมาสเตอร์ฟลาร์ค\n\t\t\t爆破大师弗拉克\n\t\t\t爆爆專家弗拉克\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Summon four 0/2 Goblin Bombs."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b>\n0/2 고블린 폭탄을\n넷 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Ruft\n4 Goblinbomben (0/2) herbei.\n\t\t\t<b>Battlecry:</b> Summon four 0/2 Goblin Bombs.\n\t\t\t<b>Grito de batalla:</b>\nInvoca cuatro bombas goblin 0/2.\n\t\t\t<b>Grito de batalla:</b>\ninvoca cuatro\nBombas goblin 0/2.\n\t\t\t<b>Cri de guerre_:</b> invoque quatre bombes gobelines_0/2.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nevoca quattro\nBombe Goblin 0/2.\n\t\t\t[x]<b>雄叫び:</b>\n0/2の\n「ゴブリン爆弾」を\n___4体召喚する。\n\t\t\t[x]<b>전투의 함성:</b>\n0/2 고블린 폭탄을\n넷 소환합니다.\n\t\t\t<b>Okrzyk bojowy:</b>\nPrzyzwij cztery Goblińskie_bomby 0/2.\n\t\t\t<b>Grito de Guerra:</b> \nEvoque quatro Bombas Goblínicas 0/2.\n\t\t\t<b>Боевой клич:</b> призывает четыре гоблинские бомбы 0/2.\n\t\t\t<b>คำรามสู้ศึก:</b> เรียกระเบิดก็อบลิน 0/2 สี่ลูก\n\t\t\t<b>战吼：</b>召唤四个0/2的地精炸弹。\n\t\t\t<b>戰吼：</b>召喚四個\n0/2哥布林炸彈\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Boommaster Flark"
+          },
+          "koKR": {
+            "present": true,
+            "value": "폭발광 플라크"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tSprengmeister Flark\n\t\tBoommaster Flark\n\t\tMaestro Bum Repámpanos\n\t\tAmo de explosiones Flark\n\t\tMaître des boums Flark\n\t\tMastro Boom Flark\n\t\tブームマスター・フラーク\n\t\t폭발광 플라크\n\t\tHukmajster Flarek\n\t\tCabumestre Flark\n\t\tВзрывомастер Искряк\n\t\tบูมมาสเตอร์ฟลาร์ค\n\t\t爆破大师弗拉克\n\t\t爆爆專家弗拉克\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Summon four 0/2 Goblin Bombs."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]<b>전투의 함성:</b>\n0/2 고블린 폭탄을\n넷 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Ruft\n4 Goblinbomben (0/2) herbei.\n\t\t<b>Battlecry:</b> Summon four 0/2 Goblin Bombs.\n\t\t<b>Grito de batalla:</b>\nInvoca cuatro bombas goblin 0/2.\n\t\t<b>Grito de batalla:</b>\ninvoca cuatro\nBombas goblin 0/2.\n\t\t<b>Cri de guerre_:</b> invoque quatre bombes gobelines_0/2.\n\t\t[x]<b>Grido di Battaglia:</b>\nevoca quattro\nBombe Goblin 0/2.\n\t\t[x]<b>雄叫び:</b>\n0/2の\n「ゴブリン爆弾」を\n___4体召喚する。\n\t\t[x]<b>전투의 함성:</b>\n0/2 고블린 폭탄을\n넷 소환합니다.\n\t\t<b>Okrzyk bojowy:</b>\nPrzyzwij cztery Goblińskie_bomby 0/2.\n\t\t<b>Grito de Guerra:</b> \nEvoque quatro Bombas Goblínicas 0/2.\n\t\t<b>Боевой клич:</b> призывает четыре гоблинские бомбы 0/2.\n\t\t<b>คำรามสู้ศึก:</b> เรียกระเบิดก็อบลิน 0/2 สี่ลูก\n\t\t<b>战吼：</b>召唤四个0/2的地精炸弹。\n\t\t<b>戰吼：</b>召喚四個\n0/2哥布林炸彈\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_034",
+    "dbfId": 47841,
+    "name": "폭발광 플라크",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>전투의 함성:</b><br></br>0/2 고블린 폭탄을<br></br>넷 소환합니다.",
+    "attack": 5,
+    "health": 5,
+    "flavor": "모든 계획에는 침착함이 필요합니다. 그리고 엄청 많은 폭발물도 필요하죠.",
+    "portrait": "HS14-003_M.psd:872335ec59c8c1342a6422829067cbf2",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 47837
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_034.png",
+    "nativeRawText": "[x]<b>전투의 함성:</b>\n0/2 고블린 폭탄을\n넷 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "5",
+      "47": "5",
+      "48": "7",
+      "114": "1",
+      "183": "1127",
+      "199": "3",
+      "202": "4",
+      "203": "5",
+      "218": "1",
+      "321": "1",
+      "1452": "47837"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_034",
+    "dbfId": 47841,
+    "name": "폭발광 플라크",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>전투의 함성:</b><br></br>0/2 고블린 폭탄을<br></br>넷 소환합니다.",
+    "attack": 5,
+    "health": 5,
+    "flavor": "모든 계획에는 침착함이 필요합니다. 그리고 엄청 많은 폭발물도 필요하죠.",
+    "portrait": "HS14-003_M.psd:872335ec59c8c1342a6422829067cbf2",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_034.png",
+    "nativeRawText": "[x]<b>전투의 함성:</b>\n0/2 고블린 폭탄을\n넷 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "5",
+      "47": "5",
+      "48": "7",
+      "114": "1",
+      "183": "1127",
+      "199": "3",
+      "202": "4",
+      "203": "5",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

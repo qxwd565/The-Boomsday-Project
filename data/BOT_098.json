@@ -1,1 +1,296 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_098","dbfId":48060,"name":"동력 끊긴 투사","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":2,"text":"이번 턴에 내가<br></br>주문을 시전했을 때에만<br></br>공격할 수 있습니다.","attack":2,"health":4,"durability":0,"armor":0,"flavor":"인간이나 기계나 힘든 하루를 보낸 후에는 충전할 곳이 필요합니다.","spellSchool":"","portrait":"HS14-011_M.psd:b7ac36b8dc4d80448b33aefc6ac80400","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/BOT_098.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-011_M.psd:b7ac36b8dc4d80448b33aefc6ac80400","goldenMaterial":"BOT_098_PremiumCard.mat:47067b81adcda8346b987577a6ae6d80","goldenAnimation":"BOT_098_PremiumCard.asset:80ef188411a427f469201dad040b4c35"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-011_M.psd:b7ac36b8dc4d80448b33aefc6ac80400",
+      "goldenMaterial": "BOT_098_PremiumCard.mat:47067b81adcda8346b987577a6ae6d80",
+      "goldenAnimation": "BOT_098_PremiumCard.asset:80ef188411a427f469201dad040b4c35"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Unpowered Mauler"
+          },
+          "koKR": {
+            "present": true,
+            "value": "동력 끊긴 투사"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tAntriebsloser Raufbot\n\t\t\tUnpowered Mauler\n\t\t\tAplastador desconectado\n\t\t\tAporreador desconectado\n\t\t\tMarteleur non alimenté\n\t\t\tMazzuolatore Scarico\n\t\t\tパワー切れのモーラー\n\t\t\t동력 끊긴 투사\n\t\t\tRozładowany mocarz\n\t\t\tEspancador Desativado\n\t\t\tОтключенный изверг\n\t\t\tหุ่นแขนทุบพลังหมด\n\t\t\t没电的铁皮人\n\t\t\t動力不足的重擊者\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Can only attack if you cast a spell this turn."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]이번 턴에 내가\n주문을 시전했을 때에만\n공격할 수 있습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tKann nur angreifen, wenn Ihr in diesem Zug einen Zauber gewirkt habt.\n\t\t\tCan only attack if you cast a spell this turn.\n\t\t\t[x]Solo puede atacar\nsi lanzas un hechizo\nen este turno.\n\t\t\tSolo puede atacar si lanzaste un hechizo este turno.\n\t\t\tNe peut attaquer que si vous lancez un sort pendant ce tour.\n\t\t\t[x]Può attaccare solo se\nhai lanciato una Magia\nin questo turno.\n\t\t\t[x]このターンに\n自分が呪文を使用した\n___場合のみ攻撃できる。\n\t\t\t[x]이번 턴에 내가\n주문을 시전했을 때에만\n공격할 수 있습니다.\n\t\t\tMoże atakować jedynie, jeśli udało ci się rzucić zaklęcie w tej turze.\n\t\t\tSó pode atacar se você lançar um feitiço neste turno.\n\t\t\tМожет атаковать, только если вы разыгрывали [x]__заклинание на этом ходу.\n\t\t\tโจมตีไม่ได้จนกว่าคุณ[b]จะร่ายเวทมนตร์ในเทิร์นนี้\n\t\t\t在本回合中，除非你施放过法术，否则无法进行攻击。\n\t\t\t本回合若你有打出\n法術，才能攻擊\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Unpowered Mauler"
+          },
+          "koKR": {
+            "present": true,
+            "value": "동력 끊긴 투사"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tAntriebsloser Raufbot\n\t\tUnpowered Mauler\n\t\tAplastador desconectado\n\t\tAporreador desconectado\n\t\tMarteleur non alimenté\n\t\tMazzuolatore Scarico\n\t\tパワー切れのモーラー\n\t\t동력 끊긴 투사\n\t\tRozładowany mocarz\n\t\tEspancador Desativado\n\t\tОтключенный изверг\n\t\tหุ่นแขนทุบพลังหมด\n\t\t没电的铁皮人\n\t\t動力不足的重擊者\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Can only attack if you cast a spell this turn."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]이번 턴에 내가\n주문을 시전했을 때에만\n공격할 수 있습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tKann nur angreifen, wenn Ihr in diesem Zug einen Zauber gewirkt habt.\n\t\tCan only attack if you cast a spell this turn.\n\t\t[x]Solo puede atacar\nsi lanzas un hechizo\nen este turno.\n\t\tSolo puede atacar si lanzaste un hechizo este turno.\n\t\tNe peut attaquer que si vous lancez un sort pendant ce tour.\n\t\t[x]Può attaccare solo se\nhai lanciato una Magia\nin questo turno.\n\t\t[x]このターンに\n自分が呪文を使用した\n___場合のみ攻撃できる。\n\t\t[x]이번 턴에 내가\n주문을 시전했을 때에만\n공격할 수 있습니다.\n\t\tMoże atakować jedynie, jeśli udało ci się rzucić zaklęcie w tej turze.\n\t\tSó pode atacar se você lançar um feitiço neste turno.\n\t\tМожет атаковать, только если вы применяли [x]__заклинание на этом ходу.\n\t\tโจมตีได้เมื่อคุณ[b]ร่ายเวทมนตร์ในเทิร์นนี้\n\t\t在本回合中，除非你施放过法术，否则无法进行攻击。\n\t\t本回合若你有打出\n法術，才能攻擊\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_098",
+    "dbfId": 48060,
+    "name": "동력 끊긴 투사",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "이번 턴에 내가<br></br>주문을 시전했을 때에만<br></br>공격할 수 있습니다.",
+    "attack": 2,
+    "health": 4,
+    "flavor": "인간이나 기계나 힘든 하루를 보낸 후에는 충전할 곳이 필요합니다.",
+    "portrait": "HS14-011_M.psd:b7ac36b8dc4d80448b33aefc6ac80400",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_098.png",
+    "nativeRawText": "[x]이번 턴에 내가\n주문을 시전했을 때에만\n공격할 수 있습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "4",
+      "47": "2",
+      "48": "2",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "202": "4",
+      "203": "3",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_098",
+    "dbfId": 48060,
+    "name": "동력 끊긴 투사",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "이번 턴에 내가<br></br>주문을 시전했을 때에만<br></br>공격할 수 있습니다.",
+    "attack": 2,
+    "health": 4,
+    "flavor": "인간이나 기계나 힘든 하루를 보낸 후에는 충전할 곳이 필요합니다.",
+    "portrait": "HS14-011_M.psd:b7ac36b8dc4d80448b33aefc6ac80400",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_098.png",
+    "nativeRawText": "[x]이번 턴에 내가\n주문을 시전했을 때에만\n공격할 수 있습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "4",
+      "47": "2",
+      "48": "2",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "202": "4",
+      "203": "3",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

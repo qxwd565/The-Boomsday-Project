@@ -1,1 +1,308 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_291","dbfId":48490,"name":"폭풍 추적자","type":"MINION","cardClass":"SHAMAN","rarity":"RARE","collectible":true,"cost":4,"text":"<b>전투의 함성:</b> 내 덱에서 비용이 (5) 이상인 주문을 뽑습니다.","attack":3,"health":4,"durability":0,"armor":0,"flavor":"\"언젠가 엘렉트라처럼 되고 싶어요!\"","spellSchool":"","portrait":"HS14-137_M.psd:6805c8d1b3c74e045b97e1e9285e1888","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/BOT_291.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-137_M.psd:6805c8d1b3c74e045b97e1e9285e1888","goldenMaterial":"BOT_291_PremiumCard.mat:4fef0cd137512034ba7d690edf27f643","goldenAnimation":"BOT_291_PremiumCard.asset:8a48274bdd227b44c9d81d1bdbd33e3f"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-137_M.psd:6805c8d1b3c74e045b97e1e9285e1888",
+      "goldenMaterial": "BOT_291_PremiumCard.mat:4fef0cd137512034ba7d690edf27f643",
+      "goldenAnimation": "BOT_291_PremiumCard.asset:8a48274bdd227b44c9d81d1bdbd33e3f"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Storm Chaser"
+          },
+          "koKR": {
+            "present": true,
+            "value": "폭풍 추적자"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tSturmfänger\n\t\t\tStorm Chaser\n\t\t\tCazatormentas\n\t\t\tCazatormentas\n\t\t\tChasseur de tempêtes\n\t\t\tCacciatrice di Tempeste\n\t\t\tストームチェイサー\n\t\t\t폭풍 추적자\n\t\t\tBurzołapka\n\t\t\tCria da Tempestade\n\t\t\tЛовец бурь\n\t\t\tสตอร์มแชสเซอร์\n\t\t\t风暴追逐者\n\t\t\t風暴追逐者\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Draw a spell from your deck that costs_(5) or more."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b> 내 덱에서 비용이 (5) 이상인 주문을 하나 뽑습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Zieht aus Eurem Deck einen Zauber, der mind. (5) kostet.\n\t\t\t<b>Battlecry:</b> Draw a spell from your deck that costs_(5) or more.\n\t\t\t[x]<b>Grito de batalla:</b>\nRoba un hechizo de tu mazo\nque cueste (5) cristales\no más.\n\t\t\t<b>Grito de batalla:</b> roba un hechizo de tu mazo que cuesta (5) o más.\n\t\t\t<b>Cri de guerre_:</b> vous piochez un sort de votre deck coûtant (5)_|4(cristal,cristaux) ou plus.\n\t\t\t[x]<b>Grido di Battaglia:</b> pesca\nuna Magia da 5 o più\nMana dal tuo mazzo.\n\t\t\t[x]<b>雄叫び:</b>\n自分のデッキから\nコスト（5）以上の呪文を\n1枚引く。\n\t\t\t<b>전투의 함성:</b> 내 덱에서 비용이 (5) 이상인 주문을 하나 뽑습니다.\n\t\t\t<b>Okrzyk bojowy:</b>\nDobierz z twojej talii zaklęcie kosztujące (5)_lub_więcej.\n\t\t\t<b>Grito de Guerra:</b> Compre um feitiço do seu deck que custa (5) ou mais.\n\t\t\t<b>Боевой клич:</b> вы берете из колоды заклинание за_(5) или больше.\n\t\t\t<b>คำรามสู้ศึก:</b> จั่วการ์ดเวทมนตร์ค่าร่าย_(5) _หรือสูงกว่าหนึ่งใบจากเด็คคุณ_\n\t\t\t<b>战吼：</b>从你的牌库中抽一张法力值消耗大于或等于（5）的\n法术牌。\n\t\t\t<b>戰吼：</b>從你的牌堆\n抽出一張消耗(5)以上的法術\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Storm Chaser"
+          },
+          "koKR": {
+            "present": true,
+            "value": "폭풍 추적자"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tSturmfänger\n\t\tStorm Chaser\n\t\tCazatormentas\n\t\tCazatormentas\n\t\tChasseur de tempêtes\n\t\tCacciatrice di Tempeste\n\t\tストームチェイサー\n\t\t폭풍 추적자\n\t\tBurzołapka\n\t\tCria da Tempestade\n\t\tЛовец бурь\n\t\tสตอร์มแชสเซอร์\n\t\t风暴追逐者\n\t\t風暴追逐者\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Draw a spell from your deck that costs_(5) or more."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b> 내 덱에서 비용이 (5) 이상인 주문을 뽑습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Zieht aus Eurem Deck einen Zauber, der mind. (5) kostet.\n\t\t<b>Battlecry:</b> Draw a spell from your deck that costs_(5) or more.\n\t\t[x]<b>Grito de batalla:</b>\nRoba un hechizo de tu mazo\nque cueste (5) cristales\no más.\n\t\t<b>Grito de batalla:</b> roba un hechizo de tu mazo que cuesta (5) o más.\n\t\t<b>Cri de guerre_:</b> vous piochez un sort de votre deck coûtant (5)_|4(cristal,cristaux) ou plus.\n\t\t[x]<b>Grido di Battaglia:</b> pesca\nuna Magia da 5 o più\nMana dal tuo mazzo.\n\t\t[x]<b>雄叫び:</b>\n自分のデッキから\nコスト（5）以上の呪文を\n1枚引く。\n\t\t<b>전투의 함성:</b> 내 덱에서 비용이 (5) 이상인 주문을 뽑습니다.\n\t\t<b>Okrzyk bojowy:</b>\nDobierz z twojej talii zaklęcie kosztujące (5)_lub_więcej.\n\t\t<b>Grito de Guerra:</b> Compre um feitiço do seu deck que custa (5) ou mais.\n\t\t<b>Боевой клич:</b> вы берете из колоды заклинание за_(5) или больше.\n\t\t<b>คำรามสู้ศึก:</b>_จั่วเวทมนตร์[b]ค่าร่าย_(5)_หรือสูงกว่า[b]หนึ่งใบจากเด็คคุณ\n\t\t<b>战吼：</b>从你的牌库中抽一张法力值消耗大于或等于（5）点的法术牌。\n\t\t<b>戰吼：</b>從你的牌堆\n抽出一張消耗(5)以上的法術\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_291",
+    "dbfId": 48490,
+    "name": "폭풍 추적자",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b> 내 덱에서 비용이 (5) 이상인 주문을 뽑습니다.",
+    "attack": 3,
+    "health": 4,
+    "flavor": "\"언젠가 엘렉트라처럼 되고 싶어요!\"",
+    "portrait": "HS14-137_M.psd:6805c8d1b3c74e045b97e1e9285e1888",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/BOT_291.png",
+    "nativeRawText": "<b>전투의 함성:</b> 내 덱에서 비용이 (5) 이상인 주문을 뽑습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "4",
+      "47": "3",
+      "48": "4",
+      "183": "1127",
+      "199": "8",
+      "200": "18",
+      "202": "4",
+      "203": "3",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_291",
+    "dbfId": 48490,
+    "name": "폭풍 추적자",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b> 내 덱에서 비용이 (5) 이상인 주문을 하나 뽑습니다.",
+    "attack": 3,
+    "health": 4,
+    "flavor": "\"언젠가 엘렉트라처럼 되고 싶어요!\"",
+    "portrait": "HS14-137_M.psd:6805c8d1b3c74e045b97e1e9285e1888",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/BOT_291.png",
+    "nativeRawText": "<b>전투의 함성:</b> 내 덱에서 비용이 (5) 이상인 주문을 하나 뽑습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "4",
+      "47": "3",
+      "48": "4",
+      "183": "1127",
+      "199": "8",
+      "200": "18",
+      "202": "4",
+      "203": "3",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

@@ -1,1 +1,512 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_066","dbfId":47924,"name":"기계 새끼용","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":6,"text":"<b>죽음의 메아리:</b><br></br>7/7 기계용을 소환합니다.","attack":2,"health":2,"durability":0,"armor":0,"flavor":"\"잠깐... 저걸 내가 만든 것도 아니고 네가 만들지도 않았다면...\"","spellSchool":"","portrait":"HS14-006_M.psd:e20aeb5bb26786444adfebc6806d95a1","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":17},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":48897},{"id":2355,"name":"새끼용","value":1},{"id":2523,"name":"게임 태그 2523","value":1}],"races":["MECHANICAL","DRAGON"],"race":"기계, 용족","classes":[],"art":"art/BOT_066.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-006_M.psd:e20aeb5bb26786444adfebc6806d95a1","goldenMaterial":"BOT_066_PremiumCard.mat:1ab6ad552a1cbd24989eb6e19bdac9cb","goldenAnimation":"BOT_066_PremiumCard.asset:24e44d865b026da458c383059c19227e"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-006_M.psd:e20aeb5bb26786444adfebc6806d95a1",
+      "goldenMaterial": "BOT_066_PremiumCard.mat:1ab6ad552a1cbd24989eb6e19bdac9cb",
+      "goldenAnimation": "BOT_066_PremiumCard.asset:24e44d865b026da458c383059c19227e"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Mechanical Whelp"
+          },
+          "koKR": {
+            "present": true,
+            "value": "기계 새끼용"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tMechanischer Welpling\n\t\t\tMechanical Whelp\n\t\t\tCría mecánica\n\t\t\tCría mecánica\n\t\t\tDragonnet mécanique\n\t\t\tDraghetto Meccanico\n\t\t\tメカ・チビドラゴン\n\t\t\t기계 새끼용\n\t\t\tMechaniczne pisklę\n\t\t\tDragonete Mecânico\n\t\t\tМеханический дракончик\n\t\t\tลูกมังกรจักรกล\n\t\t\t机械雏龙\n\t\t\t機械龍寶寶\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Summon a 7/7 Mechanical Dragon."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b>\n7/7 기계용을\n1마리 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Todesröcheln:</b> Ruft einen Mechanischen Drachen (7/7) herbei.\n\t\t\t<b>Deathrattle:</b> Summon a 7/7 Mechanical Dragon.\n\t\t\t<b>Último aliento:</b>\nInvoca un dragón mecánico 7/7.\n\t\t\t<b>Estertor:</b> invoca un Dragón mecánico 7/7.\n\t\t\t<b>Râle d’agonie :</b> invoque un dragon mécanique_7/7.\n\t\t\t[x]<b>Rantolo di Morte:</b>\nevoca un Drago\nMeccanico 7/7.\n\t\t\t[x]<b>断末魔:</b>\n7/7の\n「メカ・ドラゴン」を\n__1体召喚する。\n\t\t\t<b>죽음의 메아리:</b>\n7/7 기계용을\n1마리 소환합니다.\n\t\t\t<b>Agonia:</b> Przyzwij Mechasmoka 7/7.\n\t\t\t<b>Último Suspiro:</b> Evoque um Dragão Mecânico 7/7.\n\t\t\t<b>Предсмертный хрип:</b> призывает механического дракона 7/7.\n\t\t\t<b>เสียงสุดท้าย:</b> เรียกมังกรจักรกล 7/7\n\t\t\t<b>亡语：</b>召唤一个7/7的机械巨龙。\n\t\t\t<b>死亡之聲：</b>召喚一個\n7/7機械龍\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Mechanical Whelp"
+          },
+          "koKR": {
+            "present": true,
+            "value": "기계 새끼용"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tMechanischer Welpling\n\t\tMechanical Whelp\n\t\tCría mecánica\n\t\tCría mecánica\n\t\tDragonnet mécanique\n\t\tDraghetto Meccanico\n\t\tメカ・チビドラゴン\n\t\t기계 새끼용\n\t\tMechaniczne pisklę\n\t\tDragonete Mecânico\n\t\tМеханический дракончик\n\t\tลูกมังกรจักรกล\n\t\t机械雏龙\n\t\t機械幼龍\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Summon a 7/7 Mechanical Dragon."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b>\n7/7 기계용을 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Todesröcheln:</b> Ruft einen Mechanischen Drachen (7/7) herbei.\n\t\t<b>Deathrattle:</b> Summon a 7/7 Mechanical Dragon.\n\t\t<b>Último aliento:</b>\nInvoca un dragón mecánico 7/7.\n\t\t<b>Estertor:</b> invoca un Dragón mecánico 7/7.\n\t\t<b>Râle d’agonie :</b> invoque un dragon mécanique_7/7.\n\t\t[x]<b>Rantolo di Morte:</b>\nevoca un Drago\nMeccanico 7/7.\n\t\t[x]<b>断末魔:</b>\n7/7の\n「メカ・ドラゴン」を\n__1体召喚する。\n\t\t<b>죽음의 메아리:</b>\n7/7 기계용을 소환합니다.\n\t\t<b>Agonia:</b> Przyzwij Mechasmoka 7/7.\n\t\t<b>Último Suspiro:</b> Evoque um Dragão Mecânico 7/7.\n\t\t<b>Предсмертный хрип:</b> призывает механического дракона 7/7.\n\t\t<b>เสียงสุดท้าย:</b> เรียกมังกรจักรกล 7/7\n\t\t<b>亡语：</b>召唤一个7/7的机械巨龙。\n\t\t<b>死亡之聲：</b>召喚一個\n7/7機械龍\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_066",
+    "dbfId": 47924,
+    "name": "기계 새끼용",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>죽음의 메아리:</b><br></br>7/7 기계용을 소환합니다.",
+    "attack": 2,
+    "health": 2,
+    "flavor": "\"잠깐... 저걸 내가 만든 것도 아니고 네가 만들지도 않았다면...\"",
+    "portrait": "HS14-006_M.psd:e20aeb5bb26786444adfebc6806d95a1",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 48897
+      },
+      {
+        "id": 2355,
+        "name": "새끼용",
+        "value": 1
+      },
+      {
+        "id": 2523,
+        "name": "게임 태그 2523",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL",
+      "DRAGON"
+    ],
+    "race": "기계, 용족",
+    "classes": [],
+    "art": "art/BOT_066.png",
+    "nativeRawText": "<b>죽음의 메아리:</b>\n7/7 기계용을 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "2",
+      "47": "2",
+      "48": "6",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "201": "3",
+      "202": "4",
+      "203": "3",
+      "217": "1",
+      "321": "1",
+      "1452": "48897",
+      "2355": "1",
+      "2523": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_066",
+    "dbfId": 47924,
+    "name": "기계 새끼용",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>죽음의 메아리:</b><br></br>7/7 기계용을<br></br>1마리 소환합니다.",
+    "attack": 2,
+    "health": 2,
+    "flavor": "\"잠깐... 저걸 내가 만든 것도 아니고 네가 만들지도 않았다면...\"",
+    "portrait": "HS14-006_M.psd:e20aeb5bb26786444adfebc6806d95a1",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_066.png",
+    "nativeRawText": "<b>죽음의 메아리:</b>\n7/7 기계용을\n1마리 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "2",
+      "47": "2",
+      "48": "6",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "201": "3",
+      "202": "4",
+      "203": "3",
+      "217": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2023-02-15": {
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 2523,
+        "name": "게임 태그 2523",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL",
+      "DRAGON"
+    ],
+    "race": "기계, 용족",
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 2523,
+        "before": "ABSENT",
+        "after": "1"
+      }
+    ],
+    "source": {
+      "beforeBuild": 163976,
+      "afterBuild": 165029,
+      "beforeCommit": "cf08a2eee9159a63ff589cfe2deabc4035673871",
+      "afterCommit": "ef8297aadee616ea2ffbc941a7b55a84b6cfc819",
+      "beforeXmlSha256": "73043cbecbfadd4cc6ffe42ddd977a6667ac60fb2efd8aec19d2abfe1977b6d4",
+      "afterXmlSha256": "1fa3e9bae99d369dbbcb622f964f225a1506d48344c5535ac1c83543b4bc3d53",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Mechanical Whelp"
+            },
+            "koKR": {
+              "present": true,
+              "value": "기계 새끼용"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tMechanischer Welpling\n\t\t\tMechanical Whelp\n\t\t\tCría mecánica\n\t\t\tCría mecánica\n\t\t\tDragonnet mécanique\n\t\t\tDraghetto Meccanico\n\t\t\tメカ・チビドラゴン\n\t\t\t기계 새끼용\n\t\t\tMechaniczne pisklę\n\t\t\tDragonete Mecânico\n\t\t\tМеханический дракончик\n\t\t\tลูกมังกรจักรกล\n\t\t\t机械雏龙\n\t\t\t機械幼龍\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Deathrattle:</b> Summon a 7/7 Mechanical Dragon."
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>죽음의 메아리:</b>\n7/7 기계용을 소환합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Todesröcheln:</b> Ruft einen Mechanischen Drachen (7/7) herbei.\n\t\t\t<b>Deathrattle:</b> Summon a 7/7 Mechanical Dragon.\n\t\t\t<b>Último aliento:</b>\nInvoca un dragón mecánico 7/7.\n\t\t\t<b>Estertor:</b> invoca un Dragón mecánico 7/7.\n\t\t\t<b>Râle d’agonie :</b> invoque un dragon mécanique_7/7.\n\t\t\t[x]<b>Rantolo di Morte:</b>\nevoca un Drago\nMeccanico 7/7.\n\t\t\t[x]<b>断末魔:</b>\n7/7の\n「メカ・ドラゴン」を\n__1体召喚する。\n\t\t\t<b>죽음의 메아리:</b>\n7/7 기계용을 소환합니다.\n\t\t\t<b>Agonia:</b> Przyzwij Mechasmoka 7/7.\n\t\t\t<b>Último Suspiro:</b> Evoque um Dragão Mecânico 7/7.\n\t\t\t<b>Предсмертный хрип:</b> призывает механического дракона 7/7.\n\t\t\t<b>เสียงสุดท้าย:</b> เรียกมังกรจักรกล 7/7\n\t\t\t<b>亡语：</b>召唤一个7/7的机械巨龙。\n\t\t\t<b>死亡之聲：</b>召喚一個\n7/7機械龍\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Mechanical Whelp"
+            },
+            "koKR": {
+              "present": true,
+              "value": "기계 새끼용"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tMechanischer Welpling\n\t\t\tMechanical Whelp\n\t\t\tCría mecánica\n\t\t\tCría mecánica\n\t\t\tDragonnet mécanique\n\t\t\tDraghetto Meccanico\n\t\t\tメカ・チビドラゴン\n\t\t\t기계 새끼용\n\t\t\tMechaniczne pisklę\n\t\t\tDragonete Mecânico\n\t\t\tМеханический дракончик\n\t\t\tลูกมังกรจักรกล\n\t\t\t机械雏龙\n\t\t\t機械幼龍\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Deathrattle:</b> Summon a 7/7 Mechanical Dragon."
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>죽음의 메아리:</b>\n7/7 기계용을 소환합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Todesröcheln:</b> Ruft einen Mechanischen Drachen (7/7) herbei.\n\t\t\t<b>Deathrattle:</b> Summon a 7/7 Mechanical Dragon.\n\t\t\t<b>Último aliento:</b>\nInvoca un dragón mecánico 7/7.\n\t\t\t<b>Estertor:</b> invoca un Dragón mecánico 7/7.\n\t\t\t<b>Râle d’agonie :</b> invoque un dragon mécanique_7/7.\n\t\t\t[x]<b>Rantolo di Morte:</b>\nevoca un Drago\nMeccanico 7/7.\n\t\t\t[x]<b>断末魔:</b>\n7/7の\n「メカ・ドラゴン」を\n__1体召喚する。\n\t\t\t<b>죽음의 메아리:</b>\n7/7 기계용을 소환합니다.\n\t\t\t<b>Agonia:</b> Przyzwij Mechasmoka 7/7.\n\t\t\t<b>Último Suspiro:</b> Evoque um Dragão Mecânico 7/7.\n\t\t\t<b>Предсмертный хрип:</b> призывает механического дракона 7/7.\n\t\t\t<b>เสียงสุดท้าย:</b> เรียกมังกรจักรกล 7/7\n\t\t\t<b>亡语：</b>召唤一个7/7的机械巨龙。\n\t\t\t<b>死亡之聲：</b>召喚一個\n7/7機械龍\n\t\t"
+        }
+      }
+    }
+  }
+}

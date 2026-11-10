@@ -1,1 +1,648 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_566","dbfId":49416,"name":"무모한 실험가","type":"MINION","cardClass":"PRIEST","rarity":"EPIC","collectible":true,"cost":5,"text":"내가 내는 <b>죽음의 메아리</b> 하수인들의 비용이 (3) 감소하지만 턴이 끝날 때 죽습니다.","attack":4,"health":6,"durability":0,"armor":0,"flavor":"무모하다고 하기도 애매한 게, 뭘 하고 있는지 정확히 알고 있거든요.","spellSchool":"","portrait":"HS14-145_M.psd:6db02855677e45446aa314fc19cb4295","set":"BOOMSDAY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":6},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":362,"name":"지속 효과","value":1}],"races":["UNDEAD"],"race":"언데드","classes":[],"art":"art/BOT_566.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-145_M.psd:6db02855677e45446aa314fc19cb4295","goldenMaterial":"BOT_566_PremiumCard.mat:4ad40f61141cf334c82ec1d9f4f475e4","goldenAnimation":"BOT_566_PremiumCard.asset:fce03d3199e18c94ea555964cdc29eee"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-145_M.psd:6db02855677e45446aa314fc19cb4295",
+      "goldenMaterial": "BOT_566_PremiumCard.mat:4ad40f61141cf334c82ec1d9f4f475e4",
+      "goldenAnimation": "BOT_566_PremiumCard.asset:fce03d3199e18c94ea555964cdc29eee"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Reckless Experimenter"
+          },
+          "koKR": {
+            "present": true,
+            "value": "무모한 실험가"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tGewissenlose Forscherin\n\t\t\tReckless Experimenter\n\t\t\tExperimentadora imprudente\n\t\t\tCientífica insensata\n\t\t\tExpérimentatrice téméraire\n\t\t\tRicercatrice Incauta\n\t\t\t無謀な実験者\n\t\t\t무모한 실험가\n\t\t\tKoneserka eksperymentów\n\t\t\tPesquisadora Imprudente\n\t\t\tЖестокая лаборантка\n\t\t\tนักทดลองบ้าระห่ำ\n\t\t\t鲁莽的实验者\n\t\t\t草率的實驗者\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Deathrattle</b> minions you\nplay cost (3) less, but die\nat the end of the turn."
+          },
+          "koKR": {
+            "present": true,
+            "value": "내가 내는 <b>죽음의 메아리</b> 하수인들의 비용이 (3) 감소하지만 턴이 끝날 때 죽습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tDiener mit <b>Todesröcheln</b>,\ndie Ihr ausspielt, kosten (3) weniger, aber sterben am Ende des Zuges.\n\t\t\t[x]<b>Deathrattle</b> minions you\nplay cost (3) less, but die\nat the end of the turn.\n\t\t\tLos esbirros con <b>Último aliento</b> que juegas cuestan (3) cristales menos, pero mueren al final del turno.\n\t\t\tLos esbirros con <b>Estertor</b> que juegas cuestan (3) menos, pero mueren al final del turno.\n\t\t\tLes serviteurs avec <b>Râle d’agonie</b> que_vous_jouez_coûtent_(3)_cristaux de moins, mais ils meurent à la fin de votre tour.\n\t\t\t[x]I servitori con <b>Rantolo di\nMorte</b> che giochi costano\n(3) in meno, ma muoiono\nalla fine del turno.\n\t\t\t[x]自分が手札から使用する\n<b>断末魔</b>を持つミニオンは\nコストが（3）減るが\nターンの終了時に\n死亡する。\n\t\t\t내가 내는 <b>죽음의 메아리</b> 하수인들의 비용이 (3) 감소하지만 턴이 끝날 때 죽습니다.\n\t\t\tZagrani przez ciebie stronnicy z <b>Agonią</b> kosztują (3) mniej, ale giną na koniec tury.\n\t\t\tLacaios com <b>Último Suspiro</b> que você jogar custam (3) a menos, mas morrem no final do turno.\n\t\t\t[x]Разыгранные вами существа\nс <b>«Предсмертным хрипом»</b>\nстоят на (3) меньше, но умира-\nют в конце вашего хода.\n\t\t\tมินเนี่ยน <b>เสียงสุดท้าย</b> ที่[b]คุณเล่นมีค่าร่ายลดลง (3) แต่จะตายเมื่อจบเทิร์น\n\t\t\t你使用的<b>亡语</b>随从牌的法力值消耗减少（3）点，但会在回合结束时死亡。\n\t\t\t你的<b>死亡之聲</b>手下消耗減少(3)，但在回合結束時死亡\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Reckless Experimenter"
+          },
+          "koKR": {
+            "present": true,
+            "value": "무모한 실험가"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tGewissenlose Forscherin\n\t\tReckless Experimenter\n\t\tExperimentadora imprudente\n\t\tCientífica insensata\n\t\tExpérimentatrice téméraire\n\t\tRicercatrice Incauta\n\t\t無謀な実験者\n\t\t무모한 실험가\n\t\tKoneserka eksperymentów\n\t\tPesquisadora Imprudente\n\t\tЖестокая лаборантка\n\t\tนักทดลองบ้าระห่ำ\n\t\t鲁莽的实验者\n\t\t草率的實驗者\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Deathrattle</b> minions you\nplay cost (3) less, but die\nat the end of the turn."
+          },
+          "koKR": {
+            "present": true,
+            "value": "내가 내는 <b>죽음의 메아리</b> 하수인들의 비용이 (3) 감소하지만 턴이 끝날 때 죽습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tDiener mit <b>Todesröcheln</b>, die Ihr ausspielt, kosten (3) weniger, sterben aber am Ende des Zuges.\n\t\t[x]<b>Deathrattle</b> minions you\nplay cost (3) less, but die\nat the end of the turn.\n\t\tTus esbirros con <b>Último aliento</b> cuestan (3) cristales menos, pero mueren al final del turno.\n\t\tLos esbirros con <b>Estertor</b> que juegas cuestan (3) menos, pero mueren al final del turno.\n\t\tLes serviteurs avec <b>Râle d’agonie</b> que vous jouez coûtent (3)_cristaux de moins mais meurent à la fin du tour.\n\t\t[x]I servitori con <b>Rantolo di Morte</b>\nche giochi costano (3) in meno,\nma muoiono alla fine del turno.\n\t\t[x]自分が手札から使用する\n<b>断末魔</b>ミニオンは\nコストが（3）減るが\n____ターンの終了時に死亡する。\n\t\t내가 내는 <b>죽음의 메아리</b> 하수인들의 비용이 (3) 감소하지만 턴이 끝날 때 죽습니다.\n\t\tZagrani przez ciebie stronnicy z <b>Agonią</b> kosztują (3) mniej, ale giną na koniec tury.\n\t\tLacaios com <b>Último Suspiro</b> que você jogar custam (3) a menos, mas morrem no final do turno.\n\t\t[x]Разыгрываемые вами\nсущества с_<b>«Предсмертным\nхрипом»</b> стоят на (3) меньше,\n___но умирают в конце хода.\n\t\tมินเนี่ยน <b>เสียงสุดท้าย</b> ที่[b]คุณเล่นมีค่าร่ายลดลง (3) แต่จะตายเมื่อจบเทิร์น\n\t\t你使用的<b>亡语</b>随从牌的法力值消耗减少（3）点，但会在回合结束时死亡。\n\t\t[x]你打出的<b>死亡之聲</b>手\n下消耗減少(3)，但在\n回合結束時死亡\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_566",
+    "dbfId": 49416,
+    "name": "무모한 실험가",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "내가 내는 <b>죽음의 메아리</b> 하수인들의 비용이 (3) 감소하지만 턴이 끝날 때 죽습니다.",
+    "attack": 4,
+    "health": 6,
+    "flavor": "무모하다고 하기도 애매한 게, 뭘 하고 있는지 정확히 알고 있거든요.",
+    "portrait": "HS14-145_M.psd:6db02855677e45446aa314fc19cb4295",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 362,
+        "name": "지속 효과",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD"
+    ],
+    "race": "언데드",
+    "classes": [],
+    "art": "art/BOT_566.png",
+    "nativeRawText": "내가 내는 <b>죽음의 메아리</b> 하수인들의 비용이 (3) 감소하지만 턴이 끝날 때 죽습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "32": "1",
+      "45": "6",
+      "47": "4",
+      "48": "5",
+      "183": "1127",
+      "199": "6",
+      "200": "11",
+      "202": "4",
+      "203": "4",
+      "321": "1",
+      "362": "1"
+    },
+    "nativeTagsReferenced": {
+      "217": "1"
+    }
+  },
+  "2018-08-08": {
+    "id": "BOT_566",
+    "dbfId": 49416,
+    "name": "무모한 실험가",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "내가 내는 <b>죽음의 메아리</b> 하수인들의 비용이 (3) 감소하지만 턴이 끝날 때 죽습니다.",
+    "attack": 4,
+    "health": 6,
+    "flavor": "무모하다고 하기도 애매한 게, 뭘 하고 있는지 정확히 알고 있거든요.",
+    "portrait": "HS14-145_M.psd:6db02855677e45446aa314fc19cb4295",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 362,
+        "name": "지속 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_566.png",
+    "nativeRawText": "내가 내는 <b>죽음의 메아리</b> 하수인들의 비용이 (3) 감소하지만 턴이 끝날 때 죽습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "32": "1",
+      "45": "6",
+      "47": "4",
+      "48": "5",
+      "183": "1127",
+      "199": "6",
+      "202": "4",
+      "203": "4",
+      "321": "1",
+      "362": "1"
+    },
+    "nativeTagsReferenced": {
+      "217": "1"
+    },
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2019-06-04": {
+    "text": "내가 내는 <b>죽음의 메아리</b><br></br>하수인들의 비용이 (3)<br></br>감소하지만 턴이 끝날 때<br></br>죽습니다. <i>(비용은 1보다<br></br>낮아지지 않습니다.)</i>",
+    "nativeRawText": "[x]내가 내는 <b>죽음의 메아리</b>\n하수인들의 비용이 (3)\n감소하지만 턴이 끝날 때\n죽습니다. <i>(비용은 1보다\n낮아지지 않습니다.)</i>",
+    "source": {
+      "beforeBuild": 31022,
+      "afterBuild": 31268,
+      "beforeCommit": "089a94c2fc524cc52ee7697ad4430fd52240d6a0",
+      "afterCommit": "d4dcf70622f19beddd0d6d56fdd5f053da99d223",
+      "beforeXmlSha256": "95219fea6d5638fa31890deb6468518c9a9189155f3e1f29512ec5758fe2adbe",
+      "afterXmlSha256": "016adca4cafcd19f2d9eb3397b7acd3035db594b5c5bd91e77370f57bdb483c4",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Reckless Experimenter"
+            },
+            "koKR": {
+              "present": true,
+              "value": "무모한 실험가"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tGewissenlose Forscherin\n\t\t\tReckless Experimenter\n\t\t\tExperimentadora imprudente\n\t\t\tCientífica insensata\n\t\t\tExpérimentatrice téméraire\n\t\t\tRicercatrice Incauta\n\t\t\t無謀な実験者\n\t\t\t무모한 실험가\n\t\t\tKoneserka eksperymentów\n\t\t\tPesquisadora Imprudente\n\t\t\tЖестокая лаборантка\n\t\t\tนักทดลองบ้าระห่ำ\n\t\t\t鲁莽的实验者\n\t\t\t草率的實驗者\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "[x]<b>Deathrattle</b> minions you\nplay cost (3) less, but die\nat the end of the turn."
+            },
+            "koKR": {
+              "present": true,
+              "value": "내가 내는 <b>죽음의 메아리</b> 하수인들의 비용이 (3) 감소하지만 턴이 끝날 때 죽습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tDiener mit <b>Todesröcheln</b>,\ndie Ihr ausspielt, kosten (3) weniger, aber sterben am Ende des Zuges.\n\t\t\t[x]<b>Deathrattle</b> minions you\nplay cost (3) less, but die\nat the end of the turn.\n\t\t\tLos esbirros con <b>Último aliento</b> que juegas cuestan (3) cristales menos, pero mueren al final del turno.\n\t\t\tLos esbirros con <b>Estertor</b> que juegas cuestan (3) menos, pero mueren al final del turno.\n\t\t\tLes serviteurs avec <b>Râle d’agonie</b> que_vous_jouez_coûtent_(3)_cristaux de moins, mais ils meurent à la fin de votre tour.\n\t\t\t[x]I servitori con <b>Rantolo di\nMorte</b> che giochi costano\n(3) in meno, ma muoiono\nalla fine del turno.\n\t\t\t[x]自分が手札から使用する\n<b>断末魔</b>を持つミニオンは\nコストが（3）減るが\nターンの終了時に\n死亡する。\n\t\t\t내가 내는 <b>죽음의 메아리</b> 하수인들의 비용이 (3) 감소하지만 턴이 끝날 때 죽습니다.\n\t\t\tZagrani przez ciebie stronnicy z <b>Agonią</b> kosztują (3) mniej, ale giną na koniec tury.\n\t\t\tLacaios com <b>Último Suspiro</b> que você jogar custam (3) a menos, mas morrem no final do turno.\n\t\t\t[x]Разыгранные вами существа\nс <b>«Предсмертным хрипом»</b>\nстоят на (3) меньше, но умира-\nют в конце вашего хода.\n\t\t\tมินเนี่ยน <b>เสียงสุดท้าย</b> ที่[b]คุณเล่นมีค่าร่ายลดลง (3) แต่จะตายเมื่อจบเทิร์น\n\t\t\t你使用的<b>亡语</b>随从牌的法力值消耗减少（3）点，但会在回合结束时死亡。\n\t\t\t你打出的<b>死亡之聲</b>手下消耗減少(3)，但在回合結束時死亡\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Reckless Experimenter"
+            },
+            "koKR": {
+              "present": true,
+              "value": "무모한 실험가"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tGewissenlose Forscherin\n\t\t\tReckless Experimenter\n\t\t\tExperimentadora imprudente\n\t\t\tCientífica insensata\n\t\t\tExpérimentatrice téméraire\n\t\t\tRicercatrice Incauta\n\t\t\t無謀な実験者\n\t\t\t무모한 실험가\n\t\t\tKoneserka eksperymentów\n\t\t\tPesquisadora Imprudente\n\t\t\tЖестокая лаборантка\n\t\t\tนักทดลองบ้าระห่ำ\n\t\t\t鲁莽的实验者\n\t\t\t草率的實驗者\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "[x]<b>Deathrattle</b> minions you\nplay cost (3) less, but die at\nend of turn. <i>(Cost can't be\nreduced below 1.)</i>"
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]내가 내는 <b>죽음의 메아리</b>\n하수인들의 비용이 (3)\n감소하지만 턴이 끝날 때\n죽습니다. <i>(비용은 1보다\n낮아지지 않습니다.)</i>"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tDiener mit <b>Todesröcheln</b>, die Ihr ausspielt, kosten (3) weniger, aber sterben am Ende des Zuges. <i>(Die Kosten können nicht weniger als (1) betragen.)</i>\n\t\t\t[x]<b>Deathrattle</b> minions you\nplay cost (3) less, but die at\nend of turn. <i>(Cost can't be\nreduced below 1.)</i>\n\t\t\t[x]Tus esbirros con <b>Último aliento</b>\ncuestan (3) cristales menos,\npero mueren al final del turno.\n <i>(Coste mínimo: 1_cristal).</i>\n\t\t\tLos esbirros con <b>Estertor</b> que juegas cuestan (3) menos, pero mueren al final del turno.\n<i>(El costo no puede reducirse a menos de 1).</i>\n\t\t\tLes serviteurs avec <b>Râle d’agonie</b> que vous jouez coûtent (3)_cristaux de moins mais meurent à la fin de votre tour <i>(le coût ne peut pas être inférieur à 1)</i>.\n\t\t\t[x]I servitori con <b>Rantolo di Morte</b>\nche giochi costano (3) in meno,\nma muoiono alla fine del turno.\n<i>(Il costo non può essere\nportato al di sotto di 1.)</i>\n\t\t\t[x]自分が手札から使用する\n<b>断末魔</b>を持つミニオンは\nコストが（3）減るが\nターンの終了時に死亡する。\n<i>__（コストは0以下にならない。）</i>\n\t\t\t[x]내가 내는 <b>죽음의 메아리</b>\n하수인들의 비용이 (3)\n감소하지만 턴이 끝날 때\n죽습니다. <i>(비용은 1보다\n낮아지지 않습니다.)</i>\n\t\t\tZagrani przez ciebie stronnicy z <b>Agonią</b> kosztują (3) mniej, ale giną na koniec tury.\n<i>(Koszt mnie może zejść poniżej 1.)</i>\n\t\t\tLacaios com <b>Último Suspiro</b> que você jogar custam (3) a menos, mas morrem no final do turno.\n<i>(O custo não pode ficar abaixo de 1.)</i>\n\t\t\tРазыгранные вами существа\nс <b>«Предсмертным хрипом»</b>\nстоят на (3) меньше <i>(минимум (1))</i>, но умирают в конце вашего хода.\n\t\t\tมินเนี่ยน <b>เสียงสุดท้าย</b> ที่คุณเล่นมีค่าร่ายลดลง (3) แต่จะตายเมื่อจบเทิร์น <i>(ค่าร่ายจะไม่ลดต่ำกว่า 1)</i>\n\t\t\t你使用的<b>亡语</b>随从牌的法力值消耗减少（3）点<i>（不能被降至1点以下）</i>，但会在回合结束时死亡。\n\t\t\t[x]你打出的<b>死亡之聲</b>手\n下消耗減少(3)，但在\n回合結束時死亡\n<i>(消耗不會低於1點)</i>\n\t\t"
+        }
+      }
+    }
+  },
+  "2020-03-27": {
+    "text": "내가 내는 <b>죽음의 메아리</b> 하수인들의 비용이 (3) 감소하지만 턴이 끝날 때 죽습니다.",
+    "nativeRawText": "내가 내는 <b>죽음의 메아리</b> 하수인들의 비용이 (3) 감소하지만 턴이 끝날 때 죽습니다.",
+    "source": {
+      "beforeBuild": 33402,
+      "afterBuild": 44222,
+      "beforeCommit": "dd224aedef671a1bad6479df2a0e9cb2ea6da3cc",
+      "afterCommit": "fc67953f6f6eee064badde3f4a7bd07011508642",
+      "beforeXmlSha256": "71d952172884246deac0bed81d20421f31b6d6796d684efee87abb0cc4625afa",
+      "afterXmlSha256": "abe292d304af3fec9d84707b8326cf4104e370b8fc93e8adfa2c1156988cfdf5",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Reckless Experimenter"
+            },
+            "koKR": {
+              "present": true,
+              "value": "무모한 실험가"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tGewissenlose Forscherin\n\t\t\tReckless Experimenter\n\t\t\tExperimentadora imprudente\n\t\t\tCientífica insensata\n\t\t\tExpérimentatrice téméraire\n\t\t\tRicercatrice Incauta\n\t\t\t無謀な実験者\n\t\t\t무모한 실험가\n\t\t\tKoneserka eksperymentów\n\t\t\tPesquisadora Imprudente\n\t\t\tЖестокая лаборантка\n\t\t\tนักทดลองบ้าระห่ำ\n\t\t\t鲁莽的实验者\n\t\t\t草率的實驗者\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "[x]<b>Deathrattle</b> minions you\nplay cost (3) less, but die at\nend of turn. <i>(Cost can't be\nreduced below 1.)</i>"
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]내가 내는 <b>죽음의 메아리</b>\n하수인들의 비용이 (3)\n감소하지만 턴이 끝날 때\n죽습니다. <i>(비용은 1보다\n낮아지지 않습니다.)</i>"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tDiener mit <b>Todesröcheln</b>, die Ihr ausspielt, kosten (3) weniger, aber sterben am Ende des Zuges. <i>(Die Kosten können nicht weniger als (1) betragen.)</i>\n\t\t\t[x]<b>Deathrattle</b> minions you\nplay cost (3) less, but die at\nend of turn. <i>(Cost can't be\nreduced below 1.)</i>\n\t\t\t[x]Tus esbirros con <b>Último aliento</b>\ncuestan (3) cristales menos,\npero mueren al final del turno.\n <i>(Coste mínimo: 1_cristal).</i>\n\t\t\tLos esbirros con <b>Estertor</b> que juegas cuestan (3) menos, pero mueren al final del turno.\n<i>(El costo no puede reducirse a menos de 1).</i>\n\t\t\tLes serviteurs avec <b>Râle d’agonie</b> que vous jouez coûtent (3)_cristaux de moins mais meurent à la fin de votre tour <i>(le coût ne peut pas être inférieur à 1)</i>.\n\t\t\t[x]I servitori con <b>Rantolo di Morte</b>\nche giochi costano (3) in meno,\nma muoiono alla fine del turno.\n<i>(Il costo non può essere\nportato al di sotto di 1.)</i>\n\t\t\t[x]自分が手札から使用する\n<b>断末魔</b>を持つミニオンは\nコストが（3）減るが\nターンの終了時に死亡する。\n<i>__（コストは0以下にならない。）</i>\n\t\t\t[x]내가 내는 <b>죽음의 메아리</b>\n하수인들의 비용이 (3)\n감소하지만 턴이 끝날 때\n죽습니다. <i>(비용은 1보다\n낮아지지 않습니다.)</i>\n\t\t\tZagrani przez ciebie stronnicy z_<b>Agonią</b> kosztują (3) mniej,\nale giną na koniec tury.\n<i>(Koszt_nie_może_zejść poniżej 1)</i>.\n\t\t\tLacaios com <b>Último Suspiro</b> que você jogar custam (3) a menos, mas morrem no final do turno.\n<i>(O custo não pode ficar abaixo de 1.)</i>\n\t\t\tРазыгранные вами существа\nс <b>«Предсмертным хрипом»</b>\nстоят на (3) меньше <i>(минимум _____(1))</i>,_но_умирают_в_конце_хода.__\n\t\t\tมินเนี่ยน <b>เสียงสุดท้าย</b> ที่คุณเล่นมีค่าร่ายลดลง (3) แต่จะตายเมื่อจบเทิร์น <i>(ค่าร่ายจะไม่ลดต่ำกว่า 1)</i>\n\t\t\t你使用的<b>亡语</b>随从牌的法力值消耗减少（3）点<i>（不能被降至1点以下）</i>，但会在回合结束时死亡。\n\t\t\t[x]你打出的<b>死亡之聲</b>手\n下消耗減少(3)，但在\n回合結束時死亡\n<i>(消耗不會低於1點)</i>\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Reckless Experimenter"
+            },
+            "koKR": {
+              "present": true,
+              "value": "무모한 실험가"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tGewissenlose Forscherin\n\t\t\tReckless Experimenter\n\t\t\tExperimentadora imprudente\n\t\t\tCientífica insensata\n\t\t\tExpérimentatrice téméraire\n\t\t\tRicercatrice Incauta\n\t\t\t無謀な実験者\n\t\t\t무모한 실험가\n\t\t\tKoneserka eksperymentów\n\t\t\tPesquisadora Imprudente\n\t\t\tЖестокая лаборантка\n\t\t\tนักทดลองบ้าระห่ำ\n\t\t\t鲁莽的实验者\n\t\t\t草率的實驗者\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "[x]<b>Deathrattle</b> minions you\nplay cost (3) less, but die\nat the end of the turn."
+            },
+            "koKR": {
+              "present": true,
+              "value": "내가 내는 <b>죽음의 메아리</b> 하수인들의 비용이 (3) 감소하지만 턴이 끝날 때 죽습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tDiener mit <b>Todesröcheln</b>, die Ihr ausspielt, kosten (3) weniger, sterben aber am Ende des Zuges.\n\t\t\t[x]<b>Deathrattle</b> minions you\nplay cost (3) less, but die\nat the end of the turn.\n\t\t\tTus esbirros con <b>Último aliento</b> cuestan (3) cristales menos, pero mueren al final del turno.\n\t\t\tLos esbirros con <b>Estertor</b> que juegas cuestan (3) menos, pero mueren al final del turno.\n\t\t\tLes serviteurs avec <b>Râle d’agonie</b> que vous jouez coûtent (3)_cristaux de moins mais meurent à la fin du tour.\n\t\t\t[x]I servitori con <b>Rantolo di Morte</b>\nche giochi costano (3) in meno,\nma muoiono alla fine del turno.\n\t\t\t[x]自分が手札から使用する\n<b>断末魔</b>ミニオンは\nコストが（3）減るが\n____ターンの終了時に死亡する。\n\t\t\t내가 내는 <b>죽음의 메아리</b> 하수인들의 비용이 (3) 감소하지만 턴이 끝날 때 죽습니다.\n\t\t\tZagrani przez ciebie stronnicy z <b>Agonią</b> kosztują (3) mniej, ale giną na koniec tury.\n\t\t\tLacaios com <b>Último Suspiro</b> que você jogar custam (3) a menos, mas morrem no final do turno.\n\t\t\t[x]Разыгрываемые вами\nсущества с_<b>«Предсмертным\nхрипом»</b> стоят на (3) меньше,\n___но умирают в конце хода.\n\t\t\tมินเนี่ยน <b>เสียงสุดท้าย</b> ที่[b]คุณเล่นมีค่าร่ายลดลง (3) แต่จะตายเมื่อจบเทิร์น\n\t\t\t你使用的<b>亡语</b>随从牌的法力值消耗减少（3）点，但会在回合结束时死亡。\n\t\t\t[x]你打出的<b>死亡之聲</b>手\n下消耗減少(3)，但在\n回合結束時死亡\n\t\t"
+        }
+      }
+    }
+  },
+  "2022-11-30": {
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 362,
+        "name": "지속 효과",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD"
+    ],
+    "race": "언데드",
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 200,
+        "before": "ABSENT",
+        "after": "11"
+      }
+    ],
+    "source": {
+      "beforeBuild": 155409,
+      "afterBuild": 158725,
+      "beforeCommit": "beaa46cc24c1332ad91d4f7ae096024f6ff7d394",
+      "afterCommit": "54141c4a6bf3efeedaf69d7510b987f216ff00e6",
+      "beforeXmlSha256": "6b0cc04e3181ee49d34372eb14d7f57760aeb308f3b614b2f6729b44f9295d90",
+      "afterXmlSha256": "5a01259c4f9b13b0ddecce04718ef5de16ec4cae3867957835559946f89ff439",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Reckless Experimenter"
+            },
+            "koKR": {
+              "present": true,
+              "value": "무모한 실험가"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tGewissenlose Forscherin\n\t\t\tReckless Experimenter\n\t\t\tExperimentadora imprudente\n\t\t\tCientífica insensata\n\t\t\tExpérimentatrice téméraire\n\t\t\tRicercatrice Incauta\n\t\t\t無謀な実験者\n\t\t\t무모한 실험가\n\t\t\tKoneserka eksperymentów\n\t\t\tPesquisadora Imprudente\n\t\t\tЖестокая лаборантка\n\t\t\tนักทดลองบ้าระห่ำ\n\t\t\t鲁莽的实验者\n\t\t\t草率的實驗者\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "[x]<b>Deathrattle</b> minions you\nplay cost (3) less, but die\nat the end of the turn."
+            },
+            "koKR": {
+              "present": true,
+              "value": "내가 내는 <b>죽음의 메아리</b> 하수인들의 비용이 (3) 감소하지만 턴이 끝날 때 죽습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tDiener mit <b>Todesröcheln</b>, die Ihr ausspielt, kosten (3) weniger, sterben aber am Ende des Zuges.\n\t\t\t[x]<b>Deathrattle</b> minions you\nplay cost (3) less, but die\nat the end of the turn.\n\t\t\tTus esbirros con <b>Último aliento</b> cuestan (3) cristales menos, pero mueren al final del turno.\n\t\t\tLos esbirros con <b>Estertor</b> que juegas cuestan (3) menos, pero mueren al final del turno.\n\t\t\tLes serviteurs avec <b>Râle d’agonie</b> que vous jouez coûtent (3)_cristaux de moins mais meurent à la fin du tour.\n\t\t\t[x]I servitori con <b>Rantolo di Morte</b>\nche giochi costano (3) in meno,\nma muoiono alla fine del turno.\n\t\t\t[x]自分が手札から使用する\n<b>断末魔</b>ミニオンは\nコストが（3）減るが\n____ターンの終了時に死亡する。\n\t\t\t내가 내는 <b>죽음의 메아리</b> 하수인들의 비용이 (3) 감소하지만 턴이 끝날 때 죽습니다.\n\t\t\tZagrani przez ciebie stronnicy z <b>Agonią</b> kosztują (3) mniej, ale giną na koniec tury.\n\t\t\tLacaios com <b>Último Suspiro</b> que você jogar custam (3) a menos, mas morrem no final do turno.\n\t\t\t[x]Разыгрываемые вами\nсущества с_<b>«Предсмертным\nхрипом»</b> стоят на (3) меньше,\n___но умирают в конце хода.\n\t\t\tมินเนี่ยน <b>เสียงสุดท้าย</b> ที่[b]คุณเล่นมีค่าร่ายลดลง (3) แต่จะตายเมื่อจบเทิร์น\n\t\t\t你使用的<b>亡语</b>随从牌的法力值消耗减少（3）点，但会在回合结束时死亡。\n\t\t\t[x]你打出的<b>死亡之聲</b>手\n下消耗減少(3)，但在\n回合結束時死亡\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Reckless Experimenter"
+            },
+            "koKR": {
+              "present": true,
+              "value": "무모한 실험가"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tGewissenlose Forscherin\n\t\t\tReckless Experimenter\n\t\t\tExperimentadora imprudente\n\t\t\tCientífica insensata\n\t\t\tExpérimentatrice téméraire\n\t\t\tRicercatrice Incauta\n\t\t\t無謀な実験者\n\t\t\t무모한 실험가\n\t\t\tKoneserka eksperymentów\n\t\t\tPesquisadora Imprudente\n\t\t\tЖестокая лаборантка\n\t\t\tนักทดลองบ้าระห่ำ\n\t\t\t鲁莽的实验者\n\t\t\t草率的實驗者\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "[x]<b>Deathrattle</b> minions you\nplay cost (3) less, but die\nat the end of the turn."
+            },
+            "koKR": {
+              "present": true,
+              "value": "내가 내는 <b>죽음의 메아리</b> 하수인들의 비용이 (3) 감소하지만 턴이 끝날 때 죽습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tDiener mit <b>Todesröcheln</b>, die Ihr ausspielt, kosten (3) weniger, sterben aber am Ende des Zuges.\n\t\t\t[x]<b>Deathrattle</b> minions you\nplay cost (3) less, but die\nat the end of the turn.\n\t\t\tTus esbirros con <b>Último aliento</b> cuestan (3) cristales menos, pero mueren al final del turno.\n\t\t\tLos esbirros con <b>Estertor</b> que juegas cuestan (3) menos, pero mueren al final del turno.\n\t\t\tLes serviteurs avec <b>Râle d’agonie</b> que vous jouez coûtent (3)_cristaux de moins mais meurent à la fin du tour.\n\t\t\t[x]I servitori con <b>Rantolo di Morte</b>\nche giochi costano (3) in meno,\nma muoiono alla fine del turno.\n\t\t\t[x]自分が手札から使用する\n<b>断末魔</b>ミニオンは\nコストが（3）減るが\n____ターンの終了時に死亡する。\n\t\t\t내가 내는 <b>죽음의 메아리</b> 하수인들의 비용이 (3) 감소하지만 턴이 끝날 때 죽습니다.\n\t\t\tZagrani przez ciebie stronnicy z <b>Agonią</b> kosztują (3) mniej, ale giną na koniec tury.\n\t\t\tLacaios com <b>Último Suspiro</b> que você jogar custam (3) a menos, mas morrem no final do turno.\n\t\t\t[x]Разыгрываемые вами\nсущества с_<b>«Предсмертным\nхрипом»</b> стоят на (3) меньше,\n___но умирают в конце хода.\n\t\t\tมินเนี่ยน <b>เสียงสุดท้าย</b> ที่[b]คุณเล่นมีค่าร่ายลดลง (3) แต่จะตายเมื่อจบเทิร์น\n\t\t\t你使用的<b>亡语</b>随从牌的法力值消耗减少（3）点，但会在回合结束时死亡。\n\t\t\t[x]你打出的<b>死亡之聲</b>手\n下消耗減少(3)，但在\n回合結束時死亡\n\t\t"
+        }
+      }
+    }
+  }
+}

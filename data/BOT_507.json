@@ -1,1 +1,442 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_507","dbfId":48744,"name":"수액 살포자","type":"MINION","cardClass":"DRUID","rarity":"COMMON","collectible":true,"cost":7,"text":"<b>전투의 함성:</b><br></br>양옆의 하수인들을 복사하여 소환합니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"\"그 정도 수액으로 괜찮겠어?\" \"괜찮아, 문제 없어.\"","spellSchool":"","portrait":"HS14-048_M.psd:9dff698d6f6ab304fb425bd1bec2215b","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":7},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1576,"name":"게임 태그 1576","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_507.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-048_M.psd:9dff698d6f6ab304fb425bd1bec2215b","goldenMaterial":"BOT_507_PremiumCard.mat:3d14d6bda8e71804fa7fabdb56a58a39","goldenAnimation":"BOT_507_PremiumCard.asset:18e5e594489f33749816beea2c0c0272"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-048_M.psd:9dff698d6f6ab304fb425bd1bec2215b",
+      "goldenMaterial": "BOT_507_PremiumCard.mat:3d14d6bda8e71804fa7fabdb56a58a39",
+      "goldenAnimation": "BOT_507_PremiumCard.asset:18e5e594489f33749816beea2c0c0272"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Gloop Sprayer"
+          },
+          "koKR": {
+            "present": true,
+            "value": "수액 살포자"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tGlibbersprüher\n\t\t\tGloop Sprayer\n\t\t\tIrrigador de babas\n\t\t\tPropagador de viscosidad\n\t\t\tPulvérisateur de gloup\n\t\t\tSpargimuco\n\t\t\tべとべとスプレーマン\n\t\t\t수액 살포자\n\t\t\tSzlamolejca\n\t\t\tJateador de Glub\n\t\t\tХлюпонизатор\n\t\t\tนักพ่นกลู๊ป\n\t\t\t黏液喷射者\n\t\t\t黏液噴灑者\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Summon a copy of each adjacent minion."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n양옆의 하수인들을 복사하여 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Ruft eine Kopie jedes benachbarten Dieners herbei.\n\t\t\t<b>Battlecry:</b> Summon a copy of each adjacent minion.\n\t\t\t[x]<b>Grito de batalla:</b>\nInvoca una copia de cada\nesbirro adyacente.\n\t\t\t<b>Grito de batalla:</b> invoca una copia de cada esbirro adyacente.\n\t\t\t<b>Cri de guerre_:</b> invoque une copie de chaque serviteur adjacent.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nevoca una copia dei\nservitori adiacenti.\n\t\t\t[x]<b>雄叫び:</b>\n隣接する各ミニオンの\nコピーを1体ずつ\n召喚する。\n\t\t\t<b>전투의 함성:</b>\n양옆의 하수인들을 복사하여 소환합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Przyzwij kopię każdego sąsiedniego stronnika.\n\t\t\t<b>Grito de Guerra:</b> Evoque uma cópia de cada lacaio adjacente a este.\n\t\t\t<b>Боевой клич:</b> призывает копии существ по обе стороны от себя.\n\t\t\t<b>คำรามสู้ศึก:</b> เรียกร่าง[b]ก๊อปปี้ของมินเนี่ยนทั้งหมด[b]ที่อยู่ติดกับมินเนี่ยนตัวนี้\n\t\t\t<b>战吼：</b>\n为相邻的随从各召唤一个复制。\n\t\t\t<b>戰吼：</b>召喚兩側的\n手下的分身\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Gloop Sprayer"
+          },
+          "koKR": {
+            "present": true,
+            "value": "수액 살포자"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tGlibbersprüher\n\t\tGloop Sprayer\n\t\tIrrigador de babas\n\t\tPropagador de viscosidad\n\t\tPulvérisateur de gloup\n\t\tSpargimuco\n\t\tべとべとスプレーマン\n\t\t수액 살포자\n\t\tSzlamolejca\n\t\tJateador de Glub\n\t\tХлюпонизатор\n\t\tนักพ่นกลู๊ป\n\t\t黏液喷射者\n\t\t黏液噴灑者\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Summon a copy of each adjacent minion."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b>\n양옆의 하수인들을 복사하여 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Ruft eine Kopie jedes benachbarten Dieners herbei.\n\t\t<b>Battlecry:</b> Summon a copy of each adjacent minion.\n\t\t[x]<b>Grito de batalla:</b>\nInvoca una copia de cada\nesbirro adyacente.\n\t\t<b>Grito de batalla:</b> invoca una copia de cada esbirro adyacente.\n\t\t<b>Cri de guerre_:</b> invoque une copie de chaque serviteur adjacent.\n\t\t[x]<b>Grido di Battaglia:</b>\nevoca una copia dei\nservitori adiacenti.\n\t\t[x]<b>雄叫び:</b>\n隣接する各ミニオンの\nコピーを1体ずつ\n召喚する。\n\t\t<b>전투의 함성:</b>\n양옆의 하수인들을 복사하여 소환합니다.\n\t\t<b>Okrzyk bojowy:</b> Przyzwij kopię każdego sąsiedniego stronnika.\n\t\t<b>Grito de Guerra:</b> Evoque uma cópia de cada lacaio adjacente a este.\n\t\t<b>Боевой клич:</b> призывает копии существ по обе стороны от себя.\n\t\t<b>คำรามสู้ศึก:</b> เรียกร่าง[b]ก๊อปปี้ของมินเนี่ยนทั้งหมด[b]ที่อยู่ติดกับมินเนี่ยนตัวนี้\n\t\t<b>战吼：</b>\n为相邻的随从各召唤一个复制。\n\t\t<b>戰吼：</b>召喚兩側的\n手下的分身\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_507",
+    "dbfId": 48744,
+    "name": "수액 살포자",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>전투의 함성:</b><br></br>양옆의 하수인들을 복사하여 소환합니다.",
+    "attack": 4,
+    "health": 4,
+    "flavor": "\"그 정도 수액으로 괜찮겠어?\" \"괜찮아, 문제 없어.\"",
+    "portrait": "HS14-048_M.psd:9dff698d6f6ab304fb425bd1bec2215b",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1576,
+        "name": "게임 태그 1576",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_507.png",
+    "nativeRawText": "<b>전투의 함성:</b>\n양옆의 하수인들을 복사하여 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "4",
+      "47": "4",
+      "48": "7",
+      "183": "1127",
+      "199": "2",
+      "202": "4",
+      "203": "1",
+      "218": "1",
+      "321": "1",
+      "1576": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_507",
+    "dbfId": 48744,
+    "name": "수액 살포자",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 8,
+    "text": "<b>전투의 함성:</b><br></br>양옆의 하수인들을 복사하여 소환합니다.",
+    "attack": 4,
+    "health": 4,
+    "flavor": "\"그 정도 수액으로 괜찮겠어?\" \"괜찮아, 문제 없어.\"",
+    "portrait": "HS14-048_M.psd:9dff698d6f6ab304fb425bd1bec2215b",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_507.png",
+    "nativeRawText": "<b>전투의 함성:</b>\n양옆의 하수인들을 복사하여 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "4",
+      "47": "4",
+      "48": "8",
+      "183": "1127",
+      "199": "2",
+      "202": "4",
+      "203": "1",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2019-06-04": {
+    "cost": 7,
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 48,
+        "before": "8",
+        "after": "7"
+      }
+    ],
+    "source": {
+      "beforeBuild": 31022,
+      "afterBuild": 31268,
+      "beforeCommit": "089a94c2fc524cc52ee7697ad4430fd52240d6a0",
+      "afterCommit": "d4dcf70622f19beddd0d6d56fdd5f053da99d223",
+      "beforeXmlSha256": "95219fea6d5638fa31890deb6468518c9a9189155f3e1f29512ec5758fe2adbe",
+      "afterXmlSha256": "016adca4cafcd19f2d9eb3397b7acd3035db594b5c5bd91e77370f57bdb483c4",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Gloop Sprayer"
+            },
+            "koKR": {
+              "present": true,
+              "value": "수액 살포자"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tGlibbersprüher\n\t\t\tGloop Sprayer\n\t\t\tIrrigador de babas\n\t\t\tPropagador de viscosidad\n\t\t\tPulvérisateur de gloup\n\t\t\tSpargimuco\n\t\t\tべとべとスプレーマン\n\t\t\t수액 살포자\n\t\t\tSzlamolejca\n\t\t\tJateador de Glub\n\t\t\tХлюпонизатор\n\t\t\tนักพ่นกลู๊ป\n\t\t\t黏液喷射者\n\t\t\t黏液噴灑者\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Battlecry:</b> Summon a copy of each adjacent minion."
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>전투의 함성:</b>\n양옆의 하수인들을 복사하여 소환합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Kampfschrei:</b> Ruft eine Kopie jedes benachbarten Dieners herbei.\n\t\t\t<b>Battlecry:</b> Summon a copy of each adjacent minion.\n\t\t\t[x]<b>Grito de batalla:</b>\nInvoca una copia de cada\nesbirro adyacente.\n\t\t\t<b>Grito de batalla:</b> invoca una copia de cada esbirro adyacente.\n\t\t\t<b>Cri de guerre_:</b> invoque une copie de chaque serviteur adjacent.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nevoca una copia dei\nservitori adiacenti.\n\t\t\t[x]<b>雄叫び:</b>\n隣接する各ミニオンの\nコピーを1体ずつ\n召喚する。\n\t\t\t<b>전투의 함성:</b>\n양옆의 하수인들을 복사하여 소환합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Przyzwij kopię każdego sąsiedniego stronnika.\n\t\t\t<b>Grito de Guerra:</b> Evoque uma cópia de cada lacaio adjacente a este.\n\t\t\t<b>Боевой клич:</b> призывает копии существ по обе стороны от себя.\n\t\t\t<b>คำรามสู้ศึก:</b> เรียกร่าง[b]ก๊อปปี้ของมินเนี่ยนทั้งหมด[b]ที่อยู่ติดกับมินเนี่ยนตัวนี้\n\t\t\t<b>战吼：</b>\n为相邻的随从各召唤一个复制。\n\t\t\t<b>戰吼：</b>召喚兩側的\n手下的分身\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Gloop Sprayer"
+            },
+            "koKR": {
+              "present": true,
+              "value": "수액 살포자"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tGlibbersprüher\n\t\t\tGloop Sprayer\n\t\t\tIrrigador de babas\n\t\t\tPropagador de viscosidad\n\t\t\tPulvérisateur de gloup\n\t\t\tSpargimuco\n\t\t\tべとべとスプレーマン\n\t\t\t수액 살포자\n\t\t\tSzlamolejca\n\t\t\tJateador de Glub\n\t\t\tХлюпонизатор\n\t\t\tนักพ่นกลู๊ป\n\t\t\t黏液喷射者\n\t\t\t黏液噴灑者\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Battlecry:</b> Summon a copy of each adjacent minion."
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>전투의 함성:</b>\n양옆의 하수인들을 복사하여 소환합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Kampfschrei:</b> Ruft eine Kopie jedes benachbarten Dieners herbei.\n\t\t\t<b>Battlecry:</b> Summon a copy of each adjacent minion.\n\t\t\t[x]<b>Grito de batalla:</b>\nInvoca una copia de cada\nesbirro adyacente.\n\t\t\t<b>Grito de batalla:</b> invoca una copia de cada esbirro adyacente.\n\t\t\t<b>Cri de guerre_:</b> invoque une copie de chaque serviteur adjacent.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nevoca una copia dei\nservitori adiacenti.\n\t\t\t[x]<b>雄叫び:</b>\n隣接する各ミニオンの\nコピーを1体ずつ\n召喚する。\n\t\t\t<b>전투의 함성:</b>\n양옆의 하수인들을 복사하여 소환합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Przyzwij kopię każdego sąsiedniego stronnika.\n\t\t\t<b>Grito de Guerra:</b> Evoque uma cópia de cada lacaio adjacente a este.\n\t\t\t<b>Боевой клич:</b> призывает копии существ по обе стороны от себя.\n\t\t\t<b>คำรามสู้ศึก:</b> เรียกร่าง[b]ก๊อปปี้ของมินเนี่ยนทั้งหมด[b]ที่อยู่ติดกับมินเนี่ยนตัวนี้\n\t\t\t<b>战吼：</b>\n为相邻的随从各召唤一个复制。\n\t\t\t<b>戰吼：</b>召喚兩側的\n手下的分身\n\t\t"
+        }
+      }
+    }
+  }
+}

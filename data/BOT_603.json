@@ -1,1 +1,483 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_603","dbfId":48890,"name":"강철 광전사","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":4,"text":"<b>속공</b>","attack":5,"health":1,"durability":0,"armor":0,"flavor":"드디어 다섯이 모였는데 왜 합체하지 않죠? 대체 왜 때문에?! 기계가 아니라서?","spellSchool":"","portrait":"HS14-065_M.psd:d85a3f8f18221ce40893d59a17c13f84","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":791,"name":"속공","value":1},{"id":2540,"name":"게임 태그 2540","value":1}],"races":["ELEMENTAL","MECHANICAL"],"race":"정령, 기계","classes":[],"art":"art/BOT_603.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-065_M.psd:d85a3f8f18221ce40893d59a17c13f84","goldenMaterial":"BOT_603_PremiumCard.mat:c941c5a88abcc234e81bbe9abf44bf1e","goldenAnimation":"BOT_603_PremiumCard.asset:47026453835263d4492348fb7f8b6e34"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-065_M.psd:d85a3f8f18221ce40893d59a17c13f84",
+      "goldenMaterial": "BOT_603_PremiumCard.mat:c941c5a88abcc234e81bbe9abf44bf1e",
+      "goldenAnimation": "BOT_603_PremiumCard.asset:47026453835263d4492348fb7f8b6e34"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Steel Rager"
+          },
+          "koKR": {
+            "present": true,
+            "value": "강철 광전사"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tStahlwüter\n\t\t\tSteel Rager\n\t\t\tFuribundo de acero\n\t\t\tFuribundo de acero\n\t\t\tEnragé d’acier\n\t\t\tFuria d'Acciaio\n\t\t\tスティール・レイジャー\n\t\t\t강철 광전사\n\t\t\tStalowy furiat\n\t\t\tFuriante de Aço\n\t\t\tСтальной яростень\n\t\t\tสตีลเรจเจอร์\n\t\t\t钢铁暴怒者\n\t\t\t鋼鐵狂怒者\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Rush</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>속공</b>"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Eifer</b>\n\t\t\t<b>Rush</b>\n\t\t\t<b>Embestir</b>\n\t\t\t<b>Acometida</b>\n\t\t\t<b>Ruée</b>\n\t\t\t<b>Assalto</b>\n\t\t\t<b>急襲</b>\n\t\t\t<b>속공</b>\n\t\t\t<b>Zryw</b>\n\t\t\t<b>Rapidez</b>\n\t\t\t<b>Натиск</b>\n\t\t\t<b>จู่โจม</b>\n\t\t\t<b>突袭</b>\n\t\t\t<b>衝刺</b>\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Steel Rager"
+          },
+          "koKR": {
+            "present": true,
+            "value": "강철 광전사"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tStahlwüter\n\t\tSteel Rager\n\t\tFuribundo de acero\n\t\tFuribundo de acero\n\t\tEnragé d’acier\n\t\tFuria d'Acciaio\n\t\tスティール・レイジャー\n\t\t강철 광전사\n\t\tStalowy furiat\n\t\tFuriante de Aço\n\t\tСтальной яростень\n\t\tสตีลเรเจอร์\n\t\t钢铁暴怒者\n\t\t鋼鐵狂怒者\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Rush</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>속공</b>"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Eifer</b>\n\t\t<b>Rush</b>\n\t\t<b>Embestir</b>\n\t\t<b>Acometida</b>\n\t\t<b>Ruée</b>\n\t\t<b>Assalto</b>\n\t\t<b>急襲</b>\n\t\t<b>속공</b>\n\t\t<b>Zryw</b>\n\t\t<b>Rapidez</b>\n\t\t<b>Натиск</b>\n\t\t<b>จู่โจม</b>\n\t\t<b>突袭</b>\n\t\t<b>衝刺</b>\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_603",
+    "dbfId": 48890,
+    "name": "강철 광전사",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>속공</b>",
+    "attack": 5,
+    "health": 1,
+    "flavor": "드디어 다섯이 모였는데 왜 합체하지 않죠? 대체 왜 때문에?! 기계가 아니라서?",
+    "portrait": "HS14-065_M.psd:d85a3f8f18221ce40893d59a17c13f84",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 2540,
+        "name": "게임 태그 2540",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL",
+      "MECHANICAL"
+    ],
+    "race": "정령, 기계",
+    "classes": [],
+    "art": "art/BOT_603.png",
+    "nativeRawText": "<b>속공</b>",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "1",
+      "47": "5",
+      "48": "4",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "202": "4",
+      "203": "1",
+      "321": "1",
+      "791": "1",
+      "2540": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_603",
+    "dbfId": 48890,
+    "name": "강철 광전사",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>속공</b>",
+    "attack": 5,
+    "health": 1,
+    "flavor": "드디어 다섯이 모였는데 왜 합체하지 않죠? 대체 왜 때문에?! 기계가 아니라서?",
+    "portrait": "HS14-065_M.psd:d85a3f8f18221ce40893d59a17c13f84",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_603.png",
+    "nativeRawText": "<b>속공</b>",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "1",
+      "47": "5",
+      "48": "4",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "202": "4",
+      "203": "1",
+      "321": "1",
+      "791": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2022-11-30": {
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 2540,
+        "name": "게임 태그 2540",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL",
+      "ELEMENTAL"
+    ],
+    "race": "기계, 정령",
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 2540,
+        "before": "ABSENT",
+        "after": "1"
+      }
+    ],
+    "source": {
+      "beforeBuild": 155409,
+      "afterBuild": 158725,
+      "beforeCommit": "beaa46cc24c1332ad91d4f7ae096024f6ff7d394",
+      "afterCommit": "54141c4a6bf3efeedaf69d7510b987f216ff00e6",
+      "beforeXmlSha256": "6b0cc04e3181ee49d34372eb14d7f57760aeb308f3b614b2f6729b44f9295d90",
+      "afterXmlSha256": "5a01259c4f9b13b0ddecce04718ef5de16ec4cae3867957835559946f89ff439",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Steel Rager"
+            },
+            "koKR": {
+              "present": true,
+              "value": "강철 광전사"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tStahlwüter\n\t\t\tSteel Rager\n\t\t\tFuribundo de acero\n\t\t\tFuribundo de acero\n\t\t\tEnragé d’acier\n\t\t\tFuria d'Acciaio\n\t\t\tスティール・レイジャー\n\t\t\t강철 광전사\n\t\t\tStalowy furiat\n\t\t\tFuriante de Aço\n\t\t\tСтальной яростень\n\t\t\tสตีลเรเจอร์\n\t\t\t钢铁暴怒者\n\t\t\t鋼鐵狂怒者\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Rush</b>"
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>속공</b>"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Eifer</b>\n\t\t\t<b>Rush</b>\n\t\t\t<b>Embestir</b>\n\t\t\t<b>Acometida</b>\n\t\t\t<b>Ruée</b>\n\t\t\t<b>Assalto</b>\n\t\t\t<b>急襲</b>\n\t\t\t<b>속공</b>\n\t\t\t<b>Zryw</b>\n\t\t\t<b>Rapidez</b>\n\t\t\t<b>Натиск</b>\n\t\t\t<b>จู่โจม</b>\n\t\t\t<b>突袭</b>\n\t\t\t<b>衝刺</b>\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Steel Rager"
+            },
+            "koKR": {
+              "present": true,
+              "value": "강철 광전사"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tStahlwüter\n\t\t\tSteel Rager\n\t\t\tFuribundo de acero\n\t\t\tFuribundo de acero\n\t\t\tEnragé d’acier\n\t\t\tFuria d'Acciaio\n\t\t\tスティール・レイジャー\n\t\t\t강철 광전사\n\t\t\tStalowy furiat\n\t\t\tFuriante de Aço\n\t\t\tСтальной яростень\n\t\t\tสตีลเรเจอร์\n\t\t\t钢铁暴怒者\n\t\t\t鋼鐵狂怒者\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Rush</b>"
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>속공</b>"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Eifer</b>\n\t\t\t<b>Rush</b>\n\t\t\t<b>Embestir</b>\n\t\t\t<b>Acometida</b>\n\t\t\t<b>Ruée</b>\n\t\t\t<b>Assalto</b>\n\t\t\t<b>急襲</b>\n\t\t\t<b>속공</b>\n\t\t\t<b>Zryw</b>\n\t\t\t<b>Rapidez</b>\n\t\t\t<b>Натиск</b>\n\t\t\t<b>จู่โจม</b>\n\t\t\t<b>突袭</b>\n\t\t\t<b>衝刺</b>\n\t\t"
+        }
+      }
+    }
+  }
+}

@@ -1,1 +1,504 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_573","dbfId":49447,"name":"실험체 9호","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":5,"text":"<b>전투의 함성:</b> 내 덱에서 서로 다른 <b>비밀</b>을 다섯 뽑습니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"바로 그 영리한 녀석입니다.","spellSchool":"","portrait":"HS14-015_M.psd:8fdce7e5fbb74514c8ee9359c4c036cd","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":219,"name":"비밀","value":1},{"id":321,"name":"수집 가능","value":1},{"id":2539,"name":"게임 태그 2539","value":1}],"races":["MECHANICAL","BEAST"],"race":"기계, 야수","classes":[],"art":"art/BOT_573.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-015_M.psd:8fdce7e5fbb74514c8ee9359c4c036cd","goldenMaterial":"BOT_573_PremiumCard.mat:535f438ae02c8bd4385b5642aaab22e3","goldenAnimation":"BOT_573_PremiumCard.asset:5cf0d1038583d2947aadcd9616563e9a"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-015_M.psd:8fdce7e5fbb74514c8ee9359c4c036cd",
+      "goldenMaterial": "BOT_573_PremiumCard.mat:535f438ae02c8bd4385b5642aaab22e3",
+      "goldenAnimation": "BOT_573_PremiumCard.asset:5cf0d1038583d2947aadcd9616563e9a"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Subject 9"
+          },
+          "koKR": {
+            "present": true,
+            "value": "실험체 9호"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tVersuchsobjekt 9\n\t\t\tSubject 9\n\t\t\tSujeto n.º 9\n\t\t\tSujeto 9\n\t\t\tSujet 9\n\t\t\tSoggetto 9\n\t\t\t実験台9号\n\t\t\t실험체 9호\n\t\t\tObiekt numer 9\n\t\t\tCobaia nº 9\n\t\t\tПодопытная №9\n\t\t\tหมายเลข 9\n\t\t\t实验体9号\n\t\t\t實驗體九號\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Draw 5 different <b>Secrets</b> from your deck."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의_함성:</b> 내 덱에서 서로 다른 <b>비밀</b> 카드를 5장 뽑습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Zieht 5 verschiedene <b>Geheimnisse</b> aus Eurem Deck.\n\t\t\t<b>Battlecry:</b> Draw 5 different <b>Secrets</b> from your deck.\n\t\t\t[x]<b>Grito de batalla:</b> Roba\n5 <b>secretos</b> distintos\nde tu mazo.\n\t\t\t<b>Grito de batalla:</b> roba 5 <b>Secretos</b> diferentes de tu mazo.\n\t\t\t<b>Cri de guerre_:</b> vous piochez 5_<b>Secrets</b>_différents de votre deck.\n\t\t\t[x]<b>Grido di Battaglia:</b>\npesca 5 <b>Segreti</b> diversi\ndal tuo mazzo.\n\t\t\t<b>雄叫び:</b>\n自分のデッキから\n異なる<b>秘策</b>を\n5枚引く。\n\t\t\t<b>전투의_함성:</b> 내 덱에서 서로 다른 <b>비밀</b> 카드를 5장 뽑습니다.\n\t\t\t<b>Okrzyk bojowy:</b> Dobierz pięć różnych <b>Sekretów</b> z_twojej talii.\n\t\t\t<b>Grito de Guerra:</b> Compre 5 <b>Segredos</b> diferentes do seu deck.\n\t\t\t<b>Боевой клич:</b> вы берете 5_разных <b>секретов</b> из_колоды.\n\t\t\t<b>คำรามสู้ศึก:</b> จั่วการ์ด_<b>กับดัก</b>_ที่ต่างกัน 5_ใบจากเด็คของคุณ\n\t\t\t<b>战吼：</b>\n从你的牌库中抽五张不同的<b>奥秘</b>牌。\n\t\t\t<b>戰吼：</b>從你的牌堆\n抽出5張不同的<b>秘密</b>\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Subject 9"
+          },
+          "koKR": {
+            "present": true,
+            "value": "실험체 9호"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tVersuchsobjekt 9\n\t\tSubject 9\n\t\tSujeto n.º 9\n\t\tSujeto 9\n\t\tSujet 9\n\t\tSoggetto 9\n\t\t実験台9号\n\t\t실험체 9호\n\t\tObiekt numer 9\n\t\tCobaia nº 9\n\t\tПодопытная №9\n\t\tหมายเลข 9\n\t\t实验体9号\n\t\t實驗體九號\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Draw 5 different <b>Secrets</b> from your deck."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의_함성:</b> 내 덱에서 서로 다른 <b>비밀</b>을 다섯 뽑습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Zieht 5 verschiedene <b>Geheimnisse</b> aus Eurem Deck.\n\t\t<b>Battlecry:</b> Draw 5 different <b>Secrets</b> from your deck.\n\t\t[x]<b>Grito de batalla:</b> Roba\n5 <b>secretos</b> distintos\nde tu mazo.\n\t\t<b>Grito de batalla:</b> roba 5 <b>Secretos</b> diferentes de tu mazo.\n\t\t<b>Cri de guerre_:</b> vous piochez 5_<b>Secrets</b>_différents de votre deck.\n\t\t[x]<b>Grido di Battaglia:</b>\npesca 5 <b>Segreti</b> diversi\ndal tuo mazzo.\n\t\t<b>雄叫び:</b>\n自分のデッキから\n異なる<b>秘策</b>を\n5枚引く。\n\t\t<b>전투의_함성:</b> 내 덱에서 서로 다른 <b>비밀</b>을 다섯 뽑습니다.\n\t\t<b>Okrzyk bojowy:</b> Dobierz pięć różnych <b>Sekretów</b> z_twojej talii.\n\t\t<b>Grito de Guerra:</b> Compre 5 <b>Segredos</b> diferentes do seu deck.\n\t\t<b>Боевой клич:</b> вы берете 5_разных <b>секретов</b> из_колоды.\n\t\t<b>คำรามสู้ศึก:</b>_จั่ว <b>กับดัก</b>_ที่ต่างกัน_5_ใบ[b]จากเด็คของคุณ\n\t\t<b>战吼：</b>\n从你的牌库中抽五张不同的<b>奥秘</b>牌。\n\t\t<b>戰吼：</b>從你的牌堆\n抽出5張不同的<b>秘密</b>\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_573",
+    "dbfId": 49447,
+    "name": "실험체 9호",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> 내 덱에서 서로 다른 <b>비밀</b>을 다섯 뽑습니다.",
+    "attack": 4,
+    "health": 4,
+    "flavor": "바로 그 영리한 녀석입니다.",
+    "portrait": "HS14-015_M.psd:8fdce7e5fbb74514c8ee9359c4c036cd",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 219,
+        "name": "비밀",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 2539,
+        "name": "게임 태그 2539",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "race": "기계, 야수",
+    "classes": [],
+    "art": "art/BOT_573.png",
+    "nativeRawText": "<b>전투의_함성:</b> 내 덱에서 서로 다른 <b>비밀</b>을 다섯 뽑습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "4",
+      "47": "4",
+      "48": "5",
+      "114": "1",
+      "183": "1127",
+      "199": "12",
+      "200": "20",
+      "202": "4",
+      "203": "5",
+      "218": "1",
+      "321": "1",
+      "2539": "1"
+    },
+    "nativeTagsReferenced": {
+      "219": "1"
+    }
+  },
+  "2018-08-08": {
+    "id": "BOT_573",
+    "dbfId": 49447,
+    "name": "실험체 9호",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> 내 덱에서 서로 다른 <b>비밀</b> 카드를 5장 뽑습니다.",
+    "attack": 4,
+    "health": 4,
+    "flavor": "바로 그 영리한 녀석입니다.",
+    "portrait": "HS14-015_M.psd:8fdce7e5fbb74514c8ee9359c4c036cd",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 219,
+        "name": "비밀",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/BOT_573.png",
+    "nativeRawText": "<b>전투의_함성:</b> 내 덱에서 서로 다른 <b>비밀</b> 카드를 5장 뽑습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "4",
+      "47": "4",
+      "48": "5",
+      "114": "1",
+      "183": "1127",
+      "199": "12",
+      "200": "20",
+      "202": "4",
+      "203": "5",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {
+      "219": "1"
+    },
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2022-11-30": {
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 219,
+        "name": "비밀",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 2539,
+        "name": "게임 태그 2539",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST",
+      "MECHANICAL"
+    ],
+    "race": "야수, 기계",
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 2539,
+        "before": "ABSENT",
+        "after": "1"
+      }
+    ],
+    "source": {
+      "beforeBuild": 155409,
+      "afterBuild": 158725,
+      "beforeCommit": "beaa46cc24c1332ad91d4f7ae096024f6ff7d394",
+      "afterCommit": "54141c4a6bf3efeedaf69d7510b987f216ff00e6",
+      "beforeXmlSha256": "6b0cc04e3181ee49d34372eb14d7f57760aeb308f3b614b2f6729b44f9295d90",
+      "afterXmlSha256": "5a01259c4f9b13b0ddecce04718ef5de16ec4cae3867957835559946f89ff439",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Subject 9"
+            },
+            "koKR": {
+              "present": true,
+              "value": "실험체 9호"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tVersuchsobjekt 9\n\t\t\tSubject 9\n\t\t\tSujeto n.º 9\n\t\t\tSujeto 9\n\t\t\tSujet 9\n\t\t\tSoggetto 9\n\t\t\t実験台9号\n\t\t\t실험체 9호\n\t\t\tObiekt numer 9\n\t\t\tCobaia nº 9\n\t\t\tПодопытная №9\n\t\t\tหมายเลข 9\n\t\t\t实验体9号\n\t\t\t實驗體九號\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Battlecry:</b> Draw 5 different <b>Secrets</b> from your deck."
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>전투의_함성:</b> 내 덱에서 서로 다른 <b>비밀</b>을 다섯 뽑습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Kampfschrei:</b> Zieht 5 verschiedene <b>Geheimnisse</b> aus Eurem Deck.\n\t\t\t<b>Battlecry:</b> Draw 5 different <b>Secrets</b> from your deck.\n\t\t\t[x]<b>Grito de batalla:</b> Roba\n5 <b>secretos</b> distintos\nde tu mazo.\n\t\t\t<b>Grito de batalla:</b> roba 5 <b>Secretos</b> diferentes de tu mazo.\n\t\t\t<b>Cri de guerre_:</b> vous piochez 5_<b>Secrets</b>_différents de votre deck.\n\t\t\t[x]<b>Grido di Battaglia:</b>\npesca 5 <b>Segreti</b> diversi\ndal tuo mazzo.\n\t\t\t<b>雄叫び:</b>\n自分のデッキから\n異なる<b>秘策</b>を\n5枚引く。\n\t\t\t<b>전투의_함성:</b> 내 덱에서 서로 다른 <b>비밀</b>을 다섯 뽑습니다.\n\t\t\t<b>Okrzyk bojowy:</b> Dobierz pięć różnych <b>Sekretów</b> z_twojej talii.\n\t\t\t<b>Grito de Guerra:</b> Compre 5 <b>Segredos</b> diferentes do seu deck.\n\t\t\t<b>Боевой клич:</b> вы берете 5_разных <b>секретов</b> из_колоды.\n\t\t\t<b>คำรามสู้ศึก:</b> จั่วการ์ด_<b>กับดัก</b>_ที่ต่างกัน 5_ใบจากเด็คของคุณ\n\t\t\t<b>战吼：</b>\n从你的牌库中抽五张不同的<b>奥秘</b>牌。\n\t\t\t<b>戰吼：</b>從你的牌堆\n抽出5張不同的<b>秘密</b>\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Subject 9"
+            },
+            "koKR": {
+              "present": true,
+              "value": "실험체 9호"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tVersuchsobjekt 9\n\t\t\tSubject 9\n\t\t\tSujeto n.º 9\n\t\t\tSujeto 9\n\t\t\tSujet 9\n\t\t\tSoggetto 9\n\t\t\t実験台9号\n\t\t\t실험체 9호\n\t\t\tObiekt numer 9\n\t\t\tCobaia nº 9\n\t\t\tПодопытная №9\n\t\t\tหมายเลข 9\n\t\t\t实验体9号\n\t\t\t實驗體九號\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Battlecry:</b> Draw 5 different <b>Secrets</b> from your deck."
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>전투의_함성:</b> 내 덱에서 서로 다른 <b>비밀</b>을 다섯 뽑습니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Kampfschrei:</b> Zieht 5 verschiedene <b>Geheimnisse</b> aus Eurem Deck.\n\t\t\t<b>Battlecry:</b> Draw 5 different <b>Secrets</b> from your deck.\n\t\t\t[x]<b>Grito de batalla:</b> Roba\n5 <b>secretos</b> distintos\nde tu mazo.\n\t\t\t<b>Grito de batalla:</b> roba 5 <b>Secretos</b> diferentes de tu mazo.\n\t\t\t<b>Cri de guerre_:</b> vous piochez 5_<b>Secrets</b>_différents de votre deck.\n\t\t\t[x]<b>Grido di Battaglia:</b>\npesca 5 <b>Segreti</b> diversi\ndal tuo mazzo.\n\t\t\t<b>雄叫び:</b>\n自分のデッキから\n異なる<b>秘策</b>を\n5枚引く。\n\t\t\t<b>전투의_함성:</b> 내 덱에서 서로 다른 <b>비밀</b>을 다섯 뽑습니다.\n\t\t\t<b>Okrzyk bojowy:</b> Dobierz pięć różnych <b>Sekretów</b> z_twojej talii.\n\t\t\t<b>Grito de Guerra:</b> Compre 5 <b>Segredos</b> diferentes do seu deck.\n\t\t\t<b>Боевой клич:</b> вы берете 5_разных <b>секретов</b> из_колоды.\n\t\t\t<b>คำรามสู้ศึก:</b> จั่วการ์ด_<b>กับดัก</b>_ที่ต่างกัน 5_ใบจากเด็คของคุณ\n\t\t\t<b>战吼：</b>\n从你的牌库中抽五张不同的<b>奥秘</b>牌。\n\t\t\t<b>戰吼：</b>從你的牌堆\n抽出5張不同的<b>秘密</b>\n\t\t"
+        }
+      }
+    }
+  }
+}

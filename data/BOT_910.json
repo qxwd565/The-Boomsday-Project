@@ -1,1 +1,431 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_910","dbfId":48989,"name":"발광석 기술병","type":"MINION","cardClass":"PALADIN","rarity":"EPIC","collectible":true,"cost":5,"text":"<b>전투의 함성:</b> 내 손에 있는 모든 하수인에게 +2/+2를 부여합니다.","attack":3,"health":4,"durability":0,"armor":0,"flavor":"\"윈델! 빛을 더!\" \"최대한 노력하고 있습니다, 칸고르 님!\"","spellSchool":"","portrait":"HS14-106_M.psd:1f142ef672fe07645b66560c853a447b","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_910.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-106_M.psd:1f142ef672fe07645b66560c853a447b","goldenMaterial":"BOT_910_PremiumCard.mat:97d0051fd6ec3e6468fd120abe099875","goldenAnimation":"BOT_910_PremiumCard.asset:664f1c7708266be4f90feb63bedac000"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-106_M.psd:1f142ef672fe07645b66560c853a447b",
+      "goldenMaterial": "BOT_910_PremiumCard.mat:97d0051fd6ec3e6468fd120abe099875",
+      "goldenAnimation": "BOT_910_PremiumCard.asset:664f1c7708266be4f90feb63bedac000"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Glowstone Technician"
+          },
+          "koKR": {
+            "present": true,
+            "value": "발광석 기술병"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tLeuchtsteinmechaniker\n\t\t\tGlowstone Technician\n\t\t\tTécnico de piedraluces\n\t\t\tTécnico Rocabrillo\n\t\t\tTechnicien brillepierre\n\t\t\tTecnico Pietrardente\n\t\t\tグロウストーンの技術者\n\t\t\t발광석 기술병\n\t\t\tTechnik krysztalnictwa\n\t\t\tTécnico Brilhapedra\n\t\t\tКамнецветчик\n\t\t\tช่างเทคนิคโกลว์สโตน\n\t\t\t亮石技师\n\t\t\t亮石技師\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Give all minions in your hand +2/+2."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b> 내 손에 있는 모든 하수인에게 +2/+2를 부여합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Verleiht allen Dienern auf Eurer Hand +2/+2.\n\t\t\t<b>Battlecry:</b> Give all minions in your hand +2/+2.\n\t\t\t[x]<b>Grito de batalla:</b> Otorga\na todos los esbirros\nde tu mano +2/+2.\n\t\t\t<b>Grito de batalla:</b> otorga +2/+2 a todos los esbirros de tu mano.\n\t\t\t<b>Cri de guerre_:</b> donne_+2/+2 à tous les serviteurs_de_votre_main.\n\t\t\t[x]<b>Grido di Battaglia:</b>\n+2/+2 ai servitori\nnella tua mano.\n\t\t\t<b>雄叫び:</b>\n自分の手札のミニオン全てに+2/+2を付与する。\n\t\t\t<b>전투의 함성:</b> 내 손에 있는 모든 하수인에게 +2/+2를 부여합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Daj +2/+2 wszystkim stronnikom w_twojej ręce.\n\t\t\t<b>Grito de Guerra:</b> Conceda +2/+2 a todos os lacaios na sua mão.\n\t\t\t<b>Боевой клич:</b> все существа у вас в руке получают +2/+2.\n\t\t\t<b>คำรามสู้ศึก:</b> มอบ +2/+2 ให้มินเนี่ยนทั้งหมดในมือคุณ\n\t\t\t<b>战吼：</b>使你手牌中的所有随从牌获得+2/+2。\n\t\t\t<b>戰吼：</b>賦予你手中\n全部的手下+2/+2\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Glowstone Technician"
+          },
+          "koKR": {
+            "present": true,
+            "value": "발광석 기술병"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tLeuchtsteinmechaniker\n\t\tGlowstone Technician\n\t\tTécnico de piedraluces\n\t\tTécnico Rocabrillo\n\t\tTechnicien brillepierre\n\t\tTecnico Pietrardente\n\t\tグロウストーンの技術者\n\t\t발광석 기술병\n\t\tTechnik krysztalnictwa\n\t\tTécnico Brilhapedra\n\t\tКамнецветчик\n\t\tช่างเทคนิคโกลว์สโตน\n\t\t亮石技师\n\t\t亮石技師\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Give all minions in your hand +2/+2."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b> 내 손에 있는 모든 하수인에게 +2/+2를 부여합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Verleiht allen Dienern auf Eurer Hand +2/+2.\n\t\t<b>Battlecry:</b> Give all minions in your hand +2/+2.\n\t\t[x]<b>Grito de batalla:</b> Otorga\na todos los esbirros\nde tu mano +2/+2.\n\t\t<b>Grito de batalla:</b> otorga +2/+2 a todos los esbirros de tu mano.\n\t\t<b>Cri de guerre_:</b> donne_+2/+2 à tous les serviteurs_de_votre_main.\n\t\t[x]<b>Grido di Battaglia:</b>\n+2/+2 ai servitori\nnella tua mano.\n\t\t<b>雄叫び:</b>\n自分の手札のミニオン全てに+2/+2を付与する。\n\t\t<b>전투의 함성:</b> 내 손에 있는 모든 하수인에게 +2/+2를 부여합니다.\n\t\t<b>Okrzyk bojowy:</b> Daj +2/+2 wszystkim stronnikom w_twojej ręce.\n\t\t<b>Grito de Guerra:</b> Conceda +2/+2 a todos os lacaios na sua mão.\n\t\t<b>Боевой клич:</b> существа в_руке получают +2/+2.\n\t\t<b>คำรามสู้ศึก:</b> มอบ_+2/+2_ให้มินเนี่ยน[b]ทั้งหมดในมือคุณ\n\t\t<b>战吼：</b>使你手牌中的所有随从牌获得+2/+2。\n\t\t<b>戰吼：</b>賦予你手中\n全部的手下+2/+2\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_910",
+    "dbfId": 48989,
+    "name": "발광석 기술병",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> 내 손에 있는 모든 하수인에게 +2/+2를 부여합니다.",
+    "attack": 3,
+    "health": 4,
+    "flavor": "\"윈델! 빛을 더!\" \"최대한 노력하고 있습니다, 칸고르 님!\"",
+    "portrait": "HS14-106_M.psd:1f142ef672fe07645b66560c853a447b",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_910.png",
+    "nativeRawText": "<b>전투의 함성:</b> 내 손에 있는 모든 하수인에게 +2/+2를 부여합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "4",
+      "47": "3",
+      "48": "5",
+      "183": "1127",
+      "199": "5",
+      "202": "4",
+      "203": "4",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_910",
+    "dbfId": 48989,
+    "name": "발광석 기술병",
+    "type": "MINION",
+    "cardClass": "PALADIN",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>전투의 함성:</b> 내 손에 있는 모든 하수인에게 +2/+2를 부여합니다.",
+    "attack": 3,
+    "health": 4,
+    "flavor": "\"윈델! 빛을 더!\" \"최대한 노력하고 있습니다, 칸고르 님!\"",
+    "portrait": "HS14-106_M.psd:1f142ef672fe07645b66560c853a447b",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_910.png",
+    "nativeRawText": "<b>전투의 함성:</b> 내 손에 있는 모든 하수인에게 +2/+2를 부여합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "4",
+      "47": "3",
+      "48": "6",
+      "183": "1127",
+      "199": "5",
+      "202": "4",
+      "203": "4",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2019-06-04": {
+    "cost": 5,
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 48,
+        "before": "6",
+        "after": "5"
+      }
+    ],
+    "source": {
+      "beforeBuild": 31022,
+      "afterBuild": 31268,
+      "beforeCommit": "089a94c2fc524cc52ee7697ad4430fd52240d6a0",
+      "afterCommit": "d4dcf70622f19beddd0d6d56fdd5f053da99d223",
+      "beforeXmlSha256": "95219fea6d5638fa31890deb6468518c9a9189155f3e1f29512ec5758fe2adbe",
+      "afterXmlSha256": "016adca4cafcd19f2d9eb3397b7acd3035db594b5c5bd91e77370f57bdb483c4",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Glowstone Technician"
+            },
+            "koKR": {
+              "present": true,
+              "value": "발광석 기술병"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tLeuchtsteinmechaniker\n\t\t\tGlowstone Technician\n\t\t\tTécnico de piedraluces\n\t\t\tTécnico Rocabrillo\n\t\t\tTechnicien brillepierre\n\t\t\tTecnico Pietrardente\n\t\t\tグロウストーンの技術者\n\t\t\t발광석 기술병\n\t\t\tTechnik krysztalnictwa\n\t\t\tTécnico Brilhapedra\n\t\t\tКамнецветчик\n\t\t\tช่างเทคนิคโกลว์สโตน\n\t\t\t亮石技师\n\t\t\t亮石技師\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Battlecry:</b> Give all minions in your hand +2/+2."
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>전투의 함성:</b> 내 손에 있는 모든 하수인에게 +2/+2를 부여합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Kampfschrei:</b> Verleiht allen Dienern auf Eurer Hand +2/+2.\n\t\t\t<b>Battlecry:</b> Give all minions in your hand +2/+2.\n\t\t\t[x]<b>Grito de batalla:</b> Otorga\na todos los esbirros\nde tu mano +2/+2.\n\t\t\t<b>Grito de batalla:</b> otorga +2/+2 a todos los esbirros de tu mano.\n\t\t\t<b>Cri de guerre_:</b> donne_+2/+2 à tous les serviteurs_de_votre_main.\n\t\t\t[x]<b>Grido di Battaglia:</b>\n+2/+2 ai servitori\nnella tua mano.\n\t\t\t<b>雄叫び:</b>\n自分の手札のミニオン全てに+2/+2を付与する。\n\t\t\t<b>전투의 함성:</b> 내 손에 있는 모든 하수인에게 +2/+2를 부여합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Daj +2/+2 wszystkim stronnikom w_twojej ręce.\n\t\t\t<b>Grito de Guerra:</b> Conceda +2/+2 a todos os lacaios na sua mão.\n\t\t\t<b>Боевой клич:</b> все существа у вас в руке получают +2/+2.\n\t\t\t<b>คำรามสู้ศึก:</b> มอบ +2/+2 ให้มินเนี่ยนทั้งหมดในมือคุณ\n\t\t\t<b>战吼：</b>使你手牌中的所有随从牌获得+2/+2。\n\t\t\t<b>戰吼：</b>賦予你手中\n全部的手下+2/+2\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Glowstone Technician"
+            },
+            "koKR": {
+              "present": true,
+              "value": "발광석 기술병"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tLeuchtsteinmechaniker\n\t\t\tGlowstone Technician\n\t\t\tTécnico de piedraluces\n\t\t\tTécnico Rocabrillo\n\t\t\tTechnicien brillepierre\n\t\t\tTecnico Pietrardente\n\t\t\tグロウストーンの技術者\n\t\t\t발광석 기술병\n\t\t\tTechnik krysztalnictwa\n\t\t\tTécnico Brilhapedra\n\t\t\tКамнецветчик\n\t\t\tช่างเทคนิคโกลว์สโตน\n\t\t\t亮石技师\n\t\t\t亮石技師\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Battlecry:</b> Give all minions in your hand +2/+2."
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>전투의 함성:</b> 내 손에 있는 모든 하수인에게 +2/+2를 부여합니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Kampfschrei:</b> Verleiht allen Dienern auf Eurer Hand +2/+2.\n\t\t\t<b>Battlecry:</b> Give all minions in your hand +2/+2.\n\t\t\t[x]<b>Grito de batalla:</b> Otorga\na todos los esbirros\nde tu mano +2/+2.\n\t\t\t<b>Grito de batalla:</b> otorga +2/+2 a todos los esbirros de tu mano.\n\t\t\t<b>Cri de guerre_:</b> donne_+2/+2 à tous les serviteurs_de_votre_main.\n\t\t\t[x]<b>Grido di Battaglia:</b>\n+2/+2 ai servitori\nnella tua mano.\n\t\t\t<b>雄叫び:</b>\n自分の手札のミニオン全てに+2/+2を付与する。\n\t\t\t<b>전투의 함성:</b> 내 손에 있는 모든 하수인에게 +2/+2를 부여합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Daj +2/+2 wszystkim stronnikom w_twojej ręce.\n\t\t\t<b>Grito de Guerra:</b> Conceda +2/+2 a todos os lacaios na sua mão.\n\t\t\t<b>Боевой клич:</b> все существа у вас в руке получают +2/+2.\n\t\t\t<b>คำรามสู้ศึก:</b> มอบ +2/+2 ให้มินเนี่ยนทั้งหมดในมือคุณ\n\t\t\t<b>战吼：</b>使你手牌中的所有随从牌获得+2/+2。\n\t\t\t<b>戰吼：</b>賦予你手中\n全部的手下+2/+2\n\t\t"
+        }
+      }
+    }
+  }
+}

@@ -1,1 +1,311 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_107","dbfId":48552,"name":"미사일 발사기","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":6,"text":"<b>합체</b>, 내 턴이 끝날 때, 다른 <b>모든</b> 캐릭터에게 피해를 1 줍니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"...그래서 물어봤죠. \"미사일들은 어디에 있나요?\" 그랬더니 하는 대답이 가관이었어요. \"네.\"","spellSchool":"","portrait":"HS14-184_M.psd:f8446ffe448205949b8e7670bb0da777","set":"BOOMSDAY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":849,"name":"합체","value":1},{"id":2787,"name":"게임 태그 2787","value":48549}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/BOT_107.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-184_M.psd:f8446ffe448205949b8e7670bb0da777","goldenMaterial":"BOT_107_PremiumCard.mat:a1ebfd9fea409d842b55264499be8ccb","goldenAnimation":"BOT_107_PremiumCard.asset:08551037608ca284a8024bf619e52393"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-184_M.psd:f8446ffe448205949b8e7670bb0da777",
+      "goldenMaterial": "BOT_107_PremiumCard.mat:a1ebfd9fea409d842b55264499be8ccb",
+      "goldenAnimation": "BOT_107_PremiumCard.asset:08551037608ca284a8024bf619e52393"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Missile Launcher"
+          },
+          "koKR": {
+            "present": true,
+            "value": "미사일 발사기"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tRaketenwerfer\n\t\t\tMissile Launcher\n\t\t\tLanzamisiles\n\t\t\tLanzamisiles\n\t\t\tLance-missiles\n\t\t\tLanciamissili\n\t\t\tミサイルランチャー\n\t\t\t미사일 발사기\n\t\t\tWyrzutnik rakiet\n\t\t\tLança-Mísseis\n\t\t\tРакетомет\n\t\t\tมิสไซล์ลันเชอร์\n\t\t\t飞弹机器人\n\t\t\t飛彈機器人\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Magnetic</b>\nAt the end of your turn,\ndeal 1 damage to all\nother characters."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>합체</b>, 내 턴이 끝날 때, 다른 <b>모든</b> 캐릭터에게 피해를 1 줍니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t[x]<b>Magnetisch</b>. Fügt am\nEnde Eures Zuges allen\nanderen Charakteren\n1 Schaden zu.\n\t\t\t[x]<b>Magnetic</b>\nAt the end of your turn,\ndeal 1 damage to all\nother characters.\n\t\t\t[x]<b>Magnetismo</b>\nAl final de tu turno, inflige\n1 p. de daño a todos los\ndemás personajes.\n\t\t\t<b>Magnetismo</b>\nAl final de tu turno, inflige 1 de daño a todos los demás personajes.\n\t\t\t<b>Magnétisme</b>\nÀ la fin de votre tour, inflige 1_point de dégâts à tous les autres personnages.\n\t\t\t[x]<b>Magnetismo</b>.\nAlla fine del tuo turno,\ninfligge 1 danno a TUTTI\ngli altri personaggi.\n\t\t\t[x]<b>超電磁</b>\n自分のターンの終了時\n自身を除く全ての\nキャラクターに\n_1ダメージを与える。\n\t\t\t<b>합체</b>, 내 턴이 끝날 때, 다른 <b>모든</b> 캐릭터에게 피해를 1 줍니다.\n\t\t\t[x]<b>Magnetyzm</b>\nNa koniec twojej tury zadaj\n1 pkt. obrażeń wszystkim\n  pozostałym postaciom.\n\t\t\t<b>Magnético</b>\nNo final do seu turno, cause 1 de dano a todos os outros personagens.\n\t\t\t<b>Магнетизм</b>\nВ конце вашего хода\nнаносит 1 ед. урона всем прочим персонажам.\n\t\t\t<b>แม่เหล็ก</b>\nเมื่อจบเทิร์นของคุณ สร้างความเสียหาย_1_แต้ม[b]ให้ตัวละครอื่นทั้งหมด\n\t\t\t<b>磁力</b>\n在你的回合结束时，对所有其他角色造成1点伤害。\n\t\t\t<b>合體</b>。在你的回合結束時，對全部其他角色造成1點傷害\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Missile Launcher"
+          },
+          "koKR": {
+            "present": true,
+            "value": "미사일 발사기"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tRaketenwerfer\n\t\tMissile Launcher\n\t\tLanzamisiles\n\t\tLanzamisiles\n\t\tLance-missiles\n\t\tLanciamissili\n\t\tミサイルランチャー\n\t\t미사일 발사기\n\t\tWyrzutnik rakiet\n\t\tLança-Mísseis\n\t\tРакетомет\n\t\tมิสไซล์ลันเชอร์\n\t\t飞弹机器人\n\t\t飛彈機器人\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Magnetic</b>\nAt the end of your turn,\ndeal 1 damage to all\nother characters."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>합체</b>, 내 턴이 끝날 때, 다른 <b>모든</b> 캐릭터에게 피해를 1 줍니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t[x]<b>Magnetisch</b>. Fügt am\nEnde Eures Zuges allen\nanderen Charakteren\n1 Schaden zu.\n\t\t[x]<b>Magnetic</b>\nAt the end of your turn,\ndeal 1 damage to all\nother characters.\n\t\t[x]<b>Magnetismo</b>\nAl final de tu turno, inflige\n1 p. de daño a todos los\ndemás personajes.\n\t\t<b>Magnetismo</b>\nAl final de tu turno, inflige 1 de daño a todos los demás personajes.\n\t\t<b>Magnétisme</b>\nÀ la fin de votre tour, inflige 1_point de dégâts à tous les autres personnages.\n\t\t[x]<b>Magnetismo</b>.\nAlla fine del tuo turno,\ninfligge 1 danno a TUTTI\ngli altri personaggi.\n\t\t[x]<b>超電磁</b>\n自分のターンの終了時\n自身を除く全ての\nキャラクターに\n_1ダメージを与える。\n\t\t<b>합체</b>, 내 턴이 끝날 때, 다른 <b>모든</b> 캐릭터에게 피해를 1 줍니다.\n\t\t[x]<b>Magnetyzm</b>\nNa koniec twojej tury zadaj\n1 pkt. obrażeń wszystkim\n  pozostałym postaciom.\n\t\t<b>Magnético</b>\nNo final do seu turno, cause 1 de dano a todos os outros personagens.\n\t\t<b>Магнетизм</b>\nВ конце вашего хода\nнаносит 1 ед. урона всем прочим персонажам.\n\t\t<b>แม่เหล็ก</b>\nเมื่อจบเทิร์นของคุณ สร้างความเสียหาย_1_แต้ม[b]ให้ตัวละครอื่นทั้งหมด\n\t\t<b>磁力</b>\n在你的回合结束时，对所有其他角色造成1点伤害。\n\t\t<b>合體</b>。在你的回合結束時，對全部其他角色造成1點傷害\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_107",
+    "dbfId": 48552,
+    "name": "미사일 발사기",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>합체</b>, 내 턴이 끝날 때, 다른 <b>모든</b> 캐릭터에게 피해를 1 줍니다.",
+    "attack": 4,
+    "health": 4,
+    "flavor": "...그래서 물어봤죠. \"미사일들은 어디에 있나요?\" 그랬더니 하는 대답이 가관이었어요. \"네.\"",
+    "portrait": "HS14-184_M.psd:f8446ffe448205949b8e7670bb0da777",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 849,
+        "name": "합체",
+        "value": 1
+      },
+      {
+        "id": 2787,
+        "name": "게임 태그 2787",
+        "value": 48549
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_107.png",
+    "nativeRawText": "<b>합체</b>, 내 턴이 끝날 때, 다른 <b>모든</b> 캐릭터에게 피해를 1 줍니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "32": "1",
+      "45": "4",
+      "47": "4",
+      "48": "6",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "202": "4",
+      "203": "3",
+      "321": "1",
+      "849": "1",
+      "2787": "48549"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_107",
+    "dbfId": 48552,
+    "name": "미사일 발사기",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>합체</b>, 내 턴이 끝날 때, 다른 <b>모든</b> 캐릭터에게 피해를 1 줍니다.",
+    "attack": 4,
+    "health": 4,
+    "flavor": "...그래서 물어봤죠. \"미사일들은 어디에 있나요?\" 그랬더니 하는 대답이 가관이었어요. \"네.\"",
+    "portrait": "HS14-184_M.psd:f8446ffe448205949b8e7670bb0da777",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 849,
+        "name": "합체",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_107.png",
+    "nativeRawText": "<b>합체</b>, 내 턴이 끝날 때, 다른 <b>모든</b> 캐릭터에게 피해를 1 줍니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "32": "1",
+      "45": "4",
+      "47": "4",
+      "48": "6",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "202": "4",
+      "203": "3",
+      "321": "1",
+      "849": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

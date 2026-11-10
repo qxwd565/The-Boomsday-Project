@@ -1,1 +1,352 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_565","dbfId":49361,"name":"역병분무기","type":"MINION","cardClass":"ROGUE","rarity":"RARE","collectible":true,"cost":4,"text":"<b>죽음의 메아리:</b> <b>독성</b>과 <b>속공</b> 능력이 있는 1/1 수액을 소환합니다.","attack":2,"health":4,"durability":0,"armor":0,"flavor":"\"아니, 안전하게 처리했다고는 했는데 그렇다고 다리를 달아버리면 어떡합니까!\"","spellSchool":"","portrait":"HS14-063_M.psd:806f1043b338f844386754c648f3eebd","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":7},{"id":200,"name":"종족","value":17},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":363,"name":"독성","value":1},{"id":791,"name":"속공","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":49360}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/BOT_565.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-063_M.psd:806f1043b338f844386754c648f3eebd","goldenMaterial":"BOT_565_PremiumCard.mat:e497750ac7a645545beb539669eab217","goldenAnimation":"BOT_565_PremiumCard.asset:51032c693e4a97944aea491790e2ed8d"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-063_M.psd:806f1043b338f844386754c648f3eebd",
+      "goldenMaterial": "BOT_565_PremiumCard.mat:e497750ac7a645545beb539669eab217",
+      "goldenAnimation": "BOT_565_PremiumCard.asset:51032c693e4a97944aea491790e2ed8d"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Blightnozzle Crawler"
+          },
+          "koKR": {
+            "present": true,
+            "value": "역병분무기"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tSeucheninjektor\n\t\t\tBlightnozzle Crawler\n\t\t\tInyectador de añublo\n\t\t\tReptador inyectañublo\n\t\t\tInjecteur de chancre\n\t\t\tSpargipiaga Semovente\n\t\t\tブライトノズル・クローラー\n\t\t\t역병분무기\n\t\t\tZbiornik zarazy\n\t\t\tRastejante Fuçapraga\n\t\t\tЧумоход\n\t\t\tหัวฉีดพิษเคลื่อนที่\n\t\t\t荒疫爬行者\n\t\t\t自走荒疫噴灑器\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Summon a 1/1 Ooze with <b>Poisonous</b> and <b>Rush</b>."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b> <b>독성</b>과 <b>속공</b> 능력이 있는 1/1 수액을 하나 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Todesröcheln:</b> Ruft einen <b>giftigen</b> Schleim (1/1) mit <b>Eifer</b> herbei.\n\t\t\t<b>Deathrattle:</b> Summon a 1/1 Ooze with <b>Poisonous</b> and <b>Rush</b>.\n\t\t\t[x]<b>Último aliento:</b>\nInvoca un moco 1/1\ncon <b>Veneno</b>\ny <b>Embestir</b>.\n\t\t\t<b>Estertor:</b> invoca un Moco 1/1 con <b>Venenoso</b> y <b>Acometida</b>.\n\t\t\t<b>Râle d’agonie_:</b> invoque un limon_1/1 avec <b>Toxicité</b> et <b>Ruée</b>.\n\t\t\t[x]<b>Rantolo di Morte:</b>\nevoca una Melma 1/1\ncon <b>Veleno</b> e <b>Assalto</b>.\n\t\t\t<b>断末魔:</b>\n<b>猛毒</b>と<b>急襲</b>を持つ\n1/1のウーズを\n1体召喚する。\n\t\t\t<b>죽음의 메아리:</b> <b>독성</b>과 <b>속공</b> 능력이 있는 1/1 수액을 하나 소환합니다.\n\t\t\t<b>Agonia:</b> Przyzwij Szlam 1/1 z <b>Trucizną</b> i <b>Zrywem</b>.\n\t\t\t<b>Último Suspiro:</b>\nEvoque uma Gosma 1/1 com <b>Venenoso</b> e <b>Rapidez</b>.\n\t\t\t<b>Предсмертный хрип:</b> призывает слизь 1/1 с <b>«Ядом»</b>_и_<b>«Натиском»</b>.\n\t\t\t<b>เสียงสุดท้าย:</b> เรียกเมือก_1/1 ที่มี <b>พิษ</b>_และ <b>จู่โจม</b>\n\t\t\t<b>亡语：</b>召唤一个1/1并具有<b>剧毒</b>和<b>突袭</b>的软泥怪。\n\t\t\t[x]<b>死亡之聲：</b>召喚一個\n有<b>致命劇毒</b>和<b>衝刺</b>的\n1/1汙泥怪\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Blightnozzle Crawler"
+          },
+          "koKR": {
+            "present": true,
+            "value": "역병분무기"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tSeucheninjektor\n\t\tBlightnozzle Crawler\n\t\tInyectador de añublo\n\t\tReptador inyectañublo\n\t\tInjecteur de chancre\n\t\tSpargipiaga Semovente\n\t\tブライトノズル・クローラー\n\t\t역병분무기\n\t\tZbiornik zarazy\n\t\tRastejante Fuçapraga\n\t\tЧумоход\n\t\tหัวฉีดพิษเคลื่อนที่\n\t\t荒疫爬行者\n\t\t自走荒疫噴灑器\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Deathrattle:</b> Summon a 1/1 Ooze with <b>Poisonous</b> and <b>Rush</b>."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b> <b>독성</b>과 <b>속공</b> 능력이 있는 1/1 수액을 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Todesröcheln:</b> Ruft einen <b>giftigen</b> Schleim (1/1) mit <b>Eifer</b> herbei.\n\t\t<b>Deathrattle:</b> Summon a 1/1 Ooze with <b>Poisonous</b> and <b>Rush</b>.\n\t\t[x]<b>Último aliento:</b>\nInvoca un moco 1/1\ncon <b>Veneno</b>\ny <b>Embestir</b>.\n\t\t<b>Estertor:</b> invoca un Moco 1/1 con <b>Venenoso</b> y <b>Acometida</b>.\n\t\t<b>Râle d’agonie_:</b> invoque un limon_1/1 avec <b>Toxicité</b> et <b>Ruée</b>.\n\t\t[x]<b>Rantolo di Morte:</b>\nevoca una Melma 1/1\ncon <b>Veleno</b> e <b>Assalto</b>.\n\t\t<b>断末魔:</b>\n<b>猛毒</b>と<b>急襲</b>を持つ\n1/1のウーズを\n1体召喚する。\n\t\t<b>죽음의 메아리:</b> <b>독성</b>과 <b>속공</b> 능력이 있는 1/1 수액을 소환합니다.\n\t\t<b>Agonia:</b> Przyzwij Szlam 1/1 z <b>Trucizną</b> i <b>Zrywem</b>.\n\t\t<b>Último Suspiro:</b>\nEvoque uma Gosma 1/1 com <b>Venenoso</b> e <b>Rapidez</b>.\n\t\t<b>Предсмертный хрип:</b> призывает слизь 1/1 с <b>«Ядом»</b>_и_<b>«Натиском»</b>.\n\t\t<b>เสียงสุดท้าย:</b> เรียกเมือก_1/1 ที่มี <b>พิษ</b>_และ <b>จู่โจม</b>\n\t\t<b>亡语：</b>召唤一个1/1并具有<b>剧毒</b>和<b>突袭</b>的软泥怪。\n\t\t[x]<b>死亡之聲：</b>召喚一個\n有<b>致命劇毒</b>和<b>衝刺</b>的\n1/1汙泥怪\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_565",
+    "dbfId": 49361,
+    "name": "역병분무기",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>죽음의 메아리:</b> <b>독성</b>과 <b>속공</b> 능력이 있는 1/1 수액을 소환합니다.",
+    "attack": 2,
+    "health": 4,
+    "flavor": "\"아니, 안전하게 처리했다고는 했는데 그렇다고 다리를 달아버리면 어떡합니까!\"",
+    "portrait": "HS14-063_M.psd:806f1043b338f844386754c648f3eebd",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 363,
+        "name": "독성",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 49360
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_565.png",
+    "nativeRawText": "<b>죽음의 메아리:</b> <b>독성</b>과 <b>속공</b> 능력이 있는 1/1 수액을 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "4",
+      "47": "2",
+      "48": "4",
+      "183": "1127",
+      "199": "7",
+      "200": "17",
+      "201": "3",
+      "202": "4",
+      "203": "3",
+      "217": "1",
+      "321": "1",
+      "1452": "49360"
+    },
+    "nativeTagsReferenced": {
+      "363": "1",
+      "791": "1"
+    }
+  },
+  "2018-08-08": {
+    "id": "BOT_565",
+    "dbfId": 49361,
+    "name": "역병분무기",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>죽음의 메아리:</b> <b>독성</b>과 <b>속공</b> 능력이 있는 1/1 수액을 하나 소환합니다.",
+    "attack": 2,
+    "health": 4,
+    "flavor": "\"아니, 안전하게 처리했다고는 했는데 그렇다고 다리를 달아버리면 어떡합니까!\"",
+    "portrait": "HS14-063_M.psd:806f1043b338f844386754c648f3eebd",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 363,
+        "name": "독성",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_565.png",
+    "nativeRawText": "<b>죽음의 메아리:</b> <b>독성</b>과 <b>속공</b> 능력이 있는 1/1 수액을 하나 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "4",
+      "47": "2",
+      "48": "4",
+      "183": "1127",
+      "199": "7",
+      "200": "17",
+      "201": "3",
+      "202": "4",
+      "203": "3",
+      "217": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {
+      "363": "1",
+      "791": "1"
+    },
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

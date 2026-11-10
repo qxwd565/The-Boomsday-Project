@@ -1,1 +1,275 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_242","dbfId":48487,"name":"마이라의 불안정한 원소","type":"SPELL","cardClass":"ROGUE","rarity":"LEGENDARY","collectible":true,"cost":5,"text":"내 덱의 남은 카드를<br></br>모두 뽑습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"설마 뭔가 잘못되기라도 하겠어요?","spellSchool":"","portrait":"HS14-135_S.psd:9e5d1d27d71d14a48ad0f43c5fa25007","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":7},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":3169,"name":"게임 태그 3169","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_242.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-135_S.psd:9e5d1d27d71d14a48ad0f43c5fa25007","goldenMaterial":"BOT_242_PremiumCard.mat:17d1f1a03ec1194409da5af7e68b63af","goldenAnimation":"BOT_242_PremiumCard.asset:ce4843fcbe23acf47bcc49500eff0390"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-135_S.psd:9e5d1d27d71d14a48ad0f43c5fa25007",
+      "goldenMaterial": "BOT_242_PremiumCard.mat:17d1f1a03ec1194409da5af7e68b63af",
+      "goldenAnimation": "BOT_242_PremiumCard.asset:ce4843fcbe23acf47bcc49500eff0390"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Myra's Unstable Element"
+          },
+          "koKR": {
+            "present": true,
+            "value": "마이라의 불안정한 원소"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tMyras instabiles Element\n\t\t\tMyra's Unstable Element\n\t\t\tElemento inestable de Myra\n\t\t\tElemento inestable de Myra\n\t\t\tÉlément instable de Myra\n\t\t\tElemento Instabile di Myra\n\t\t\tマイラの不安定元素\n\t\t\t마이라의 불안정한 원소\n\t\t\tNiestabilny pierwiastek Miry\n\t\t\tElemento Instável de Myra\n\t\t\tНовый элемент Миры\n\t\t\tธาตุไม่เสถียรของไมร่า\n\t\t\t迈拉的不稳定元素\n\t\t\t麥菈的不穩定元素\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Draw the rest of\nyour deck."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]내 덱의 남은 카드를\n모두 뽑습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tZieht Euer\nrestliches Deck.\n\t\t\tDraw the rest of\nyour deck.\n\t\t\tRoba el resto\nde tu mazo.\n\t\t\tRoba el resto de tu mazo.\n\t\t\tVous piochez le reste de votre deck.\n\t\t\t[x]Pesca il resto\ndel tuo mazzo.\n\t\t\t[x]自分のデッキの\n残りのカードを\n__全て引く。\n\t\t\t[x]내 덱의 남은 카드를\n모두 뽑습니다.\n\t\t\tDobierz resztę twojej talii.\n\t\t\tCompre o resto do seu deck.\n\t\t\tВы берете все карты из колоды.\n\t\t\tจั่วการ์ดจนหมด[b]เด็คของคุณ\n\t\t\t抽取你牌库剩下的牌。\n\t\t\t抽出你牌堆中剩下的牌\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Myra's Unstable Element"
+          },
+          "koKR": {
+            "present": true,
+            "value": "마이라의 불안정한 원소"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tMyras instabiles Element\n\t\tMyra's Unstable Element\n\t\tElemento inestable de Myra\n\t\tElemento inestable de Myra\n\t\tÉlément instable de Myra\n\t\tElemento Instabile di Myra\n\t\tマイラの不安定元素\n\t\t마이라의 불안정한 원소\n\t\tNiestabilny pierwiastek Miry\n\t\tElemento Instável de Myra\n\t\tНовый элемент Миры\n\t\tธาตุไม่เสถียรของไมร่า\n\t\t迈拉的不稳定元素\n\t\t麥菈的不穩定元素\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Draw the rest of\nyour deck."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]내 덱의 남은 카드를\n모두 뽑습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tZieht Euer\nrestliches Deck.\n\t\tDraw the rest of\nyour deck.\n\t\tRoba el resto\nde tu mazo.\n\t\tRoba el resto de tu mazo.\n\t\tVous piochez le reste de votre deck.\n\t\t[x]Pesca il resto\ndel tuo mazzo.\n\t\t[x]自分のデッキの\n残りのカードを\n__全て引く。\n\t\t[x]내 덱의 남은 카드를\n모두 뽑습니다.\n\t\tDobierz resztę twojej talii.\n\t\tCompre o resto do seu deck.\n\t\tВы берете все карты из колоды.\n\t\tจั่วการ์ดจนหมด[b]เด็คของคุณ\n\t\t抽取你牌库剩下的牌。\n\t\t抽出你牌堆中剩下的牌\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_242",
+    "dbfId": 48487,
+    "name": "마이라의 불안정한 원소",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 5,
+    "text": "내 덱의 남은 카드를<br></br>모두 뽑습니다.",
+    "flavor": "설마 뭔가 잘못되기라도 하겠어요?",
+    "spellSchool": "",
+    "portrait": "HS14-135_S.psd:9e5d1d27d71d14a48ad0f43c5fa25007",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 3169,
+        "name": "게임 태그 3169",
+        "value": 1
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_242.png",
+    "nativeRawText": "[x]내 덱의 남은 카드를\n모두 뽑습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "5",
+      "114": "1",
+      "183": "1127",
+      "199": "7",
+      "201": "3",
+      "202": "5",
+      "203": "5",
+      "321": "1",
+      "3169": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_242",
+    "dbfId": 48487,
+    "name": "마이라의 불안정한 원소",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 5,
+    "text": "내 덱의 남은 카드를<br></br>모두 뽑습니다.",
+    "flavor": "설마 뭔가 잘못되기라도 하겠어요?",
+    "spellSchool": "",
+    "portrait": "HS14-135_S.psd:9e5d1d27d71d14a48ad0f43c5fa25007",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_242.png",
+    "nativeRawText": "[x]내 덱의 남은 카드를\n모두 뽑습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "5",
+      "114": "1",
+      "183": "1127",
+      "199": "7",
+      "201": "3",
+      "202": "5",
+      "203": "5",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

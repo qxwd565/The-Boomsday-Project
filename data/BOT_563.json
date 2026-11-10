@@ -1,1 +1,458 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_563","dbfId":49356,"name":"전투 기계","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":5,"text":"<b>합체</b>","attack":6,"health":5,"durability":0,"armor":0,"flavor":"그래서 프로토콜 7이 대체 뭘까요?","spellSchool":"","portrait":"HS14-170_M.psd:56abec4c68273cf468349b1bddf51837","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":849,"name":"합체","value":1},{"id":2787,"name":"게임 태그 2787","value":49355}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/BOT_563.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-170_M.psd:56abec4c68273cf468349b1bddf51837","goldenMaterial":"BOT_563_PremiumCard.mat:44d05f611a5b75b40ae04ac8ee4a9046","goldenAnimation":"BOT_563_PremiumCard.asset:21238b9e19b511544b7653ff0c72b921"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-170_M.psd:56abec4c68273cf468349b1bddf51837",
+      "goldenMaterial": "BOT_563_PremiumCard.mat:44d05f611a5b75b40ae04ac8ee4a9046",
+      "goldenAnimation": "BOT_563_PremiumCard.asset:21238b9e19b511544b7653ff0c72b921"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Wargear"
+          },
+          "koKR": {
+            "present": true,
+            "value": "전투 기계"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tRobokraftprotz\n\t\t\tWargear\n\t\t\tEngranaje bélico\n\t\t\tMecanismo bélico\n\t\t\tEngin de guerre\n\t\t\tAutoma da Guerra\n\t\t\tウォーギア\n\t\t\t전투 기계\n\t\t\tMaszyna bojowa\n\t\t\tTraje de Guerra\n\t\t\tБоекостюм\n\t\t\tวอร์เกียร์\n\t\t\t战争机兵\n\t\t\t戰爭機兵\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Magnetic</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>합체</b>"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Magnetisch</b>\n\t\t\t<b>Magnetic</b>\n\t\t\t<b>Magnetismo</b>\n\t\t\t<b>Magnetismo</b>\n\t\t\t<b>Magnétisme</b>\n\t\t\t<b>Magnetismo</b>\n\t\t\t<b>超電磁</b>\n\t\t\t<b>합체</b>\n\t\t\t<b>Magnetyzm</b>\n\t\t\t<b>Magnético</b>\n\t\t\t<b>Магнетизм</b>\n\t\t\t<b>แม่เหล็ก</b>\n\t\t\t<b>磁力</b>\n\t\t\t<b>合體</b>\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Wargear"
+          },
+          "koKR": {
+            "present": true,
+            "value": "전투 기계"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tRobokraftprotz\n\t\tWargear\n\t\tEngranaje bélico\n\t\tMecanismo bélico\n\t\tEngin de guerre\n\t\tAutoma da Guerra\n\t\tウォーギア\n\t\t전투 기계\n\t\tMaszyna bojowa\n\t\tTraje de Guerra\n\t\tБоекостюм\n\t\tวอร์เกียร์\n\t\t战争机兵\n\t\t戰爭機兵\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Magnetic</b>"
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>합체</b>"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Magnetisch</b>\n\t\t<b>Magnetic</b>\n\t\t<b>Magnetismo</b>\n\t\t<b>Magnetismo</b>\n\t\t<b>Magnétisme</b>\n\t\t<b>Magnetismo</b>\n\t\t<b>超電磁</b>\n\t\t<b>합체</b>\n\t\t<b>Magnetyzm</b>\n\t\t<b>Magnético</b>\n\t\t<b>Магнетизм</b>\n\t\t<b>แม่เหล็ก</b>\n\t\t<b>磁力</b>\n\t\t<b>合體</b>\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_563",
+    "dbfId": 49356,
+    "name": "전투 기계",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>합체</b>",
+    "attack": 6,
+    "health": 5,
+    "flavor": "그래서 프로토콜 7이 대체 뭘까요?",
+    "portrait": "HS14-170_M.psd:56abec4c68273cf468349b1bddf51837",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 849,
+        "name": "합체",
+        "value": 1
+      },
+      {
+        "id": 2787,
+        "name": "게임 태그 2787",
+        "value": 49355
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_563.png",
+    "nativeRawText": "<b>합체</b>",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "5",
+      "47": "6",
+      "48": "5",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "202": "4",
+      "203": "1",
+      "321": "1",
+      "849": "1",
+      "2787": "49355"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_563",
+    "dbfId": 49356,
+    "name": "전투 기계",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>합체</b>",
+    "attack": 5,
+    "health": 5,
+    "flavor": "그래서 프로토콜 7이 대체 뭘까요?",
+    "portrait": "HS14-170_M.psd:56abec4c68273cf468349b1bddf51837",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 849,
+        "name": "합체",
+        "value": 1
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_563.png",
+    "nativeRawText": "<b>합체</b>",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "5",
+      "47": "5",
+      "48": "5",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "202": "4",
+      "203": "1",
+      "321": "1",
+      "849": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2023-04-05": {
+    "attack": 6,
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 849,
+        "name": "합체",
+        "value": 1
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 47,
+        "before": "5",
+        "after": "6"
+      }
+    ],
+    "source": {
+      "beforeBuild": 170126,
+      "afterBuild": 170824,
+      "beforeCommit": "da8f2db996f1e7191e501ebe2943af5636697e06",
+      "afterCommit": "8bfb29fa4064a213262beb5a8941203f6aa7434c",
+      "beforeXmlSha256": "df31e3949cf6219e14d2d54d9fcdc58dc4442937494b2c214945d321d793a055",
+      "afterXmlSha256": "8a407ab48fc4f7ded3eaa72870f4330facb82a1f334bb843258c982b9193988f",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Wargear"
+            },
+            "koKR": {
+              "present": true,
+              "value": "전투 기계"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tRobokraftprotz\n\t\t\tWargear\n\t\t\tEngranaje bélico\n\t\t\tMecanismo bélico\n\t\t\tEngin de guerre\n\t\t\tAutoma da Guerra\n\t\t\tウォーギア\n\t\t\t전투 기계\n\t\t\tMaszyna bojowa\n\t\t\tTraje de Guerra\n\t\t\tБоекостюм\n\t\t\tวอร์เกียร์\n\t\t\t战争机兵\n\t\t\t戰爭機兵\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Magnetic</b>"
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>합체</b>"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Magnetisch</b>\n\t\t\t<b>Magnetic</b>\n\t\t\t<b>Magnetismo</b>\n\t\t\t<b>Magnetismo</b>\n\t\t\t<b>Magnétisme</b>\n\t\t\t<b>Magnetismo</b>\n\t\t\t<b>超電磁</b>\n\t\t\t<b>합체</b>\n\t\t\t<b>Magnetyzm</b>\n\t\t\t<b>Magnético</b>\n\t\t\t<b>Магнетизм</b>\n\t\t\t<b>แม่เหล็ก</b>\n\t\t\t<b>磁力</b>\n\t\t\t<b>合體</b>\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Wargear"
+            },
+            "koKR": {
+              "present": true,
+              "value": "전투 기계"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tRobokraftprotz\n\t\t\tWargear\n\t\t\tEngranaje bélico\n\t\t\tMecanismo bélico\n\t\t\tEngin de guerre\n\t\t\tAutoma da Guerra\n\t\t\tウォーギア\n\t\t\t전투 기계\n\t\t\tMaszyna bojowa\n\t\t\tTraje de Guerra\n\t\t\tБоекостюм\n\t\t\tวอร์เกียร์\n\t\t\t战争机兵\n\t\t\t戰爭機兵\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "<b>Magnetic</b>"
+            },
+            "koKR": {
+              "present": true,
+              "value": "<b>합체</b>"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\t<b>Magnetisch</b>\n\t\t\t<b>Magnetic</b>\n\t\t\t<b>Magnetismo</b>\n\t\t\t<b>Magnetismo</b>\n\t\t\t<b>Magnétisme</b>\n\t\t\t<b>Magnetismo</b>\n\t\t\t<b>超電磁</b>\n\t\t\t<b>합체</b>\n\t\t\t<b>Magnetyzm</b>\n\t\t\t<b>Magnético</b>\n\t\t\t<b>Магнетизм</b>\n\t\t\t<b>แม่เหล็ก</b>\n\t\t\t<b>磁力</b>\n\t\t\t<b>合體</b>\n\t\t"
+        }
+      }
+    }
+  }
+}

@@ -1,1 +1,261 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_912","dbfId":49009,"name":"칸고르의 끝없는 군대","type":"SPELL","cardClass":"PALADIN","rarity":"LEGENDARY","collectible":true,"cost":7,"text":"아군 기계 셋을 부활시킵니다. <b>합체</b> 효과도 유지됩니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"셋이잖아. 셋은 끝없는 거랑 거리가 멀어.\" - 여백작 애쉬모어","spellSchool":"","portrait":"HS14-070_S.psd:06f884a7e2bebaf4e9395b748678b8d4","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":7},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":849,"name":"합체","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_912.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-070_S.psd:06f884a7e2bebaf4e9395b748678b8d4","goldenMaterial":"BOT_912_PremiumCard.mat:d0436dc2e35317b49ac7de52f1aad96a","goldenAnimation":"BOT_912_PremiumCard.asset:d55053323e14ffd47b98c534a0b8a298"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-070_S.psd:06f884a7e2bebaf4e9395b748678b8d4",
+      "goldenMaterial": "BOT_912_PremiumCard.mat:d0436dc2e35317b49ac7de52f1aad96a",
+      "goldenAnimation": "BOT_912_PremiumCard.asset:d55053323e14ffd47b98c534a0b8a298"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Kangor's Endless Army"
+          },
+          "koKR": {
+            "present": true,
+            "value": "칸고르의 끝없는 군대"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tKangors endlose Armee\n\t\t\tKangor's Endless Army\n\t\t\tEjército infinito de Kangor\n\t\t\tEjército infinito de Kangor\n\t\t\tArmée infinie de Kangor\n\t\t\tArmata Infinita di Kangor\n\t\t\tケンゴーの無限軍団\n\t\t\t칸고르의 끝없는 군대\n\t\t\tNieskończona armia Kangora\n\t\t\tTropa Perene de Kangor\n\t\t\tЛегионы Кангора\n\t\t\tกองทัพไร้สิ้นสุดของแคงกอร์\n\t\t\t坎格尔的无尽大军\n\t\t\t崗古的無盡大軍\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Resurrect 3 friendly Mechs. They keep any <b>Magnetic</b> upgrades."
+          },
+          "koKR": {
+            "present": true,
+            "value": "아군 기계 셋을 부활시킵니다. <b>합체</b> 효과도 유지됩니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t[x]Belebt 3 befreundete\nMechs wieder. Ihre\n<b>magnetischen</b> Upgrades\nbleiben bestehen.\n\t\t\tResurrect 3 friendly Mechs. They keep any <b>Magnetic</b> upgrades.\n\t\t\t[x]Resucita a 3 robots\namistosos. Conservan\ncualquier mejora\nde <b>Magnetismo</b>.\n\t\t\tRevive 3 Mecas aliados. Conservan todas las mejoras de <b>Magnetismo</b>.\n\t\t\tRessuscite 3 Méca alliés. Ils gardent toutes les améliorations de <b>Magnétisme</b>.\n\t\t\tEvoca tre tuoi Robot morti in questa partita. Mantengono qualsiasi <b>Magnetismo</b> ottenuto.\n\t\t\t[x]味方のメカ3体を\n復活させる。それらに\n付与されていた<b>超電磁</b>\nアップグレードは\n__そのまま維持される。\n\t\t\t아군 기계 셋을 부활시킵니다. <b>합체</b> 효과도 유지됩니다.\n\t\t\tWskrześ trzy przyjazne Mechy. Zachowują <b>Magnetyczne</b> ulepszenia.\n\t\t\tRessuscite 3 Mecanoides aliados. Eles mantêm os aprimoramentos <b>Magnéticos</b> recebidos.\n\t\t\tВоскрешает 3_ваших механизма. Они сохраняют полученные эффекты <b>«Магнетизма»</b>.\n\t\t\tชุบชีวิตเครื่องจักรฝ่ายคุณ 3_ตัว พวกมันมีการอัพเกรด <b>แม่เหล็ก</b> ที่เคยได้รับทั้งหมด\n\t\t\t复活三个友方机械，它们会保留所有<b>磁力</b>升级。\n\t\t\t復活3個友方機械。他們會保留\n任何的<b>合體</b>效果\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Kangor's Endless Army"
+          },
+          "koKR": {
+            "present": true,
+            "value": "칸고르의 끝없는 군대"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tKangors endlose Armee\n\t\tKangor's Endless Army\n\t\tEjército infinito de Kangor\n\t\tEjército infinito de Kangor\n\t\tArmée infinie de Kangor\n\t\tArmata Infinita di Kangor\n\t\tケンゴーの無限軍団\n\t\t칸고르의 끝없는 군대\n\t\tNieskończona armia Kangora\n\t\tTropa Perene de Kangor\n\t\tЛегионы Кангора\n\t\tกองทัพไร้สิ้นสุดของแคงกอร์\n\t\t坎格尔的无尽大军\n\t\t崗古的無盡大軍\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Resurrect 3 friendly Mechs. They keep any <b>Magnetic</b> upgrades."
+          },
+          "koKR": {
+            "present": true,
+            "value": "아군 기계 셋을 부활시킵니다. <b>합체</b> 효과도 유지됩니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t[x]Belebt 3 befreundete\nMechs wieder. Ihre\n<b>magnetischen</b> Upgrades\nbleiben bestehen.\n\t\tResurrect 3 friendly Mechs. They keep any <b>Magnetic</b> upgrades.\n\t\t[x]Resucita a 3 robots\namistosos. Conservan\ncualquier mejora\nde <b>Magnetismo</b>.\n\t\tRevive 3 Mecas aliados. Conservan todas las mejoras de <b>Magnetismo</b>.\n\t\tRessuscite 3 Méca alliés. Ils gardent toutes les améliorations de <b>Magnétisme</b>.\n\t\tEvoca tre tuoi Robot morti in questa partita. Mantengono qualsiasi <b>Magnetismo</b> ottenuto.\n\t\t[x]味方のメカ3体を\n復活させる。それらに\n付与されていた<b>超電磁</b>\nアップグレードは\n__そのまま維持される。\n\t\t아군 기계 셋을 부활시킵니다. <b>합체</b> 효과도 유지됩니다.\n\t\tWskrześ trzy przyjazne Mechy. Zachowują <b>Magnetyczne</b> ulepszenia.\n\t\tRessuscite 3 Mecanoides aliados. Eles mantêm os aprimoramentos <b>Magnéticos</b> recebidos.\n\t\tВоскрешает 3_ваших механизма. Они сохраняют полученные эффекты <b>«Магнетизма»</b>.\n\t\tชุบชีวิตเครื่องจักรฝ่ายคุณ 3_ตัว พวกมันมีการอัพเกรด <b>แม่เหล็ก</b> ที่เคยได้รับทั้งหมด\n\t\t复活三个友方机械，它们会保留所有<b>磁力</b>升级。\n\t\t復活3個友方機械。他們會保留\n任何的<b>合體</b>效果\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_912",
+    "dbfId": 49009,
+    "name": "칸고르의 끝없는 군대",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 7,
+    "text": "아군 기계 셋을 부활시킵니다. <b>합체</b> 효과도 유지됩니다.",
+    "flavor": "\"셋이잖아. 셋은 끝없는 거랑 거리가 멀어.\" - 여백작 애쉬모어",
+    "spellSchool": "",
+    "portrait": "HS14-070_S.psd:06f884a7e2bebaf4e9395b748678b8d4",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 849,
+        "name": "합체",
+        "value": 1
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_912.png",
+    "nativeRawText": "아군 기계 셋을 부활시킵니다. <b>합체</b> 효과도 유지됩니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "7",
+      "114": "1",
+      "183": "1127",
+      "199": "5",
+      "202": "5",
+      "203": "5",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {
+      "849": "1"
+    }
+  },
+  "2018-08-08": {
+    "id": "BOT_912",
+    "dbfId": 49009,
+    "name": "칸고르의 끝없는 군대",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 7,
+    "text": "아군 기계 셋을 부활시킵니다. <b>합체</b> 효과도 유지됩니다.",
+    "flavor": "\"셋이잖아. 셋은 끝없는 거랑 거리가 멀어.\" - 여백작 애쉬모어",
+    "spellSchool": "",
+    "portrait": "HS14-070_S.psd:06f884a7e2bebaf4e9395b748678b8d4",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 849,
+        "name": "합체",
+        "value": 1
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_912.png",
+    "nativeRawText": "아군 기계 셋을 부활시킵니다. <b>합체</b> 효과도 유지됩니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "7",
+      "114": "1",
+      "183": "1127",
+      "199": "5",
+      "202": "5",
+      "203": "5",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {
+      "849": "1"
+    },
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

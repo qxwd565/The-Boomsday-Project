@@ -1,1 +1,284 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_576","dbfId":49494,"name":"미쳐버린 화학자","type":"MINION","cardClass":"ROGUE","rarity":"COMMON","collectible":true,"cost":5,"text":"<b>연계:</b> 아군 하수인에게<br></br>공격력을 +4 부여합니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"굳이 미쳐버릴 필요는 없지만, 그래야 편합니다.","spellSchool":"","portrait":"HS14-131_M.psd:c6629243e020ced45b82300eecfc545e","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":220,"name":"연계","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_576.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-131_M.psd:c6629243e020ced45b82300eecfc545e","goldenMaterial":"BOT_576_PremiumCard.mat:cba8bdd2c5c4d6b43beb586ca8f48987","goldenAnimation":"BOT_576_PremiumCard.asset:d795f8ac9e4722c45aed494f0c8614c3"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-131_M.psd:c6629243e020ced45b82300eecfc545e",
+      "goldenMaterial": "BOT_576_PremiumCard.mat:cba8bdd2c5c4d6b43beb586ca8f48987",
+      "goldenAnimation": "BOT_576_PremiumCard.asset:d795f8ac9e4722c45aed494f0c8614c3"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Crazed Chemist"
+          },
+          "koKR": {
+            "present": true,
+            "value": "미쳐버린 화학자"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tVerrückte Chemikerin\n\t\t\tCrazed Chemist\n\t\t\tQuímica enloquecida\n\t\t\tBoticaria demente\n\t\t\tChimiste démente\n\t\t\tChimica Folle\n\t\t\tイカレた化学者\n\t\t\t미쳐버린 화학자\n\t\t\tSzalona chemiczka\n\t\t\tQuímica Enlouquecida\n\t\t\tБезумный химик\n\t\t\tนักเคมีเสียสติ\n\t\t\t疯狂的药剂师\n\t\t\t瘋狂的化學家\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Combo:</b> Give a friendly minion +4 Attack."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>연계:</b> 아군 하수인 하나에게 공격력을\n+4 부여합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Combo:</b> Verleiht einem befreundeten Diener\n+4 Angriff.\n\t\t\t<b>Combo:</b> Give a friendly minion +4 Attack.\n\t\t\t<b>Combo:</b> Otorga +4_p.\nde ataque a un esbirro amistoso.\n\t\t\t<b>Combo:</b> otorga +4 de Ataque a un esbirro aliado.\n\t\t\t<b>Combo_:</b> donne +4_ATQ\nà un serviteur allié.\n\t\t\t[x]<b>Combo:</b> +4 Attacco\na un tuo servitore.\n\t\t\t[x]<b>コンボ:</b>\n味方のミニオン1体に\n__攻撃力+4を付与する。\n\t\t\t<b>연계:</b> 아군 하수인 하나에게 공격력을\n+4 부여합니다.\n\t\t\t<b>Kombinacja:</b> Daj przyjaznemu stronnikowi +4 do ataku.\n\t\t\t<b>Combo:</b> Conceda +4 de Ataque a um lacaio aliado.\n\t\t\t<b>Серия приемов:</b> ваше выбранное существо получает +4 к атаке.\n\t\t\t<b>คอมโบ:</b> มอบพลังโจมตี +4 ให้มินเนี่ยนฝ่ายคุณหนึ่งตัว\n\t\t\t<b>连击：</b>使一个友方随从获得+4攻击力。\n\t\t\t<b>連擊：</b>賦予一個友方手下+4攻擊力\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Crazed Chemist"
+          },
+          "koKR": {
+            "present": true,
+            "value": "미쳐버린 화학자"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tVerrückte Chemikerin\n\t\tCrazed Chemist\n\t\tQuímica enloquecida\n\t\tBoticaria demente\n\t\tChimiste démente\n\t\tChimica Folle\n\t\tイカレた化学者\n\t\t미쳐버린 화학자\n\t\tSzalona chemiczka\n\t\tQuímica Enlouquecida\n\t\tБезумный химик\n\t\tนักเคมีเสียสติ\n\t\t疯狂的药剂师\n\t\t瘋狂的化學家\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Combo:</b> Give a friendly minion +4 Attack."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>연계:</b> 아군 하수인에게\n공격력을 +4 부여합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Combo:</b> Verleiht einem befreundeten Diener\n+4 Angriff.\n\t\t<b>Combo:</b> Give a friendly minion +4 Attack.\n\t\t<b>Combo:</b> Otorga +4_p.\nde ataque a un esbirro amistoso.\n\t\t<b>Combo:</b> otorga +4 de Ataque a un esbirro aliado.\n\t\t<b>Combo_:</b> donne +4_ATQ\nà un serviteur allié.\n\t\t[x]<b>Combo:</b> +4 Attacco\na un tuo servitore.\n\t\t[x]<b>コンボ:</b>\n味方のミニオン1体に\n__攻撃力+4を付与する。\n\t\t<b>연계:</b> 아군 하수인에게\n공격력을 +4 부여합니다.\n\t\t<b>Kombinacja:</b> Daj przyjaznemu stronnikowi +4 do ataku.\n\t\t<b>Combo:</b> Conceda +4 de Ataque a um lacaio aliado.\n\t\t<b>Серия приемов:</b> ваше существо получает +4_к_атаке.\n\t\t<b>คอมโบ:</b> มอบพลังโจมตี +4 ให้มินเนี่ยนฝ่ายคุณหนึ่งตัว\n\t\t<b>连击：</b>使一个友方随从获得+4攻击力。\n\t\t<b>連擊：</b>賦予一個友方手下+4攻擊力\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_576",
+    "dbfId": 49494,
+    "name": "미쳐버린 화학자",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>연계:</b> 아군 하수인에게<br></br>공격력을 +4 부여합니다.",
+    "attack": 4,
+    "health": 4,
+    "flavor": "굳이 미쳐버릴 필요는 없지만, 그래야 편합니다.",
+    "portrait": "HS14-131_M.psd:c6629243e020ced45b82300eecfc545e",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 220,
+        "name": "연계",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_576.png",
+    "nativeRawText": "<b>연계:</b> 아군 하수인에게\n공격력을 +4 부여합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "325": "",
+      "342": "",
+      "45": "4",
+      "47": "4",
+      "48": "5",
+      "183": "1127",
+      "199": "7",
+      "202": "4",
+      "203": "1",
+      "220": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_576",
+    "dbfId": 49494,
+    "name": "미쳐버린 화학자",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>연계:</b> 아군 하수인 하나에게 공격력을<br></br>+4 부여합니다.",
+    "attack": 4,
+    "health": 4,
+    "flavor": "굳이 미쳐버릴 필요는 없지만, 그래야 편합니다.",
+    "portrait": "HS14-131_M.psd:c6629243e020ced45b82300eecfc545e",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 220,
+        "name": "연계",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 325,
+        "name": "게임 태그 325",
+        "value": ""
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/BOT_576.png",
+    "nativeRawText": "<b>연계:</b> 아군 하수인 하나에게 공격력을\n+4 부여합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "325": "",
+      "342": "",
+      "45": "4",
+      "47": "4",
+      "48": "5",
+      "183": "1127",
+      "199": "7",
+      "202": "4",
+      "203": "1",
+      "220": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

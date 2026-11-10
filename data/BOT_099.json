@@ -1,1 +1,240 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_099","dbfId":48799,"name":"유레카!","type":"SPELL","cardClass":"SHAMAN","rarity":"RARE","collectible":true,"cost":6,"text":"내 손에 있는 무작위 하수인을 복사하여 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"천재는 1%의 영감과 99%의 오른쪽 데스윙으로 이루어진다.","spellSchool":"","portrait":"HS14-138_S.psd:f022440d5bbcbbb46bf1e987f43e92b9","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_099.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-138_S.psd:f022440d5bbcbbb46bf1e987f43e92b9","goldenMaterial":"BOT_099_PremiumCard.mat:afc06e82cbafe8742b404374692cf8f6","goldenAnimation":"BOT_099_PremiumCard.asset:b551efc0278143b4c8a8309322783c6f"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-138_S.psd:f022440d5bbcbbb46bf1e987f43e92b9",
+      "goldenMaterial": "BOT_099_PremiumCard.mat:afc06e82cbafe8742b404374692cf8f6",
+      "goldenAnimation": "BOT_099_PremiumCard.asset:b551efc0278143b4c8a8309322783c6f"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Eureka!"
+          },
+          "koKR": {
+            "present": true,
+            "value": "유레카!"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tHeureka!\n\t\t\tEureka!\n\t\t\t¡Eureka!\n\t\t\t¡Eureka!\n\t\t\tEurêka !\n\t\t\tEureka!\n\t\t\tエウレーカ！\n\t\t\t유레카!\n\t\t\tEureka!\n\t\t\tEureca!\n\t\t\tЭврика!\n\t\t\tยูเรก้า!\n\t\t\t我找到了！\n\t\t\t有了！\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Summon a copy of_a_random minion from your hand."
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 손에 있는 무작위 하수인 하나를 복사하여 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tRuft eine Kopie eines zufälligen Dieners aus Eurer Hand herbei.\n\t\t\tSummon a copy of_a_random minion from your hand.\n\t\t\tInvoca una copia\nde un esbirro aleatorio de tu mano.\n\t\t\tInvoca una copia de un esbirro aleatorio de tu mano.\n\t\t\tInvoque une copie d’un serviteur aléatoire de votre main.\n\t\t\t[x]Evoca una copia di\nun servitore casuale\nnella tua mano.\n\t\t\t[x]自分の手札から\nランダムな\nミニオンのコピーを\n_1体召喚する。\n\t\t\t내 손에 있는 무작위 하수인 하나를 복사하여 소환합니다.\n\t\t\tPrzyzwij kopię losowego stronnika z_twojej ręki.\n\t\t\tEvoque uma cópia de um lacaio aleatório da sua mão.\n\t\t\tВы призываете копию случайного существа из руки.\n\t\t\tสุ่มเรียกร่างก๊อปปี้ของ[b]มินเนี่ยนหนึ่งตัวในมือคุณ\n\t\t\t随机挑选你手牌里的一个随从，召唤一个复制。\n\t\t\t從你手中\n召喚一個隨機手下的分身\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Eureka!"
+          },
+          "koKR": {
+            "present": true,
+            "value": "유레카!"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tHeureka!\n\t\tEureka!\n\t\t¡Eureka!\n\t\t¡Eureka!\n\t\tEurêka !\n\t\tEureka!\n\t\tエウレーカ！\n\t\t유레카!\n\t\tEureka!\n\t\tEureca!\n\t\tЭврика!\n\t\tยูเรก้า!\n\t\t我找到了\n\t\t有了！\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Summon a copy of_a_random minion from your hand."
+          },
+          "koKR": {
+            "present": true,
+            "value": "내 손에 있는 무작위 하수인을 복사하여 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tRuft eine Kopie eines zufälligen Dieners aus Eurer Hand herbei.\n\t\tSummon a copy of_a_random minion from your hand.\n\t\tInvoca una copia\nde un esbirro aleatorio de tu mano.\n\t\tInvoca una copia de un esbirro aleatorio de_tu_mano.\n\t\tInvoque une copie d’un serviteur aléatoire de votre main.\n\t\t[x]Evoca una copia di\nun servitore casuale\nnella tua mano.\n\t\t[x]自分の手札から\nランダムな\nミニオンのコピーを\n_1体召喚する。\n\t\t내 손에 있는 무작위 하수인을 복사하여 소환합니다.\n\t\tPrzyzwij kopię losowego stronnika z_twojej ręki.\n\t\tEvoque uma cópia de um lacaio aleatório da sua mão.\n\t\tПризывает копию случайного существа из руки.\n\t\tสุ่มเรียกร่างก๊อปปี้[b]ของมินเนี่ยนหนึ่งตัว[b]จากมือคุณ\n\t\t随机召唤你手牌中的一张随从牌的一个复制。\n\t\t從你手中\n召喚一個隨機手下的分身\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_099",
+    "dbfId": 48799,
+    "name": "유레카!",
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 6,
+    "text": "내 손에 있는 무작위 하수인을 복사하여 소환합니다.",
+    "flavor": "천재는 1%의 영감과 99%의 오른쪽 데스윙으로 이루어진다.",
+    "spellSchool": "",
+    "portrait": "HS14-138_S.psd:f022440d5bbcbbb46bf1e987f43e92b9",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_099.png",
+    "nativeRawText": "내 손에 있는 무작위 하수인을 복사하여 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "6",
+      "183": "1127",
+      "199": "8",
+      "202": "5",
+      "203": "3",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_099",
+    "dbfId": 48799,
+    "name": "유레카!",
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 6,
+    "text": "내 손에 있는 무작위 하수인 하나를 복사하여 소환합니다.",
+    "flavor": "천재는 1%의 영감과 99%의 오른쪽 데스윙으로 이루어진다.",
+    "spellSchool": "",
+    "portrait": "HS14-138_S.psd:f022440d5bbcbbb46bf1e987f43e92b9",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_099.png",
+    "nativeRawText": "내 손에 있는 무작위 하수인 하나를 복사하여 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "6",
+      "183": "1127",
+      "199": "8",
+      "202": "5",
+      "203": "3",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

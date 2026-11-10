@@ -1,1 +1,563 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_084","dbfId":48035,"name":"보랏빛 연무","type":"SPELL","cardClass":"ROGUE","rarity":"COMMON","collectible":true,"cost":2,"text":"무작위 <b>죽음의 메아리</b> 카드 2장을 내 손으로 가져옵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"정예 타우렌 족장의 다음 싱글 앨범명입니다.","spellSchool":"SHADOW","portrait":"HS14-008_S.psd:821f4c326f2fff04fa0eea81e2fac1d7","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":1635,"name":"주문 속성","value":6}],"races":[],"race":"","classes":[],"art":"art/BOT_084.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-008_S.psd:821f4c326f2fff04fa0eea81e2fac1d7","goldenMaterial":"BOT_084_PremiumCard.mat:c13c98a288171b44080299450d7c2d6f","goldenAnimation":"BOT_084_PremiumCard.asset:867c488172a1e144c8c654c9dce19623"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-008_S.psd:821f4c326f2fff04fa0eea81e2fac1d7",
+      "goldenMaterial": "BOT_084_PremiumCard.mat:c13c98a288171b44080299450d7c2d6f",
+      "goldenAnimation": "BOT_084_PremiumCard.asset:867c488172a1e144c8c654c9dce19623"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Violet Haze"
+          },
+          "koKR": {
+            "present": true,
+            "value": "보랏빛 연무"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tVioletter Dunst\n\t\t\tViolet Haze\n\t\t\tNeblina violeta\n\t\t\tNeblina violeta\n\t\t\tBrume violette\n\t\t\tFoschia Violacea\n\t\t\t紫の煙霧\n\t\t\t보랏빛 연무\n\t\t\tFioletowa mgła\n\t\t\tNévoa Violeta\n\t\t\tЛиловые пары\n\t\t\tหมอกควันสีม่วง\n\t\t\t紫色烟雾\n\t\t\t迷幻紫煙\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Add 2 random <b>Deathrattle</b> cards to_your hand."
+          },
+          "koKR": {
+            "present": true,
+            "value": "무작위 <b>죽음의_메아리</b> 카드 2장을 내 손으로 가져옵니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tErhaltet 2 zufällige <b>Todesröcheln</b>-Karten auf die Hand.\n\t\t\tAdd 2 random <b>Deathrattle</b> cards to_your hand.\n\t\t\t[x]Añade 2 cartas\ncon <b>Último aliento</b>\naleatorias a tu mano.\n\t\t\tAgrega 2 cartas con <b>Estertor</b> aleatorias a tu mano.\n\t\t\tAjoute 2_cartes aléatoires avec <b>Râle d’agonie</b> dans votre main.\n\t\t\tMette nella tua mano due carte con <b>Rantolo di Morte</b> casuali.\n\t\t\t[x]<b>断末魔</b>を持つ\nランダムなカード2枚を\n自分の手札に追加する。\n\t\t\t무작위 <b>죽음의_메아리</b> 카드 2장을 내 손으로 가져옵니다.\n\t\t\tDodaj dwie losowe karty z <b>Agonią</b> do twojej ręki.\n\t\t\tAdicione 2 cards aleatórios com <b>Último Suspiro</b> à sua mão.\n\t\t\tВы кладете в руку 2 случайные карты с_<b>«Предсмертным хрипом»</b>.\n\t\t\tสุ่มเพิ่มการ์ด_<b>เสียงสุดท้าย</b> 2_ใบในมือคุณ\n\t\t\t随机将两张<b>亡语</b>牌置入你的\n手牌。\n\t\t\t放2張隨機\n<b>死亡之聲</b>牌到你的手中\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Violet Haze"
+          },
+          "koKR": {
+            "present": true,
+            "value": "보랏빛 연무"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tVioletter Dunst\n\t\tViolet Haze\n\t\tNeblina violeta\n\t\tNeblina violeta\n\t\tBrume violette\n\t\tFoschia Violacea\n\t\t紫の煙霧\n\t\t보랏빛 연무\n\t\tFioletowa mgła\n\t\tNévoa Violeta\n\t\tЛиловые пары\n\t\tหมอกควันสีม่วง\n\t\t紫色烟雾\n\t\t迷幻紫煙\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Add 2 random <b>Deathrattle</b> cards to_your hand."
+          },
+          "koKR": {
+            "present": true,
+            "value": "무작위 <b>죽음의_메아리</b> 카드 2장을 내 손으로 가져옵니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tErhaltet 2 zufällige <b>Todesröcheln</b>-Karten auf die Hand.\n\t\tAdd 2 random <b>Deathrattle</b> cards to_your hand.\n\t\t[x]Añade 2 cartas\ncon <b>Último aliento</b>\naleatorias a tu mano.\n\t\tAgrega 2 cartas con <b>Estertor</b> aleatorias a tu mano.\n\t\tAjoute 2_cartes aléatoires avec <b>Râle d’agonie</b> dans votre main.\n\t\tMette nella tua mano due carte con <b>Rantolo di Morte</b> casuali.\n\t\t[x]<b>断末魔</b>を持つ\nランダムなカード2枚を\n自分の手札に追加する。\n\t\t무작위 <b>죽음의_메아리</b> 카드 2장을 내 손으로 가져옵니다.\n\t\tDodaj dwie losowe karty z <b>Agonią</b> do twojej ręki.\n\t\tAdicione 2 cards aleatórios com <b>Último Suspiro</b> à sua mão.\n\t\tВы кладете в руку 2 случайные карты с_<b>«Предсмертным хрипом»</b>.\n\t\tสุ่มเพิ่มการ์ด <b>เสียงสุดท้าย</b>_2_ใบ[b]ในมือคุณ\n\t\t随机将两张<b>亡语</b>牌置入你的\n手牌。\n\t\t放2張隨機\n<b>死亡之聲</b>牌到你的手中\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_084",
+    "dbfId": 48035,
+    "name": "보랏빛 연무",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "무작위 <b>죽음의 메아리</b> 카드 2장을 내 손으로 가져옵니다.",
+    "flavor": "정예 타우렌 족장의 다음 싱글 앨범명입니다.",
+    "spellSchool": "SHADOW",
+    "portrait": "HS14-008_S.psd:821f4c326f2fff04fa0eea81e2fac1d7",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_084.png",
+    "nativeRawText": "무작위 <b>죽음의_메아리</b> 카드 2장을 내 손으로 가져옵니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "2",
+      "183": "1127",
+      "199": "7",
+      "202": "5",
+      "203": "1",
+      "321": "1",
+      "1635": "6"
+    },
+    "nativeTagsReferenced": {
+      "217": "1"
+    }
+  },
+  "2018-08-08": {
+    "id": "BOT_084",
+    "dbfId": 48035,
+    "name": "보랏빛 연무",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "무작위 <b>죽음의 메아리</b> 카드 2장을 내 손으로 가져옵니다.",
+    "flavor": "정예 타우렌 족장의 다음 싱글 앨범명입니다.",
+    "spellSchool": "",
+    "portrait": "HS14-008_S.psd:821f4c326f2fff04fa0eea81e2fac1d7",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_084.png",
+    "nativeRawText": "무작위 <b>죽음의_메아리</b> 카드 2장을 내 손으로 가져옵니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "3",
+      "183": "1127",
+      "199": "7",
+      "202": "5",
+      "203": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {
+      "217": "1"
+    },
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2019-06-04": {
+    "cost": 2,
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 48,
+        "before": "3",
+        "after": "2"
+      }
+    ],
+    "source": {
+      "beforeBuild": 31022,
+      "afterBuild": 31268,
+      "beforeCommit": "089a94c2fc524cc52ee7697ad4430fd52240d6a0",
+      "afterCommit": "d4dcf70622f19beddd0d6d56fdd5f053da99d223",
+      "beforeXmlSha256": "95219fea6d5638fa31890deb6468518c9a9189155f3e1f29512ec5758fe2adbe",
+      "afterXmlSha256": "016adca4cafcd19f2d9eb3397b7acd3035db594b5c5bd91e77370f57bdb483c4",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Violet Haze"
+            },
+            "koKR": {
+              "present": true,
+              "value": "보랏빛 연무"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tVioletter Dunst\n\t\t\tViolet Haze\n\t\t\tNeblina violeta\n\t\t\tNeblina violeta\n\t\t\tBrume violette\n\t\t\tFoschia Violacea\n\t\t\t紫の煙霧\n\t\t\t보랏빛 연무\n\t\t\tFioletowa mgła\n\t\t\tNévoa Violeta\n\t\t\tЛиловые пары\n\t\t\tหมอกควันสีม่วง\n\t\t\t紫色烟雾\n\t\t\t迷幻紫煙\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Add 2 random <b>Deathrattle</b> cards to_your hand."
+            },
+            "koKR": {
+              "present": true,
+              "value": "무작위 <b>죽음의_메아리</b> 카드 2장을 내 손으로 가져옵니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tErhaltet 2 zufällige <b>Todesröcheln</b>-Karten auf die Hand.\n\t\t\tAdd 2 random <b>Deathrattle</b> cards to_your hand.\n\t\t\t[x]Añade 2 cartas\ncon <b>Último aliento</b>\naleatorias a tu mano.\n\t\t\tAgrega 2 cartas con <b>Estertor</b> aleatorias a tu mano.\n\t\t\tAjoute 2_cartes aléatoires avec <b>Râle d’agonie</b> dans votre main.\n\t\t\tMette nella tua mano due carte con <b>Rantolo di Morte</b> casuali.\n\t\t\t[x]<b>断末魔</b>を持つ\nランダムなカード2枚を\n自分の手札に追加する。\n\t\t\t무작위 <b>죽음의_메아리</b> 카드 2장을 내 손으로 가져옵니다.\n\t\t\tDodaj dwie losowe karty z <b>Agonią</b> do twojej ręki.\n\t\t\tAdicione 2 cards aleatórios com <b>Último Suspiro</b> à sua mão.\n\t\t\tВы кладете в руку 2 случайные карты с_<b>«Предсмертным хрипом»</b>.\n\t\t\tสุ่มเพิ่มการ์ด_<b>เสียงสุดท้าย</b> 2_ใบในมือคุณ\n\t\t\t随机将两张<b>亡语</b>牌置入你的\n手牌。\n\t\t\t放2張隨機\n<b>死亡之聲</b>牌到你的手中\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Violet Haze"
+            },
+            "koKR": {
+              "present": true,
+              "value": "보랏빛 연무"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tVioletter Dunst\n\t\t\tViolet Haze\n\t\t\tNeblina violeta\n\t\t\tNeblina violeta\n\t\t\tBrume violette\n\t\t\tFoschia Violacea\n\t\t\t紫の煙霧\n\t\t\t보랏빛 연무\n\t\t\tFioletowa mgła\n\t\t\tNévoa Violeta\n\t\t\tЛиловые пары\n\t\t\tหมอกควันสีม่วง\n\t\t\t紫色烟雾\n\t\t\t迷幻紫煙\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Add 2 random <b>Deathrattle</b> cards to_your hand."
+            },
+            "koKR": {
+              "present": true,
+              "value": "무작위 <b>죽음의_메아리</b> 카드 2장을 내 손으로 가져옵니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tErhaltet 2 zufällige <b>Todesröcheln</b>-Karten auf die Hand.\n\t\t\tAdd 2 random <b>Deathrattle</b> cards to_your hand.\n\t\t\t[x]Añade 2 cartas\ncon <b>Último aliento</b>\naleatorias a tu mano.\n\t\t\tAgrega 2 cartas con <b>Estertor</b> aleatorias a tu mano.\n\t\t\tAjoute 2_cartes aléatoires avec <b>Râle d’agonie</b> dans votre main.\n\t\t\tMette nella tua mano due carte con <b>Rantolo di Morte</b> casuali.\n\t\t\t[x]<b>断末魔</b>を持つ\nランダムなカード2枚を\n自分の手札に追加する。\n\t\t\t무작위 <b>죽음의_메아리</b> 카드 2장을 내 손으로 가져옵니다.\n\t\t\tDodaj dwie losowe karty z <b>Agonią</b> do twojej ręki.\n\t\t\tAdicione 2 cards aleatórios com <b>Último Suspiro</b> à sua mão.\n\t\t\tВы кладете в руку 2 случайные карты с_<b>«Предсмертным хрипом»</b>.\n\t\t\tสุ่มเพิ่มการ์ด_<b>เสียงสุดท้าย</b> 2_ใบในมือคุณ\n\t\t\t随机将两张<b>亡语</b>牌置入你的\n手牌。\n\t\t\t放2張隨機\n<b>死亡之聲</b>牌到你的手中\n\t\t"
+        }
+      }
+    }
+  },
+  "2021-03-26": {
+    "spellSchool": "SHADOW",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 1635,
+        "before": "ABSENT",
+        "after": "6"
+      }
+    ],
+    "source": {
+      "beforeBuild": 44222,
+      "afterBuild": 77662,
+      "beforeCommit": "fc67953f6f6eee064badde3f4a7bd07011508642",
+      "afterCommit": "9e10b526eed8a9c5ece2f73f0c2a6a3b60109d62",
+      "beforeXmlSha256": "abe292d304af3fec9d84707b8326cf4104e370b8fc93e8adfa2c1156988cfdf5",
+      "afterXmlSha256": "36879caf88f629052e57d728d1fb3649a21f7198f649ab1cdc916c72ab1b8e29",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Violet Haze"
+            },
+            "koKR": {
+              "present": true,
+              "value": "보랏빛 연무"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tVioletter Dunst\n\t\t\tViolet Haze\n\t\t\tNeblina violeta\n\t\t\tNeblina violeta\n\t\t\tBrume violette\n\t\t\tFoschia Violacea\n\t\t\t紫の煙霧\n\t\t\t보랏빛 연무\n\t\t\tFioletowa mgła\n\t\t\tNévoa Violeta\n\t\t\tЛиловые пары\n\t\t\tหมอกควันสีม่วง\n\t\t\t紫色烟雾\n\t\t\t迷幻紫煙\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Add 2 random <b>Deathrattle</b> cards to_your hand."
+            },
+            "koKR": {
+              "present": true,
+              "value": "무작위 <b>죽음의_메아리</b> 카드 2장을 내 손으로 가져옵니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tErhaltet 2 zufällige <b>Todesröcheln</b>-Karten auf die Hand.\n\t\t\tAdd 2 random <b>Deathrattle</b> cards to_your hand.\n\t\t\t[x]Añade 2 cartas\ncon <b>Último aliento</b>\naleatorias a tu mano.\n\t\t\tAgrega 2 cartas con <b>Estertor</b> aleatorias a tu mano.\n\t\t\tAjoute 2_cartes aléatoires avec <b>Râle d’agonie</b> dans votre main.\n\t\t\tMette nella tua mano due carte con <b>Rantolo di Morte</b> casuali.\n\t\t\t[x]<b>断末魔</b>を持つ\nランダムなカード2枚を\n自分の手札に追加する。\n\t\t\t무작위 <b>죽음의_메아리</b> 카드 2장을 내 손으로 가져옵니다.\n\t\t\tDodaj dwie losowe karty z <b>Agonią</b> do twojej ręki.\n\t\t\tAdicione 2 cards aleatórios com <b>Último Suspiro</b> à sua mão.\n\t\t\tВы кладете в руку 2 случайные карты с_<b>«Предсмертным хрипом»</b>.\n\t\t\tสุ่มเพิ่มการ์ด <b>เสียงสุดท้าย</b>_2_ใบ[b]ในมือคุณ\n\t\t\t随机将两张<b>亡语</b>牌置入你的\n手牌。\n\t\t\t放2張隨機\n<b>死亡之聲</b>牌到你的手中\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Violet Haze"
+            },
+            "koKR": {
+              "present": true,
+              "value": "보랏빛 연무"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tVioletter Dunst\n\t\t\tViolet Haze\n\t\t\tNeblina violeta\n\t\t\tNeblina violeta\n\t\t\tBrume violette\n\t\t\tFoschia Violacea\n\t\t\t紫の煙霧\n\t\t\t보랏빛 연무\n\t\t\tFioletowa mgła\n\t\t\tNévoa Violeta\n\t\t\tЛиловые пары\n\t\t\tหมอกควันสีม่วง\n\t\t\t紫色烟雾\n\t\t\t迷幻紫煙\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Add 2 random <b>Deathrattle</b> cards to_your hand."
+            },
+            "koKR": {
+              "present": true,
+              "value": "무작위 <b>죽음의_메아리</b> 카드 2장을 내 손으로 가져옵니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tErhaltet 2 zufällige <b>Todesröcheln</b>-Karten auf die Hand.\n\t\t\tAdd 2 random <b>Deathrattle</b> cards to_your hand.\n\t\t\t[x]Añade 2 cartas\ncon <b>Último aliento</b>\naleatorias a tu mano.\n\t\t\tAgrega 2 cartas con <b>Estertor</b> aleatorias a tu mano.\n\t\t\tAjoute 2_cartes aléatoires avec <b>Râle d’agonie</b> dans votre main.\n\t\t\tMette nella tua mano due carte con <b>Rantolo di Morte</b> casuali.\n\t\t\t[x]<b>断末魔</b>を持つ\nランダムなカード2枚を\n自分の手札に追加する。\n\t\t\t무작위 <b>죽음의_메아리</b> 카드 2장을 내 손으로 가져옵니다.\n\t\t\tDodaj dwie losowe karty z <b>Agonią</b> do twojej ręki.\n\t\t\tAdicione 2 cards aleatórios com <b>Último Suspiro</b> à sua mão.\n\t\t\tВы кладете в руку 2 случайные карты с_<b>«Предсмертным хрипом»</b>.\n\t\t\tสุ่มเพิ่มการ์ด <b>เสียงสุดท้าย</b>_2_ใบ[b]ในมือคุณ\n\t\t\t随机将两张<b>亡语</b>牌置入你的\n手牌。\n\t\t\t放2張隨機\n<b>死亡之聲</b>牌到你的手中\n\t\t"
+        }
+      }
+    }
+  }
+}

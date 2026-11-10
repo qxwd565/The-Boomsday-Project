@@ -1,1 +1,558 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_568","dbfId":49423,"name":"영혼관","type":"SPELL","cardClass":"WARLOCK","rarity":"LEGENDARY","collectible":true,"cost":2,"text":"카드를 3장 뽑습니다.<br></br>그 카드들은 <b>일시적</b>입니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"어차피 영혼은 일회용이니까요.","spellSchool":"SHADOW","portrait":"HS14-153_S.psd:78c2289de8c7deb4a919b1471a621243","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":6},{"id":3630,"name":"게임 태그 3630","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_568.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-153_S.psd:78c2289de8c7deb4a919b1471a621243","goldenMaterial":"BOT_568_PremiumCard.mat:a3731c345fbdaef4db537b7bed51461a","goldenAnimation":"BOT_568_PremiumCard.asset:d77c5c82c00688d469eb68c770fa9dcf"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-153_S.psd:78c2289de8c7deb4a919b1471a621243",
+      "goldenMaterial": "BOT_568_PremiumCard.mat:a3731c345fbdaef4db537b7bed51461a",
+      "goldenAnimation": "BOT_568_PremiumCard.asset:d77c5c82c00688d469eb68c770fa9dcf"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "The Soularium"
+          },
+          "koKR": {
+            "present": true,
+            "value": "영혼관"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tSeelenmaschine\n\t\t\tThe Soularium\n\t\t\tEl Alma-cén\n\t\t\tVertedero de almas\n\t\t\tLe séjour des âmes\n\t\t\tL'Animario\n\t\t\t魂箱\n\t\t\t영혼관\n\t\t\tDuszarium\n\t\t\tLampiânima\n\t\t\tДушеворот\n\t\t\tโซลลาเรียม\n\t\t\t莫瑞甘的灵界\n\t\t\t靈魂收藏器\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Draw 3 cards.\nAt the end of your turn, discard them."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]카드를 3장 뽑습니다.\n내 턴이 끝날 때,\n그 카드들을 버립니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tZieht 3 Karten.\nWerft sie am Ende Eures Zuges ab.\n\t\t\tDraw 3 cards.\nAt the end of your turn, discard them.\n\t\t\tRoba 3 cartas.\nAl final de tu turno,\nse descartan si no\nlas has jugado.\n\t\t\tRoba 3 cartas. Al final de tu turno, descártalas.\n\t\t\tVous piochez 3_cartes. À la fin de votre tour, vous vous en défaussez.\n\t\t\tPesca 3 carte. Alla fine del tuo turno, scartale.\n\t\t\t[x]カードを3枚引く。\n自分のターンの終了時\nそれらのカードを\n破棄する。\n\t\t\t[x]카드를 3장 뽑습니다.\n내 턴이 끝날 때,\n그 카드들을 버립니다.\n\t\t\tDobierz 3 karty. Na_koniec twojej tury odrzuć je.\n\t\t\tCompre 3 cards. No final do seu turno, descarte-os.\n\t\t\tВы берете 3 карты. В_конце вашего хода вы их сбрасываете.\n\t\t\tจั่วการ์ด 3 ใบ ทิ้งการ์ดเหล่านั้น[b]เมื่อจบเทิร์นของคุณ\n\t\t\t抽三张牌。在你的回合结束时，弃掉它们。\n\t\t\t抽3張牌。在你的回合結束時，捨棄它們\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "The Soularium"
+          },
+          "koKR": {
+            "present": true,
+            "value": "영혼관"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tSeelenmaschine\n\t\tThe Soularium\n\t\tEl Alma-cén\n\t\tVertedero de almas\n\t\tLe séjour des âmes\n\t\tL'Animario\n\t\t魂箱\n\t\t영혼관\n\t\tDuszarium\n\t\tLampiânima\n\t\tДушеворот\n\t\tโซลลาเรียม\n\t\t莫瑞甘的灵界\n\t\t靈魂收藏器\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Draw 3 cards.\nThey are <b>Temporary</b>."
+          },
+          "koKR": {
+            "present": true,
+            "value": "[x]카드를 3장 뽑습니다.\n그 카드들은 <b>일시적</b>입니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tZieht 3_Karten.\nSie sind <b>temporär</b>.\n\t\tDraw 3 cards.\nThey are <b>Temporary</b>.\n\t\tRoba 3 cartas <b>Temporales</b>.\n\t\tRoba 3 cartas. Son_<b>temporales</b>.\n\t\tVous piochez 3_cartes. Elles_sont_<b>temporaires</b>.\n\t\tPesca 3 carte. Sono <b>Temporanee</b>.\n\t\t[x]カードを3枚引く。\nそれらは<b>一時的</b>。\n\t\t[x]카드를 3장 뽑습니다.\n그 카드들은 <b>일시적</b>입니다.\n\t\tDobierz 3 karty. Są_<b>Tymczasowe</b>.\n\t\tCompre 3 cards.\nEles são <b>temporários</b>.\n\t\t[x]Вы берете 3 карты. Они\nстановятся <b>временными</b>.\n\t\tจั่วการ์ด 3_ใบ พวกมันเป็นการ์ด <b>ชั่วคราว</b>\n\t\t抽三张牌。这些牌为<b>临时</b>牌。\n\t\t抽3張牌。這些牌皆為<b>暫時</b>的\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_568",
+    "dbfId": 49423,
+    "name": "영혼관",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 2,
+    "text": "카드를 3장 뽑습니다.<br></br>그 카드들은 <b>일시적</b>입니다.",
+    "flavor": "어차피 영혼은 일회용이니까요.",
+    "spellSchool": "SHADOW",
+    "portrait": "HS14-153_S.psd:78c2289de8c7deb4a919b1471a621243",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      },
+      {
+        "id": 3630,
+        "name": "게임 태그 3630",
+        "value": 1
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_568.png",
+    "nativeRawText": "[x]카드를 3장 뽑습니다.\n그 카드들은 <b>일시적</b>입니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "2",
+      "114": "1",
+      "183": "1127",
+      "199": "9",
+      "202": "5",
+      "203": "5",
+      "321": "1",
+      "1635": "6"
+    },
+    "nativeTagsReferenced": {
+      "3630": "1"
+    }
+  },
+  "2018-08-08": {
+    "id": "BOT_568",
+    "dbfId": 49423,
+    "name": "영혼관",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 1,
+    "text": "카드를 3장 뽑습니다.<br></br>내 턴이 끝날 때,<br></br>그 카드들을 버립니다.",
+    "flavor": "어차피 영혼은 일회용이니까요.",
+    "spellSchool": "",
+    "portrait": "HS14-153_S.psd:78c2289de8c7deb4a919b1471a621243",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_568.png",
+    "nativeRawText": "[x]카드를 3장 뽑습니다.\n내 턴이 끝날 때,\n그 카드들을 버립니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "1",
+      "114": "1",
+      "183": "1127",
+      "199": "9",
+      "202": "5",
+      "203": "5",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  },
+  "2021-03-26": {
+    "spellSchool": "SHADOW",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 1635,
+        "before": "ABSENT",
+        "after": "6"
+      }
+    ],
+    "source": {
+      "beforeBuild": 44222,
+      "afterBuild": 77662,
+      "beforeCommit": "fc67953f6f6eee064badde3f4a7bd07011508642",
+      "afterCommit": "9e10b526eed8a9c5ece2f73f0c2a6a3b60109d62",
+      "beforeXmlSha256": "abe292d304af3fec9d84707b8326cf4104e370b8fc93e8adfa2c1156988cfdf5",
+      "afterXmlSha256": "36879caf88f629052e57d728d1fb3649a21f7198f649ab1cdc916c72ab1b8e29",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "The Soularium"
+            },
+            "koKR": {
+              "present": true,
+              "value": "영혼관"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tSeelenmaschine\n\t\t\tThe Soularium\n\t\t\tEl Alma-cén\n\t\t\tVertedero de almas\n\t\t\tLe séjour des âmes\n\t\t\tL'Animario\n\t\t\t魂箱\n\t\t\t영혼관\n\t\t\tDuszarium\n\t\t\tLampiânima\n\t\t\tДушеворот\n\t\t\tโซลลาเรียม\n\t\t\t莫瑞甘的灵界\n\t\t\t靈魂收藏器\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Draw 3 cards.\nAt the end of your turn, discard them."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]카드를 3장 뽑습니다.\n내 턴이 끝날 때,\n그 카드들을 버립니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tZieht 3 Karten.\nWerft sie am Ende Eures Zuges ab.\n\t\t\tDraw 3 cards.\nAt the end of your turn, discard them.\n\t\t\tRoba 3 cartas.\nAl final de tu turno,\nse descartan si no\nlas has jugado.\n\t\t\tRoba 3 cartas. Al final de tu turno, descártalas.\n\t\t\tVous piochez 3_cartes. À la fin de votre tour, vous vous en défaussez.\n\t\t\tPesca 3 carte. Alla fine del tuo turno, scartale.\n\t\t\t[x]カードを3枚引く。\n自分のターンの終了時\nそれらのカードを\n破棄する。\n\t\t\t[x]카드를 3장 뽑습니다.\n내 턴이 끝날 때,\n그 카드들을 버립니다.\n\t\t\tDobierz 3 karty. Na_koniec twojej tury odrzuć je.\n\t\t\tCompre 3 cards. No final do seu turno, descarte-os.\n\t\t\tВы берете 3 карты. В_конце вашего хода вы их сбрасываете.\n\t\t\tจั่วการ์ด 3 ใบ ทิ้งการ์ดเหล่านั้น[b]เมื่อจบเทิร์นของคุณ\n\t\t\t抽三张牌。在你的回合结束时，弃掉它们。\n\t\t\t抽3張牌。在你的回合結束時，捨棄它們\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "The Soularium"
+            },
+            "koKR": {
+              "present": true,
+              "value": "영혼관"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tSeelenmaschine\n\t\t\tThe Soularium\n\t\t\tEl Alma-cén\n\t\t\tVertedero de almas\n\t\t\tLe séjour des âmes\n\t\t\tL'Animario\n\t\t\t魂箱\n\t\t\t영혼관\n\t\t\tDuszarium\n\t\t\tLampiânima\n\t\t\tДушеворот\n\t\t\tโซลลาเรียม\n\t\t\t莫瑞甘的灵界\n\t\t\t靈魂收藏器\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Draw 3 cards.\nAt the end of your turn, discard them."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]카드를 3장 뽑습니다.\n내 턴이 끝날 때,\n그 카드들을 버립니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tZieht 3 Karten.\nWerft sie am Ende Eures Zuges ab.\n\t\t\tDraw 3 cards.\nAt the end of your turn, discard them.\n\t\t\tRoba 3 cartas.\nAl final de tu turno,\nse descartan si no\nlas has jugado.\n\t\t\tRoba 3 cartas. Al final de tu turno, descártalas.\n\t\t\tVous piochez 3_cartes. À la fin de votre tour, vous vous en défaussez.\n\t\t\tPesca 3 carte. Alla fine del tuo turno, scartale.\n\t\t\t[x]カードを3枚引く。\n自分のターンの終了時\nそれらのカードを\n破棄する。\n\t\t\t[x]카드를 3장 뽑습니다.\n내 턴이 끝날 때,\n그 카드들을 버립니다.\n\t\t\tDobierz 3 karty. Na_koniec twojej tury odrzuć je.\n\t\t\tCompre 3 cards. No final do seu turno, descarte-os.\n\t\t\tВы берете 3 карты. В_конце вашего хода вы их сбрасываете.\n\t\t\tจั่วการ์ด 3 ใบ ทิ้งการ์ดเหล่านั้น[b]เมื่อจบเทิร์นของคุณ\n\t\t\t抽三张牌。在你的回合结束时，弃掉它们。\n\t\t\t抽3張牌。在你的回合結束時，捨棄它們\n\t\t"
+        }
+      }
+    }
+  },
+  "2026-07-22": {
+    "cost": 2,
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "rawTagDelta": [
+      {
+        "role": "owned",
+        "id": 48,
+        "before": "1",
+        "after": "2"
+      }
+    ],
+    "source": {
+      "beforeBuild": 237510,
+      "afterBuild": 247416,
+      "beforeCommit": "a770d899b7ea12594f2edfc7d097f6ee0a858eb8",
+      "afterCommit": "cc80e8aa220f39632c9c742f8587265f7569c5ef",
+      "beforeXmlSha256": "a86b5126943a91ceb1e18decca646ce533f0a06c3fec34e12dc11f45e602c3e6",
+      "afterXmlSha256": "a3b0e3dcd112626aa47ba16ede1b26506eed175b1fda288c1b6952065c06aac4",
+      "beforeStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "The Soularium"
+            },
+            "koKR": {
+              "present": true,
+              "value": "영혼관"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tSeelenmaschine\n\t\t\tThe Soularium\n\t\t\tEl Alma-cén\n\t\t\tVertedero de almas\n\t\t\tLe séjour des âmes\n\t\t\tL'Animario\n\t\t\t魂箱\n\t\t\t영혼관\n\t\t\tDuszarium\n\t\t\tLampiânima\n\t\t\tДушеворот\n\t\t\tโซลลาเรียม\n\t\t\t莫瑞甘的灵界\n\t\t\t靈魂收藏器\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Draw 3 cards.\nThey are <b>Temporary</b>."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]카드를 3장 뽑습니다.\n그 카드들은 <b>일시적</b>입니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tZieht 3_Karten.\nSie sind <b>temporär</b>.\n\t\t\tDraw 3 cards.\nThey are <b>Temporary</b>.\n\t\t\tRoba 3 cartas <b>Temporales</b>.\n\t\t\tRoba 3 cartas. Son_<b>temporales</b>.\n\t\t\tVous piochez 3_cartes. Elles_sont_<b>temporaires</b>.\n\t\t\tPesca 3 carte. Sono <b>Temporanee</b>.\n\t\t\t[x]カードを3枚引く。\nそれらは<b>一時的</b>。\n\t\t\t[x]카드를 3장 뽑습니다.\n그 카드들은 <b>일시적</b>입니다.\n\t\t\tDobierz 3 karty. Są_<b>Tymczasowe</b>.\n\t\t\tCompre 3 cards.\nEles são <b>temporários</b>.\n\t\t\t[x]Вы берете 3 карты. Они\nстановятся <b>временными</b>.\n\t\t\tจั่วการ์ด 3_ใบ พวกมันเป็นการ์ด <b>ชั่วคราว</b>\n\t\t\t抽三张牌。这些牌为<b>临时</b>牌。\n\t\t\t抽3張牌。這些牌皆為<b>暫時</b>的\n\t\t"
+        }
+      },
+      "afterStrings": {
+        "185": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "The Soularium"
+            },
+            "koKR": {
+              "present": true,
+              "value": "영혼관"
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tSeelenmaschine\n\t\t\tThe Soularium\n\t\t\tEl Alma-cén\n\t\t\tVertedero de almas\n\t\t\tLe séjour des âmes\n\t\t\tL'Animario\n\t\t\t魂箱\n\t\t\t영혼관\n\t\t\tDuszarium\n\t\t\tLampiânima\n\t\t\tДушеворот\n\t\t\tโซลลาเรียม\n\t\t\t莫瑞甘的灵界\n\t\t\t靈魂收藏器\n\t\t"
+        },
+        "184": {
+          "present": true,
+          "locales": {
+            "enUS": {
+              "present": true,
+              "value": "Draw 3 cards.\nThey are <b>Temporary</b>."
+            },
+            "koKR": {
+              "present": true,
+              "value": "[x]카드를 3장 뽑습니다.\n그 카드들은 <b>일시적</b>입니다."
+            }
+          },
+          "valueAttributePresent": false,
+          "valueAttribute": null,
+          "textContent": "\n\t\t\tZieht 3_Karten.\nSie sind <b>temporär</b>.\n\t\t\tDraw 3 cards.\nThey are <b>Temporary</b>.\n\t\t\tRoba 3 cartas <b>Temporales</b>.\n\t\t\tRoba 3 cartas. Son_<b>temporales</b>.\n\t\t\tVous piochez 3_cartes. Elles_sont_<b>temporaires</b>.\n\t\t\tPesca 3 carte. Sono <b>Temporanee</b>.\n\t\t\t[x]カードを3枚引く。\nそれらは<b>一時的</b>。\n\t\t\t[x]카드를 3장 뽑습니다.\n그 카드들은 <b>일시적</b>입니다.\n\t\t\tDobierz 3 karty. Są_<b>Tymczasowe</b>.\n\t\t\tCompre 3 cards.\nEles são <b>temporários</b>.\n\t\t\t[x]Вы берете 3 карты. Они\nстановятся <b>временными</b>.\n\t\t\tจั่วการ์ด 3_ใบ พวกมันเป็นการ์ด <b>ชั่วคราว</b>\n\t\t\t抽三张牌。这些牌为<b>临时</b>牌。\n\t\t\t抽3張牌。這些牌皆為<b>暫時</b>的\n\t\t"
+        }
+      }
+    }
+  }
+}

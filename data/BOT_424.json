@@ -1,1 +1,315 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_424","dbfId":48625,"name":"메카툰","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":10,"text":"<b>죽음의 메아리:</b> 내 덱과 손과 전장에 카드가 없으면, 적 영웅을 파괴합니다.","attack":10,"health":10,"durability":0,"armor":0,"flavor":"\"그 판단 때문에 네 하드는 터지리라. 네 유저들은 널 버릴 것이다. 넌 이미 삭제된 목숨이다.\"","spellSchool":"","portrait":"HS14-192_M.psd:4474bca4d0a81d644afbdeeec905180f","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":10},{"id":47,"name":"공격력","value":10},{"id":48,"name":"마나 비용","value":10},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":17},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0}],"races":["MECHANICAL"],"race":"기계","classes":[],"art":"art/BOT_424.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-192_M.psd:4474bca4d0a81d644afbdeeec905180f","goldenMaterial":"BOT_424_PremiumCard.mat:26421e5083d3d8d4c959546dfc3a94e8","goldenAnimation":"BOT_424_PremiumCard.asset:91d6a9e88b9e7ce4abb50e9cc2bda4b6"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-192_M.psd:4474bca4d0a81d644afbdeeec905180f",
+      "goldenMaterial": "BOT_424_PremiumCard.mat:26421e5083d3d8d4c959546dfc3a94e8",
+      "goldenAnimation": "BOT_424_PremiumCard.asset:91d6a9e88b9e7ce4abb50e9cc2bda4b6"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Mecha'thun"
+          },
+          "koKR": {
+            "present": true,
+            "value": "메카툰"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tMecha'thun\n\t\t\tMecha'thun\n\t\t\tMeca'thun\n\t\t\tMeca'thun\n\t\t\tMéc’Thun\n\t\t\tRobo'thun\n\t\t\tメックトゥーン\n\t\t\t메카툰\n\t\t\tMecha'thun\n\t\t\tMeca'thun\n\t\t\tМеха-К'Тун\n\t\t\tเมคาธูน\n\t\t\t机械克苏恩\n\t\t\t機神克蘇恩\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Deathrattle:</b> If you have no\ncards in your deck, hand,\nand battlefield, destroy\nthe enemy hero."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b> 내 덱과 손과 전장에 카드가 하나도 없으면, 적 영웅을 파괴합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t[x]<b>Todesröcheln:</b> Vernichtet den\nfeindlichen Helden, wenn Ihr im\nDeck, auf der Hand und auf\ndem Schlachtfeld keine\nKarten habt.\n\t\t\t[x]<b>Deathrattle:</b> If you have no\ncards in your deck, hand,\nand battlefield, destroy\nthe enemy hero.\n\t\t\t[x]<b>Último aliento:</b> Si no tienes\ncartas en tu mazo, en tu mano,\nni en el campo de batalla,\n   destruye al héroe enemigo.\n\t\t\t<b>Estertor:</b> si no tienes cartas en tu mazo, en tu mano ni en el campo de batalla, destruye al héroe enemigo.\n\t\t\t<b>Râle d’agonie_:</b> si vous n’avez plus de cartes dans votre deck, votre main et sur le champ de bataille, détruit le héros adverse.\n\t\t\t[x]<b>Rantolo di Morte:</b> se non\ncontrolli servitori e non hai\ncarte nel tuo mazzo o in mano,\ndistrugge l'eroe nemico.\n\t\t\t[x]<b>断末魔:</b>\n自分のデッキ、手札、陣地に\nカードがない場合\n_____敵のヒーローを破壊する。\n\t\t\t<b>죽음의 메아리:</b> 내 덱과 손과 전장에 카드가 하나도 없으면, 적 영웅을 파괴합니다.\n\t\t\t<b>Agonia:</b> Jeśli nie masz\nkart w talii, w ręce\ni na polu bitwy, zniszcz wrogiego bohatera.\n\t\t\t<b>Último Suspiro:</b> Se não tiver cards no seu deck, na sua mão e no campo de batalha, destrua o herói inimigo.\n\t\t\t[x]<b>Предсмертный хрип:</b> если\nу вас не осталось карт в колоде,\nв руке и в игре, уничтожает\nгероя противника.\n\t\t\t<b>เสียงสุดท้าย:</b> ถ้าคุณ[b]ไม่มีการ์ดในเด็ค บนมือ_และ ในสนาม_ทำลายฮีโร่ศัตรู\n\t\t\t<b>亡语：</b>\n如果你的牌库、手牌和战场没有任何牌，消灭敌方英雄。\n\t\t\t[x]<b>死亡之聲：</b>若你\n牌堆、手中和戰場上\n沒有任何卡牌，摧毀\n敵方英雄\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Mecha'thun"
+          },
+          "koKR": {
+            "present": true,
+            "value": "메카툰"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tMecha’thun\n\t\tMecha'thun\n\t\tMeca'thun\n\t\tMeca'thun\n\t\tMéc’Thun\n\t\tRobo'thun\n\t\tメックトゥーン\n\t\t메카툰\n\t\tMecha'thun\n\t\tMeca'thun\n\t\tМеха-К'Тун\n\t\tเมคาธูน\n\t\t机械克苏恩\n\t\t機神克蘇恩\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "[x]<b>Deathrattle:</b> If you have no\ncards in your deck, hand,\nand battlefield, destroy\nthe enemy hero."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>죽음의 메아리:</b> 내 덱과 손과 전장에 카드가 없으면, 적 영웅을 파괴합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t[x]<b>Todesröcheln:</b> Vernichtet den\nfeindlichen Helden, wenn Ihr im\nDeck, auf der Hand und auf\ndem Schlachtfeld keine\nKarten habt.\n\t\t[x]<b>Deathrattle:</b> If you have no\ncards in your deck, hand,\nand battlefield, destroy\nthe enemy hero.\n\t\t[x]<b>Último aliento:</b> Si no tienes\ncartas en tu mazo, en tu mano,\nni en el campo de batalla,\n   destruye al héroe enemigo.\n\t\t<b>Estertor:</b> si no tienes cartas en tu mazo, en tu mano ni en el campo de batalla, destruye al héroe enemigo.\n\t\t<b>Râle d’agonie_:</b> si vous n’avez plus de cartes dans votre deck, votre main et sur le champ de bataille, détruit le héros adverse.\n\t\t[x]<b>Rantolo di Morte:</b> se non hai\ncarte nel tuo mazzo, in mano\ne sul campo, distrugge\nl'eroe nemico.\n\t\t[x]<b>断末魔:</b>\n自分のデッキ、手札、陣地に\nカードがない場合\n_____敵のヒーローを破壊する。\n\t\t<b>죽음의 메아리:</b> 내 덱과 손과 전장에 카드가 없으면, 적 영웅을 파괴합니다.\n\t\t<b>Agonia:</b> Jeśli nie masz\nkart w talii, w ręce\ni na polu bitwy, zniszcz wrogiego bohatera.\n\t\t<b>Último Suspiro:</b> Se você não tiver cards no deck, na mão e no campo de batalha, destrua o herói inimigo.\n\t\t[x]<b>Предсмертный хрип:</b> если\nу вас не осталось карт в колоде,\nв руке и в игре, уничтожает\nгероя противника.\n\t\t<b>เสียงสุดท้าย:</b> ถ้าคุณ[b]ไม่มีการ์ดในเด็ค บนมือ_และ ในสนาม_ทำลายฮีโร่ศัตรู\n\t\t<b>亡语：</b>\n如果你的牌库、手牌和战场没有任何牌，消灭敌方英雄。\n\t\t[x]<b>死亡之聲：</b>若你\n牌堆、手中和戰場上\n沒有任何卡牌，摧毀\n敵方英雄\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_424",
+    "dbfId": 48625,
+    "name": "메카툰",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 10,
+    "text": "<b>죽음의 메아리:</b> 내 덱과 손과 전장에 카드가 없으면, 적 영웅을 파괴합니다.",
+    "attack": 10,
+    "health": 10,
+    "flavor": "\"그 판단 때문에 네 하드는 터지리라. 네 유저들은 널 버릴 것이다. 넌 이미 삭제된 목숨이다.\"",
+    "portrait": "HS14-192_M.psd:4474bca4d0a81d644afbdeeec905180f",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 10
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 10
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 10
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_424.png",
+    "nativeRawText": "<b>죽음의 메아리:</b> 내 덱과 손과 전장에 카드가 없으면, 적 영웅을 파괴합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "10",
+      "47": "10",
+      "48": "10",
+      "114": "1",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "202": "4",
+      "203": "5",
+      "217": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_424",
+    "dbfId": 48625,
+    "name": "메카툰",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 10,
+    "text": "<b>죽음의 메아리:</b> 내 덱과 손과 전장에 카드가 하나도 없으면, 적 영웅을 파괴합니다.",
+    "attack": 10,
+    "health": 10,
+    "flavor": "\"그 판단 때문에 네 하드는 터지리라. 네 유저들은 널 버릴 것이다. 넌 이미 삭제된 목숨이다.\"",
+    "portrait": "HS14-192_M.psd:4474bca4d0a81d644afbdeeec905180f",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 10
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 10
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 10
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 17
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [
+      "MECHANICAL"
+    ],
+    "race": "기계",
+    "classes": [],
+    "art": "art/BOT_424.png",
+    "nativeRawText": "<b>죽음의 메아리:</b> 내 덱과 손과 전장에 카드가 하나도 없으면, 적 영웅을 파괴합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "10",
+      "47": "10",
+      "48": "10",
+      "114": "1",
+      "183": "1127",
+      "199": "12",
+      "200": "17",
+      "202": "4",
+      "203": "5",
+      "217": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

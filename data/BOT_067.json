@@ -1,1 +1,264 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_067","dbfId":47925,"name":"로켓 장화","type":"SPELL","cardClass":"WARRIOR","rarity":"COMMON","collectible":true,"cost":2,"text":"하수인에게 <b>속공</b>을 부여합니다. 카드를 뽑습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"발바닥에 불나도록!","spellSchool":"","portrait":"HS14-110_S.psd:a20cf29170d0f9b458411ac83091493a","set":"BOOMSDAY","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":791,"name":"속공","value":1}],"races":[],"race":"","classes":[],"art":"art/BOT_067.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-110_S.psd:a20cf29170d0f9b458411ac83091493a","goldenMaterial":"BOT_067_PremiumCard.mat:6978f7008cea02d44aa95c793b64c4d4","goldenAnimation":"BOT_067_PremiumCard.asset:1d1f32862ddaf4f4c92c265737861e86"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-110_S.psd:a20cf29170d0f9b458411ac83091493a",
+      "goldenMaterial": "BOT_067_PremiumCard.mat:6978f7008cea02d44aa95c793b64c4d4",
+      "goldenAnimation": "BOT_067_PremiumCard.asset:1d1f32862ddaf4f4c92c265737861e86"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Rocket Boots"
+          },
+          "koKR": {
+            "present": true,
+            "value": "로켓 장화"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tRaketenstiefel\n\t\t\tRocket Boots\n\t\t\tBotas cohete\n\t\t\tBotas cohete\n\t\t\tBottes-fusées\n\t\t\tStivali Razzo\n\t\t\tロケットブーツ\n\t\t\t로켓 장화\n\t\t\tRakietowe buty\n\t\t\tBotas-Foguete\n\t\t\tРеактивные сапоги\n\t\t\tรองเท้าติดจรวด\n\t\t\t火箭靴\n\t\t\t火箭靴\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Give a minion <b>Rush</b>. Draw a card."
+          },
+          "koKR": {
+            "present": true,
+            "value": "하수인 하나에게 <b>속공</b>을 부여합니다. 카드를 1장 뽑습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tVerleiht einem Diener <b>Eifer</b>. Zieht eine Karte.\n\t\t\tGive a minion <b>Rush</b>. Draw a card.\n\t\t\t[x]Otorga <b>Embestir</b>\na un esbirro amistoso.\nRoba una carta.\n\t\t\tOtorga <b>Acometida</b>\na un esbirro.\nRoba una carta.\n\t\t\tConfère <b>Ruée</b> à\nun serviteur. Vous\npiochez une carte.\n\t\t\t[x]Fornisce <b>Assalto</b>\na un servitore.\nPesca una carta.\n\t\t\t[x]ミニオン1体に_\n__<b>急襲</b>を付与する。\n__カードを1枚引く。\n\t\t\t하수인 하나에게 <b>속공</b>을 부여합니다. 카드를 1장 뽑습니다.\n\t\t\tDaj stronnikowi <b>Zryw</b>.\nDobierz kartę.\n\t\t\tConceda \n<b>Rapidez</b> a um lacaio. Compre um card.\n\t\t\tВыбранное существо получает <b>«Натиск»</b>. Вы берете карту.\n\t\t\tมอบ <b>จู่โจม</b> ให้มินเนี่ยนหนึ่งตัว จั่วการ์ดหนึ่งใบ\n\t\t\t使一个随从获得<b>突袭</b>。抽\n一张牌。\n\t\t\t賦予一個手下<b>衝刺</b>。抽一張牌\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Rocket Boots"
+          },
+          "koKR": {
+            "present": true,
+            "value": "로켓 장화"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tRaketenstiefel\n\t\tRocket Boots\n\t\tBotas cohete\n\t\tBotas cohete\n\t\tBottes-fusées\n\t\tStivali Razzo\n\t\tロケットブーツ\n\t\t로켓 장화\n\t\tRakietowe buty\n\t\tBotas-Foguete\n\t\tРеактивные сапоги\n\t\tรองเท้าติดจรวด\n\t\t火箭靴\n\t\t火箭靴\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Give a minion <b>Rush</b>. Draw a card."
+          },
+          "koKR": {
+            "present": true,
+            "value": "하수인에게 <b>속공</b>을 부여합니다. 카드를 뽑습니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tVerleiht einem Diener <b>Eifer</b>. Zieht eine Karte.\n\t\tGive a minion <b>Rush</b>. Draw a card.\n\t\t[x]Otorga <b>Embestir</b>\na un esbirro.\nRoba una carta.\n\t\tOtorga <b>Acometida</b>\na un esbirro.\nRoba una carta.\n\t\tConfère <b>Ruée</b> à\nun serviteur. Vous\npiochez une carte.\n\t\t[x]Fornisce <b>Assalto</b>\na un servitore.\nPesca una carta.\n\t\t[x]ミニオン1体に_\n__<b>急襲</b>を付与する。\n__カードを1枚引く。\n\t\t하수인에게 <b>속공</b>을 부여합니다. 카드를 뽑습니다.\n\t\tDaj stronnikowi <b>Zryw</b>.\nDobierz kartę.\n\t\tConceda \n<b>Rapidez</b> a um lacaio. Compre um card.\n\t\tСущество получает <b>«Натиск»</b>. Вы берете карту.\n\t\tมอบ <b>จู่โจม</b> ให้มินเนี่ยนหนึ่งตัว จั่วการ์ดหนึ่งใบ\n\t\t使一个随从获得<b>突袭</b>。抽\n一张牌。\n\t\t賦予一個手下<b>衝刺</b>。抽一張牌\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_067",
+    "dbfId": 47925,
+    "name": "로켓 장화",
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "하수인에게 <b>속공</b>을 부여합니다. 카드를 뽑습니다.",
+    "flavor": "발바닥에 불나도록!",
+    "spellSchool": "",
+    "portrait": "HS14-110_S.psd:a20cf29170d0f9b458411ac83091493a",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_067.png",
+    "nativeRawText": "하수인에게 <b>속공</b>을 부여합니다. 카드를 뽑습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "2",
+      "183": "1127",
+      "199": "10",
+      "202": "5",
+      "203": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {
+      "791": "1"
+    }
+  },
+  "2018-08-08": {
+    "id": "BOT_067",
+    "dbfId": 47925,
+    "name": "로켓 장화",
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "하수인 하나에게 <b>속공</b>을 부여합니다. 카드를 1장 뽑습니다.",
+    "flavor": "발바닥에 불나도록!",
+    "spellSchool": "",
+    "portrait": "HS14-110_S.psd:a20cf29170d0f9b458411ac83091493a",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "classes": [],
+    "art": "art/BOT_067.png",
+    "nativeRawText": "하수인 하나에게 <b>속공</b>을 부여합니다. 카드를 1장 뽑습니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "48": "2",
+      "183": "1127",
+      "199": "10",
+      "202": "5",
+      "203": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {
+      "791": "1"
+    },
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}

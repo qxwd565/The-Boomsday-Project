@@ -1,1 +1,326 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"BOT_224","dbfId":48116,"name":"복제하는 임프","type":"MINION","cardClass":"WARLOCK","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>전투의 함성:</b> 이 하수인을 복사하여 소환합니다.","attack":2,"health":2,"durability":0,"armor":0,"flavor":"연구실에서 임프 두 마리를 발견하는 것보다 최악인 상황은 뭘까요? 둘 중 하나만 발견하는 것입니다.","spellSchool":"","portrait":"HS14-018_M.psd:ac552980ea68cea4c99d7c2712067de9","set":"BOOMSDAY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":9},{"id":200,"name":"종족","value":15},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":1965,"name":"임프","value":1}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/BOT_224.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS14-018_M.psd:ac552980ea68cea4c99d7c2712067de9","goldenMaterial":"BOT_224_PremiumCard.mat:a500cedb91eaa6446be3be6356af00ba","goldenAnimation":"BOT_224_PremiumCard.asset:b2ea3f50da0b30d4c8fe5ed8da8bcf30"}}
+{
+  "_meta": {
+    "schemaVersion": 2,
+    "mode": "constructed",
+    "artworkProvenance": {
+      "source": "installed Hearthstone native assets",
+      "portrait": "HS14-018_M.psd:ac552980ea68cea4c99d7c2712067de9",
+      "goldenMaterial": "BOT_224_PremiumCard.mat:a500cedb91eaa6446be3be6356af00ba",
+      "goldenAnimation": "BOT_224_PremiumCard.asset:b2ea3f50da0b30d4c8fe5ed8da8bcf30"
+    },
+    "launchStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Doubling Imp"
+          },
+          "koKR": {
+            "present": true,
+            "value": "복제하는 임프"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\tDoppelwichtel\n\t\t\tDoubling Imp\n\t\t\tDiablillo duplicador\n\t\t\tDiablillo duplicador\n\t\t\tDiablotin double\n\t\t\tImp Duplicante\n\t\t\tドッペルインプ\n\t\t\t복제하는 임프\n\t\t\tChochlik duplikator\n\t\t\tDiabrete Duplicado\n\t\t\tДвоящийся бес\n\t\t\tอิมพ์สองร่าง\n\t\t\t双生小鬼\n\t\t\t殘影小鬼\n\t\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Summon a copy of this minion."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b> 이 하수인을 복사하여 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t\t<b>Kampfschrei:</b> Ruft eine Kopie dieses Dieners herbei.\n\t\t\t<b>Battlecry:</b> Summon a copy of this minion.\n\t\t\t<b>Grito de batalla:</b>\nInvoca una copia\nde este esbirro.\n\t\t\t<b>Grito de batalla:</b> invoca una copia de este esbirro.\n\t\t\t<b>Cri de guerre_:</b> invoque une copie de ce serviteur.\n\t\t\t[x]<b>Grido di Battaglia:</b>\nevoca una copia\ndi se stesso.\n\t\t\t[x]<b>雄叫び:</b>\nこのミニオンのコピーを\n1体召喚する。\n\t\t\t<b>전투의 함성:</b> 이 하수인을 복사하여 소환합니다.\n\t\t\t<b>Okrzyk bojowy:</b> Przyzwij kopię tego stronnika.\n\t\t\t<b>Grito de Guerra:</b> Evoque uma cópia deste lacaio.\n\t\t\t<b>Боевой клич:</b> призывает копию этого существа.\n\t\t\t<b>คำรามสู้ศึก:</b> เรียกร่างก๊อปปี้ของ[b]มินเนี่ยนตัวนี้\n\t\t\t<b>战吼：</b>召唤该随从的一个复制。\n\t\t\t<b>戰吼：</b>召喚一個\n此手下的分身\n\t\t"
+      }
+    },
+    "currentStrings": {
+      "185": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "Doubling Imp"
+          },
+          "koKR": {
+            "present": true,
+            "value": "복제하는 임프"
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\tDoppelwichtel\n\t\tDoubling Imp\n\t\tDiablillo duplicador\n\t\tDiablillo duplicador\n\t\tDiablotin double\n\t\tImp Duplicante\n\t\tドッペルインプ\n\t\t복제하는 임프\n\t\tChochlik duplikator\n\t\tDiabrete Duplicado\n\t\tДвоящийся бес\n\t\tอิมพ์สองร่าง\n\t\t双生小鬼\n\t\t殘影小鬼\n\t"
+      },
+      "184": {
+        "present": true,
+        "locales": {
+          "enUS": {
+            "present": true,
+            "value": "<b>Battlecry:</b> Summon a copy of this minion."
+          },
+          "koKR": {
+            "present": true,
+            "value": "<b>전투의 함성:</b> 이 하수인을 복사하여 소환합니다."
+          }
+        },
+        "valueAttributePresent": false,
+        "valueAttribute": null,
+        "textContent": "\n\t\t<b>Kampfschrei:</b> Ruft eine Kopie dieses Dieners herbei.\n\t\t<b>Battlecry:</b> Summon a copy of this minion.\n\t\t<b>Grito de batalla:</b>\nInvoca una copia\nde este esbirro.\n\t\t<b>Grito de batalla:</b> invoca una copia de este esbirro.\n\t\t<b>Cri de guerre_:</b> invoque une copie de ce serviteur.\n\t\t[x]<b>Grido di Battaglia:</b>\nevoca una copia\ndi se stesso.\n\t\t[x]<b>雄叫び:</b>\nこのミニオンのコピーを\n1体召喚する。\n\t\t<b>전투의 함성:</b> 이 하수인을 복사하여 소환합니다.\n\t\t<b>Okrzyk bojowy:</b> Przyzwij kopię tego stronnika.\n\t\t<b>Grito de Guerra:</b> Evoque uma cópia deste lacaio.\n\t\t<b>Боевой клич:</b> призывает копию этого существа.\n\t\t<b>คำรามสู้ศึก:</b> เรียกร่างก๊อปปี้ของ[b]มินเนี่ยนตัวนี้\n\t\t<b>战吼：</b>召唤一个本随从的复制。\n\t\t<b>戰吼：</b>召喚一個\n此手下的分身\n\t"
+      }
+    },
+    "launchStringTagPresence": {
+      "184": true,
+      "185": true
+    },
+    "currentStringTagPresence": {
+      "184": true,
+      "185": true
+    }
+  },
+  "_current": {
+    "id": "BOT_224",
+    "dbfId": 48116,
+    "name": "복제하는 임프",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b> 이 하수인을 복사하여 소환합니다.",
+    "attack": 2,
+    "health": 2,
+    "flavor": "연구실에서 임프 두 마리를 발견하는 것보다 최악인 상황은 뭘까요? 둘 중 하나만 발견하는 것입니다.",
+    "portrait": "HS14-018_M.psd:ac552980ea68cea4c99d7c2712067de9",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 1965,
+        "name": "임프",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/BOT_224.png",
+    "nativeRawText": "<b>전투의 함성:</b> 이 하수인을 복사하여 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "2",
+      "47": "2",
+      "48": "3",
+      "183": "1127",
+      "199": "9",
+      "200": "15",
+      "201": "3",
+      "202": "4",
+      "203": "1",
+      "218": "1",
+      "321": "1",
+      "1965": "1"
+    },
+    "nativeTagsReferenced": {}
+  },
+  "2018-08-08": {
+    "id": "BOT_224",
+    "dbfId": 48116,
+    "name": "복제하는 임프",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b> 이 하수인을 복사하여 소환합니다.",
+    "attack": 2,
+    "health": 2,
+    "flavor": "연구실에서 임프 두 마리를 발견하는 것보다 최악인 상황은 뭘까요? 둘 중 하나만 발견하는 것입니다.",
+    "portrait": "HS14-018_M.psd:ac552980ea68cea4c99d7c2712067de9",
+    "set": "BOOMSDAY",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 183,
+        "name": "게임 태그 183",
+        "value": 1127
+      },
+      {
+        "id": 184,
+        "name": "게임 태그 184",
+        "value": ""
+      },
+      {
+        "id": 185,
+        "name": "게임 태그 185",
+        "value": ""
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 342,
+        "name": "게임 태그 342",
+        "value": ""
+      },
+      {
+        "id": 351,
+        "name": "게임 태그 351",
+        "value": ""
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/BOT_224.png",
+    "nativeRawText": "<b>전투의 함성:</b> 이 하수인을 복사하여 소환합니다.",
+    "nativeTagsOwned": {
+      "185": "",
+      "184": "",
+      "351": "",
+      "342": "",
+      "45": "2",
+      "47": "2",
+      "48": "3",
+      "183": "1127",
+      "199": "9",
+      "200": "15",
+      "201": "3",
+      "202": "4",
+      "203": "1",
+      "218": "1",
+      "321": "1"
+    },
+    "nativeTagsReferenced": {},
+    "source": {
+      "findingId": "BOOM-RELEASE",
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d"
+    }
+  }
+}
