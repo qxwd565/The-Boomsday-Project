@@ -80,6 +80,9 @@ def main():
   src=read(ROOT/"data"/(cid+".json")); olddata=git_json("data/"+cid+".json")
   assert src["_meta"]["mode"]==olddata["mode"] and src["_meta"]["artworkProvenance"]==olddata["artworkProvenance"],(cid,"mode/artwork provenance")
   assert src["_current"]["portrait"]==olddata["card"]["portrait"] and src["_current"]["art"]==olddata["card"]["art"]
+  for field,value in olddata["card"].items():
+   if field not in byid[cid]:
+    assert src["_current"].get(field,"ABSENT")==value,(cid,field,"preserve original extra relation/current field")
   assert src["_current"]["nativeTagsOwned"]==xml[256589][cid]["owned"],(cid,"current owned raw")
   assert src["_current"]["nativeTagsReferenced"]==xml[256589][cid]["referenced"],(cid,"current referenced raw")
   days=sorted(k for k in src if DATE.fullmatch(k))
