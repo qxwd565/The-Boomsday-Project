@@ -391,6 +391,10 @@ def main():
         if data is not None and data.get("_meta", {}).get("schemaVersion") == 2:
             render_card["nativeTagsOwned"] = copy.deepcopy(data["_current"].get("nativeTagsOwned", {}))
             render_card["nativeTagsReferenced"] = copy.deepcopy(data["_current"].get("nativeTagsReferenced", {}))
+            for field, value in data["_current"].items():
+                lowered = field.lower()
+                if "relation" in lowered or lowered.startswith("related"):
+                    render_card[field] = copy.deepcopy(value)
         # A single runtime endpoint: the current card and its sparse dated
         # differences are delivered together. Absence of history means current.
         if data is not None and revisions:
