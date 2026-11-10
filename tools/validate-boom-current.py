@@ -13,16 +13,27 @@ def parse_xml(path,wanted):
   if e.tag.rsplit("}",1)[-1]!="Entity": continue
   cid=e.attrib.get("CardID")
   if cid in wanted:
-   owned={}; refs={}
+   owned={}; refs={}; strings={}
    for t in list(e):
     kind=t.tag.rsplit("}",1)[-1]
     if kind not in ("Tag","ReferencedTag") or "enumID" not in t.attrib: continue
+    tid=str(int(t.attrib["enumID"]))
     target=owned if kind=="Tag" else refs
-    target[str(int(t.attrib["enumID"]))]=str(t.attrib.get("value",""))
+    target[tid]=str(t.attrib.get("value",""))
+    if kind=="Tag" and tid in ("184","185"):
+     locales={}
+     for child in list(t.iter())[1:]:
+      locale=child.tag.rsplit("}",1)[-1]
+      if locale in ("koKR","enUS"):
+       locales[locale]={"present":True,"value":"".join(child.itertext())}
+     strings[tid]={"present":True,"locales":locales,"valueAttributePresent":"value" in t.attrib,
+                   "valueAttribute":t.attrib.get("value"),"textContent":"".join(t.itertext())}
    if cid in out: raise AssertionError((path,cid,"duplicate entity"))
-   out[cid]={"owned":owned,"referenced":refs}
+   out[cid]={"owned":owned,"referenced":refs,"strings":strings}
   e.clear()
  return out
+def display_text(raw):
+ return raw.replace("[x]","").replace("\r\n","\n").replace("\r","\n").replace("\n","<br></br>")
 def apply(state,row):
  out=copy.deepcopy(state)
  for k,v in row.items():
@@ -91,12 +102,28 @@ def main():
   days=sorted(k for k in src if DATE.fullmatch(k))
   assert days[0]==("2019-06-04" if cid=="BOT_700" else "2018-08-08"),(cid,"first date")
   release_build=31268 if cid=="BOT_700" else 25770
+  assert src["_meta"]["launchStrings"]==xml[release_build][cid]["strings"],(cid,"launch Tag184/185 XML strings")
+  assert src["_meta"]["currentStrings"]==xml[256589][cid]["strings"],(cid,"current Tag184/185 XML strings")
+  launch_text=src["_meta"]["launchStrings"].get("184",{}).get("locales",{}).get("koKR")
+  if launch_text is not None:
+   assert src[days[0]]["nativeRawText"]==launch_text["value"],(cid,"launch raw text")
+   assert src[days[0]]["text"]==display_text(launch_text["value"]),(cid,"launch display text")
+  else:
+   assert "nativeRawText" not in src[days[0]] and "text" not in src[days[0]],(cid,"absent launch text")
+  current_text=src["_meta"]["currentStrings"].get("184",{}).get("locales",{}).get("koKR")
+  if current_text is not None: assert src["_current"]["nativeRawText"]==current_text["value"],(cid,"current raw text")
+  else: assert "nativeRawText" not in src["_current"],(cid,"absent current raw text")
   state=copy.deepcopy(src[days[0]])
   assert state["nativeTagsOwned"]==xml[release_build][cid]["owned"],(cid,"release owned raw")
   assert state["nativeTagsReferenced"]==xml[release_build][cid]["referenced"],(cid,"release referenced raw")
   assert state["nativeTags"].count({"id":48,"name":"마나 비용","value":6})==0 or cid not in ("BOT_422a","BOT_422b")
   for day in days[1:]:
    row=src[day]; source=row["source"]
+   assert source["beforeStrings"]==xml[source["beforeBuild"]][cid]["strings"],(cid,day,"before localized strings")
+   assert source["afterStrings"]==xml[source["afterBuild"]][cid]["strings"],(cid,day,"after localized strings")
+   if "nativeRawText" in row:
+    assert row["nativeRawText"]==source["afterStrings"]["184"]["locales"]["koKR"]["value"],(cid,day,"dated raw text evidence")
+    assert row["text"]==display_text(row["nativeRawText"]),(cid,day,"dated display text evidence")
    before_build=source["beforeBuild"]; after_build=source["afterBuild"]
    assert source["beforeCommit"]==bybuild[before_build]["commit"]
    assert source["afterCommit"]==bybuild[after_build]["commit"]
