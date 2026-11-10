@@ -126,6 +126,24 @@ def check():
  for cid,fields in initial_fixes.items():
   day="2019-06-04" if cid=="BOT_700" else "2018-08-08"
   for k,v in fields.items(): assert read(ROOT/"data"/(cid+".json"))[day][k]==v,(cid,k,"initial fix")
+ # Confirmed representation history is dated, but does not alter gameplay stats.
+ assert central["events"]["2024-03-12"]["BOT_237"]["eventKind"]=="confirmed-representation"
+ assert central["events"]["2025-03-19"]["BOT_042t"]["eventKind"]=="confirmed-representation"
+ for cid,health in (("BOT_042t",3),("BOT_286",2),("BOT_406",3)):
+  src=read(ROOT/"data"/(cid+".json")); row=src["2025-03-19"]
+  raw={(x["role"],int(x["id"])):(x["before"],x["after"]) for x in row["rawTagDelta"]}
+  assert raw[("owned",187)]==("3","ABSENT")
+  state=copy.deepcopy(src["2018-08-08"])
+  for d in sorted(k for k in src if DATE.fullmatch(k) and k<="2025-03-19" and k!="2018-08-08"):
+   state=apply_row(state,src[d])
+  assert state["nativeTagsOwned"].get("45")==str(health)
+  assert state.get("durability")==src["2018-08-08"].get("durability")
+ row=read(ROOT/"data/BOT_237.json")["2024-03-12"]
+ assert row["text"]=="<b>합체</b>, <b>모면</b>"
+ raw={(x["role"],int(x["id"])):(x["before"],x["after"]) for x in row["rawTagDelta"]}
+ assert raw[("owned",311)]==("1","ABSENT") and raw[("owned",332)]==("1","ABSENT")
+ assert raw[("owned",1211)]==("ABSENT","1")
+ assert central["events"]["2018-10-19"]["BOT_270"]["dateConfidence"]=="candidate"
  # Specific cautions and genuine zero/empty values.
  for cid in ("BOT_031","BOT_537","BOT_558"): assert byid[cid]["attack"]==0
  for cid in ("BOT_246","BOT_517"): assert byid[cid]["cost"]==0
