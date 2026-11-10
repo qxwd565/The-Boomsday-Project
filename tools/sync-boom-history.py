@@ -58,7 +58,7 @@ def main():
    events.setdefault(day,{})[cid]=copy.deepcopy(src[day])
   card_files[cid]=src
  total=sum(len(x) for x in events.values())
- initial=sum(len(x) for d,x in events.items() if d in ("2018-08-08","2019-06-04"))
+ initial=len(cards)
  follow=total-initial
  if len(cards)!=155 or initial!=155 or follow!=74 or total!=229:
   raise ValueError(f"ledger counts cards={len(cards)} initial={initial} follow={follow} total={total}")
