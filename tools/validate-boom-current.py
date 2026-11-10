@@ -51,6 +51,7 @@ def main():
   assert set(ids)-set(parsed)==set(meta.get("absentOriginalIds",[])),(build,"missing original IDs")
   xml[build]=parsed
  assert len(cards)==155 and sum(bool(x.get("collectible")) for x in cards)==136
+ assert len(obs["intentionalRulesAndAvailability"])==9 and len(obs["displayAndNativeRepresentationContext"])==11
  assert sum(not bool(x.get("collectible")) for x in cards)==19
  assert central["format"]=="date-first-delta-v2"
  assert (central["initialStates"],central["followupEvents"],central["totalStates"])==(155,78,233)
@@ -161,6 +162,7 @@ def main():
  # All 85 repaired current text strings remain untouched.
  for cid,oldcard in old.items():
   assert byid[cid].get("text","")==oldcard.get("text",""),(cid,"text changed")
+ assert sum("<br></br>" in x.get("text","") for x in cards)==85
   assert byid[cid].get("flavor","")==oldcard.get("flavor",""),(cid,"flavor changed")
  print(json.dumps({"cards":155,"xmlSnapshots":len(xml),"initialStates":155,"followupEvents":78,"totalStates":233,"rawTagEventsChecked":sum(len(read(ROOT/"data"/(cid+".json"))[d].get("rawTagDelta",[])) for cid in ids for d in read(ROOT/"data"/(cid+".json")) if DATE.fullmatch(d)),"legacyHistoryCards":len(legacy["cards"]),"rules":9,"representationGroups":11,"grammarSuggestions":8},ensure_ascii=False))
 if __name__=="__main__": main()
