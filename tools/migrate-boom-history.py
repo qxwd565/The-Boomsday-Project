@@ -141,7 +141,14 @@ def main():
  catalog=read(ROOT/"cards.json")
  central=read(ROOT/"data/history.json")
  if all((ROOT/"data"/(c["id"]+".json")).is_file() and read(ROOT/"data"/(c["id"]+".json")).get("_meta",{}).get("schemaVersion")==2 for c in catalog["cards"]):
-  print("date-first source already migrated; idempotent validation only")
+  # Choice UI cards have no COST tag in the immutable launch XML. Keep the
+  # current display cost in _current and record it as undated, never in release history.
+  for cid in ("BOT_422a","BOT_422b"):
+   path=ROOT/"data"/(cid+".json"); src=read(path)
+   for day in (k for k in src if DATE.fullmatch(k)):
+    src[day].pop("cost",None)
+   write(path,src)
+  print("date-first source already migrated; choice UI launch COST kept undated")
   return
  cards=catalog["cards"]; ids={c["id"] for c in cards}; names=tag_name_map(cards)
  manifest=read(ROOT/"sources/archive-manifest.json")
