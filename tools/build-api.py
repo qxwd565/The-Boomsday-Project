@@ -369,6 +369,8 @@ def main():
                 history_current = copy.deepcopy(record)
                 history_current["nativeTagsOwned"] = copy.deepcopy(card.get("nativeTagsOwned", {}))
                 history_current["nativeTagsReferenced"] = copy.deepcopy(card.get("nativeTagsReferenced", {}))
+                if "nativeRawText" in card:
+                    history_current["nativeRawText"] = copy.deepcopy(card["nativeRawText"])
                 revisions = publish_date_first(data, history_current, cid)
             else:
                 card = data["card"]
@@ -391,6 +393,8 @@ def main():
         if data is not None and data.get("_meta", {}).get("schemaVersion") == 2:
             render_card["nativeTagsOwned"] = copy.deepcopy(data["_current"].get("nativeTagsOwned", {}))
             render_card["nativeTagsReferenced"] = copy.deepcopy(data["_current"].get("nativeTagsReferenced", {}))
+            if "nativeRawText" in data["_current"]:
+                render_card["nativeRawText"] = copy.deepcopy(data["_current"]["nativeRawText"])
             for field, value in data["_current"].items():
                 lowered = field.lower()
                 if "relation" in lowered or lowered.startswith("related"):
