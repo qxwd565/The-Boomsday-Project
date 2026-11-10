@@ -39,6 +39,7 @@ def check():
  baseline=git_file("cards.json")
  cards=catalog["cards"]; byid={x["id"]:x for x in cards}; rbyid={x["id"]:x for x in render["cards"]}
  assert len(cards)==155 and len(byid)==155
+ assert obs["counts"]["missingGameplayEvents"]==23 and obs["counts"]["initialGameplayErrors"]==21 and obs["counts"]["existingLaterEventChecks"]==51
  assert sum(bool(x.get("collectible")) for x in cards)==136
  assert sum(not bool(x.get("collectible")) for x in cards)==19
  assert central["schema"]==2 and central["format"]=="date-first-delta-v2"
