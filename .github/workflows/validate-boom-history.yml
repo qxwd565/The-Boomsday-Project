@@ -94,6 +94,7 @@ jobs:
           for seed in 1 8675309; do
             export PYTHONHASHSEED="$seed"
             python tools/migrate-boom-history.py /tmp/boom-xml
+            python tools/enrich-boom-string-tags.py /tmp/boom-xml
             python tools/sync-boom-history.py
             python tools/build-api.py
             python tests/test_boom_history.py
