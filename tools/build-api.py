@@ -367,7 +367,10 @@ def main():
         else:
             if data.get("_meta", {}).get("schemaVersion") == 2:
                 card = data["_current"]
-                revisions = publish_date_first(data, record, cid)
+                history_current = copy.deepcopy(record)
+                history_current["nativeTagsOwned"] = copy.deepcopy(card.get("nativeTagsOwned", {}))
+                history_current["nativeTagsReferenced"] = copy.deepcopy(card.get("nativeTagsReferenced", {}))
+                revisions = publish_date_first(data, history_current, cid)
             else:
                 card = data["card"]
                 if "patches" in card:
