@@ -154,7 +154,6 @@ def check():
  assert bot237["2018-08-08"]["nativeRawText"]=="<b>합체</b>, 이 하수인은 주문이나 영웅 능력의 대상으로 지정되지 않습니다."
  assert bot237["2024-03-12"]["nativeRawText"]==bot237["2024-03-12"]["source"]["afterStrings"]["184"]["locales"]["koKR"]["value"]
  assert read(ROOT/"data/BOT_568.json")["2018-08-08"]["nativeRawText"]=="[x]카드를 3장 뽑습니다.\n내 턴이 끝날 때,\n그 카드들을 버립니다."
- assert read(ROOT/"data/BOT_568.json")["2018-08-08"]["nativeRawText"]=="[x]카드를 3장 뽑습니다.\n내 턴이 끝날 때,\n그 카드들을 버립니다."
  assert read(ROOT/"data/BOT_511t.json")["2018-08-08"]["nativeRawText"]=="[x]내게 피해를 5 줍니다.\n카드를 1장 뽑습니다.\n이 카드를 뽑아도\n폭발합니다."
  for cid in ("BOT_568","BOT_511t"):
   undated=central["observations"]["undated"][cid]
@@ -194,8 +193,8 @@ def check():
   assert state["nativeTagsOwned"].get("45")==str(health)
   assert state.get("durability")==src["2018-08-08"].get("durability")
  bot237=read(ROOT/"data/BOT_237.json")
- assert bot237["2018-08-08"]["nativeRawText"]=="[x]<b>합체</b>, 주문이나\n영웅 능력의 대상으로\n지정되지 않습니다."
- assert bot237["2018-08-08"]["text"]=="<b>합체</b>, 주문이나<br></br>영웅 능력의 대상으로<br></br>지정되지 않습니다."
+ assert bot237["2018-08-08"]["nativeRawText"]=="<b>합체</b>, 이 하수인은 주문이나 영웅 능력의 대상으로 지정되지 않습니다."
+ assert bot237["2018-08-08"]["text"]=="<b>합체</b>, 이 하수인은 주문이나 영웅 능력의 대상으로 지정되지 않습니다."
  row=bot237["2024-03-12"]
  assert row["nativeRawText"]=="<b>합체</b>, <b>모면</b>"
  assert row["text"]=="<b>합체</b>, <b>모면</b>"
