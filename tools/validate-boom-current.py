@@ -104,15 +104,26 @@ def main():
   release_build=31268 if cid=="BOT_700" else 25770
   assert src["_meta"]["launchStrings"]==xml[release_build][cid]["strings"],(cid,"launch Tag184/185 XML strings")
   assert src["_meta"]["currentStrings"]==xml[256589][cid]["strings"],(cid,"current Tag184/185 XML strings")
+  launch_strings=src["_meta"]["launchStrings"]; current_strings=src["_meta"]["currentStrings"]
+  assert src["_meta"]["launchStringTagPresence"]=={"184":"184" in launch_strings,"185":"185" in launch_strings}
+  assert src["_meta"]["currentStringTagPresence"]=={"184":"184" in current_strings,"185":"185" in current_strings}
+  launch_name=launch_strings.get("185",{}).get("locales",{}).get("koKR")
+  if launch_name is not None: assert src[days[0]]["name"]==launch_name["value"],(cid,"launch CARDNAME")
   launch_text=src["_meta"]["launchStrings"].get("184",{}).get("locales",{}).get("koKR")
   if launch_text is not None:
    assert src[days[0]]["nativeRawText"]==launch_text["value"],(cid,"launch raw text")
    assert src[days[0]]["text"]==display_text(launch_text["value"]),(cid,"launch display text")
   else:
    assert "nativeRawText" not in src[days[0]] and "text" not in src[days[0]],(cid,"absent launch text")
-  current_text=src["_meta"]["currentStrings"].get("184",{}).get("locales",{}).get("koKR")
-  if current_text is not None: assert src["_current"]["nativeRawText"]==current_text["value"],(cid,"current raw text")
-  else: assert "nativeRawText" not in src["_current"],(cid,"absent current raw text")
+  current_name=current_strings.get("185",{}).get("locales",{}).get("koKR")
+  if current_name is not None:
+   assert src["_current"]["name"]==current_name["value"] and byid[cid]["name"]==current_name["value"],(cid,"current CARDNAME")
+  current_text=current_strings.get("184",{}).get("locales",{}).get("koKR")
+  if current_text is not None:
+   assert src["_current"]["nativeRawText"]==current_text["value"],(cid,"current raw text")
+   assert rbyid[cid].get("nativeRawText")==current_text["value"],(cid,"render current raw text")
+  else:
+   assert "nativeRawText" not in src["_current"] and "nativeRawText" not in rbyid[cid],(cid,"absent current raw text")
   state=copy.deepcopy(src[days[0]])
   assert state["nativeTagsOwned"]==xml[release_build][cid]["owned"],(cid,"release owned raw")
   assert state["nativeTagsReferenced"]==xml[release_build][cid]["referenced"],(cid,"release referenced raw")
