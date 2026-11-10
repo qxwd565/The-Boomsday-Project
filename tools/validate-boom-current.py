@@ -77,7 +77,8 @@ def main():
   if cid=="BOT_246":
    for t in expected["nativeTags"]:
     if t["id"]==215: t["value"]=2
-  assert cur==expected,(cid,"current API changed beyond approved type omissions and BOT_246 Tag215")
+  diff={k:(expected.get(k,"ABSENT"),cur.get(k,"ABSENT")) for k in sorted(set(expected)|set(cur)) if expected.get(k,"ABSENT")!=cur.get(k,"ABSENT")}
+  assert cur==expected,(cid,"current API changed beyond approved type omissions and BOT_246 Tag215",diff)
   src=read(ROOT/"data"/(cid+".json")); olddata=git_json("data/"+cid+".json")
   assert src["_meta"]["mode"]==olddata["mode"] and src["_meta"]["artworkProvenance"]==olddata["artworkProvenance"],(cid,"mode/artwork provenance")
   assert src["_current"]["portrait"]==olddata["card"]["portrait"] and src["_current"]["art"]==olddata["card"]["art"]
