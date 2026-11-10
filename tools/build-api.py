@@ -316,19 +316,18 @@ def publish_date_first(data: dict, current: dict, name: str):
     for i, (day, old) in enumerate(states):
         changes = {}
         removed = []
-        for field in history_fields:
+        for field in sorted(history_fields):
             if field in old:
                 if field not in current or old[field] != current[field]:
                     changes[field] = copy.deepcopy(old[field])
             elif field in current:
                 removed.append(field)
-        if changes or removed:
-            revision = {"from": day, "changes": changes}
-            if i + 1 < len(states):
-                revision["before"] = states[i + 1][0]
-            if removed:
-                revision["removedFields"] = sorted(removed)
-            backward.append(revision)
+        revision = {"from": day, "changes": changes}
+        if i + 1 < len(states):
+            revision["before"] = states[i + 1][0]
+        if removed:
+            revision["removedFields"] = sorted(removed)
+        backward.append(revision)
     return backward
 
 
