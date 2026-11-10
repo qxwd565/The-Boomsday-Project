@@ -133,7 +133,7 @@ def check():
   launch_text=launch.get("184",{}).get("locales",{}).get("koKR")
   if launch_text is not None:
    assert src[release_day]["nativeRawText"]==launch_text["value"],(cid,"launch raw text")
-   assert src[release_day]["text"]==launch_text["value"].replace("[x]","").replace("\\r\\n","\\n").replace("\\r","\\n").replace("\\n","<br></br>"),(cid,"launch display text")
+   assert src[release_day]["text"]==display_text(launch_text["value"]),(cid,"launch display text")
   else:
    assert "nativeRawText" not in src[release_day] and "text" not in src[release_day],(cid,"absent launch CARDTEXT")
   current_text=current.get("184",{}).get("locales",{}).get("koKR")
