@@ -137,7 +137,7 @@ def check():
   src=read(ROOT/"data"/(cid+".json"))
   assert "48" not in src["2018-08-08"]["nativeTagsOwned"],(cid,"choice UI cost must not be backdated")
  assert any(x["id"]==215 and x["value"]==2 for x in byid["BOT_246"]["nativeTags"])
- assert any(x["id"]==215 and x["value"]=="2" for x in read(ROOT/"data/BOT_246.json")["_current"]["nativeTagsOwned"].items()) is False or read(ROOT/"data/BOT_246.json")["_current"]["nativeTagsOwned"].get("215")=="2"
+ assert read(ROOT/"data/BOT_246.json")["_current"]["nativeTagsOwned"].get("215")=="2"
  # Current line-break repairs are unchanged from the immutable preparation snapshot.
  for cid,old in base.items():
   assert byid[cid].get("text","")==old.get("text",""),(cid,"current text changed")
