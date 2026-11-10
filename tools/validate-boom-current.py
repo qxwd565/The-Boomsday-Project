@@ -193,6 +193,10 @@ def main():
   assert undated["text"]["date"] is None and undated["nativeRawText"]["date"] is None,(cid,"wording remains undated")
  assert read(ROOT/"data/BOT_568.json")["2018-08-08"]["nativeRawText"]=="카드를 3장 뽑습니다.\n내 턴이 끝날 때,\n그 카드들을 버립니다."
  assert read(ROOT/"data/BOT_511t.json")["2018-08-08"]["nativeRawText"]=="내게 피해를 5 줍니다.\n카드를 1장 뽑습니다.\n이 카드를 뽑아도\n폭발합니다."
+ assert read(ROOT/"data/BOT_444.json")["2018-08-08"]["nativeRawText"]=="이번 턴에\\n하수인이 죽을 때마다 이번 턴에만 마나\\u00a0수정을 1개 획득합니다."
+ assert read(ROOT/"data/BOT_444.json")["2018-08-08"]["text"]==display_text(read(ROOT/"data/BOT_444.json")["2018-08-08"]["nativeRawText"])
+ assert read(ROOT/"data/BOT_558.json")["2018-08-08"]["nativeRawText"]=="<b>죽음의 메아리:</b>\\n내가 이 하수인에게\\n시전한 모든 주문을 내 손으로 가져옵니다."
+ assert read(ROOT/"data/BOT_558.json")["2018-08-08"]["text"]==display_text(read(ROOT/"data/BOT_558.json")["2018-08-08"]["nativeRawText"])
  # Explicit card-specific constraints.
  for cid in ("BOT_031","BOT_537","BOT_558"): assert byid[cid]["attack"]==0
  for cid in ("BOT_246","BOT_517"): assert byid[cid]["cost"]==0
@@ -213,7 +217,7 @@ def main():
  # All 85 repaired current text strings remain untouched.
  for cid,oldcard in old.items():
   assert byid[cid].get("text","")==oldcard.get("text",""),(cid,"text changed")
- assert sum("<br></br>" in x.get("text","") for x in cards)==85
   assert byid[cid].get("flavor","")==oldcard.get("flavor",""),(cid,"flavor changed")
+ assert sum("<br></br>" in x.get("text","") for x in cards)==85
  print(json.dumps({"cards":155,"xmlSnapshots":len(xml),"initialStates":155,"followupEvents":78,"totalStates":233,"rawTagEventsChecked":sum(len(read(ROOT/"data"/(cid+".json"))[d].get("rawTagDelta",[])) for cid in ids for d in read(ROOT/"data"/(cid+".json")) if DATE.fullmatch(d)),"legacyHistoryCards":len(legacy["cards"]),"rules":9,"representationGroups":11,"grammarSuggestions":8},ensure_ascii=False))
 if __name__=="__main__": main()
