@@ -62,7 +62,7 @@ def main():
  follow=total-initial
  if len(cards)!=155 or initial!=155 or follow!=74 or total!=229:
   raise ValueError(f"ledger counts cards={len(cards)} initial={initial} follow={follow} total={total}")
- expected={"2018-08-08":154,"2019-06-04":21,"2018-10-19":1,"2019-08-27":3,"2020-03-27":3,"2021-03-26":18,"2022-11-30":7,"2023-02-15":12,"2023-03-15":1,"2023-04-05":4,"2024-04-26":1,"2024-10-30":1,"2026-03-11":1,"2026-07-22":1}
+ expected={"2018-08-08":154,"2019-06-04":21,"2018-10-19":1,"2019-08-27":4,"2020-03-27":3,"2021-03-26":18,"2022-11-30":7,"2023-02-15":12,"2023-03-15":1,"2023-04-05":4,"2024-04-26":1,"2024-10-30":1,"2026-03-11":1,"2026-07-22":1}
  for day,count in expected.items():
   if len(events.get(day,{}))!=count: raise ValueError(f"{day}: expected {count} cards, got {len(events.get(day,{}))}")
  central={"schema":2,"timezone":"Asia/Seoul","format":"date-first-delta-v2","cards":155,"initialStates":155,"followupEvents":74,"totalStates":229,"events":events,"observations":observations_out}
