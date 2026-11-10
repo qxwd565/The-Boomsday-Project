@@ -44,16 +44,16 @@ jobs:
           git init /tmp/hsdata
           git -C /tmp/hsdata remote add origin https://github.com/HearthSim/hsdata.git
           mapfile -t commits < <(jq -r '.entries[].commit' sources/archive-manifest.json)
-          git -C /tmp/hsdata fetch --depth=1 origin "\${commits[@]}"
+          git -C /tmp/hsdata fetch --depth=1 origin "${commits[@]}"
           while IFS=$'\t' read -r build commit expected bytes blob_sha1; do
-            target="/tmp/boom-xml/\${build}.xml"
-            git -C /tmp/hsdata show "\${commit}:CardDefs.xml" > "$target"
+            target="/tmp/boom-xml/${build}.xml"
+            git -C /tmp/hsdata show "${commit}:CardDefs.xml" > "$target"
             test "$(wc -c < "$target" | tr -d ' ')" = "$bytes"
-            actual_blob="$(git -C /tmp/hsdata rev-parse "\${commit}:CardDefs.xml")"
+            actual_blob="$(git -C /tmp/hsdata rev-parse "${commit}:CardDefs.xml")"
             test "$actual_blob" = "$blob_sha1"
-            echo "\${expected}  \${target}" | sha256sum --check
+            echo "${expected}  ${target}" | sha256sum --check
           done < <(jq -r '.entries[] | [.build,.commit,.xmlSha256,.bytes,.gitBlobSHA1] | @tsv' sources/archive-manifest.json)
-          echo "Verified immutable CardDefs archives: \${#commits[@]}"
+          echo "Verified immutable CardDefs archives: ${#commits[@]}"
 
       - name: Migrate 155 cards from immutable release and dated XML snapshots
         run: python tools/migrate-boom-history.py /tmp/boom-xml
