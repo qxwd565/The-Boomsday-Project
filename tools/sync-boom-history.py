@@ -21,7 +21,7 @@ def apply(state,row):
 def main():
  cards=read(ROOT/"cards.json")["cards"]
  observations=read(ROOT/"sources/boomsday-observations.json")
- events={}; observations_out={"undated":{},"undatedRawTags":{},"research":observations}
+ events={}; observations_out={"undated":{},"undatedRawTags":{},"undatedStringTags":{},"research":observations}
  card_files={}
  for c in cards:
   cid=c["id"]; p=ROOT/"data"/(cid+".json"); src=read(p)
@@ -54,6 +54,15 @@ def main():
     if av!=bv:
      raw_obs.append({"tagId":int(tid),"role":role,"before":av,"after":bv,"date":None})
   observations_out["undatedRawTags"][cid]=raw_obs
+  launch_strings=src.get("_meta",{}).get("launchStringTags",{})
+  current_strings=src.get("_meta",{}).get("currentStringTags",{})
+  string_obs=[]
+  for tid in sorted(set(launch_strings)|set(current_strings),key=int):
+   before=launch_strings.get(tid,"ABSENT")
+   after=current_strings.get(tid,"ABSENT")
+   if before!=after:
+    string_obs.append({"tagId":int(tid),"before":copy.deepcopy(before),"after":copy.deepcopy(after),"date":None})
+  observations_out["undatedStringTags"][cid]=string_obs
   for day in days:
    events.setdefault(day,{})[cid]=copy.deepcopy(src[day])
   card_files[cid]=src
