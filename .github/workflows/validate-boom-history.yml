@@ -58,6 +58,9 @@ jobs:
       - name: Migrate 155 cards from immutable release and dated XML snapshots
         run: python tools/migrate-boom-history.py /tmp/boom-xml
 
+      - name: Preserve every native localized string Tag and launch-only rarity
+        run: python tools/enrich-boom-string-tags.py /tmp/boom-xml
+
       - name: Synchronize date-first central ledger
         run: python tools/sync-boom-history.py
 
