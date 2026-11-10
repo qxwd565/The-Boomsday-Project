@@ -139,8 +139,10 @@ def main():
   assert state["nativeTagsOwned"].get("45")==str(health),(cid,"same durability stored as HEALTH")
   assert state.get("durability")==src["2018-08-08"].get("durability"),(cid,"no logical durability change")
  bot237=read(ROOT/"data/BOT_237.json")
- assert bot237["2018-08-08"]["nativeRawText"]=="[x]<b>합체</b>, 주문이나\n영웅 능력의 대상으로\n지정되지 않습니다."
- assert bot237["2018-08-08"]["text"]=="<b>합체</b>, 주문이나<br></br>영웅 능력의 대상으로<br></br>지정되지 않습니다."
+ launch_raw=bot237["_meta"]["launchStrings"]["184"]["locales"]["koKR"]["value"]
+ assert launch_raw=="<b>합체</b>, 이 하수인은 주문이나 영웅 능력의 대상으로 지정되지 않습니다."
+ assert bot237["2018-08-08"]["nativeRawText"]==launch_raw
+ assert bot237["2018-08-08"]["text"]=="<b>합체</b>, 이 하수인은 주문이나 영웅 능력의 대상으로 지정되지 않습니다."
  row=bot237["2024-03-12"]
  assert row["nativeRawText"]=="<b>합체</b>, <b>모면</b>"
  assert row["text"]=="<b>합체</b>, <b>모면</b>"
