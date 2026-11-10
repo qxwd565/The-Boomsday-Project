@@ -191,7 +191,7 @@ def main():
  for cid in ("BOT_568","BOT_511t"):
   undated=central["observations"]["undated"][cid]
   assert undated["text"]["date"] is None and undated["nativeRawText"]["date"] is None,(cid,"wording remains undated")
- assert read(ROOT/"data/BOT_568.json")["2018-08-08"]["nativeRawText"]=="카드를 3장 뽑습니다.\n내 턴이 끝날 때,\n그 카드들을 버립니다."
+ assert read(ROOT/"data/BOT_568.json")["2018-08-08"]["nativeRawText"]=="[x]카드를 3장 뽑습니다.\n내 턴이 끝날 때,\n그 카드들을 버립니다."
  assert read(ROOT/"data/BOT_511t.json")["2018-08-08"]["nativeRawText"]=="내게 피해를 5 줍니다.\n카드를 1장 뽑습니다.\n이 카드를 뽑아도\n폭발합니다."
  assert read(ROOT/"data/BOT_444.json")["2018-08-08"]["nativeRawText"]=="이번 턴에\n하수인이 죽을 때마다 이번 턴에만 마나\u00a0수정을 1개 획득합니다."
  assert read(ROOT/"data/BOT_444.json")["2018-08-08"]["text"]==display_text(read(ROOT/"data/BOT_444.json")["2018-08-08"]["nativeRawText"])
