@@ -82,6 +82,16 @@ def main():
   assert src["_meta"].get("launchStringTags")==xml[25770 if cid!="BOT_700" else 31268][cid]["stringTags"],(cid,"launch native string tags")
   assert src["_meta"].get("currentStringTags")==xml[256589][cid]["stringTags"],(cid,"current native string tags")
   assert rbyid[cid].get("nativeStringTags")=={"launch":src["_meta"]["launchStringTags"],"current":src["_meta"]["currentStringTags"]},(cid,"render native string tags")
+  launch_build=31268 if cid=="BOT_700" else 25770
+  launch_map=xml[launch_build][cid]["stringTags"]
+  current_map=xml[256589][cid]["stringTags"]
+  expected_string_obs=[]
+  for tid in sorted(set(launch_map)|set(current_map),key=int):
+   before=launch_map.get(tid,"ABSENT")
+   after=current_map.get(tid,"ABSENT")
+   if before!=after:
+    expected_string_obs.append({"tagId":int(tid),"before":before,"after":after,"date":None})
+  assert central["observations"]["undatedStringTags"][cid]==expected_string_obs,(cid,"undated string-tag observation differs from immutable XML")
  # BOT_270t was COMMON at launch; later removal is undated representation context only.
  bot270t=read(ROOT/"data/BOT_270t.json")
  assert bot270t["2018-08-08"]["nativeTagsOwned"]["203"]=="1"
