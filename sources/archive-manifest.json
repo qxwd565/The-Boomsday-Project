@@ -11,7 +11,9 @@
       "observedCardCount": 154,
       "absentOriginalIds": [
         "BOT_700"
-      ]
+      ],
+      "extractionSha256": "76eabd5f72a6addb458ecb169a8a18d99ab23e3d312425231f4958c72e0a12ef",
+      "gitBlobSHA1": "8dfb9088ef158f67310db1b36513913dd4469b76"
     },
     {
       "build": 26757,
@@ -21,7 +23,9 @@
       "observedCardCount": 154,
       "absentOriginalIds": [
         "BOT_700"
-      ]
+      ],
+      "extractionSha256": "35c8a7c6d404736510d4141afa72fb41ce06c023a439318e11573cd120ce4208",
+      "gitBlobSHA1": "bfa572b286f8531e71c276897e1af45b9eafbffa"
     },
     {
       "build": 27358,
@@ -31,7 +35,9 @@
       "observedCardCount": 154,
       "absentOriginalIds": [
         "BOT_700"
-      ]
+      ],
+      "extractionSha256": "772ee6d478149b2b0e8dd560e8e7942493ff2ed05e8ecb4595b9e1137dd9a76a",
+      "gitBlobSHA1": "4dbb18a2cf27153c68908a79d8074ebc5bac9983"
     },
     {
       "build": 27405,
@@ -41,7 +47,9 @@
       "observedCardCount": 154,
       "absentOriginalIds": [
         "BOT_700"
-      ]
+      ],
+      "extractionSha256": "f9bb83f88c9ef9a3eb6acb367746b50127d4dcdd0441498e93d380ae60cfa340",
+      "gitBlobSHA1": "13a3b777d24cba8bc8e2ac5a7e22237825247c7d"
     },
     {
       "build": 28556,
@@ -51,7 +59,9 @@
       "observedCardCount": 154,
       "absentOriginalIds": [
         "BOT_700"
-      ]
+      ],
+      "extractionSha256": "f9bb83f88c9ef9a3eb6acb367746b50127d4dcdd0441498e93d380ae60cfa340",
+      "gitBlobSHA1": "c6f2c1ca9a5d6d8d2d0f489fe4c85f393fc574c4"
     },
     {
       "build": 28855,
@@ -61,7 +71,9 @@
       "observedCardCount": 154,
       "absentOriginalIds": [
         "BOT_700"
-      ]
+      ],
+      "extractionSha256": "accd815030de426efdeb9ab938cc37ebef9e0404dac5d3cbdb31e4aa865e843e",
+      "gitBlobSHA1": "622f15c312628fbed1e340c9633a5cf122db4d91"
     },
     {
       "build": 30103,
@@ -71,7 +83,9 @@
       "observedCardCount": 154,
       "absentOriginalIds": [
         "BOT_700"
-      ]
+      ],
+      "extractionSha256": "7ce0f82d07ed24e2c303659d0a55cc0a65bef88b5edf322de1712585e02ed2ea",
+      "gitBlobSHA1": "06a42d945dded77fcb738bc372cb9f6314976036"
     },
     {
       "build": 30795,
@@ -81,7 +95,9 @@
       "observedCardCount": 154,
       "absentOriginalIds": [
         "BOT_700"
-      ]
+      ],
+      "extractionSha256": "db4d1b4bd8c8944791718795dc69678e7b834465a40fc86d2ae93dbc83fe5b61",
+      "gitBlobSHA1": "45f290df2c5a36da59e5ff6644b39a4d6d1f74bb"
     },
     {
       "build": 31022,
@@ -91,7 +107,9 @@
       "observedCardCount": 154,
       "absentOriginalIds": [
         "BOT_700"
-      ]
+      ],
+      "extractionSha256": "db4d1b4bd8c8944791718795dc69678e7b834465a40fc86d2ae93dbc83fe5b61",
+      "gitBlobSHA1": "b6b6b54d6d84eb44547bfdf19e43fe7d3b0a9137"
     },
     {
       "build": 31268,
@@ -99,7 +117,9 @@
       "xmlSha256": "016adca4cafcd19f2d9eb3397b7acd3035db594b5c5bd91e77370f57bdb483c4",
       "bytes": 19838736,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "c467c27f40c68fda28d1421efb53ad3c80af8cb7fa94edb01aee19e5641c9088",
+      "gitBlobSHA1": "d9403c363deeca2b881b1a296a2cfa5e8994c610"
     },
     {
       "build": 31761,
@@ -107,7 +127,9 @@
       "xmlSha256": "4d0e91ec82a10e363189db1785fbdabe790aeb4077d25353b349ce9ee9c96597",
       "bytes": 20018781,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "c467c27f40c68fda28d1421efb53ad3c80af8cb7fa94edb01aee19e5641c9088",
+      "gitBlobSHA1": "e52c4b50abff45c6f7dcf2c4116cee338a0ca3ce"
     },
     {
       "build": 32708,
@@ -115,7 +137,9 @@
       "xmlSha256": "2bd58e2a3982a1dc0bfa3182c2e1e4912e2a55fcec6f4f8b33d639afa3a9ce7e",
       "bytes": 20863601,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "f553bc74aa00ec00a46008ec277c707cee43368a9fac3ec1c3a317cc35b6b6da",
+      "gitBlobSHA1": "bd13ef97acaf2de1246ccc0e4cd5ccdc77a0927d"
     },
     {
       "build": 33157,
@@ -123,7 +147,9 @@
       "xmlSha256": "82b6923cd7304131586c3acdbbca4a9ff9a64cb1d6db7403bdaf3d4ef4f5b8d1",
       "bytes": 20865540,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "31358549c4edc13ed29afba91e9c4e305f402d09edd0bb64347ed070e808e4e9",
+      "gitBlobSHA1": "367fdbaa1785134350b664bb9fc160cb2c77428c"
     },
     {
       "build": 33402,
@@ -131,7 +157,9 @@
       "xmlSha256": "71d952172884246deac0bed81d20421f31b6d6796d684efee87abb0cc4625afa",
       "bytes": 20865606,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "64009ff7ee678f4b48228a9b3d266b6366bd935f9bc080ce0b8502f50f11ed26",
+      "gitBlobSHA1": "84a27380b0ad7870587da0d1591cd683d8f59a70"
     },
     {
       "build": 44222,
@@ -139,7 +167,9 @@
       "xmlSha256": "abe292d304af3fec9d84707b8326cf4104e370b8fc93e8adfa2c1156988cfdf5",
       "bytes": 24945149,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "456f36fd9c85e739e3fe646073c98fad6b29745d51ccc0bba047ae1a2d4bed6a",
+      "gitBlobSHA1": "f0da6657f43ca14199f16dfa261962edc97a3cf8"
     },
     {
       "build": 77662,
@@ -147,7 +177,9 @@
       "xmlSha256": "36879caf88f629052e57d728d1fb3649a21f7198f649ab1cdc916c72ab1b8e29",
       "bytes": 35250262,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "27bf572eb51294bf285108516bf0b688d173ec582cdae6667a99ff527ff875e0",
+      "gitBlobSHA1": "c17c51e926966f13e7a10d58015847a8de21ba7e"
     },
     {
       "build": 155409,
@@ -155,7 +187,9 @@
       "xmlSha256": "6b0cc04e3181ee49d34372eb14d7f57760aeb308f3b614b2f6729b44f9295d90",
       "bytes": 71800038,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "3e3ec571586e4a98426ccb8adf47ebbbcddbb525bcd91808c43dce8c461ee9f7",
+      "gitBlobSHA1": "a697e7a78e01cafef41f3c2c05484f4fa45221a3"
     },
     {
       "build": 158725,
@@ -163,7 +197,9 @@
       "xmlSha256": "5a01259c4f9b13b0ddecce04718ef5de16ec4cae3867957835559946f89ff439",
       "bytes": 73676143,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "2b928c7148525af128490bde7169a6fadb1fb66483cb829e89706f1d6241fdac",
+      "gitBlobSHA1": "5584aa8bc3e54415ccd57196743e6be079bcbe19"
     },
     {
       "build": 163976,
@@ -171,7 +207,9 @@
       "xmlSha256": "73043cbecbfadd4cc6ffe42ddd977a6667ac60fb2efd8aec19d2abfe1977b6d4",
       "bytes": 74338456,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "2b928c7148525af128490bde7169a6fadb1fb66483cb829e89706f1d6241fdac",
+      "gitBlobSHA1": "2e4859f10b07e3c9f8406bd77fb54a94d7807502"
     },
     {
       "build": 165029,
@@ -179,7 +217,9 @@
       "xmlSha256": "1fa3e9bae99d369dbbcb622f964f225a1506d48344c5535ac1c83543b4bc3d53",
       "bytes": 72265870,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "80c84375944a00d70195721b41e94cf802ce1ab14c012debfd5953017d66fa94",
+      "gitBlobSHA1": "53ed48ea6ed3dad5908d865c56a1df3b6d1615e4"
     },
     {
       "build": 168129,
@@ -187,7 +227,9 @@
       "xmlSha256": "4f750bb9270117c595aae59453ecd2d94f4c8dc8cc351ce2319b996170bd76c5",
       "bytes": 72283422,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "5c09bc65f707e7fc3622ff9ee440eb09b6bcad7ef3b9a68bbd22c2e82c66a00c",
+      "gitBlobSHA1": "4e09d0846dc8428527509d46eab02d7435582c72"
     },
     {
       "build": 168788,
@@ -195,7 +237,9 @@
       "xmlSha256": "48c1613072af38c562a4c6f0ac7b8247bb8ca166357f125321577060410ff1cc",
       "bytes": 72508060,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "34a3a4b73a5aa9c5abf4b1efffd85ce0011ea9f66c04dddeea09620504b52189",
+      "gitBlobSHA1": "8eb8fc51eaf0e9b3b4e36ceec873db5526b1eea6"
     },
     {
       "build": 170126,
@@ -203,7 +247,9 @@
       "xmlSha256": "df31e3949cf6219e14d2d54d9fcdc58dc4442937494b2c214945d321d793a055",
       "bytes": 72514251,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "34a3a4b73a5aa9c5abf4b1efffd85ce0011ea9f66c04dddeea09620504b52189",
+      "gitBlobSHA1": "11105466f4d73a76453a7e6259ecbf40ea7a4a15"
     },
     {
       "build": 170824,
@@ -211,7 +257,9 @@
       "xmlSha256": "8a407ab48fc4f7ded3eaa72870f4330facb82a1f334bb843258c982b9193988f",
       "bytes": 74386576,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "e45b721d2eef40985c34475a4e61b2a9b3ab9ed97c003d3e386d9a73ff0cff26",
+      "gitBlobSHA1": "d95e856caf33b1de555b327d91874a47c8a1f6e5"
     },
     {
       "build": 195316,
@@ -219,7 +267,9 @@
       "xmlSha256": "326d2fe2662a8931f0a1f19aa1ceeb90808c75703ce98ba5ad4230b07ce6b0a9",
       "bytes": 81864271,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "e546737834d113b959db2cc152d5d5c84bbb6e11fb031ccdbe7f36ad1d6feab2",
+      "gitBlobSHA1": "add9b6fe88449384a211774d968a7aca66750a49"
     },
     {
       "build": 195635,
@@ -227,7 +277,9 @@
       "xmlSha256": "a220a1fffc23afde38b8fc79ca4a73e88a54a71c12711608130766a0f0f1351f",
       "bytes": 83784251,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "f0cbf282e6f006f37ffb8bff129252a77ac67614ab37d59e94f4ba5a69c2a30c",
+      "gitBlobSHA1": "0ec9a0c4bbfa0b45b6362ce85a7fe93f44be129d"
     },
     {
       "build": 198314,
@@ -235,7 +287,9 @@
       "xmlSha256": "9afc170ffd706ba492d273929af56f1e7030d77fefe4c2af5bf1934bb42d1b41",
       "bytes": 84529653,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "89e6e3961ece3803475a1c0dbca5681f96126a281ea299d2e4298420cd4ab5b5",
+      "gitBlobSHA1": "38520b6679c084aa711936c25ca9178251a7040e"
     },
     {
       "build": 198608,
@@ -243,7 +297,9 @@
       "xmlSha256": "515c60eb13b4e9c3eff014f2d97865198769f586363a0680df7e10417e4dbfde",
       "bytes": 84544127,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "20c04180f10a33c3d5822c8374cf64afc9ce5b9ee8f3fd78b12c1ce78305574d",
+      "gitBlobSHA1": "7068e215c8de3a36e2e984d868f89865cfdcb0bd"
     },
     {
       "build": 202360,
@@ -251,7 +307,9 @@
       "xmlSha256": "e261b56fe7ce5dc7300f94ad39c111b02fa2b71203524b785762cc7b71f69830",
       "bytes": 85643752,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "0804a1519a87267dc3224263604a5c2a233bada3cfa03a50d3123f191ddac55f",
+      "gitBlobSHA1": "724be76f4999b1252030ad52bfec55bfff8b4fe4"
     },
     {
       "build": 203120,
@@ -259,7 +317,9 @@
       "xmlSha256": "bfb2c9f952e3343f253a97e7a4aa2144d7a44d2c85e056846c7f4d509d68fe8a",
       "bytes": 86814146,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "7b32e0b908c9fd23cd2752f65e110162720870286da8512d90cbeadbd55219a8",
+      "gitBlobSHA1": "a82c9635e07805d5b826cb3510085e63865e46ef"
     },
     {
       "build": 209698,
@@ -267,7 +327,9 @@
       "xmlSha256": "5625316024488e65c0cad7a3409775e1a70e14aa896fd2ee90eb3426f89f9ca2",
       "bytes": 89221841,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "7b32e0b908c9fd23cd2752f65e110162720870286da8512d90cbeadbd55219a8",
+      "gitBlobSHA1": "97c4dd6eeb93bbc8d84efc977d9422e036c12fc1"
     },
     {
       "build": 210009,
@@ -275,7 +337,9 @@
       "xmlSha256": "672f96b5396ddb4705ea64f0acf8ae9d27e7dcc2544847e02a96342a04581a41",
       "bytes": 90076568,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "3ab105a00eff2b18ffc698b958fc41a9d01d17c75fe68314fb46efabdbfc824f",
+      "gitBlobSHA1": "14c11eb7f69554ca61946cbd5671ca831a90738d"
     },
     {
       "build": 217489,
@@ -283,7 +347,9 @@
       "xmlSha256": "6dfe10c33d284ade4b0675f24a51e11510011e8cd70cf1112774f2babcf1b2c2",
       "bytes": 92244917,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "0fc94432cd2fd4a7d3602a6ac27a91b693e7510c7556e985c7c623e6fd745911",
+      "gitBlobSHA1": "7df5c3d87f5a6a48062abfdf164372937f0d3449"
     },
     {
       "build": 217964,
@@ -291,7 +357,9 @@
       "xmlSha256": "039e4cb30c4e4a994778edcd0d6af9b60c1f0ef1571aab8d02af62568681bddf",
       "bytes": 93748504,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "958f172dcf57a4688c8e1ae8c705274a324cb4dc0c1a293e88e8a50512a5a3bc",
+      "gitBlobSHA1": "945d0335224f8f135167e147202e0728f3249247"
     },
     {
       "build": 237510,
@@ -299,7 +367,9 @@
       "xmlSha256": "a86b5126943a91ceb1e18decca646ce533f0a06c3fec34e12dc11f45e602c3e6",
       "bytes": 101814239,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "30cab468d76c6ff33d5f8447e0115cefc72f8bc33ddefcec5d66f7f25ea9e64a",
+      "gitBlobSHA1": "9d80ec16ec05dab7b242002c3d7beb8db405b37d"
     },
     {
       "build": 247416,
@@ -307,7 +377,9 @@
       "xmlSha256": "a3b0e3dcd112626aa47ba16ede1b26506eed175b1fda288c1b6952065c06aac4",
       "bytes": 104239425,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "94d6e28c5b037e470dee6e0c7dfb6bf130868b9b69576786963b9c68e509a96e",
+      "gitBlobSHA1": "ae617414dabe0312c0e863592aaca5c25982db6f"
     },
     {
       "build": 256589,
@@ -315,7 +387,9 @@
       "xmlSha256": "420224a8c02eeea4ce7d3f1b39f50d5754b2b869118d4d215ef7c5ca1526594c",
       "bytes": 70507724,
       "observedCardCount": 155,
-      "absentOriginalIds": []
+      "absentOriginalIds": [],
+      "extractionSha256": "85f01ab17f8d6ccf379a876fd36618695762d5ed28445e055e9ec045e120cef5",
+      "gitBlobSHA1": "85cb9ab112ea0be4e98350c68ad650606ec45c66"
     }
   ]
 }
