@@ -258,7 +258,9 @@ def main():
   out.update(date_map)
   write(ROOT/"data"/(cid+".json"),out)
  for record in cards:
-  record.update(strip_type_fields(record))
+  normalized=strip_type_fields(record)
+  record.clear()
+  record.update(normalized)
   if record["id"]=="BOT_246":
    for tag in record.get("nativeTags",[]):
     if int(tag["id"])==215: tag["value"]=2
