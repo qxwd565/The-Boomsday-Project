@@ -266,6 +266,10 @@ def main():
   approved_current=next((x for x in cards if x["id"]==cid),None)
   if approved_current is None: raise ValueError(cid)
   cur.update(copy.deepcopy(approved_current))
+  for field,value in original_card.items():
+   lowered=field.lower()
+   if ("relation" in lowered or lowered.startswith("related")) and field not in cur:
+    cur[field]=copy.deepcopy(value)
   if cid=="BOT_246":
    for t in cur.get("nativeTags",[]):
     if t["id"]==215: t["value"]=2
