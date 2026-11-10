@@ -126,7 +126,7 @@ def parse_xml(path, wanted):
       locales[locale]={"present":True,"value":"".join(child.itertext())}
     strings[tid]={"present":True,"locales":locales,
                   "valueAttributePresent":"value" in t.attrib,
-                  "valueAttribute":t.attrib.get("value")}
+                  "valueAttribute":t.attrib.get("value"),"textContent":"".join(t.itertext())}
   if cid in result: raise ValueError(f"duplicate XML entity {cid} in {path}")
   result[cid]={"owned":owned,"referenced":refs,"strings":strings}
   e.clear()
