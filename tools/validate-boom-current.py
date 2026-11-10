@@ -78,7 +78,7 @@ def main():
  # R001: choice UI cost metadata only; no dated gameplay COST event.
  for cid in ("BOT_422a","BOT_422b"):
   assert xml_tag(cid,30103,"owned",48)=="ABSENT" and xml_tag(cid,30795,"owned",48)=="6",(cid,"choice COST XML")
- assert xml_text("BOT_422a",30103)=="[x]내 다른 하수인들에게\\n+1/+1을 부여합니다."
+ assert xml_text("BOT_422a",30103)=="[x]내 다른 하수인들에게\n+1/+1을 부여합니다."
  assert xml_text("BOT_422a",30795)==xml_text("BOT_422a",30103)
  assert xml_text("BOT_422b",30103)=="2/2 나무정령을 둘 소환합니다."
  assert xml_text("BOT_422b",30795)==xml_text("BOT_422b",30103)
@@ -105,8 +105,8 @@ def main():
  assert xml_text("BOT_604",210009)==xml_text("BOT_604",209698)
  undated_tag("BOT_604",192,"owned","2","1")
  # R007: temporary wording is an undated observation, with exact [x] and LF.
- bot568_before="[x]카드를 3장 뽑습니다.\\n내 턴이 끝날 때,\\n그 카드들을 버립니다."
- bot568_after="[x]카드를 3장 뽑습니다.\\n그 카드들은 <b>일시적</b>입니다."
+ bot568_before="[x]카드를 3장 뽑습니다.\n내 턴이 끝날 때,\n그 카드들을 버립니다."
+ bot568_after="[x]카드를 3장 뽑습니다.\n그 카드들은 <b>일시적</b>입니다."
  assert xml_text("BOT_568",202360)==bot568_before
  assert xml_text("BOT_568",203120)==bot568_after
  assert xml_tag("BOT_568",202360,"referenced",3630)=="ABSENT"
@@ -117,8 +117,8 @@ def main():
  assert central["observations"]["undated"]["BOT_568"]["nativeRawText"]["after"]==bot568_after
  undated_tag("BOT_568",3630,"referenced","ABSENT","1")
  # R008: original bomb text keeps [x]; later keyword wording has no invented date.
- bot511_before="[x]내게 피해를 5 줍니다.\\n카드를 1장 뽑습니다.\\n이 카드를 뽑아도\\n폭발합니다."
- bot511_after="<b>뽑을 때 시전</b>\\n내게 피해를 5 줍니다."
+ bot511_before="[x]내게 피해를 5 줍니다.\n카드를 1장 뽑습니다.\n이 카드를 뽑아도\n폭발합니다."
+ bot511_after="<b>뽑을 때 시전</b>\n내게 피해를 5 줍니다."
  assert xml_text("BOT_511t",25770)==bot511_before
  assert xml_text("BOT_511t",26757)==bot511_after
  assert xml_tag("BOT_511t",26757,"referenced",1077)=="1"
@@ -140,7 +140,7 @@ def main():
  # BOT_237: launch wording is not the later pre-29.0 wording; only the confirmed
  # 2024 representation transition is dated.
  assert xml_text("BOT_237",25770)=="<b>합체</b>, 이 하수인은 주문이나 영웅 능력의 대상으로 지정되지 않습니다."
- assert xml_text("BOT_237",195316)=="[x]<b>합체</b>, 주문이나\\n영웅 능력의 대상으로\\n지정되지 않습니다."
+ assert xml_text("BOT_237",195316)=="[x]<b>합체</b>, 주문이나\n영웅 능력의 대상으로\n지정되지 않습니다."
  assert xml_text("BOT_237",195635)=="<b>합체</b>, <b>모면</b>"
  assert len(cards)==155 and sum(bool(x.get("collectible")) for x in cards)==136
  assert len(obs["intentionalRulesAndAvailability"])==9 and len(obs["displayAndNativeRepresentationContext"])==11
