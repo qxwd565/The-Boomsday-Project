@@ -395,6 +395,10 @@ def main():
             render_card["nativeTagsReferenced"] = copy.deepcopy(data["_current"].get("nativeTagsReferenced", {}))
             if "nativeRawText" in data["_current"]:
                 render_card["nativeRawText"] = copy.deepcopy(data["_current"]["nativeRawText"])
+            render_card["nativeStringTags"] = {
+                "launch": copy.deepcopy(data["_meta"].get("launchStringTags", {})),
+                "current": copy.deepcopy(data["_meta"].get("currentStringTags", {})),
+            }
             for field, value in data["_current"].items():
                 lowered = field.lower()
                 if "relation" in lowered or lowered.startswith("related"):
