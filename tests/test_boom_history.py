@@ -155,6 +155,10 @@ def check():
  assert bot237["2024-03-12"]["nativeRawText"]==bot237["2024-03-12"]["source"]["afterStrings"]["184"]["locales"]["koKR"]["value"]
  assert read(ROOT/"data/BOT_568.json")["2018-08-08"]["nativeRawText"]=="카드를 3장 뽑습니다.\n내 턴이 끝날 때,\n그 카드들을 버립니다."
  assert read(ROOT/"data/BOT_511t.json")["2018-08-08"]["nativeRawText"]=="내게 피해를 5 줍니다.\n카드를 1장 뽑습니다.\n이 카드를 뽑아도\n폭발합니다."
+ for cid in ("BOT_568","BOT_511t"):
+  undated=central["observations"]["undated"][cid]
+  assert undated["text"]["date"] is None and undated["nativeRawText"]["date"] is None,(cid,"undated wording stays undated")
+ assert central["observations"]["undated"]["BOT_568"]["text"]["before"]=="카드를 3장 뽑습니다.<br></br>내 턴이 끝날 때,<br></br>그 카드들을 버립니다."
  # 21 corrected launch values.
  initial_fixes={"BOT_021":{"attack":1},"BOT_066":{"races":["MECHANICAL"],"race":"기계"},
  "BOT_066t":{"races":["MECHANICAL"],"race":"기계"},"BOT_251":{"races":["MECHANICAL"],"race":"기계"},
