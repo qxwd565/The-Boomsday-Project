@@ -69,6 +69,8 @@ NEW_EVENTS={
 }
 DATE_BUILDS={
  "2018-10-19":(26757,27358),
+ "2024-03-12":(195316,195635),
+ "2025-03-19":(217489,217964),
  "2019-06-04":(31022,31268),
  "2019-08-27":(33157,33402),
  "2020-03-27":(33402,44222),
@@ -81,6 +83,14 @@ DATE_BUILDS={
  "2024-10-30":(209698,210009),
  "2026-03-11":(217964,237510),
  "2026-07-22":(237510,247416),
+}
+REPRESENTATION_EVENTS={
+ "2024-03-12":{
+  "BOT_237":{"text":"<b>합체</b>, <b>모면</b>","rawTagIds":[311,332,1211],"findingId":"BOOM-BAL-R006"}},
+ "2025-03-19":{
+  "BOT_042t":{"rawTagIds":[187,45],"findingId":"BOOM-BAL-R005"},
+  "BOT_286":{"rawTagIds":[187,45],"findingId":"BOOM-BAL-R005"},
+  "BOT_406":{"rawTagIds":[187,45],"findingId":"BOOM-BAL-R005"}}
 }
 RELEVANT_TAGS={45,47,48,200,215,1635,2523,2534,2539,2540,2542}
 LOGICAL_FIELDS=("name","type","cardClass","classes","rarity","collectible","cost","attack","health","durability","armor","text","races","race","spellSchool","mechanics","flavor")
@@ -175,6 +185,8 @@ def main():
   initial=copy.deepcopy(events[release][cid])
   initial.update(INITIAL_FIX.get(cid,{}))
   initial=strip_type_fields(initial)
+  # Choice UI display cost is current-only; immutable launch XML has no COST.
+  if cid in ("BOT_422a","BOT_422b"): initial.pop("cost",None)
   release_build=31268 if cid=="BOT_700" else 25770
   initial["nativeTagsOwned"]=copy.deepcopy(xml[release_build][cid]["owned"])
   initial["nativeTagsReferenced"]=copy.deepcopy(xml[release_build][cid]["referenced"])
@@ -187,6 +199,9 @@ def main():
     day=DATE_FIX.get(old_day,old_day)
     rows[day]=copy.deepcopy(items[cid])
   for day,items in NEW_EVENTS.items():
+   if cid in items:
+    rows[day]=merge(rows.get(day,{}),items[cid])
+  for day,items in REPRESENTATION_EVENTS.items():
    if cid in items:
     rows[day]=merge(rows.get(day,{}),items[cid])
   prev=copy.deepcopy(initial)
@@ -211,6 +226,8 @@ def main():
    if "spellSchool" in logical: relevant.add(1635)
    if "races" in logical:
     relevant.update((200,2523,2534,2539,2540,2542))
+   if cid in REPRESENTATION_EVENTS.get(day,{}):
+    relevant.update(REPRESENTATION_EVENTS[day][cid]["rawTagIds"])
    raw=[]
    for role in ("owned","referenced"):
     a=before_xml[role]; b=after_xml[role]
@@ -228,6 +245,9 @@ def main():
    next_state["nativeTagsReferenced"]=prev_ref
    next_state["nativeTags"]=flat_tags(prev_owned,prev_ref,names)
    next_state["rawTagDelta"]=raw
+   if cid in REPRESENTATION_EVENTS.get(day,{}):
+    next_state["eventKind"]="confirmed-representation"
+    next_state["findingId"]=REPRESENTATION_EVENTS[day][cid]["findingId"]
    next_state["source"]={"beforeBuild":before_build,"afterBuild":after_build,
       "beforeCommit":bybuild[before_build]["commit"],"afterCommit":bybuild[after_build]["commit"],
       "beforeXmlSha256":bybuild[before_build]["xmlSha256"],"afterXmlSha256":bybuild[after_build]["xmlSha256"]}
@@ -257,6 +277,10 @@ def main():
     if state.get("rawTagDelta"):
      entry["rawTagDelta"]=copy.deepcopy(state["rawTagDelta"])
     entry["source"]=source
+   if day=="2018-10-19" and cid=="BOT_270": entry["dateConfidence"]="candidate"
+   if day in REPRESENTATION_EVENTS and cid in REPRESENTATION_EVENTS[day]:
+    entry["eventKind"]="confirmed-representation"
+    entry["findingId"]=REPRESENTATION_EVENTS[day][cid]["findingId"]
    date_map[day]=entry
    prev_state=state
   data=read(ROOT/"data"/(cid+".json"))
