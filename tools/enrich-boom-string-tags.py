@@ -68,7 +68,10 @@ def main():
     catalog=read(ROOT/"cards.json")
     cards=catalog["cards"]
     ids={c["id"] for c in cards}
-    launch=extract(xml_dir/"25770.xml",ids,bybuild[25770]["xmlSha256"],bybuild[25770]["observedCardCount"])
+    launch_2018=extract(xml_dir/"25770.xml",ids,bybuild[25770]["xmlSha256"],bybuild[25770]["observedCardCount"])
+    launch_2019=extract(xml_dir/"31268.xml",ids,bybuild[31268]["xmlSha256"],bybuild[31268]["observedCardCount"])
+    launch=copy.deepcopy(launch_2018)
+    launch["BOT_700"]=copy.deepcopy(launch_2019["BOT_700"])
     current=extract(xml_dir/"256589.xml",ids,bybuild[256589]["xmlSha256"],bybuild[256589]["observedCardCount"])
     changed=0
     for card in cards:
