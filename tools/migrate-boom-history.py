@@ -250,8 +250,13 @@ def main():
    states.append((day,next_state,next_state["source"]))
    prev=next_state; prev_xml=after_xml
   # The 215 value is a current/source correction, not a new dated balance event.
-  cur=copy.deepcopy(next((c for c in cards if c["id"]==cid),None))
-  if cur is None: raise ValueError(cid)
+  original_data=read(ROOT/"data"/(cid+".json"))
+  original_card=original_data.get("card")
+  if not isinstance(original_card,dict) or original_card.get("id")!=cid: raise ValueError(f"{cid}: original current card missing")
+  cur=copy.deepcopy(original_card)
+  approved_current=next((x for x in cards if x["id"]==cid),None)
+  if approved_current is None: raise ValueError(cid)
+  cur.update(copy.deepcopy(approved_current))
   if cid=="BOT_246":
    for t in cur.get("nativeTags",[]):
     if t["id"]==215: t["value"]=2
@@ -280,7 +285,7 @@ def main():
     entry["findingId"]=REPRESENTATION_EVENTS[day][cid]["findingId"]
    date_map[day]=entry
    prev_state=state
-  data=read(ROOT/"data"/(cid+".json"))
+  data=original_data
   meta={"schemaVersion":2,"mode":data.get("mode"),"artworkProvenance":copy.deepcopy(data.get("artworkProvenance",{}))}
   out={"_meta":meta,"_current":cur}
   out.update(date_map)
