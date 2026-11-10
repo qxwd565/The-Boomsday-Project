@@ -45,12 +45,63 @@ jobs:
           git -C /tmp/hsdata remote add origin https://github.com/HearthSim/hsdata.git
           mapfile -t commits < <(jq -r '.entries[].commit' sources/archive-manifest.json)
           git -C /tmp/hsdata fetch --depth=1 origin "${commits[@]}"
-          while IFS=$'\t' read -r build commit expected bytes; do
+          while IFS=
+          echo "Verified immutable CardDefs archives: ${#commits[@]}"
+
+      - name: Migrate 155 cards from immutable release and dated XML snapshots
+        run: python tools/migrate-boom-history.py /tmp/boom-xml
+
+      - name: Synchronize date-first central ledger
+        run: python tools/sync-boom-history.py
+
+      - name: Build current and legacy API endpoints
+        run: python tools/build-api.py
+
+      - name: Run regression tests
+        run: python tests/test_boom_history.py
+
+      - name: Validate all cards, dated raw roles, and legacy replay against XML
+        run: python tools/validate-boom-current.py /tmp/boom-xml
+
+      - name: Commit migrated source and generated API
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cards.json render.json history.json data/*.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Migrate Boomsday to evidence-backed date-first card history"
+          fi
+          git push origin HEAD:main
+          echo "GENERATED_SHA=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+          git status --short
+
+      - name: Re-run complete pipeline with independent hash seeds
+        shell: bash
+        run: |
+          set -euo pipefail
+          for seed in 1 8675309; do
+            export PYTHONHASHSEED="$seed"
+            python tools/migrate-boom-history.py /tmp/boom-xml
+            python tools/sync-boom-history.py
+            python tools/build-api.py
+            python tests/test_boom_history.py
+            python tools/validate-boom-current.py /tmp/boom-xml
+            git diff --exit-code
+            test -z "$(git status --porcelain)"
+            echo "PYTHONHASHSEED=$seed: migrate/sync/build/tests/current clean at $(git rev-parse HEAD)"
+          done
+          test "$(git rev-parse HEAD)" = "$GENERATED_SHA"
+          echo "Verified final generated SHA: $GENERATED_SHA"
+\t' read -r build commit expected bytes blob_sha1; do
             target="/tmp/boom-xml/${build}.xml"
             git -C /tmp/hsdata show "${commit}:CardDefs.xml" > "$target"
             test "$(wc -c < "$target" | tr -d ' ')" = "$bytes"
+            actual_blob="$(git -C /tmp/hsdata rev-parse "${commit}:CardDefs.xml")"
+            test "$actual_blob" = "$blob_sha1"
             echo "${expected}  ${target}" | sha256sum --check
-          done < <(jq -r '.entries[] | [.build,.commit,.xmlSha256,.bytes] | @tsv' sources/archive-manifest.json)
+          done < <(jq -r '.entries[] | [.build,.commit,.xmlSha256,.bytes,.gitBlobSHA1] | @tsv' sources/archive-manifest.json)
           echo "Verified immutable CardDefs archives: ${#commits[@]}"
 
       - name: Migrate 155 cards from immutable release and dated XML snapshots
