@@ -42,7 +42,7 @@ def check():
  assert sum(bool(x.get("collectible")) for x in cards)==136
  assert sum(not bool(x.get("collectible")) for x in cards)==19
  assert central["schema"]==2 and central["format"]=="date-first-delta-v2"
- assert (central["initialStates"],central["followupEvents"],central["totalStates"])==(155,74,229)
+ assert (central["initialStates"],central["followupEvents"],central["totalStates"])==(155,78,233)
  assert len(central["events"]["2018-08-08"])==154
  assert "BOT_700" not in central["events"]["2018-08-08"]
  assert "BOT_700" in central["events"]["2019-06-04"]
@@ -52,6 +52,7 @@ def check():
  assert len(central["events"]["2023-02-15"])==12
  assert len(central["events"]["2023-04-05"])==4
  assert "2022-12-07" not in central["events"] and "2024-11-06" not in central["events"]
+ assert len(central["events"]["2024-03-12"])==1 and len(central["events"]["2025-03-19"])==3
  assert "2018-10-19" in central["events"] and "BOT_270" in central["events"]["2018-10-19"]
  assert len(obs["intentionalRulesAndAvailability"])==9
  assert len(obs["displayAndNativeRepresentationContext"])==11
@@ -138,8 +139,12 @@ def check():
   assert "48" not in src["2018-08-08"]["nativeTagsOwned"],(cid,"choice UI raw COST must be absent at launch")
   assert all("cost" not in src[d] for d in src if DATE.fullmatch(d)),(cid,"modern choice UI cost must not be backdated")
   assert byid[cid]["cost"]==6 and src["_current"]["cost"]==6
+  assert src.get("observations",{}).get("undated",{}).get("cost",{}).get("date") is None
+
 
  assert any(x["id"]==215 and x["value"]==2 for x in byid["BOT_246"]["nativeTags"])
+ assert read(ROOT/"data/BOT_246.json")["2018-08-08"]["nativeTagsOwned"]["215"]=="2"
+ assert read(ROOT/"data/BOT_246.json")["2021-03-26"]["nativeTagsOwned"]["215"]=="2"
  assert read(ROOT/"data/BOT_246.json")["_current"]["nativeTagsOwned"].get("215")=="2"
  # Current line-break repairs are unchanged from the immutable preparation snapshot.
  for cid,old in base.items():
@@ -155,5 +160,5 @@ def check():
  # Confirm 156 source archive snapshots were not collapsed into an assumed same-day release.
  assert len([x for x in cards if x["id"]!="BOT_700"])==154
  assert len(legacy["cards"])==sum(1 for c in cards if rbyid[c["id"]].get("history"))
- print(json.dumps({"cards":155,"collectible":136,"nonCollectible":19,"initialStates":155,"followupEvents":74,"totalStates":229,"dateCorrections":5,"initialFixes":21,"missingGameplayEvents":23,"intentionalRules":9,"representationGroups":11,"grammarSuggestions":8,"grammarHold":1,"legacyHistoryCards":len(legacy["cards"])},ensure_ascii=False))
+ print(json.dumps({"cards":155,"collectible":136,"nonCollectible":19,"initialStates":155,"followupEvents":78,"totalStates":233,"dateCorrections":5,"initialFixes":21,"missingGameplayEvents":23,"intentionalRules":9,"representationGroups":11,"grammarSuggestions":8,"grammarHold":1,"legacyHistoryCards":len(legacy["cards"])},ensure_ascii=False))
 if __name__=="__main__": check()
