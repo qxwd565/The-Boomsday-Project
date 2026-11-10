@@ -1,0 +1,321 @@
+{
+  "schema": 1,
+  "repository": "HearthSim/hsdata",
+  "path": "CardDefs.xml",
+  "entries": [
+    {
+      "build": 25770,
+      "commit": "48d8f8261c56e0b5109f5e363cd47c000585857f",
+      "xmlSha256": "a41b15ebf4a1d263e84588c1e7c99eb54cce46dd8e84e283c95a6d6da2df0c7d",
+      "bytes": 15630985,
+      "observedCardCount": 154,
+      "absentOriginalIds": [
+        "BOT_700"
+      ]
+    },
+    {
+      "build": 26757,
+      "commit": "60ceb7f7842724699adb79bee462d870b841de09",
+      "xmlSha256": "1cffc72a7e00c56eea776567b1cbcdfccec302dce1acfda9a4a283d6be27650a",
+      "bytes": 15745366,
+      "observedCardCount": 154,
+      "absentOriginalIds": [
+        "BOT_700"
+      ]
+    },
+    {
+      "build": 27358,
+      "commit": "1fdd42edae20fe2c5477776a8bb0d0e2a209a5ac",
+      "xmlSha256": "306a14e083346e4731151c21b7b1e323fc70be4e6aae3ece55cb7114a845554a",
+      "bytes": 15745510,
+      "observedCardCount": 154,
+      "absentOriginalIds": [
+        "BOT_700"
+      ]
+    },
+    {
+      "build": 27405,
+      "commit": "5e0faca203add6afb31961daf1f0f448facb4c93",
+      "xmlSha256": "faae32d3a3f0b72aa65172463ee3b2154ec09e4d0221be764d16dcce54099304",
+      "bytes": 15770364,
+      "observedCardCount": 154,
+      "absentOriginalIds": [
+        "BOT_700"
+      ]
+    },
+    {
+      "build": 28556,
+      "commit": "f9d936096897c6fd4d723102381769efd8b9be89",
+      "xmlSha256": "bd0d4bc8d1ecd0695e01ea2576401fb594f48bfe33ca81458e323a3cda556d85",
+      "bytes": 17397107,
+      "observedCardCount": 154,
+      "absentOriginalIds": [
+        "BOT_700"
+      ]
+    },
+    {
+      "build": 28855,
+      "commit": "aeffaf09cdbba14654c4543792558fab68cee363",
+      "xmlSha256": "169ecd1a285e6b3356f0d5f26eb5be4975b8f455d2952de750e4b4c9d5921022",
+      "bytes": 17401900,
+      "observedCardCount": 154,
+      "absentOriginalIds": [
+        "BOT_700"
+      ]
+    },
+    {
+      "build": 30103,
+      "commit": "3e1a03e9c4206c1cff264d1b7d9fcb522ed8a059",
+      "xmlSha256": "980fc262b862962250ee46675dbd142637542ca498647c9c1e13cd8956a90a16",
+      "bytes": 18296591,
+      "observedCardCount": 154,
+      "absentOriginalIds": [
+        "BOT_700"
+      ]
+    },
+    {
+      "build": 30795,
+      "commit": "32c8b31a69662efc5984a09f7ba5eaced12ff4c8",
+      "xmlSha256": "bb834781da50c2a7a592784d3a1d140e7fac57c0f349ba5a724efc26fa183127",
+      "bytes": 19799871,
+      "observedCardCount": 154,
+      "absentOriginalIds": [
+        "BOT_700"
+      ]
+    },
+    {
+      "build": 31022,
+      "commit": "089a94c2fc524cc52ee76963",
+      "xmlSha256": "95219fea6d5638fa31890deb6468518c9a9189155f3e1f29512ec5758fe2adbe",
+      "bytes": 19800624,
+      "observedCardCount": 154,
+      "absentOriginalIds": [
+        "BOT_700"
+      ]
+    },
+    {
+      "build": 31268,
+      "commit": "d4dcf70622f19beddd0d6d56fdd5f053da99d223",
+      "xmlSha256": "016adca4cafcd19f2d9eb3397b7acd3035db594b5c5bd91e77370f57bdb483c4",
+      "bytes": 19838736,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 31761,
+      "commit": "02522f4d57def8c5c72deb6dfd537cbab6f819de",
+      "xmlSha256": "4d0e91ec82a10e363189db1785fbdabe790aeb4077d25353b349ce9ee9c96597",
+      "bytes": 20018781,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 32708,
+      "commit": "adedd63ac6a9181d379fcf320648fa4c7fb9ebf2",
+      "xmlSha256": "2bd58e2a3982a1dc0bfa3182c2e1e4912e2a55fcec6f4f8b33d639afa3a9ce7e",
+      "bytes": 20863601,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 33157,
+      "commit": "85b5a219afe49d5015725c344fd7412945a346b7",
+      "xmlSha256": "82b6923cd7304131586c3acdbbca4a9ff9a64cb1d6db7403bdaf3d4ef4f5b8d1",
+      "bytes": 20865540,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 33402,
+      "commit": "dd224aedef671a1bad6479df2a0e9cb2ea6da3cc",
+      "xmlSha256": "71d952172884246deac0bed81d20421f31b6d6796d684efee87abb0cc4625afa",
+      "bytes": 20865606,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 44222,
+      "commit": "fc67953f6f6eee064badde3f4a7bd07011508642",
+      "xmlSha256": "abe292d304af3fec9d84707b8326cf4104e370b8fc93e8adfa2c1156988cfdf5",
+      "bytes": 24945149,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 77662,
+      "commit": "9e10b526eed8a9c5ece2f73f0c2a6a3b60109d62",
+      "xmlSha256": "36879caf88f629052e57d728d1fb3649a21f7198f649ab1cdc916c72ab1b8e29",
+      "bytes": 35250262,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 155409,
+      "commit": "beaa46cc24c1332ad91d4f7ae096024f6ff7d394",
+      "xmlSha256": "6b0cc04e3181ee49d34372eb14d7f57760aeb308f3b614b2f6729b44f9295d90",
+      "bytes": 71800038,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 158725,
+      "commit": "54141c4a6bf3efeedaf69d7510b987f216ff00e6",
+      "xmlSha256": "5a01259c4f9b13b0ddecce04718ef5de16ec4cae3867957835559946f89ff439",
+      "bytes": 73676143,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 163976,
+      "commit": "cf08a2eee9159a63ff589cfe2deabc4035673871",
+      "xmlSha256": "73043cbecbfadd4cc6ffe42ddd977a6667ac60fb2efd8aec19d2abfe1977b6d4",
+      "bytes": 74338456,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 165029,
+      "commit": "ef8297aadee616ea2ffbc941a7b55a84b6cfc819",
+      "xmlSha256": "1fa3e9bae99d369dbbcb622f964f225a1506d48344c5535ac1c83543b4bc3d53",
+      "bytes": 72265870,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 168129,
+      "commit": "63bdc035f2d50bc3857d01f88ad13d79b235a0c0",
+      "xmlSha256": "4f750bb9270117c595aae59453ecd2d94f4c8dc8cc351ce2319b996170bd76c5",
+      "bytes": 72283422,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 168788,
+      "commit": "0c2c469a3285c149bd57576c91bef49a6f1deb02",
+      "xmlSha256": "48c1613072af38c562a4c6f0ac7b8247bb8ca166357f125321577060410ff1cc",
+      "bytes": 72508060,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 170126,
+      "commit": "da8f2db996f1e7191e501ebe2943af5636697e06",
+      "xmlSha256": "df31e3949cf6219e14d2d54d9fcdc58dc4442937494b2c214945d321d793a055",
+      "bytes": 72514251,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 170824,
+      "commit": "8bfb29fa4064a213262beb5a8941203f6aa7434c",
+      "xmlSha256": "8a407ab48fc4f7ded3eaa72870f4330facb82a1f334bb843258c982b9193988f",
+      "bytes": 74386576,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 195316,
+      "commit": "b0d06776272138cab032979722d18ca4de6545f0",
+      "xmlSha256": "326d2fe2662a8931f0a1f19aa1ceeb90808c75703ce98ba5ad4230b07ce6b0a9",
+      "bytes": 81864271,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 195635,
+      "commit": "e072e5d302a93dc6fb33542e7c528ae4d39560f0",
+      "xmlSha256": "a220a1fffc23afde38b8fc79ca4a73e88a54a71c12711608130766a0f0f1351f",
+      "bytes": 83784251,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 198314,
+      "commit": "ddc1e086647527fc739452d94d45a5c6c420b5f5",
+      "xmlSha256": "9afc170ffd706ba492d273929af56f1e7030d77fefe4c2af5bf1934bb42d1b41",
+      "bytes": 84529653,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 198608,
+      "commit": "006fdf0942b023459dded469f95aa613d81579c8",
+      "xmlSha256": "515c60eb13b4e9c3eff014f2d97865198769f586363a0680df7e10417e4dbfde",
+      "bytes": 84544127,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 202360,
+      "commit": "c8ac9ef48363e455e32ddcc4b5a179b8fb05c364",
+      "xmlSha256": "e261b56fe7ce5dc7300f94ad39c111b02fa2b71203524b785762cc7b71f69830",
+      "bytes": 85643752,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 203120,
+      "commit": "e1be76d35321e673770e5e3424e7a4d16ba5753d",
+      "xmlSha256": "bfb2c9f952e3343f253a97e7a4aa2144d7a44d2c85e056846c7f4d509d68fe8a",
+      "bytes": 86814146,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 209698,
+      "commit": "e6b9c5e51678d5035d1188f63c246326bb221c60",
+      "xmlSha256": "5625316024488e65c0cad7a3409775e1a70e14aa896fd2ee90eb3426f89f9ca2",
+      "bytes": 89221841,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 210009,
+      "commit": "0a387d653f339297339625710e4df91f0c62b67b",
+      "xmlSha256": "672f96b5396ddb4705ea64f0acf8ae9d27e7dcc2544847e02a96342a04581a41",
+      "bytes": 90076568,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 217489,
+      "commit": "62cc0f00dbed73f2d48ccefca6f611e6f8898986",
+      "xmlSha256": "6dfe10c33d284ade4b0675f24a51e11510011e8cd70cf1112774f2babcf1b2c2",
+      "bytes": 92244917,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 217964,
+      "commit": "fdad346dc49ebb5465f548a0a2b58b59edcbe087",
+      "xmlSha256": "039e4cb30c4e4a994778edcd0d6af9b60c1f0ef1571aab8d02af62568681bddf",
+      "bytes": 93748504,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 237510,
+      "commit": "a770d899b7ea12594f2edfc7d097f6ee0a858eb8",
+      "xmlSha256": "a86b5126943a91ceb1e18decca646ce533f0a06c3fec34e12dc11f45e602c3e2",
+      "bytes": 101814239,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 247416,
+      "commit": "cc80e8aa220f39632c9c742f8587265f7569c5ef",
+      "xmlSha256": "a3b0e3dcd112626aa47ba16ede1b26506eed175b1fda288c1b6952065c06aac4",
+      "bytes": 104239425,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    },
+    {
+      "build": 256589,
+      "commit": "31b034c26f24b8a66ece845ffd03c1ca397b9a02",
+      "xmlSha256": "420224a8c02eeea4ce7d3f1b39f50d5754b2b869118d4d215ef7c5ca1526594c",
+      "bytes": 70507724,
+      "observedCardCount": 155,
+      "absentOriginalIds": []
+    }
+  ]
+}
