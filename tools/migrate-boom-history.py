@@ -339,7 +339,9 @@ def main():
    prev_state=state
   data=original_data
   meta={"schemaVersion":2,"mode":data.get("mode"),"artworkProvenance":copy.deepcopy(data.get("artworkProvenance",{})),
-        "launchStrings":launch_strings,"currentStrings":current_strings}
+        "launchStrings":launch_strings,"currentStrings":current_strings,
+        "launchStringTagPresence":{"184":"184" in launch_strings,"185":"185" in launch_strings},
+        "currentStringTagPresence":{"184":"184" in current_strings,"185":"185" in current_strings}}
   out={"_meta":meta,"_current":cur}
   out.update(date_map)
   write(ROOT/"data"/(cid+".json"),out)
