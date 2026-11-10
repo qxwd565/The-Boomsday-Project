@@ -72,7 +72,8 @@ def check():
   if cid=="BOT_246":
    for t in expected["nativeTags"]:
     if t["id"]==215: t["value"]=2
-  assert cur==expected,(cid,"current API changed outside approved omissions/BOT_246")
+  diff={k:(expected.get(k,"ABSENT"),cur.get(k,"ABSENT")) for k in sorted(set(expected)|set(cur)) if expected.get(k,"ABSENT")!=cur.get(k,"ABSENT")}
+  assert cur==expected,(cid,"current API changed outside approved omissions/BOT_246",diff)
   src=read(ROOT/"data"/(cid+".json"))
   old=git_file("data/"+cid+".json")
   assert src["_meta"]["mode"]==old["mode"],(cid,"mode")
