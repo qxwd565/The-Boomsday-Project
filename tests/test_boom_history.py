@@ -114,7 +114,7 @@ def check():
    for d in days[1:]:
     if d>day: break
     target=apply_row(target,src[d])
-   for k in ("name","type","cardClass","classes","rarity","collectible","cost","attack","health","durability","armor","text","races","race","spellSchool","mechanics","nativeTags","nativeTagsOwned","nativeTagsReferenced"):
+   for k in ("name","type","cardClass","classes","rarity","collectible","cost","attack","health","durability","armor","text","races","race","spellSchool","mechanics","nativeRawText","nativeTags","nativeTagsOwned","nativeTagsReferenced"):
     assert restored.get(k,"ABSENT")==target.get(k,"ABSENT"),(cid,day,k,"legacy replay")
  # 21 corrected launch values.
  initial_fixes={"BOT_021":{"attack":1},"BOT_066":{"races":["MECHANICAL"],"race":"기계"},
@@ -145,7 +145,11 @@ def check():
    state=apply_row(state,src[d])
   assert state["nativeTagsOwned"].get("45")==str(health)
   assert state.get("durability")==src["2018-08-08"].get("durability")
- row=read(ROOT/"data/BOT_237.json")["2024-03-12"]
+ bot237=read(ROOT/"data/BOT_237.json")
+ assert bot237["2018-08-08"]["nativeRawText"]=="[x]<b>합체</b>, 주문이나\n영웅 능력의 대상으로\n지정되지 않습니다."
+ assert bot237["2018-08-08"]["text"]=="<b>합체</b>, 주문이나<br></br>영웅 능력의 대상으로<br></br>지정되지 않습니다."
+ row=bot237["2024-03-12"]
+ assert row["nativeRawText"]=="<b>합체</b>, <b>모면</b>"
  assert row["text"]=="<b>합체</b>, <b>모면</b>"
  raw={(x["role"],int(x["id"])):(x["before"],x["after"]) for x in row["rawTagDelta"]}
  assert raw[("owned",311)]==("1","ABSENT") and raw[("owned",332)]==("1","ABSENT")
