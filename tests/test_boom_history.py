@@ -116,6 +116,36 @@ def check():
     target=apply_row(target,src[d])
    for k in ("name","type","cardClass","classes","rarity","collectible","cost","attack","health","durability","armor","text","races","race","spellSchool","mechanics","nativeRawText","nativeTags","nativeTagsOwned","nativeTagsReferenced"):
     assert restored.get(k,"ABSENT")==target.get(k,"ABSENT"),(cid,day,k,"legacy replay")
+ # Immutable launch/current localized strings: preserve Tag presence, locale presence,
+ # exact [x] markers and LF independently from display text.
+ for cid,cur in byid.items():
+  src=read(ROOT/"data"/(cid+".json"))
+  launch=src["_meta"]["launchStrings"]; current=src["_meta"]["currentStrings"]
+  for strings,label in ((launch,"launch"),(current,"current")):
+   for tid in ("184","185"):
+    if tid in strings:
+     assert strings[tid]["present"] is True,(cid,label,tid,"tag presence")
+     for locale in ("koKR","enUS"):
+      if locale in strings[tid]["locales"]:
+       assert strings[tid]["locales"][locale]["present"] is True,(cid,label,tid,locale)
+  release_day="2019-06-04" if cid=="BOT_700" else "2018-08-08"
+  launch_text=launch.get("184",{}).get("locales",{}).get("koKR")
+  if launch_text is not None:
+   assert src[release_day]["nativeRawText"]==launch_text["value"],(cid,"launch raw text")
+   assert src[release_day]["text"]==launch_text["value"].replace("[x]","").replace("\\r\\n","\\n").replace("\\r","\\n").replace("\\n","<br></br>"),(cid,"launch display text")
+  else:
+   assert "nativeRawText" not in src[release_day] and "text" not in src[release_day],(cid,"absent launch CARDTEXT")
+  current_text=current.get("184",{}).get("locales",{}).get("koKR")
+  if current_text is not None:
+   assert src["_current"]["nativeRawText"]==current_text["value"],(cid,"current raw text")
+  else:
+   assert "nativeRawText" not in src["_current"],(cid,"absent current CARDTEXT")
+ bot237=read(ROOT/"data/BOT_237.json")
+ assert bot237["_meta"]["launchStrings"]["184"]["locales"]["koKR"]["value"]=="<b>합체</b>, 이 하수인은 주문이나 영웅 능력의 대상으로 지정되지 않습니다."
+ assert bot237["2018-08-08"]["nativeRawText"]=="<b>합체</b>, 이 하수인은 주문이나 영웅 능력의 대상으로 지정되지 않습니다."
+ assert bot237["2024-03-12"]["nativeRawText"]==bot237["2024-03-12"]["source"]["afterStrings"]["184"]["locales"]["koKR"]["value"]
+ assert read(ROOT/"data/BOT_568.json")["2018-08-08"]["nativeRawText"]=="카드를 3장 뽑습니다.\\n내 턴이 끝날 때,\\n그 카드들을 버립니다."
+ assert read(ROOT/"data/BOT_511t.json")["2018-08-08"]["nativeRawText"]=="내게 피해를 5 줍니다.\\n카드를 1장 뽑습니다.\\n이 카드를 뽑아도\\n폭발합니다."
  # 21 corrected launch values.
  initial_fixes={"BOT_021":{"attack":1},"BOT_066":{"races":["MECHANICAL"],"race":"기계"},
  "BOT_066t":{"races":["MECHANICAL"],"race":"기계"},"BOT_251":{"races":["MECHANICAL"],"race":"기계"},
