@@ -188,6 +188,11 @@ def main():
  assert raw[("owned",311)]==("1","ABSENT") and raw[("owned",332)]==("1","ABSENT")
  assert raw[("owned",1211)]==("ABSENT","1")
  assert central["events"]["2018-10-19"]["BOT_270"]["dateConfidence"]=="candidate"
+ for cid in ("BOT_568","BOT_511t"):
+  undated=central["observations"]["undated"][cid]
+  assert undated["text"]["date"] is None and undated["nativeRawText"]["date"] is None,(cid,"wording remains undated")
+ assert read(ROOT/"data/BOT_568.json")["2018-08-08"]["nativeRawText"]=="카드를 3장 뽑습니다.\\n내 턴이 끝날 때,\\n그 카드들을 버립니다."
+ assert read(ROOT/"data/BOT_511t.json")["2018-08-08"]["nativeRawText"]=="내게 피해를 5 줍니다.\\n카드를 1장 뽑습니다.\\n이 카드를 뽑아도\\n폭발합니다."
  # Explicit card-specific constraints.
  for cid in ("BOT_031","BOT_537","BOT_558"): assert byid[cid]["attack"]==0
  for cid in ("BOT_246","BOT_517"): assert byid[cid]["cost"]==0
