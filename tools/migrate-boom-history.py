@@ -168,7 +168,12 @@ def main():
   initial=copy.deepcopy(events[release][cid])
   initial.update(INITIAL_FIX.get(cid,{}))
   initial=strip_type_fields(initial)
-  states=[(release,initial,{"findingId":"BOOM-RELEASE","build":31268 if cid=="BOT_700" else 25770})]
+  release_build=31268 if cid=="BOT_700" else 25770
+  initial["nativeTagsOwned"]=copy.deepcopy(xml[release_build][cid]["owned"])
+  initial["nativeTagsReferenced"]=copy.deepcopy(xml[release_build][cid]["referenced"])
+  initial["nativeTags"]=flat_tags(initial["nativeTagsOwned"],initial["nativeTagsReferenced"],names)
+  states=[(release,initial,{"findingId":"BOOM-RELEASE","build":release_build,
+    "commit":bybuild[release_build]["commit"],"xmlSha256":bybuild[release_build]["xmlSha256"]})]
   rows={}
   for old_day,items in events.items():
    if cid in items and old_day!=release:
@@ -214,6 +219,7 @@ def main():
     else: target[str(d["id"])]=d["after"]
    next_state["nativeTagsOwned"]=prev_owned
    next_state["nativeTagsReferenced"]=prev_ref
+   next_state["nativeTags"]=flat_tags(prev_owned,prev_ref,names)
    next_state["rawTagDelta"]=raw
    next_state["source"]={"beforeBuild":before_build,"afterBuild":after_build,
       "beforeCommit":bybuild[before_build]["commit"],"afterCommit":bybuild[after_build]["commit"],
@@ -251,5 +257,6 @@ def main():
   out={"_meta":meta,"_current":cur}
   out.update(date_map)
   write(ROOT/"data"/(cid+".json"),out)
+ write(ROOT/"cards.json",catalog)
  print(json.dumps({"migratedCards":len(ids),"initialCards":sum(1 for c in cards if c["id"]!="BOT_700"),"newGameplayEvents":sum(len(x) for x in NEW_EVENTS.values()),"dateCorrections":DATE_FIX,"requiredXmlBuilds":sorted(required)},ensure_ascii=False))
 if __name__=="__main__": main()
