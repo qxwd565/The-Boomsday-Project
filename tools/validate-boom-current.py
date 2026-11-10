@@ -132,9 +132,10 @@ def main():
   assert xml_tag(cid,32708,"owned",415)=="1",(cid,"discover owned after")
   undated_tag(cid,415,"referenced","1","ABSENT")
   undated_tag(cid,415,"owned","ABSENT","1")
- for cid in ("BOT_238p4","BOT_435"):
-  assert xml_tag(cid,31761,"referenced",1052)=="1"
-  assert xml_tag(cid,32708,"owned",1052)=="1" and xml_tag(cid,32708,"referenced",1052)=="ABSENT"
+ assert xml_tag("BOT_238p4",31761,"referenced",1052)=="1"
+ assert xml_tag("BOT_238p4",32708,"owned",1052)=="1" and xml_tag("BOT_238p4",32708,"referenced",1052)=="ABSENT"
+ assert xml_tag("BOT_435",31761,"referenced",1052)=="ABSENT"
+ assert xml_tag("BOT_435",32708,"owned",1052)=="1" and xml_tag("BOT_435",32708,"referenced",1052)=="ABSENT"
  for cid in ("BOT_243","BOT_402","BOT_419","BOT_539"):
   assert xml_tag(cid,32708,"owned",1342)=="1"
  # BOT_237: launch wording is not the later pre-29.0 wording; only the confirmed
