@@ -78,6 +78,9 @@ def check():
   assert src["_meta"]["artworkProvenance"]==old["artworkProvenance"],(cid,"artwork provenance")
   assert src["_current"]["portrait"]==old["card"]["portrait"]
   assert src["_current"]["art"]==old["card"]["art"]
+  for field,value in old["card"].items():
+   if field not in cur:
+    assert src["_current"].get(field,"ABSENT")==value,(cid,field,"preserve original extra relation/current field")
   assert src["_current"]["nativeTags"]==cur["nativeTags"]
   assert src["_meta"]["artworkProvenance"]["portrait"]==old["artworkProvenance"]["portrait"]
   days=sorted(k for k in src if DATE.fullmatch(k))
