@@ -80,9 +80,9 @@ def check():
   assert src["_meta"]["artworkProvenance"]==old["artworkProvenance"],(cid,"artwork provenance")
   assert src["_current"]["portrait"]==old["card"]["portrait"]
   assert src["_current"]["art"]==old["card"]["art"]
-  type_omit={"MINION":{"durability":0,"armor":0,"spellSchool":""},"SPELL":{"attack":0,"health":0,"durability":0,"armor":0,"races":[],"race":""},"WEAPON":{"health":0,"armor":0,"spellSchool":"","races":[],"race":""},"HERO":{"attack":0,"durability":0,"spellSchool":"","races":[],"race":""},"HERO_POWER":{"attack":0,"health":0,"durability":0,"armor":0,"spellSchool":"","races":[],"race":""}}.get(cur["type"],{})
+  type_omit_for_card={"MINION":{"durability":0,"armor":0,"spellSchool":""},"SPELL":{"attack":0,"health":0,"durability":0,"armor":0,"races":[],"race":""},"WEAPON":{"health":0,"armor":0,"spellSchool":"","races":[],"race":""},"HERO":{"attack":0,"durability":0,"spellSchool":"","races":[],"race":""},"HERO_POWER":{"attack":0,"health":0,"durability":0,"armor":0,"spellSchool":"","races":[],"race":""}}.get(cur["type"],{})
   for field,value in old["card"].items():
-   if field not in cur and type_omit.get(field,"__NOT_OMITTED__")!=value:
+   if field not in cur and type_omit_for_card.get(field,"__NOT_OMITTED__")!=value:
     assert src["_current"].get(field,"ABSENT")==value,(cid,field,"preserve original extra relation/current field")
   assert src["_current"]["nativeTags"]==cur["nativeTags"]
   assert src["_meta"]["artworkProvenance"]["portrait"]==old["artworkProvenance"]["portrait"]
