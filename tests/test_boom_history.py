@@ -153,6 +153,8 @@ def check():
  assert bot237["_meta"]["launchStrings"]["184"]["locales"]["koKR"]["value"]=="<b>합체</b>, 이 하수인은 주문이나 영웅 능력의 대상으로 지정되지 않습니다."
  assert bot237["2018-08-08"]["nativeRawText"]=="<b>합체</b>, 이 하수인은 주문이나 영웅 능력의 대상으로 지정되지 않습니다."
  assert bot237["2024-03-12"]["nativeRawText"]==bot237["2024-03-12"]["source"]["afterStrings"]["184"]["locales"]["koKR"]["value"]
+ print("BOT568 launch raw:",repr(read(ROOT/"data/BOT_568.json")["2018-08-08"].get("nativeRawText")))
+ print("BOT511t launch raw:",repr(read(ROOT/"data/BOT_511t.json")["2018-08-08"].get("nativeRawText")))
  assert read(ROOT/"data/BOT_568.json")["2018-08-08"]["nativeRawText"]=="카드를 3장 뽑습니다.\n내 턴이 끝날 때,\n그 카드들을 버립니다."
  assert read(ROOT/"data/BOT_511t.json")["2018-08-08"]["nativeRawText"]=="내게 피해를 5 줍니다.\n카드를 1장 뽑습니다.\n이 카드를 뽑아도\n폭발합니다."
  for cid in ("BOT_568","BOT_511t"):
