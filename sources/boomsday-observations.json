@@ -1,0 +1,283 @@
+{
+  "schema": 1,
+  "timezone": "Asia/Seoul",
+  "intentionalRulesAndAvailability": [
+    {
+      "date": "2019-12-06",
+      "cards": [
+        "BOT_700"
+      ],
+      "finding": "잔상 복사본 비용이 1 미만으로 내려가지 않는 전역 규칙"
+    },
+    {
+      "date": "2022-04-27",
+      "cards": [
+        "BOT_411"
+      ],
+      "finding": "엘렉트라 반복 주문을 손에서 직접 시전한 주문으로 제한"
+    },
+    {
+      "date": "2024-02-14",
+      "cards": [
+        "BOT_914"
+      ],
+      "finding": "위대한 위즈뱅 님 덱을 일시적으로 폭심만만 출시 당시 덱으로 교체"
+    },
+    {
+      "date": "2024-04-17",
+      "cards": [
+        "BOT_914"
+      ],
+      "finding": "위즈뱅 일시적 2018년 덱 고정을 원래 효과로 복원"
+    },
+    {
+      "date": "2024-03-12",
+      "cards": [
+        "BOT_444"
+      ],
+      "finding": "임시 마나로 마나 한도를 초과할 수 있게 하는 전역 규칙"
+    },
+    {
+      "date": "2023-05-10",
+      "cards": [
+        "BOT_020",
+        "BOT_021",
+        "BOT_035",
+        "BOT_107",
+        "BOT_237",
+        "BOT_251",
+        "BOT_312",
+        "BOT_548",
+        "BOT_563",
+        "BOT_700",
+        "BOT_906",
+        "BOT_911"
+      ],
+      "finding": "전장이 가득 차도 합체 가능"
+    },
+    {
+      "date": "2023-02-15",
+      "cards": [
+        "BOT_558"
+      ],
+      "finding": "실험체 야생 사용 일시 금지"
+    },
+    {
+      "date": "2023-03-15",
+      "cards": [
+        "BOT_558"
+      ],
+      "finding": "실험체 야생 금지 해제"
+    },
+    {
+      "date": "2023-03-15",
+      "cards": [
+        "BOT_914"
+      ],
+      "finding": "밴드 매니저 정예 타우렌 족장 밴드에 위대한 위즈뱅 님을 편입할 수 없도록 제한"
+    }
+  ],
+  "displayAndNativeRepresentationContext": [
+    {
+      "cards": [
+        "BOT_422a",
+        "BOT_422b"
+      ],
+      "date": null,
+      "kind": "choice-ui-cost-tag",
+      "finding": "선택 UI COST 태그 부재와 표시 비용의 구분; 한국 UI 반영일 미확정"
+    },
+    {
+      "cards": [
+        "BOT_270t"
+      ],
+      "date": null,
+      "kind": "token-rarity-tag-removal",
+      "finding": "비수집 안녕로봇의 RARITY=COMMON 태그 제거; 능력치·효과·수집 여부 변경 아님"
+    },
+    {
+      "cards": [
+        "BOT_246",
+        "BOT_451"
+      ],
+      "date": null,
+      "kind": "overload-owed-removal",
+      "finding": "OVERLOAD_OWED(296) 제거; owned OVERLOAD(215)는 2와 1로 유지"
+    },
+    {
+      "cards": [
+        "BOT_604"
+      ],
+      "date": null,
+      "kind": "spellpower-normalization",
+      "finding": "SPELLPOWER(192) 2→1 원시 정규화; 인쇄 주문 공격력 +2 유지"
+    },
+    {
+      "cards": [
+        "BOT_042t",
+        "BOT_286",
+        "BOT_406"
+      ],
+      "date": "2025-03-19",
+      "kind": "weapon-durability-storage",
+      "finding": "DURABILITY(187) 제거 후 동일 내구도를 HEALTH(45)에 저장; 무기 health=0 논리 생략과 구분"
+    },
+    {
+      "cards": [
+        "BOT_237"
+      ],
+      "date": "2024-03-12",
+      "kind": "elusive-representation",
+      "finding": "기존 대상 지정 불가 설명과 면역 태그를 ELUSIVE로 통합; 신규 효과 아님"
+    },
+    {
+      "cards": [
+        "BOT_568"
+      ],
+      "date": null,
+      "kind": "temporary-keyword-wording",
+      "finding": "턴 종료 버리기 설명을 일시적 키워드로 축약; 기존 기능 변경 아님"
+    },
+    {
+      "cards": [
+        "BOT_511t"
+      ],
+      "date": null,
+      "kind": "bomb-tag-role-transfer",
+      "finding": "폭탄 뽑을 때 시전 키워드 및 참조→소유 태그 이동; 기존 피해 효과와 구분"
+    },
+    {
+      "cards": [
+        "BOT_238p4",
+        "BOT_243",
+        "BOT_402",
+        "BOT_419",
+        "BOT_435",
+        "BOT_539"
+      ],
+      "date": null,
+      "kind": "discover-tag-role-transfer",
+      "finding": "발견 참조 태그가 소유 태그로 이동; 신규 발견 효과 아님"
+    },
+    {
+      "cards": [
+        "BOT_038",
+        "BOT_039",
+        "BOT_067",
+        "BOT_069",
+        "BOT_084",
+        "BOT_218",
+        "BOT_238",
+        "BOT_243",
+        "BOT_254",
+        "BOT_270",
+        "BOT_402",
+        "BOT_407",
+        "BOT_437",
+        "BOT_438",
+        "BOT_451",
+        "BOT_508",
+        "BOT_531",
+        "BOT_538",
+        "BOT_543",
+        "BOT_562",
+        "BOT_565",
+        "BOT_566",
+        "BOT_568",
+        "BOT_573",
+        "BOT_908",
+        "BOT_912"
+      ],
+      "date": null,
+      "kind": "referenced-tag-role-context",
+      "finding": "26개 카드의 참조 태그 29개를 소유 능력으로 오인하지 않음"
+    },
+    {
+      "cards": [
+        "BOT_224",
+        "BOT_066"
+      ],
+      "date": null,
+      "kind": "subtype-tag-context",
+      "finding": "임프·새끼용 하위 분류 태그는 기존 주 종족과 구분"
+    }
+  ],
+  "grammarSuggestions": [
+    {
+      "id": "BOT_093",
+      "field": "flavor",
+      "proposal": "따라 하지 말라고!"
+    },
+    {
+      "id": "BOT_236",
+      "field": "flavor",
+      "proposal": "탱커를 하고 싶어 하는데"
+    },
+    {
+      "id": "BOT_243",
+      "field": "flavor",
+      "proposal": "부임 첫날"
+    },
+    {
+      "id": "BOT_258",
+      "field": "flavor",
+      "proposal": "그다음"
+    },
+    {
+      "id": "BOT_270",
+      "field": "flavor",
+      "proposal": "만들 거야"
+    },
+    {
+      "id": "BOT_435",
+      "field": "text",
+      "proposal": "복사해 옵니다."
+    },
+    {
+      "id": "BOT_443",
+      "field": "flavor",
+      "proposal": "아무것도 없음."
+    },
+    {
+      "id": "BOT_533",
+      "field": "flavor",
+      "proposal": "숨겨두나 보군요."
+    }
+  ],
+  "grammarHold": [
+    {
+      "id": "BOT_059",
+      "field": "flavor",
+      "candidate": "걸어 다니는",
+      "confidence": "중간",
+      "status": "보류"
+    }
+  ],
+  "intentionalExpressions": [
+    "BOT_093 flavor 뜨르흐즈 믈르그",
+    "BOT_509 name/flavor 듀금·듀거",
+    "BOT_700 name/flavor 7ㅏ-르-7ㅔ·4ㅓ걱4ㅓ걱",
+    "BOT_552 flavor 너두/나두",
+    "BOT_603 flavor 대체 왜 때문에",
+    "BOT_540 flavor ¿Quién es Sombra?",
+    "BOT_083 flavor 이중전공",
+    "BOT_238p1/p2/p3/p4/p6 text 매 턴마다"
+  ],
+  "relations": {
+    "explicit380or1452": 24,
+    "sameApi": 21,
+    "external": 3,
+    "unresolved": 0,
+    "gameTag2787": 12,
+    "withoutExplicitIncomingRelation": 7
+  },
+  "counts": {
+    "missingGameplayEvents": 23,
+    "initialGameplayErrors": 21,
+    "existingLaterEventChecks": 51,
+    "undatedObservations": 9,
+    "displayAndNativeRepresentationContext": 11,
+    "grammarSuggestions": 8,
+    "grammarHold": 1
+  }
+}
